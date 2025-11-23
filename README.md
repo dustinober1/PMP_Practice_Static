@@ -3,7 +3,7 @@
 Zero-cost PMP prep site built with React + Vite + Tailwind. Data lives in static JSON files and will be paired with local-first state (zustand + localStorage) in upcoming phases.
 
 ## Stack
-- React, Vite, Tailwind CSS, React Router
+- React, Vite, Tailwind CSS, React Router, Zustand (persisted in localStorage)
 - Static data in `src/data/` (domains, tasks, enablers, processes, knowledge areas)
 - Config in `src/site-config.js` (site name, donation links, repo URL)
 
@@ -16,6 +16,7 @@ Zero-cost PMP prep site built with React + Vite + Tailwind. Data lives in static
 ## Structure
 - `src/pages/` – simple Home/Settings/NotFound routes
 - `src/data/` – static JSON scaffolding to mirror the high-level plan
+- `src/stores/` – zustand stores for user prefs + progress with persistence
 - `netlify.toml` / `vercel.json` – deploy config (build: `npm run build`, output: `dist`)
 
 ## Deployment

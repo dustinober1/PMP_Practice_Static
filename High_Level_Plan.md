@@ -32,16 +32,16 @@
 *Goal: Manage user progress without a login server. We use "Local-First" logic.*
 
 **Week 3: Local Persistence**
-* [ ] Install `zustand` (for state management) and `zustand/middleware` (for persistence).
-* [ ] Create a `useUserStore` hook to manage:
+* [x] Install `zustand` (for state management) and `zustand/middleware` (for persistence).
+* [x] Create a `useUserStore` hook to manage:
     * User's name (optional).
     * Theme preference (Dark/Light).
     * Donation history (if they manually entered a code).
-* [ ] Create a `useProgressStore` hook that automatically saves to `localStorage`:
+* [x] Create a `useProgressStore` hook that automatically saves to `localStorage`:
     * `completedQuestions: []` (Array of IDs).
     * `flashcardRatings: {}` (Map of ID to rating).
     * `readMaterials: []` (Array of IDs).
-* [ ] Create a "Settings" page where users can "Export Data" (download a JSON of their progress) and "Import Data" (restore progress on a new device).
+* [x] Create a "Settings" page where users can "Export Data" (download a JSON of their progress) and "Import Data" (restore progress on a new device).
 
 #### PHASE 3: QUIZ SYSTEM (Week 4-6)
 *Goal: Run quizzes entirely in the browser.*
