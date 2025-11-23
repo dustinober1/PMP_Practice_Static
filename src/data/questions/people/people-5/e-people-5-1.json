@@ -1,0 +1,727 @@
+[
+  {
+    "id": "q-people-5-1-001",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A new data analytics project will introduce a tool the team has never used before. The sponsor wants the first release in three months. What should the project manager do first to determine required competencies and elements of training?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Analyze the project scope and tool capabilities to map the skills needed for each role before designing a training plan."
+      },
+      {
+        "id": "b",
+        "label": "Schedule generic tool training for the entire organization to ensure broad awareness before clarifying the project needs."
+      },
+      {
+        "id": "c",
+        "label": "Ask the sponsor which courses they prefer the team to attend and follow that advice without further analysis."
+      },
+      {
+        "id": "d",
+        "label": "Assign the most experienced developer to self-study the tool and expect them to coach others informally as the project progresses."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because starting with an analysis of scope and tool capabilities allows the project manager to identify role-specific competencies and define targeted training elements. Option a is incorrect because generic organization-wide training may not address the specific competencies needed for this project. Option c is incorrect because relying only on sponsor preference ignores a structured skills assessment. Option d is incorrect because informal coaching alone is unlikely to cover all required competencies in a predictable way.",
+    "difficulty": "medium",
+    "topics": ["training needs analysis", "competency mapping"]
+  },
+  {
+    "id": "q-people-5-1-002",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A project involves strict cybersecurity requirements and real-time monitoring. The team has basic networking knowledge but limited exposure to security frameworks. What should the project manager do to determine the competencies and training elements needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Conduct a skills inventory against the security-related deliverables and consult with a security specialist to define specific training objectives."
+      },
+      {
+        "id": "b",
+        "label": "Assume the existing networking knowledge is sufficient and avoid additional training to save time and budget."
+      },
+      {
+        "id": "c",
+        "label": "Let each team member choose any security course they prefer and hope the combined knowledge will meet requirements."
+      },
+      {
+        "id": "d",
+        "label": "Focus on hiring a new expert and ignore the current team's skill development for this project."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because it uses a structured skills inventory and expert input to identify precise security competencies and training objectives. Option a is incorrect because assuming existing skills are adequate risks non-compliance with cybersecurity requirements. Option b is incorrect because uncoordinated training choices may not align with project needs. Option d is incorrect because relying solely on a new hire neglects the broader team competencies required for sustainable delivery.",
+    "difficulty": "medium",
+    "topics": ["skills inventory", "security training"]
+  },
+  {
+    "id": "q-people-5-1-003",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A distributed agile team is about to adopt a new test automation framework. Several members have manual testing experience but no programming background. What is the best way for the project manager to determine training elements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assess current testing skills, identify the programming languages and tools required, and define a staged training path from fundamentals to project-specific automation."
+      },
+      {
+        "id": "b",
+        "label": "Purchase the most popular automation course available online and require everyone to complete it regardless of their role."
+      },
+      {
+        "id": "c",
+        "label": "Ask only the Scrum Master to attend training and share notes during daily standups."
+      },
+      {
+        "id": "d",
+        "label": "Delay all training decisions until defects begin to rise during testing, then react with ad hoc coaching."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because it tailors training elements to current skills and the specific technology stack, allowing for a progressive learning path. Option a is incorrect because a generic course may not address the team's diverse roles and baseline skills. Option b is incorrect because training only one individual limits knowledge transfer and creates dependency. Option c is incorrect because waiting for quality issues before planning training is reactive and risky.",
+    "difficulty": "easy",
+    "topics": ["agile teams", "automation skills"]
+  },
+  {
+    "id": "q-people-5-1-004",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A regulatory reporting project must comply with a new standard. Some team members have worked with similar regulations, while others are new to compliance work. What should the project manager do to clarify competency requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Identify the regulatory tasks in the work breakdown structure and define the knowledge, skills, and behaviors needed for each task."
+      },
+      {
+        "id": "b",
+        "label": "Assume that previous regulatory experience is enough and focus only on technical training for the new toolset."
+      },
+      {
+        "id": "c",
+        "label": "Ask the sponsor to prepare a training syllabus without reviewing the detailed regulatory deliverables."
+      },
+      {
+        "id": "d",
+        "label": "Limit regulatory work to one subject matter expert and avoid training the rest of the team."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because mapping regulatory tasks in the WBS to specific competencies ensures the training plan addresses the actual work. Option b is incorrect because it assumes existing experience covers new regulatory nuances. Option c is incorrect because delegating training design without analyzing deliverables may miss key competencies. Option d is incorrect because concentrating knowledge in one expert creates a single point of failure and limits learning.",
+    "difficulty": "medium",
+    "topics": ["regulatory compliance", "WBS-based analysis"]
+  },
+  {
+    "id": "q-people-5-1-005",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A product launch project will require the team to collaborate closely with marketing and legal. The project manager wants to ensure the team understands stakeholder engagement techniques. What is the best first step to determine the training elements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Review stakeholder engagement deliverables and identify specific communication, negotiation, and collaboration skills needed for each team role."
+      },
+      {
+        "id": "b",
+        "label": "Enroll all team members in a generic leadership course without referencing the project context."
+      },
+      {
+        "id": "c",
+        "label": "Ask the marketing lead to recommend a book and assume reading it is sufficient training."
+      },
+      {
+        "id": "d",
+        "label": "Defer stakeholder engagement training until the first major conflict occurs with external partners."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning training elements with stakeholder engagement deliverables and role expectations ensures that competencies are relevant and targeted. Option b is incorrect because generic leadership training may not build the specific engagement skills needed. Option c is incorrect because relying on a book without structured objectives and practice is unlikely to be sufficient. Option d is incorrect because waiting for conflict before training is reactive and may damage relationships.",
+    "difficulty": "easy",
+    "topics": ["stakeholder engagement", "role-based competencies"]
+  },
+  {
+    "id": "q-people-5-1-006",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A complex transformation program will introduce new collaboration tools and agile practices across multiple teams. The sponsor asks for a training plan within two weeks. What should the project manager do first to define the required competencies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Review the future ways of working and define role-based competency profiles that describe the behaviors, tools, and practices each role must demonstrate."
+      },
+      {
+        "id": "b",
+        "label": "Schedule a single introductory presentation for all staff and treat it as the full training plan."
+      },
+      {
+        "id": "c",
+        "label": "Ask functional managers to guess which courses their team members might enjoy without linking them to project outcomes."
+      },
+      {
+        "id": "d",
+        "label": "Wait until the first sprint fails before clarifying which skills are missing and then decide what training might be needed."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because defining role-based competency profiles tied to the target ways of working provides a structured basis for training content and scope. Option b is incorrect because a one-time presentation does not build the depth of skill required. Option c is incorrect because focusing on preference instead of outcomes may misalign training. Option d is incorrect because waiting for failure is reactive and may undermine confidence in the change.",
+    "difficulty": "medium",
+    "topics": ["agile transformation", "competency profiles"]
+  },
+  {
+    "id": "q-people-5-1-007",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "During planning, the project manager notices that the project requires advanced data visualization skills, but most team members only know basic spreadsheet charts. What is the best way to determine elements of training for this gap?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Document the specific visualization techniques needed for project reports and define training modules that build from foundational concepts to those techniques."
+      },
+      {
+        "id": "b",
+        "label": "Ask the team to experiment with visualization tools informally and avoid formal training to reduce cost."
+      },
+      {
+        "id": "c",
+        "label": "Assign all visualization work to a single contractor and avoid developing internal competencies."
+      },
+      {
+        "id": "d",
+        "label": "Delay work on visualization until late in the project when more time might be available for training."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because defining the specific techniques needed and structuring training modules around them ensures the team builds relevant skills. Option b is incorrect because unstructured experimentation may not cover required techniques. Option c is incorrect because outsourcing all work prevents building internal capability and creates dependency. Option d is incorrect because deferring both work and training increases schedule and quality risks.",
+    "difficulty": "easy",
+    "topics": ["skills gap analysis", "training design"]
+  },
+  {
+    "id": "q-people-5-1-008",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A new compliance project requires precise documentation skills and attention to detail. Some team members are strong technically but produce inconsistent documentation. How should the project manager approach determining training elements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Define documentation quality standards, identify the writing and review competencies needed, and design training that includes practice using project templates."
+      },
+      {
+        "id": "b",
+        "label": "Ignore documentation competencies and assume reviewers will fix any issues during final sign-off."
+      },
+      {
+        "id": "c",
+        "label": "Ask team members to read previous project documents on their own without guidance."
+      },
+      {
+        "id": "d",
+        "label": "Delegate all documentation work to one team member without assessing their workload or skills."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because establishing standards and mapping them to competencies allows targeted training with hands-on practice. Option b is incorrect because relying solely on reviewers increases rework and risk. Option c is incorrect because unguided reading does not guarantee the right skills are developed. Option d is incorrect because assigning all documentation to one person may overload them and limit knowledge sharing.",
+    "difficulty": "medium",
+    "topics": ["documentation standards", "quality-focused training"]
+  },
+  {
+    "id": "q-people-5-1-009",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "An upcoming release will require the operations team to support a new platform. Operations staff are involved late and have little exposure to the solution. What should the project manager do to determine the competencies operations will need?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Work with operations and technical leads to identify the support tasks, required knowledge, and behaviors, then derive training objectives from those tasks."
+      },
+      {
+        "id": "b",
+        "label": "Assume that on-the-job experience after go-live will be sufficient and skip any formal analysis."
+      },
+      {
+        "id": "c",
+        "label": "Ask operations to attend all project meetings without defining what they should learn."
+      },
+      {
+        "id": "d",
+        "label": "Delay involving operations until after go-live and then offer optional refresher briefings."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because collaborating with operations to identify support tasks and required knowledge leads to targeted, role-specific competencies and training objectives. Option b is incorrect because relying solely on post go-live experience risks service disruption. Option c is incorrect because attending meetings without a learning plan does not guarantee competency. Option d is incorrect because late involvement undermines readiness and support quality.",
+    "difficulty": "medium",
+    "topics": ["operations readiness", "support competencies"]
+  },
+  {
+    "id": "q-people-5-1-010",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A geographically dispersed team will work with multiple vendors using different toolsets. The project manager wants to avoid misalignment in how tools are used. What is the best first step in defining training requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Identify the core collaboration and delivery tools to be standardized and define the competencies each role must demonstrate in using them."
+      },
+      {
+        "id": "b",
+        "label": "Allow each location to adopt its own tools and avoid any central definition of competencies."
+      },
+      {
+        "id": "c",
+        "label": "Post general tool links in a shared folder and expect team members to self-learn without guidance."
+      },
+      {
+        "id": "d",
+        "label": "Focus training only on the project manager and leave all other roles to learn informally from each other."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because standardizing on core tools and defining role-based competencies provides a foundation for consistent training and usage. Option b is incorrect because tool fragmentation increases coordination and integration issues. Option c is incorrect because unguided self-learning may lead to inconsistent practices. Option d is incorrect because training only the project manager does not build the necessary skills across the team.",
+    "difficulty": "easy",
+    "topics": ["distributed teams", "tool standardization"]
+  },
+  {
+    "id": "q-people-5-1-011",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A project will introduce a new customer portal that requires both technical configuration and customer service skills. The team includes developers and service representatives. How should the project manager identify the competencies and training elements for this mix?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Clarify the responsibilities of technical and service roles and derive technical, process, and soft-skill competencies for each group."
+      },
+      {
+        "id": "b",
+        "label": "Provide only technical training to the entire team and ignore customer interaction skills."
+      },
+      {
+        "id": "c",
+        "label": "Let customer service representatives define all training alone without input from technical staff."
+      },
+      {
+        "id": "d",
+        "label": "Focus solely on existing skills and avoid introducing any new training to minimize schedule risk."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because separating responsibilities by role and defining both technical and soft-skill competencies ensures complete coverage of the portal's needs. Option b is incorrect because customer-facing skills are essential for portal success. Option c is incorrect because excluding technical input may miss configuration and support competencies. Option d is incorrect because avoiding training can undermine portal adoption and quality.",
+    "difficulty": "medium",
+    "topics": ["role clarity", "technical and soft skills"]
+  },
+  {
+    "id": "q-people-5-1-012",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "During a retrospective, team members report difficulty facilitating remote workshops with stakeholders. Management wants faster decisions from these workshops. What should the project manager do to determine the competencies and training needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Identify facilitation, virtual collaboration, and conflict management skills required for workshop leaders and design training to strengthen those skills."
+      },
+      {
+        "id": "b",
+        "label": "Assume stakeholders will adapt over time and avoid any training focused on facilitation."
+      },
+      {
+        "id": "c",
+        "label": "Ask each team member to watch unrelated online videos without alignment to project needs."
+      },
+      {
+        "id": "d",
+        "label": "Limit workshops to the sponsor only and remove team members from facilitation duties."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because identifying the facilitation and collaboration competencies and then designing targeted training supports more effective remote workshops. Option b is incorrect because hoping for adaptation without support is unlikely to improve outcomes. Option c is incorrect because random content does not address specific needs. Option d is incorrect because removing team members from facilitation does not build their capability and may overload the sponsor.",
+    "difficulty": "medium",
+    "topics": ["remote facilitation", "stakeholder workshops"]
+  },
+  {
+    "id": "q-people-5-1-013",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A software implementation project will use new integration patterns that are unfamiliar to most developers. The architect has provided a high-level design. What should the project manager do to identify specific training elements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Work with the architect to translate the integration design into required patterns, tools, and quality practices and then map those to training modules."
+      },
+      {
+        "id": "b",
+        "label": "Share the design document and assume developers will independently learn everything needed without guidance."
+      },
+      {
+        "id": "c",
+        "label": "Delay any training decisions until integration defects appear in system testing."
+      },
+      {
+        "id": "d",
+        "label": "Ask the architect to implement all integrations alone to avoid training the rest of the team."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because collaborating with the architect to map design elements to concrete skills allows the project manager to define focused training modules. Option b is incorrect because unstructured self-learning may lead to inconsistent practices and defects. Option c is incorrect because waiting for failures adds rework and schedule risk. Option d is incorrect because centralizing work on one person creates a bottleneck and knowledge risk.",
+    "difficulty": "medium",
+    "topics": ["technical training", "architecture collaboration"]
+  },
+  {
+    "id": "q-people-5-1-014",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "The project team will soon onboard several new graduates. The work includes complex risk analysis and stakeholder communication. How should the project manager determine training elements for these new team members?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Define foundational competencies for risk analysis and communication for junior roles and plan training that combines classroom content with supervised practice."
+      },
+      {
+        "id": "b",
+        "label": "Assign them directly to high-risk tasks without any training, assuming they will learn quickly."
+      },
+      {
+        "id": "c",
+        "label": "Provide only general company orientation and leave project-specific skills to informal coaching."
+      },
+      {
+        "id": "d",
+        "label": "Limit their involvement to administrative tasks and avoid investing in their skill development."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because defining foundational competencies and mixing formal training with supervised practice supports new graduates in developing the required skills safely. Option b is incorrect because assigning them to high-risk tasks without training endangers project outcomes. Option c is incorrect because generic orientation does not develop the needed competencies. Option d is incorrect because restricting them to administrative tasks neglects long-term capability building.",
+    "difficulty": "easy",
+    "topics": ["onboarding", "junior staff development"]
+  },
+  {
+    "id": "q-people-5-1-015",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A project requires advanced vendor management skills because several suppliers will deliver critical components. The team has limited experience with complex vendor relationships. What should the project manager do to determine competencies and training elements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Review the vendor management strategy and contract obligations and identify negotiation, performance monitoring, and relationship management competencies needed for key roles."
+      },
+      {
+        "id": "b",
+        "label": "Assume that previous small vendor experience is enough and avoid any assessment."
+      },
+      {
+        "id": "c",
+        "label": "Ask vendors to design training for the project team without clarifying internal expectations."
+      },
+      {
+        "id": "d",
+        "label": "Delay training until a major vendor issue occurs and then respond with ad hoc sessions."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning competencies with the vendor strategy and contract obligations ensures training covers the skills required to manage suppliers effectively. Option b is incorrect because small vendor experience may not translate to complex relationships. Option c is incorrect because outsourcing training design to vendors without internal requirements may lead to biased content. Option d is incorrect because waiting for problems before training is reactive and risky.",
+    "difficulty": "medium",
+    "topics": ["vendor management", "contractual obligations"]
+  },
+  {
+    "id": "q-people-5-1-016",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "The organization plans to standardize on a new project management tool. Several projects, including yours, will adopt it simultaneously. What should you do to determine the training elements specific to your project team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Identify how your team will use the tool for planning, tracking, and reporting and define role-based competencies beyond the generic enterprise training."
+      },
+      {
+        "id": "b",
+        "label": "Rely entirely on the generic enterprise rollout materials without any project-specific analysis."
+      },
+      {
+        "id": "c",
+        "label": "Ignore the new tool and continue using legacy methods for your project."
+      },
+      {
+        "id": "d",
+        "label": "Allow each team member to explore the tool privately and avoid any structured training."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tailoring competencies to how the project will use the tool ensures training is relevant and effective. Option b is incorrect because enterprise materials may not cover project-specific workflows. Option c is incorrect because ignoring the standard tool undermines alignment and support. Option d is incorrect because unstructured exploration may not lead to consistent practices.",
+    "difficulty": "medium",
+    "topics": ["tool adoption", "project-specific training"]
+  },
+  {
+    "id": "q-people-5-1-017",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A cross-functional project team will be responsible for conducting impact assessments across multiple departments. Team members have technical expertise but limited experience facilitating cross-functional discussions. How should the project manager determine competencies and training elements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Define impact assessment activities and identify facilitation, listening, and consensus-building skills required to perform them effectively."
+      },
+      {
+        "id": "b",
+        "label": "Focus only on technical competencies for impact analysis and ignore facilitation skills."
+      },
+      {
+        "id": "c",
+        "label": "Assume department heads will handle all cross-functional communication and avoid training the team."
+      },
+      {
+        "id": "d",
+        "label": "Wait for cross-functional meetings to fail before deciding which competencies might be missing."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because connecting impact assessment tasks to facilitation and consensus-building competencies ensures training addresses both technical and interpersonal aspects. Option b is incorrect because technical analysis alone does not ensure effective discussions. Option c is incorrect because relying solely on department heads reduces team ownership. Option d is incorrect because waiting for failure increases risk and frustration.",
+    "difficulty": "medium",
+    "topics": ["cross-functional work", "facilitation skills"]
+  },
+  {
+    "id": "q-people-5-1-018",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A new initiative requires strong change management skills to help end users adopt new processes. The project manager wants to build these skills within the team. What is the best first step to determine training elements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Clarify the change management activities the team will perform and define the knowledge and behaviors needed, such as stakeholder analysis and communication planning."
+      },
+      {
+        "id": "b",
+        "label": "Purchase a generic change management book for the team without specifying learning objectives."
+      },
+      {
+        "id": "c",
+        "label": "Ask the human resources department to handle all change management and exclude the project team from these activities."
+      },
+      {
+        "id": "d",
+        "label": "Assume that technical excellence alone will drive user adoption and avoid any change management training."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because linking change management activities to specific knowledge and behaviors allows the project manager to define targeted training elements. Option b is incorrect because providing a book without objectives or practice is unlikely to build the right skills. Option c is incorrect because removing the team from change activities misses a key project responsibility. Option d is incorrect because technical quality alone rarely ensures adoption.",
+    "difficulty": "easy",
+    "topics": ["change management", "user adoption"]
+  },
+  {
+    "id": "q-people-5-1-019",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "During planning, the project manager learns that the team will collaborate with an external regulatory body that expects formal presentations. Many team members have never presented to regulators. How should the project manager determine the competencies and training needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Review regulatory presentation expectations and define competencies in structured communication, risk explanation, and question handling for presenters."
+      },
+      {
+        "id": "b",
+        "label": "Allow only the sponsor to present and avoid building presentation skills in the team."
+      },
+      {
+        "id": "c",
+        "label": "Assume technical expertise alone will be enough and skip any presentation-focused training."
+      },
+      {
+        "id": "d",
+        "label": "Schedule one informal meeting with regulators without preparation and treat it as practice."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because basing competencies on external expectations ensures training focuses on the specific communication skills needed for regulatory presentations. Option b is incorrect because relying solely on the sponsor reduces resilience and team engagement. Option c is incorrect because presenting to regulators requires more than technical knowledge. Option d is incorrect because practicing without preparation may damage credibility.",
+    "difficulty": "medium",
+    "topics": ["regulatory presentations", "communication competencies"]
+  },
+  {
+    "id": "q-people-5-1-020",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "An agile team will introduce continuous integration and continuous delivery practices. Only a few members have worked with automated pipelines. What should the project manager do to determine required competencies and training elements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Identify the pipeline stages the team will own and define the technical and collaboration skills required for each stage."
+      },
+      {
+        "id": "b",
+        "label": "Rely on the tooling vendor to configure everything and avoid developing internal skills."
+      },
+      {
+        "id": "c",
+        "label": "Ask only the senior developer to learn about pipelines and handle all related tasks individually."
+      },
+      {
+        "id": "d",
+        "label": "Wait until deployment failures occur before clarifying which competencies are missing."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because mapping pipeline stages to competencies guides the design of focused training for the team. Option b is incorrect because relying solely on a vendor undermines internal ownership. Option c is incorrect because concentrating pipeline knowledge in one person creates a bottleneck. Option d is incorrect because waiting for failures increases delivery risk.",
+    "difficulty": "medium",
+    "topics": ["CI/CD", "technical competencies"]
+  },
+  {
+    "id": "q-people-5-1-021",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "The project will require team members to mentor business users during user acceptance testing. Many team members have limited coaching experience. How should the project manager determine training elements for this mentoring role?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Describe the mentoring responsibilities in user acceptance testing and identify coaching, questioning, and feedback skills needed for mentors."
+      },
+      {
+        "id": "b",
+        "label": "Assume that technical knowledge automatically translates into mentoring skills and avoid training."
+      },
+      {
+        "id": "c",
+        "label": "Ask business users to coach themselves on the new solution without project team involvement."
+      },
+      {
+        "id": "d",
+        "label": "Limit mentoring to the project manager only and exclude the rest of the team."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because articulating mentoring responsibilities and mapping them to coaching competencies provides a structure for training mentors. Option b is incorrect because technical expertise alone does not ensure coaching ability. Option c is incorrect because users may not have the knowledge to coach themselves effectively. Option d is incorrect because concentrating mentoring on one person is inefficient and unsustainable.",
+    "difficulty": "easy",
+    "topics": ["mentoring", "user acceptance testing"]
+  },
+  {
+    "id": "q-people-5-1-022",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A new project will require strict adherence to health and safety procedures during on-site work. Some team members are new to this environment. What should the project manager do to determine the competencies and training elements for safety?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Review applicable safety regulations and site procedures and define the knowledge and behaviors each role must demonstrate to work safely."
+      },
+      {
+        "id": "b",
+        "label": "Assume that common sense is sufficient and avoid formal safety training."
+      },
+      {
+        "id": "c",
+        "label": "Provide only a brief safety poster at the entrance and consider that adequate training."
+      },
+      {
+        "id": "d",
+        "label": "Leave safety considerations entirely to the site supervisor and exclude the project team from any safety training."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because basing competencies on regulations and site procedures ensures training covers the specific knowledge and behaviors needed for safe work. Option b is incorrect because relying on common sense alone is inadequate for safety-critical environments. Option c is incorrect because a poster without training is unlikely to change behavior. Option d is incorrect because excluding the project team from safety training increases risk.",
+    "difficulty": "medium",
+    "topics": ["health and safety", "regulatory training"]
+  },
+  {
+    "id": "q-people-5-1-023",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "The organization wants to build stronger analytical skills in product teams. Your project will pilot a new analytics method. How should you determine the competencies and training elements for the pilot team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Identify the analytical techniques the pilot will use and define the data literacy and critical thinking competencies required for those techniques."
+      },
+      {
+        "id": "b",
+        "label": "Enroll the team in any general business course that is available, regardless of content."
+      },
+      {
+        "id": "c",
+        "label": "Limit training to senior leaders and expect them to cascade knowledge informally."
+      },
+      {
+        "id": "d",
+        "label": "Wait until the analytics method is fully adopted across the organization before offering any training."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tying competencies to specific analytical techniques ensures training focuses on the skills needed for the pilot. Option b is incorrect because generic business courses may not build the required analytical skills. Option c is incorrect because restricting training to leaders may not equip the people doing the work. Option d is incorrect because delaying training undermines the pilot's effectiveness.",
+    "difficulty": "medium",
+    "topics": ["analytics skills", "pilot projects"]
+  },
+  {
+    "id": "q-people-5-1-024",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "Your project will require team members to conduct structured interviews with customers to gather requirements. Few team members have experience with interviewing techniques. How should the project manager determine training elements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Define the interview objectives and identify listening, probing, and note-taking competencies needed, then design training aligned with those competencies."
+      },
+      {
+        "id": "b",
+        "label": "Assume that informal conversations with customers are enough and skip structured training."
+      },
+      {
+        "id": "c",
+        "label": "Ask marketing to handle all interviews and avoid developing interviewing skills within the project team."
+      },
+      {
+        "id": "d",
+        "label": "Let team members observe one interview without preparation and treat it as complete training."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clarifying interview objectives and mapping them to specific competencies provides a foundation for targeted training. Option b is incorrect because unstructured conversations may not capture consistent requirements. Option c is incorrect because outsourcing all interviews reduces the project team’s understanding of customer needs. Option d is incorrect because observing one session without guidance is insufficient for skill development.",
+    "difficulty": "easy",
+    "topics": ["requirements elicitation", "interview skills"]
+  },
+  {
+    "id": "q-people-5-1-025",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-1"],
+    "text": "A strategic initiative will require ongoing collaboration between business analysts and data scientists. The project manager wants to ensure both groups understand each other's workflows. What is the best way to determine required competencies and elements of training?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Describe the end-to-end workflow from requirements to analysis and define shared and role-specific competencies that support collaboration."
+      },
+      {
+        "id": "b",
+        "label": "Train only the data scientists on business concepts and ignore the analysts' needs."
+      },
+      {
+        "id": "c",
+        "label": "Allow each group to work independently without any common understanding of workflows."
+      },
+      {
+        "id": "d",
+        "label": "Rely on ad hoc conversations between individuals instead of defining competencies and training."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because mapping the end-to-end workflow and defining shared and distinct competencies ensures training supports effective collaboration. Option b is incorrect because focusing on one group neglects the analysts' understanding of analytical methods. Option c is incorrect because isolated work can cause misalignment and rework. Option d is incorrect because ad hoc conversations are not a reliable basis for developing consistent competencies.",
+    "difficulty": "medium",
+    "topics": ["cross-role collaboration", "workflow understanding"]
+  }
+]

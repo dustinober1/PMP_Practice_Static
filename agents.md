@@ -109,6 +109,6 @@
 - Ensure that questions are free from bias and culturally sensitive.
 - Ensure that question distractors are the same length as the correct answer.
 - Ensure that each explanation clearly states why the correct option is best and why each incorrect option is not appropriate.
-- ensure there is a balance of correct answers across all options (A, B, C, D).
+- Ensure there is a balanced distribution of correct answers across options (a, b, c, d) so that no consistent pattern appears within an exam-length set of questions.
 - Ensure that for every enabler ID in `src/data/enablers.json`, exactly 25 questions are authored that reference that enabler in `enablerIds` (per-question coverage target is 25 per enabler).
 - Commit and push to github frequently with clear, descriptive messages.

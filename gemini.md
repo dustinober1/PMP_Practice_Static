@@ -1,1 +1,1 @@
-Refer to agents.md for all instructions and only update that file if needed.
+Refer to agents.md for all instructions update that file if needed.
