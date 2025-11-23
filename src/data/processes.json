@@ -7,17 +7,339 @@
     "summary": "Document objectives, high-level scope, risks, and authority to start."
   },
   {
+    "id": "identify-stakeholders",
+    "name": "Identify Stakeholders",
+    "knowledgeAreaId": "stakeholder",
+    "processGroup": "Initiating",
+    "summary": "Identify everyone involved or affected and analyze their interest and influence."
+  },
+  {
+    "id": "develop-project-management-plan",
+    "name": "Develop Project Management Plan",
+    "knowledgeAreaId": "integration",
+    "processGroup": "Planning",
+    "summary": "Consolidate all subsidiary plans into a comprehensive master plan."
+  },
+  {
     "id": "plan-scope-management",
     "name": "Plan Scope Management",
     "knowledgeAreaId": "scope",
     "processGroup": "Planning",
-    "summary": "Define how scope will be planned, tracked, and accepted."
+    "summary": "Define how scope will be planned, tracked, and validated."
+  },
+  {
+    "id": "collect-requirements",
+    "name": "Collect Requirements",
+    "knowledgeAreaId": "scope",
+    "processGroup": "Planning",
+    "summary": "Determine and document stakeholder needs and requirements."
+  },
+  {
+    "id": "define-scope",
+    "name": "Define Scope",
+    "knowledgeAreaId": "scope",
+    "processGroup": "Planning",
+    "summary": "Develop a detailed description of the project and product."
+  },
+  {
+    "id": "create-wbs",
+    "name": "Create WBS",
+    "knowledgeAreaId": "scope",
+    "processGroup": "Planning",
+    "summary": "Subdivide deliverables into smaller, manageable components."
+  },
+  {
+    "id": "plan-schedule-management",
+    "name": "Plan Schedule Management",
+    "knowledgeAreaId": "schedule",
+    "processGroup": "Planning",
+    "summary": "Establish policies for planning, developing, and controlling the schedule."
+  },
+  {
+    "id": "define-activities",
+    "name": "Define Activities",
+    "knowledgeAreaId": "schedule",
+    "processGroup": "Planning",
+    "summary": "Identify specific actions required to produce deliverables."
+  },
+  {
+    "id": "sequence-activities",
+    "name": "Sequence Activities",
+    "knowledgeAreaId": "schedule",
+    "processGroup": "Planning",
+    "summary": "Identify and document relationships (dependencies) among activities."
+  },
+  {
+    "id": "estimate-activity-durations",
+    "name": "Estimate Activity Durations",
+    "knowledgeAreaId": "schedule",
+    "processGroup": "Planning",
+    "summary": "Estimate the number of work periods needed to complete activities."
+  },
+  {
+    "id": "develop-schedule",
+    "name": "Develop Schedule",
+    "knowledgeAreaId": "schedule",
+    "processGroup": "Planning",
+    "summary": "Analyze sequences, durations, and resources to create the schedule model."
+  },
+  {
+    "id": "plan-cost-management",
+    "name": "Plan Cost Management",
+    "knowledgeAreaId": "cost",
+    "processGroup": "Planning",
+    "summary": "Define how costs will be estimated, budgeted, managed, and controlled."
+  },
+  {
+    "id": "estimate-costs",
+    "name": "Estimate Costs",
+    "knowledgeAreaId": "cost",
+    "processGroup": "Planning",
+    "summary": "Develop an approximation of the monetary resources needed for work."
+  },
+  {
+    "id": "determine-budget",
+    "name": "Determine Budget",
+    "knowledgeAreaId": "cost",
+    "processGroup": "Planning",
+    "summary": "Aggregate estimated costs to establish an authorized cost baseline."
+  },
+  {
+    "id": "plan-quality-management",
+    "name": "Plan Quality Management",
+    "knowledgeAreaId": "quality",
+    "processGroup": "Planning",
+    "summary": "Identify quality requirements and standards and how to demonstrate compliance."
+  },
+  {
+    "id": "plan-resource-management",
+    "name": "Plan Resource Management",
+    "knowledgeAreaId": "resource",
+    "processGroup": "Planning",
+    "summary": "Define how to estimate, acquire, manage, and use physical and team resources."
+  },
+  {
+    "id": "estimate-activity-resources",
+    "name": "Estimate Activity Resources",
+    "knowledgeAreaId": "resource",
+    "processGroup": "Planning",
+    "summary": "Estimate team resources and materials required for project work."
+  },
+  {
+    "id": "plan-communications-management",
+    "name": "Plan Communications Management",
+    "knowledgeAreaId": "communications",
+    "processGroup": "Planning",
+    "summary": "Develop an approach for information exchange based on stakeholder needs."
+  },
+  {
+    "id": "plan-risk-management",
+    "name": "Plan Risk Management",
+    "knowledgeAreaId": "risk",
+    "processGroup": "Planning",
+    "summary": "Define how to conduct risk management activities."
+  },
+  {
+    "id": "identify-risks",
+    "name": "Identify Risks",
+    "knowledgeAreaId": "risk",
+    "processGroup": "Planning",
+    "summary": "Identify individual project risks and sources of overall risk."
+  },
+  {
+    "id": "perform-qualitative-risk-analysis",
+    "name": "Perform Qualitative Risk Analysis",
+    "knowledgeAreaId": "risk",
+    "processGroup": "Planning",
+    "summary": "Prioritize risks by assessing their probability of occurrence and impact."
+  },
+  {
+    "id": "perform-quantitative-risk-analysis",
+    "name": "Perform Quantitative Risk Analysis",
+    "knowledgeAreaId": "risk",
+    "processGroup": "Planning",
+    "summary": "Numerically analyze the combined effect of identified risks on objectives."
+  },
+  {
+    "id": "plan-risk-responses",
+    "name": "Plan Risk Responses",
+    "knowledgeAreaId": "risk",
+    "processGroup": "Planning",
+    "summary": "Develop options and actions to enhance opportunities and reduce threats."
+  },
+  {
+    "id": "plan-procurement-management",
+    "name": "Plan Procurement Management",
+    "knowledgeAreaId": "procurement",
+    "processGroup": "Planning",
+    "summary": "Document procurement decisions, specify the approach, and identify sellers."
+  },
+  {
+    "id": "plan-stakeholder-engagement",
+    "name": "Plan Stakeholder Engagement",
+    "knowledgeAreaId": "stakeholder",
+    "processGroup": "Planning",
+    "summary": "Develop approaches to involve stakeholders based on their needs and impact."
+  },
+  {
+    "id": "direct-and-manage-project-work",
+    "name": "Direct and Manage Project Work",
+    "knowledgeAreaId": "integration",
+    "processGroup": "Executing",
+    "summary": "Lead and perform the work defined in the plan to achieve objectives."
+  },
+  {
+    "id": "manage-project-knowledge",
+    "name": "Manage Project Knowledge",
+    "knowledgeAreaId": "integration",
+    "processGroup": "Executing",
+    "summary": "Use existing knowledge and create new knowledge to achieve objectives."
+  },
+  {
+    "id": "manage-quality",
+    "name": "Manage Quality",
+    "knowledgeAreaId": "quality",
+    "processGroup": "Executing",
+    "summary": "Translate the quality management plan into executable quality activities."
+  },
+  {
+    "id": "acquire-resources",
+    "name": "Acquire Resources",
+    "knowledgeAreaId": "resource",
+    "processGroup": "Executing",
+    "summary": "Obtain team members, facilities, equipment, and materials needed."
+  },
+  {
+    "id": "develop-team",
+    "name": "Develop Team",
+    "knowledgeAreaId": "resource",
+    "processGroup": "Executing",
+    "summary": "Improve competencies, team interaction, and the overall team environment."
+  },
+  {
+    "id": "manage-team",
+    "name": "Manage Team",
+    "knowledgeAreaId": "resource",
+    "processGroup": "Executing",
+    "summary": "Track performance, provide feedback, resolve issues, and manage team changes."
+  },
+  {
+    "id": "manage-communications",
+    "name": "Manage Communications",
+    "knowledgeAreaId": "communications",
+    "processGroup": "Executing",
+    "summary": "Ensure timely and appropriate collection, creation, and distribution of info."
+  },
+  {
+    "id": "implement-risk-responses",
+    "name": "Implement Risk Responses",
+    "knowledgeAreaId": "risk",
+    "processGroup": "Executing",
+    "summary": "Implement agreed-upon risk response plans."
+  },
+  {
+    "id": "conduct-procurements",
+    "name": "Conduct Procurements",
+    "knowledgeAreaId": "procurement",
+    "processGroup": "Executing",
+    "summary": "Obtain seller responses, select a seller, and award a contract."
+  },
+  {
+    "id": "manage-stakeholder-engagement",
+    "name": "Manage Stakeholder Engagement",
+    "knowledgeAreaId": "stakeholder",
+    "processGroup": "Executing",
+    "summary": "Communicate with stakeholders to meet needs and address issues."
+  },
+  {
+    "id": "monitor-and-control-project-work",
+    "name": "Monitor and Control Project Work",
+    "knowledgeAreaId": "integration",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Track, review, and report overall progress to meet performance objectives."
+  },
+  {
+    "id": "perform-integrated-change-control",
+    "name": "Perform Integrated Change Control",
+    "knowledgeAreaId": "integration",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Review all change requests, approve changes, and manage changes."
+  },
+  {
+    "id": "validate-scope",
+    "name": "Validate Scope",
+    "knowledgeAreaId": "scope",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Formalize acceptance of the completed project deliverables."
+  },
+  {
+    "id": "control-scope",
+    "name": "Control Scope",
+    "knowledgeAreaId": "scope",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Monitor the status of scope and manage changes to the scope baseline."
   },
   {
     "id": "control-schedule",
     "name": "Control Schedule",
     "knowledgeAreaId": "schedule",
     "processGroup": "Monitoring and Controlling",
-    "summary": "Track schedule performance and adjust baselines when needed."
+    "summary": "Monitor the status of the project schedule and manage changes."
+  },
+  {
+    "id": "control-costs",
+    "name": "Control Costs",
+    "knowledgeAreaId": "cost",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Monitor the status of costs and manage changes to the cost baseline."
+  },
+  {
+    "id": "control-quality",
+    "name": "Control Quality",
+    "knowledgeAreaId": "quality",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Monitor and record results of quality activities to assess performance."
+  },
+  {
+    "id": "control-resources",
+    "name": "Control Resources",
+    "knowledgeAreaId": "resource",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Ensure resources are available as planned and monitor utilization."
+  },
+  {
+    "id": "monitor-communications",
+    "name": "Monitor Communications",
+    "knowledgeAreaId": "communications",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Ensure information needs of the project and stakeholders are met."
+  },
+  {
+    "id": "monitor-risks",
+    "name": "Monitor Risks",
+    "knowledgeAreaId": "risk",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Monitor implementation of risk plans and identify new risks."
+  },
+  {
+    "id": "control-procurements",
+    "name": "Control Procurements",
+    "knowledgeAreaId": "procurement",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Manage procurement relationships and monitor contract performance."
+  },
+  {
+    "id": "monitor-stakeholder-engagement",
+    "name": "Monitor Stakeholder Engagement",
+    "knowledgeAreaId": "stakeholder",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Monitor stakeholder relationships and tailor strategies for engagement."
+  },
+  {
+    "id": "close-project-or-phase",
+    "name": "Close Project or Phase",
+    "knowledgeAreaId": "integration",
+    "processGroup": "Closing",
+    "summary": "Finalize all activities across all groups to formally close the project."
   }
 ]

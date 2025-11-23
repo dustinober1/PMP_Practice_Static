@@ -2,16 +2,51 @@
   {
     "id": "integration",
     "name": "Project Integration Management",
-    "description": "Unifies project artifacts and decisions to keep delivery coherent."
+    "description": "Unifies project artifacts, processes, and decisions to keep delivery coherent and aligned."
   },
   {
     "id": "scope",
     "name": "Project Scope Management",
-    "description": "Defines what is and is not included in the product and project."
+    "description": "Defines exactly what is and is not included in the project to prevent scope creep."
   },
   {
     "id": "schedule",
     "name": "Project Schedule Management",
-    "description": "Plans, estimates, and controls time so delivery stays predictable."
+    "description": "Plans, estimates, and controls the timeline so delivery stays predictable."
+  },
+  {
+    "id": "cost",
+    "name": "Project Cost Management",
+    "description": "Plans, estimates, budgets, and controls costs to complete the project within the approved budget."
+  },
+  {
+    "id": "quality",
+    "name": "Project Quality Management",
+    "description": "Translates the organization's quality policy into deliverables that meet requirements and fit-for-use standards."
+  },
+  {
+    "id": "resource",
+    "name": "Project Resource Management",
+    "description": "Identifies, acquires, and manages the physical and team resources needed for successful completion."
+  },
+  {
+    "id": "communications",
+    "name": "Project Communications Management",
+    "description": "Ensures timely and appropriate generation, distribution, and monitoring of project information."
+  },
+  {
+    "id": "risk",
+    "name": "Project Risk Management",
+    "description": "Identifies, analyzes, and responds to risk factors throughout the life of the project."
+  },
+  {
+    "id": "procurement",
+    "name": "Project Procurement Management",
+    "description": "Manages the purchasing or acquiring of products, services, or results from outside the project team."
+  },
+  {
+    "id": "stakeholder",
+    "name": "Project Stakeholder Management",
+    "description": "Identifies people impacted by the project and develops strategies to engage them effectively."
   }
 ]

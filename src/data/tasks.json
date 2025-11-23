@@ -2,37 +2,211 @@
   {
     "id": "people-1",
     "domainId": "people",
-    "title": "Build and lead the team",
-    "description": "Create clarity on roles, norms, and communication cadence."
+    "title": "Manage conflict",
+    "description": "Interpret the source and stage of the conflict and recommend appropriate resolution solutions."
   },
   {
     "id": "people-2",
     "domainId": "people",
-    "title": "Engage stakeholders",
-    "description": "Maintain two-way communication and expectations with sponsors, customers, and teams."
+    "title": "Lead a team",
+    "description": "Set a clear vision and mission, support diversity and inclusion, and determine appropriate leadership style."
+  },
+  {
+    "id": "people-3",
+    "domainId": "people",
+    "title": "Support team performance",
+    "description": "Appraise team member performance against KPIs and provide feedback to verify improvements."
+  },
+  {
+    "id": "people-4",
+    "domainId": "people",
+    "title": "Empower team members and stakeholders",
+    "description": "Organize around team strengths, support accountability, and evaluate demonstration of task accountability."
+  },
+  {
+    "id": "people-5",
+    "domainId": "people",
+    "title": "Ensure team members/stakeholders are trained",
+    "description": "Determine required competencies, allocate resources for training, and measure training outcomes."
+  },
+  {
+    "id": "people-6",
+    "domainId": "people",
+    "title": "Build a team",
+    "description": "Appraise stakeholder skills, deduce project resource requirements, and continuously assess team knowledge transfer."
+  },
+  {
+    "id": "people-7",
+    "domainId": "people",
+    "title": "Address and remove impediments, obstacles, and blockers",
+    "description": "Determine critical impediments for the team and prioritize solutions to remove them."
+  },
+  {
+    "id": "people-8",
+    "domainId": "people",
+    "title": "Negotiate project agreements",
+    "description": "Analyze the bounds of negotiations for agreements and determine the ultimate objective."
+  },
+  {
+    "id": "people-9",
+    "domainId": "people",
+    "title": "Collaborate with stakeholders",
+    "description": "Evaluate engagement needs, optimize alignment between stakeholder needs and project objectives, and build trust."
+  },
+  {
+    "id": "people-10",
+    "domainId": "people",
+    "title": "Build shared understanding",
+    "description": "Break down the situation to identify the root cause of a misunderstanding and survey parties to reach consensus."
+  },
+  {
+    "id": "people-11",
+    "domainId": "people",
+    "title": "Engage and support virtual teams",
+    "description": "Examine virtual team member needs (environment, geography, culture) and implement options for engagement."
+  },
+  {
+    "id": "people-12",
+    "domainId": "people",
+    "title": "Define team ground rules",
+    "description": "Communicate organizational principles and establish an environment that fosters adherence to ground rules."
+  },
+  {
+    "id": "people-13",
+    "domainId": "people",
+    "title": "Mentor relevant stakeholders",
+    "description": "Allocate time to mentoring and recognize and act on mentoring opportunities."
+  },
+  {
+    "id": "people-14",
+    "domainId": "people",
+    "title": "Promote team performance through emotional intelligence",
+    "description": "Assess behavior through the use of personality indicators and adjust to the emotional needs of key stakeholders."
   },
   {
     "id": "process-1",
     "domainId": "process",
-    "title": "Plan and manage scope",
-    "description": "Translate objectives into a roadmap, backlog, and acceptance criteria."
+    "title": "Execute project with urgency",
+    "description": "Assess opportunities to deliver value incrementally and support the team to subdivide tasks to find the Minimum Viable Product."
   },
   {
     "id": "process-2",
     "domainId": "process",
-    "title": "Assure quality",
-    "description": "Define Definition of Done, quality thresholds, and validation activities."
+    "title": "Manage communications",
+    "description": "Analyze communication needs of all stakeholders and determine communication methods, channels, and frequency."
+  },
+  {
+    "id": "process-3",
+    "domainId": "process",
+    "title": "Assess and manage risks",
+    "description": "Determine risk management options and iteratively assess and prioritize risks."
+  },
+  {
+    "id": "process-4",
+    "domainId": "process",
+    "title": "Engage stakeholders",
+    "description": "Analyze stakeholders (power, interest, influence) and categorize them to manage expectations."
+  },
+  {
+    "id": "process-5",
+    "domainId": "process",
+    "title": "Plan and manage budget and resources",
+    "description": "Estimate budgetary needs based on project scope and monitor budget variations and governance."
+  },
+  {
+    "id": "process-6",
+    "domainId": "process",
+    "title": "Plan and manage schedule",
+    "description": "Estimate project tasks (milestones, dependencies, story points) and coordinate with other projects and operations."
+  },
+  {
+    "id": "process-7",
+    "domainId": "process",
+    "title": "Plan and manage quality of products/deliverables",
+    "description": "Determine quality standards required for project deliverables and recommend options for improvement."
+  },
+  {
+    "id": "process-8",
+    "domainId": "process",
+    "title": "Plan and manage scope",
+    "description": "Determine and prioritize requirements, break down scope (WBS, backlog), and monitor scope creep."
+  },
+  {
+    "id": "process-9",
+    "domainId": "process",
+    "title": "Integrate project planning activities",
+    "description": "Consolidate project/phase plans, assess dependencies, and analyze data to make informed project decisions."
+  },
+  {
+    "id": "process-10",
+    "domainId": "process",
+    "title": "Manage project changes",
+    "description": "Anticipate and embrace the need for change (e.g., follow change management practices) and determine strategy to handle changes."
+  },
+  {
+    "id": "process-11",
+    "domainId": "process",
+    "title": "Plan and manage procurement",
+    "description": "Define resource requirements and needs, communicate resource requirements, and manage suppliers/contracts."
+  },
+  {
+    "id": "process-12",
+    "domainId": "process",
+    "title": "Manage project artifacts",
+    "description": "Determine the requirements (what, when, where, who) for managing project artifacts and ensure they are accessible."
+  },
+  {
+    "id": "process-13",
+    "domainId": "process",
+    "title": "Determine appropriate project methods",
+    "description": "Assess project needs, complexity, and magnitude to recommend appropriate execution strategy (Predictive, Agile, Hybrid)."
+  },
+  {
+    "id": "process-14",
+    "domainId": "process",
+    "title": "Establish project governance structure",
+    "description": "Determine appropriate governance for a project (e.g., replicate organizational governance) and define escalation paths."
+  },
+  {
+    "id": "process-15",
+    "domainId": "process",
+    "title": "Manage project issues",
+    "description": "Recognize when a risk becomes an issue and attack the issue with the optimal action to achieve project success."
+  },
+  {
+    "id": "process-16",
+    "domainId": "process",
+    "title": "Ensure knowledge transfer for project continuity",
+    "description": "Discuss project responsibilities within the team and outline expectations for the working environment."
+  },
+  {
+    "id": "process-17",
+    "domainId": "process",
+    "title": "Plan and manage project/phase closure or transitions",
+    "description": "Determine criteria to successfully close the project or phase and validate readiness for transition."
   },
   {
     "id": "business-1",
     "domainId": "business",
-    "title": "Deliver value and benefits",
-    "description": "Measure outcomes against benefits and pivot when value is at risk."
+    "title": "Plan and manage project compliance",
+    "description": "Confirm project compliance requirements (e.g., security, health and safety, regulatory) and classify potential threats."
   },
   {
     "id": "business-2",
     "domainId": "business",
-    "title": "Ensure compliance",
-    "description": "Surface regulatory or policy constraints and bake them into delivery."
+    "title": "Evaluate and deliver project benefits and value",
+    "description": "Investigate that benefits are identified and document agreement on ownership for ongoing benefit realization."
+  },
+  {
+    "id": "business-3",
+    "domainId": "business",
+    "title": "Evaluate external business environment changes",
+    "description": "Survey external business environment changes (e.g., regulations, technology, geopolitical) and recommend options for scope/backlog changes."
+  },
+  {
+    "id": "business-4",
+    "domainId": "business",
+    "title": "Support organizational change",
+    "description": "Assess organizational culture and evaluate the impact of organizational change to project and vice versa."
   }
 ]

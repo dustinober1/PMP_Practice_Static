@@ -2,16 +2,22 @@
   {
     "id": "people",
     "name": "People",
-    "summary": "Team leadership, stakeholder engagement, and communication."
+    "summary": "Team leadership, stakeholder engagement, and communication.",
+    "percentage": 42,
+    "color": "blue"
   },
   {
     "id": "process",
     "name": "Process",
-    "summary": "Systems, quality, and delivery practices that keep work moving."
+    "summary": "Systems, quality, and delivery practices that keep work moving.",
+    "percentage": 50,
+    "color": "amber"
   },
   {
     "id": "business",
     "name": "Business Environment",
-    "summary": "Strategy alignment, value delivery, and compliance."
+    "summary": "Strategy alignment, value delivery, and compliance.",
+    "percentage": 8,
+    "color": "emerald"
   }
 ]

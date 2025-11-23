@@ -1,32 +1,652 @@
 [
   {
-    "id": "enabler-people-1",
+    "id": "e-people-1-1",
     "taskId": "people-1",
-    "text": "Facilitate working agreements and keep them visible."
+    "text": "Interpret the source and the stage of the conflict."
   },
   {
-    "id": "enabler-people-2",
+    "id": "e-people-1-2",
+    "taskId": "people-1",
+    "text": "Analyze the context for the conflict."
+  },
+  {
+    "id": "e-people-1-3",
+    "taskId": "people-1",
+    "text": "Evaluate/recommend/reconcile the appropriate conflict resolution solution."
+  },
+  {
+    "id": "e-people-2-1",
     "taskId": "people-2",
-    "text": "Build a lightweight stakeholder map to guide messaging."
+    "text": "Set a clear vision and mission."
   },
   {
-    "id": "enabler-process-1",
+    "id": "e-people-2-2",
+    "taskId": "people-2",
+    "text": "Support diversity and inclusion (e.g., behavior types, thought process)."
+  },
+  {
+    "id": "e-people-2-3",
+    "taskId": "people-2",
+    "text": "Value servant leadership (e.g., relate the tenets of servant leadership to the team)."
+  },
+  {
+    "id": "e-people-2-4",
+    "taskId": "people-2",
+    "text": "Determine an appropriate leadership style (e.g., directive, collaborative)."
+  },
+  {
+    "id": "e-people-2-5",
+    "taskId": "people-2",
+    "text": "Inspire, motivate, and influence team members/stakeholders."
+  },
+  {
+    "id": "e-people-3-1",
+    "taskId": "people-3",
+    "text": "Appraise team member performance against key performance indicators."
+  },
+  {
+    "id": "e-people-3-2",
+    "taskId": "people-3",
+    "text": "Support and recognize team member growth and development."
+  },
+  {
+    "id": "e-people-3-3",
+    "taskId": "people-3",
+    "text": "Determine appropriate feedback approach."
+  },
+  {
+    "id": "e-people-3-4",
+    "taskId": "people-3",
+    "text": "Verify performance improvements."
+  },
+  {
+    "id": "e-people-4-1",
+    "taskId": "people-4",
+    "text": "Organize around team strengths."
+  },
+  {
+    "id": "e-people-4-2",
+    "taskId": "people-4",
+    "text": "Support team task accountability."
+  },
+  {
+    "id": "e-people-4-3",
+    "taskId": "people-4",
+    "text": "Evaluate demonstration of task accountability."
+  },
+  {
+    "id": "e-people-4-4",
+    "taskId": "people-4",
+    "text": "Determine and bestow level(s) of decision-making authority."
+  },
+  {
+    "id": "e-people-5-1",
+    "taskId": "people-5",
+    "text": "Determine required competencies and elements of training."
+  },
+  {
+    "id": "e-people-5-2",
+    "taskId": "people-5",
+    "text": "Determine training options based on training needs."
+  },
+  {
+    "id": "e-people-5-3",
+    "taskId": "people-5",
+    "text": "Allocate resources for training."
+  },
+  {
+    "id": "e-people-5-4",
+    "taskId": "people-5",
+    "text": "Measure training outcomes."
+  },
+  {
+    "id": "e-people-6-1",
+    "taskId": "people-6",
+    "text": "Appraise stakeholder skills."
+  },
+  {
+    "id": "e-people-6-2",
+    "taskId": "people-6",
+    "text": "Deduce project resource requirements."
+  },
+  {
+    "id": "e-people-6-3",
+    "taskId": "people-6",
+    "text": "Continuously assess and refresh team skills to maintain knowledge transfer."
+  },
+  {
+    "id": "e-people-7-1",
+    "taskId": "people-7",
+    "text": "Determine critical impediments, obstacles, and blockers for the team."
+  },
+  {
+    "id": "e-people-7-2",
+    "taskId": "people-7",
+    "text": "Prioritize critical impediments, obstacles, and blockers for the team."
+  },
+  {
+    "id": "e-people-7-3",
+    "taskId": "people-7",
+    "text": "Use network to implement solutions to remove impediments, obstacles, and blockers."
+  },
+  {
+    "id": "e-people-7-4",
+    "taskId": "people-7",
+    "text": "Re-assess continually to ensure impediments, obstacles, and blockers are being addressed."
+  },
+  {
+    "id": "e-people-8-1",
+    "taskId": "people-8",
+    "text": "Analyze the bounds of the negotiations for agreement."
+  },
+  {
+    "id": "e-people-8-2",
+    "taskId": "people-8",
+    "text": "Assess priorities and determine ultimate objective(s)."
+  },
+  {
+    "id": "e-people-8-3",
+    "taskId": "people-8",
+    "text": "Verify objective(s) of the project agreement is met."
+  },
+  {
+    "id": "e-people-8-4",
+    "taskId": "people-8",
+    "text": "Participate in agreement negotiations."
+  },
+  {
+    "id": "e-people-8-5",
+    "taskId": "people-8",
+    "text": "Determine a negotiation strategy."
+  },
+  {
+    "id": "e-people-9-1",
+    "taskId": "people-9",
+    "text": "Evaluate engagement needs for stakeholders."
+  },
+  {
+    "id": "e-people-9-2",
+    "taskId": "people-9",
+    "text": "Optimize alignment between stakeholder needs, expectations, and project objectives."
+  },
+  {
+    "id": "e-people-9-3",
+    "taskId": "people-9",
+    "text": "Build trust and influence stakeholders to accomplish project objectives."
+  },
+  {
+    "id": "e-people-10-1",
+    "taskId": "people-10",
+    "text": "Break down situation to identify the root cause of a misunderstanding."
+  },
+  {
+    "id": "e-people-10-2",
+    "taskId": "people-10",
+    "text": "Survey all necessary parties to reach consensus."
+  },
+  {
+    "id": "e-people-10-3",
+    "taskId": "people-10",
+    "text": "Support outcome of parties' agreement."
+  },
+  {
+    "id": "e-people-10-4",
+    "taskId": "people-10",
+    "text": "Investigate potential misunderstandings."
+  },
+  {
+    "id": "e-people-11-1",
+    "taskId": "people-11",
+    "text": "Examine virtual team member needs (e.g., environment, geography, culture, global)."
+  },
+  {
+    "id": "e-people-11-2",
+    "taskId": "people-11",
+    "text": "Investigate alternatives (e.g., communication tools, colocation) for virtual team engagement."
+  },
+  {
+    "id": "e-people-11-3",
+    "taskId": "people-11",
+    "text": "Implement options for virtual team member engagement."
+  },
+  {
+    "id": "e-people-11-4",
+    "taskId": "people-11",
+    "text": "Continually evaluate effectiveness of virtual team member engagement."
+  },
+  {
+    "id": "e-people-12-1",
+    "taskId": "people-12",
+    "text": "Communicate organizational principles with team and external stakeholders."
+  },
+  {
+    "id": "e-people-12-2",
+    "taskId": "people-12",
+    "text": "Establish an environment that fosters adherence to the ground rules."
+  },
+  {
+    "id": "e-people-12-3",
+    "taskId": "people-12",
+    "text": "Manage and rectify ground rule violations."
+  },
+  {
+    "id": "e-people-13-1",
+    "taskId": "people-13",
+    "text": "Allocate time to mentoring."
+  },
+  {
+    "id": "e-people-13-2",
+    "taskId": "people-13",
+    "text": "Recognize and act on mentoring opportunities."
+  },
+  {
+    "id": "e-people-14-1",
+    "taskId": "people-14",
+    "text": "Assess behavior through the use of personality indicators."
+  },
+  {
+    "id": "e-people-14-2",
+    "taskId": "people-14",
+    "text": "Analyze personality indicators and adjust to the emotional needs of key stakeholders."
+  },
+  {
+    "id": "e-process-1-1",
     "taskId": "process-1",
-    "text": "Run regular backlog refinement with clear acceptance criteria."
+    "text": "Assess opportunities to deliver value incrementally."
   },
   {
-    "id": "enabler-process-2",
+    "id": "e-process-1-2",
+    "taskId": "process-1",
+    "text": "Examine the business value throughout the project."
+  },
+  {
+    "id": "e-process-1-3",
+    "taskId": "process-1",
+    "text": "Support the team to subdivide project tasks as necessary to find the Minimum Viable Product."
+  },
+  {
+    "id": "e-process-2-1",
     "taskId": "process-2",
-    "text": "Add in-line quality gates (peer review, automated checks) to reduce rework."
+    "text": "Analyze communication needs of all stakeholders."
   },
   {
-    "id": "enabler-business-1",
+    "id": "e-process-2-2",
+    "taskId": "process-2",
+    "text": "Determine communication methods, channels, frequency, and level of detail."
+  },
+  {
+    "id": "e-process-2-3",
+    "taskId": "process-2",
+    "text": "Communicate project information and updates effectively."
+  },
+  {
+    "id": "e-process-2-4",
+    "taskId": "process-2",
+    "text": "Confirm communication is understood and feedback is received."
+  },
+  {
+    "id": "e-process-3-1",
+    "taskId": "process-3",
+    "text": "Determine risk management options."
+  },
+  {
+    "id": "e-process-3-2",
+    "taskId": "process-3",
+    "text": "Iteratively assess and prioritize risks."
+  },
+  {
+    "id": "e-process-4-1",
+    "taskId": "process-4",
+    "text": "Analyze stakeholders (e.g., power interest grid, influence, impact)."
+  },
+  {
+    "id": "e-process-4-2",
+    "taskId": "process-4",
+    "text": "Categorize stakeholders."
+  },
+  {
+    "id": "e-process-4-3",
+    "taskId": "process-4",
+    "text": "Engage stakeholders by category."
+  },
+  {
+    "id": "e-process-4-4",
+    "taskId": "process-4",
+    "text": "Develop, execute, and validate a strategy for stakeholder engagement."
+  },
+  {
+    "id": "e-process-5-1",
+    "taskId": "process-5",
+    "text": "Estimate budgetary needs based on the scope of the project."
+  },
+  {
+    "id": "e-process-5-2",
+    "taskId": "process-5",
+    "text": "Anticipate future budget challenges."
+  },
+  {
+    "id": "e-process-5-3",
+    "taskId": "process-5",
+    "text": "Monitor budget variations and work with governance process to adjust as necessary."
+  },
+  {
+    "id": "e-process-5-4",
+    "taskId": "process-5",
+    "text": "Plan and manage resources."
+  },
+  {
+    "id": "e-process-6-1",
+    "taskId": "process-6",
+    "text": "Estimate project tasks (milestones, dependencies, story points)."
+  },
+  {
+    "id": "e-process-6-2",
+    "taskId": "process-6",
+    "text": "Utilize benchmarks and historical data."
+  },
+  {
+    "id": "e-process-6-3",
+    "taskId": "process-6",
+    "text": "Prepare schedule based on methodology."
+  },
+  {
+    "id": "e-process-6-4",
+    "taskId": "process-6",
+    "text": "Measure ongoing progress based on methodology (e.g., burnup/burndown, variance analysis)."
+  },
+  {
+    "id": "e-process-6-5",
+    "taskId": "process-6",
+    "text": "Coordinate with other projects and other operations."
+  },
+  {
+    "id": "e-process-7-1",
+    "taskId": "process-7",
+    "text": "Determine quality standard required for project deliverables."
+  },
+  {
+    "id": "e-process-7-2",
+    "taskId": "process-7",
+    "text": "Recommend options for improvement based on quality gaps."
+  },
+  {
+    "id": "e-process-7-3",
+    "taskId": "process-7",
+    "text": "Continually survey project deliverable quality."
+  },
+  {
+    "id": "e-process-8-1",
+    "taskId": "process-8",
+    "text": "Determine and prioritize requirements."
+  },
+  {
+    "id": "e-process-8-2",
+    "taskId": "process-8",
+    "text": "Break down scope (e.g., WBS, backlog)."
+  },
+  {
+    "id": "e-process-8-3",
+    "taskId": "process-8",
+    "text": "Monitor and validate scope."
+  },
+  {
+    "id": "e-process-9-1",
+    "taskId": "process-9",
+    "text": "Consolidate the project/phase plans."
+  },
+  {
+    "id": "e-process-9-2",
+    "taskId": "process-9",
+    "text": "Assess consolidated project plans for dependencies, gaps, and continued business value."
+  },
+  {
+    "id": "e-process-9-3",
+    "taskId": "process-9",
+    "text": "Analyze the data collected."
+  },
+  {
+    "id": "e-process-9-4",
+    "taskId": "process-9",
+    "text": "Collect and analyze data to make informed project decisions."
+  },
+  {
+    "id": "e-process-9-5",
+    "taskId": "process-9",
+    "text": "Determine critical information requirements."
+  },
+  {
+    "id": "e-process-10-1",
+    "taskId": "process-10",
+    "text": "Anticipate and embrace the need for change (e.g., follow change management practices)."
+  },
+  {
+    "id": "e-process-10-2",
+    "taskId": "process-10",
+    "text": "Determine strategy to handle change."
+  },
+  {
+    "id": "e-process-10-3",
+    "taskId": "process-10",
+    "text": "Execute change management strategy according to the methodology."
+  },
+  {
+    "id": "e-process-10-4",
+    "taskId": "process-10",
+    "text": "Determine a change response to move the project forward."
+  },
+  {
+    "id": "e-process-11-1",
+    "taskId": "process-11",
+    "text": "Define resource requirements and needs."
+  },
+  {
+    "id": "e-process-11-2",
+    "taskId": "process-11",
+    "text": "Communicate resource requirements."
+  },
+  {
+    "id": "e-process-11-3",
+    "taskId": "process-11",
+    "text": "Manage suppliers/contracts."
+  },
+  {
+    "id": "e-process-11-4",
+    "taskId": "process-11",
+    "text": "Plan and manage procurement strategy."
+  },
+  {
+    "id": "e-process-11-5",
+    "taskId": "process-11",
+    "text": "Develop a delivery solution."
+  },
+  {
+    "id": "e-process-12-1",
+    "taskId": "process-12",
+    "text": "Determine the requirements (what, when, where, who) for managing project artifacts."
+  },
+  {
+    "id": "e-process-12-2",
+    "taskId": "process-12",
+    "text": "Validate that the project information is kept up to date."
+  },
+  {
+    "id": "e-process-12-3",
+    "taskId": "process-12",
+    "text": "Continually assess the effectiveness of the management of the project artifacts."
+  },
+  {
+    "id": "e-process-13-1",
+    "taskId": "process-13",
+    "text": "Assess project needs, complexity, and magnitude."
+  },
+  {
+    "id": "e-process-13-2",
+    "taskId": "process-13",
+    "text": "Recommend project execution strategy (e.g., contracting, finance)."
+  },
+  {
+    "id": "e-process-13-3",
+    "taskId": "process-13",
+    "text": "Recommend a project methodology/approach (i.e., predictive, agile, hybrid)."
+  },
+  {
+    "id": "e-process-13-4",
+    "taskId": "process-13",
+    "text": "Use iterative, incremental practices throughout the project life cycle."
+  },
+  {
+    "id": "e-process-14-1",
+    "taskId": "process-14",
+    "text": "Determine appropriate governance for a project."
+  },
+  {
+    "id": "e-process-14-2",
+    "taskId": "process-14",
+    "text": "Define escalation paths and thresholds."
+  },
+  {
+    "id": "e-process-15-1",
+    "taskId": "process-15",
+    "text": "Recognize when a risk becomes an issue."
+  },
+  {
+    "id": "e-process-15-2",
+    "taskId": "process-15",
+    "text": "Attack the issue with the optimal action to achieve project success."
+  },
+  {
+    "id": "e-process-15-3",
+    "taskId": "process-15",
+    "text": "Collaborate with relevant stakeholders on the approach to resolve the issues."
+  },
+  {
+    "id": "e-process-16-1",
+    "taskId": "process-16",
+    "text": "Discuss project responsibilities within team."
+  },
+  {
+    "id": "e-process-16-2",
+    "taskId": "process-16",
+    "text": "Outline expectations for working environment."
+  },
+  {
+    "id": "e-process-16-3",
+    "taskId": "process-16",
+    "text": "Confirm the approach for knowledge transfers."
+  },
+  {
+    "id": "e-process-17-1",
+    "taskId": "process-17",
+    "text": "Determine the criteria to successfully close the project or phase."
+  },
+  {
+    "id": "e-process-17-2",
+    "taskId": "process-17",
+    "text": "Validate readiness for transition."
+  },
+  {
+    "id": "e-process-17-3",
+    "taskId": "process-17",
+    "text": "Conclude activities to close out project or phase."
+  },
+  {
+    "id": "e-business-1-1",
     "taskId": "business-1",
-    "text": "Track benefits metrics and validate assumptions at each release."
+    "text": "Confirm project compliance requirements (e.g., security, health and safety, regulatory)."
   },
   {
-    "id": "enabler-business-2",
+    "id": "e-business-1-2",
+    "taskId": "business-1",
+    "text": "Classify compliance categories."
+  },
+  {
+    "id": "e-business-1-3",
+    "taskId": "business-1",
+    "text": "Determine potential threats to compliance."
+  },
+  {
+    "id": "e-business-1-4",
+    "taskId": "business-1",
+    "text": "Use methods to support compliance."
+  },
+  {
+    "id": "e-business-1-5",
+    "taskId": "business-1",
+    "text": "Analyze the consequences of noncompliance."
+  },
+  {
+    "id": "e-business-1-6",
+    "taskId": "business-1",
+    "text": "Determine necessary approach and action to address compliance needs."
+  },
+  {
+    "id": "e-business-1-7",
+    "taskId": "business-1",
+    "text": "Measure the extent to which the project is in compliance."
+  },
+  {
+    "id": "e-business-2-1",
     "taskId": "business-2",
-    "text": "Maintain a compliance register and pair with SMEs early."
+    "text": "Evaluate delivery options to demonstrate value."
+  },
+  {
+    "id": "e-business-2-2",
+    "taskId": "business-2",
+    "text": "Investigate that benefits are identified."
+  },
+  {
+    "id": "e-business-2-3",
+    "taskId": "business-2",
+    "text": "Document agreement on ownership for ongoing benefit realization."
+  },
+  {
+    "id": "e-business-2-4",
+    "taskId": "business-2",
+    "text": "Verify measurement system is in place to track benefits."
+  },
+  {
+    "id": "e-business-2-5",
+    "taskId": "business-2",
+    "text": "Appraise delivery to demonstrate value."
+  },
+  {
+    "id": "e-business-2-6",
+    "taskId": "business-2",
+    "text": "Assess stakeholder progress and delivery alignment."
+  },
+  {
+    "id": "e-business-3-1",
+    "taskId": "business-3",
+    "text": "Survey external business environment changes (e.g., regulations, technology, geopolitical, market)."
+  },
+  {
+    "id": "e-business-3-2",
+    "taskId": "business-3",
+    "text": "Assess and prioritize impact on project scope/backlog."
+  },
+  {
+    "id": "e-business-3-3",
+    "taskId": "business-3",
+    "text": "Recommend options for scope/backlog changes."
+  },
+  {
+    "id": "e-business-3-4",
+    "taskId": "business-3",
+    "text": "Continually review external business environment for impacts on project scope/backlog."
+  },
+  {
+    "id": "e-business-4-1",
+    "taskId": "business-4",
+    "text": "Assess organizational culture."
+  },
+  {
+    "id": "e-business-4-2",
+    "taskId": "business-4",
+    "text": "Evaluate the impact of organizational change to the project and determine required actions."
+  },
+  {
+    "id": "e-business-4-3",
+    "taskId": "business-4",
+    "text": "Evaluate the impact of the project to the organization and determine required actions."
   }
 ]
