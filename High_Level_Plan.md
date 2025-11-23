@@ -25,7 +25,7 @@
 * [x] Create `tasks.json` (Nested under domains).
 * [x] Create `enablers.json`.
 * [x] Create `processes.json` and `knowledge_areas.json`.
-* [ ] Build a utility script (or simple React hook) to load and parse these JSON files efficiently.
+* [x] Build a utility script (or simple React hook) to load and parse these JSON files efficiently.
 * [x] **Verification:** Display the list of Domains and Tasks on a simple homepage to prove data loading works.
 
 #### PHASE 2: STATE MANAGEMENT (The "No-Auth" Approach) (Week 3)

@@ -1,26 +1,58 @@
-import domains from '../data/domains.json'
-import enablers from '../data/enablers.json'
-import knowledgeAreas from '../data/knowledge_areas.json'
-import processes from '../data/processes.json'
+import { useMemo } from 'react'
+import { useStaticData } from '../hooks/useStaticData'
 import siteConfig from '../site-config'
-import tasks from '../data/tasks.json'
-
-const tasksByDomain = domains.map((domain) => ({
-  ...domain,
-  tasks: tasks
-    .filter((task) => task.domainId === domain.id)
-    .map((task) => ({
-      ...task,
-      enablers: enablers.filter((enabler) => enabler.taskId === task.id)
-    }))
-}))
-
-const mappedProcesses = processes.map((proc) => ({
-  ...proc,
-  knowledgeArea: knowledgeAreas.find((ka) => ka.id === proc.knowledgeAreaId)
-}))
 
 function Home() {
+  const { data, loading, error } = useStaticData()
+
+  const {
+    domains = [],
+    tasks = [],
+    enablers = [],
+    processes = [],
+    knowledgeAreas = []
+  } = data || {}
+
+  const tasksByDomain = useMemo(
+    () =>
+      domains.map((domain) => ({
+        ...domain,
+        tasks: tasks
+          .filter((task) => task.domainId === domain.id)
+          .map((task) => ({
+            ...task,
+            enablers: enablers.filter((enabler) => enabler.taskId === task.id)
+          }))
+      })),
+    [domains, tasks, enablers]
+  )
+
+  const mappedProcesses = useMemo(
+    () =>
+      processes.map((proc) => ({
+        ...proc,
+        knowledgeArea: knowledgeAreas.find((ka) => ka.id === proc.knowledgeAreaId)
+      })),
+    [processes, knowledgeAreas]
+  )
+
+  if (loading) {
+    return (
+      <div className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-100 sm:p-8">
+        <p className="text-sm font-semibold text-slate-600">Loading static data…</p>
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-rose-100 sm:p-8">
+        <p className="text-sm font-semibold text-rose-700">Error loading data</p>
+        <p className="text-sm text-rose-600">{error.message}</p>
+      </div>
+    )
+  }
+
   return (
     <div className="space-y-10">
       <section className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-100 sm:p-8">
