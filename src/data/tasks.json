@@ -1,0 +1,38 @@
+[
+  {
+    "id": "people-1",
+    "domainId": "people",
+    "title": "Build and lead the team",
+    "description": "Create clarity on roles, norms, and communication cadence."
+  },
+  {
+    "id": "people-2",
+    "domainId": "people",
+    "title": "Engage stakeholders",
+    "description": "Maintain two-way communication and expectations with sponsors, customers, and teams."
+  },
+  {
+    "id": "process-1",
+    "domainId": "process",
+    "title": "Plan and manage scope",
+    "description": "Translate objectives into a roadmap, backlog, and acceptance criteria."
+  },
+  {
+    "id": "process-2",
+    "domainId": "process",
+    "title": "Assure quality",
+    "description": "Define Definition of Done, quality thresholds, and validation activities."
+  },
+  {
+    "id": "business-1",
+    "domainId": "business",
+    "title": "Deliver value and benefits",
+    "description": "Measure outcomes against benefits and pivot when value is at risk."
+  },
+  {
+    "id": "business-2",
+    "domainId": "business",
+    "title": "Ensure compliance",
+    "description": "Surface regulatory or policy constraints and bake them into delivery."
+  }
+]

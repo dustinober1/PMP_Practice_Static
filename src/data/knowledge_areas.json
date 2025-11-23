@@ -1,0 +1,17 @@
+[
+  {
+    "id": "integration",
+    "name": "Project Integration Management",
+    "description": "Unifies project artifacts and decisions to keep delivery coherent."
+  },
+  {
+    "id": "scope",
+    "name": "Project Scope Management",
+    "description": "Defines what is and is not included in the product and project."
+  },
+  {
+    "id": "schedule",
+    "name": "Project Schedule Management",
+    "description": "Plans, estimates, and controls time so delivery stays predictable."
+  }
+]

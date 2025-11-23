@@ -1,0 +1,23 @@
+[
+  {
+    "id": "develop-project-charter",
+    "name": "Develop Project Charter",
+    "knowledgeAreaId": "integration",
+    "processGroup": "Initiating",
+    "summary": "Document objectives, high-level scope, risks, and authority to start."
+  },
+  {
+    "id": "plan-scope-management",
+    "name": "Plan Scope Management",
+    "knowledgeAreaId": "scope",
+    "processGroup": "Planning",
+    "summary": "Define how scope will be planned, tracked, and accepted."
+  },
+  {
+    "id": "control-schedule",
+    "name": "Control Schedule",
+    "knowledgeAreaId": "schedule",
+    "processGroup": "Monitoring and Controlling",
+    "summary": "Track schedule performance and adjust baselines when needed."
+  }
+]

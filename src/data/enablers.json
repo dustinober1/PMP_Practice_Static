@@ -1,0 +1,32 @@
+[
+  {
+    "id": "enabler-people-1",
+    "taskId": "people-1",
+    "text": "Facilitate working agreements and keep them visible."
+  },
+  {
+    "id": "enabler-people-2",
+    "taskId": "people-2",
+    "text": "Build a lightweight stakeholder map to guide messaging."
+  },
+  {
+    "id": "enabler-process-1",
+    "taskId": "process-1",
+    "text": "Run regular backlog refinement with clear acceptance criteria."
+  },
+  {
+    "id": "enabler-process-2",
+    "taskId": "process-2",
+    "text": "Add in-line quality gates (peer review, automated checks) to reduce rework."
+  },
+  {
+    "id": "enabler-business-1",
+    "taskId": "business-1",
+    "text": "Track benefits metrics and validate assumptions at each release."
+  },
+  {
+    "id": "enabler-business-2",
+    "taskId": "business-2",
+    "text": "Maintain a compliance register and pair with SMEs early."
+  }
+]

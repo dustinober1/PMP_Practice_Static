@@ -1,0 +1,17 @@
+[
+  {
+    "id": "people",
+    "name": "People",
+    "summary": "Team leadership, stakeholder engagement, and communication."
+  },
+  {
+    "id": "process",
+    "name": "Process",
+    "summary": "Systems, quality, and delivery practices that keep work moving."
+  },
+  {
+    "id": "business",
+    "name": "Business Environment",
+    "summary": "Strategy alignment, value delivery, and compliance."
+  }
+]
