@@ -1,0 +1,728 @@
+[
+  {
+    "id": "q-people-3-2-001",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A new developer consistently meets deadlines but says they are not learning anything new. What should the project manager do first to support and recognize this team member's growth and development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Discuss the developer's career goals and identify stretch assignments that align with project needs."
+      },
+      {
+        "id": "b",
+        "label": "Increase the developer's workload on routine tasks to maintain their productivity level."
+      },
+      {
+        "id": "c",
+        "label": "Explain that growth opportunities will be considered after the project closes."
+      },
+      {
+        "id": "d",
+        "label": "Ask the developer to search for training on their own without project support."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding career goals and offering aligned stretch work is a direct way to support growth while meeting project objectives. Option b is incorrect because more routine work does not address development needs. Option c is incorrect because postponing growth indefinitely demotivates the team member. Option d is incorrect because it shifts responsibility entirely to the individual without support or alignment.",
+    "difficulty": "easy",
+    "topics": ["career goals", "stretch assignments"]
+  },
+  {
+    "id": "q-people-3-2-002",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "During a retrospective, a tester shares that they completed a certification directly relevant to the project. The project manager was not aware. How should the project manager respond to best recognize this development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Congratulate the tester, ask how the new skills can be applied on the project, and acknowledge the achievement with the team."
+      },
+      {
+        "id": "b",
+        "label": "Note the certification in a private file but make no mention of it to the team."
+      },
+      {
+        "id": "c",
+        "label": "Explain that personal certifications are outside the scope of the project and change the subject."
+      },
+      {
+        "id": "d",
+        "label": "Assign all complex work to the tester immediately without consultation."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because recognizing the achievement publicly and exploring how to apply new skills reinforces growth and benefits the project. Option b is incorrect because silent recognition does not reinforce positive behavior. Option c is incorrect because dismissing the certification discourages development. Option d is incorrect because overloading the tester without discussion may create burnout.",
+    "difficulty": "easy",
+    "topics": ["recognition", "skill application"]
+  },
+  {
+    "id": "q-people-3-2-003",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A senior analyst wants to grow into a product owner role. The project is under schedule pressure, and the analyst is a key contributor. What is the best way for the project manager to support their development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Offer the analyst opportunities to shadow the current product owner and co-facilitate backlog refinement sessions."
+      },
+      {
+        "id": "b",
+        "label": "Explain that development into other roles must wait until the analyst leaves the project."
+      },
+      {
+        "id": "c",
+        "label": "Ask the analyst to practice product owner skills only outside working hours."
+      },
+      {
+        "id": "d",
+        "label": "Assign the analyst a second full-time role as product owner without support."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shadowing and co-facilitation provide practical experience without abruptly removing the analyst from their current responsibilities. Option b is incorrect because delaying growth unnecessarily may cause disengagement. Option c is incorrect because expecting development only after hours is unsustainable and unfair. Option d is incorrect because dual full-time roles are unrealistic and risk quality issues.",
+    "difficulty": "medium",
+    "topics": ["role transition", "shadowing"]
+  },
+  {
+    "id": "q-people-3-2-004",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "The organization offers a limited training budget. Two team members request the same course, but only one seat is available. What should the project manager do to support growth fairly?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Evaluate which request aligns most with current project needs and each person's development plan, then discuss the decision transparently with both."
+      },
+      {
+        "id": "b",
+        "label": "Select a participant based on who asked first, without further discussion."
+      },
+      {
+        "id": "c",
+        "label": "Assign the training seat randomly to avoid making a decision."
+      },
+      {
+        "id": "d",
+        "label": "Give the seat to the highest-paid team member by default."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning scarce training with both project value and individual development, while explaining the reasoning, supports fairness and transparency. Option b is incorrect because first-come, first-served ignores strategic fit. Option c is incorrect because random selection prevents targeted development. Option d is incorrect because compensation level is not a sound criterion for training allocation.",
+    "difficulty": "medium",
+    "topics": ["training budget", "fairness"]
+  },
+  {
+    "id": "q-people-3-2-005",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A quiet team member has been consistently helping others solve complex issues but does not talk about these contributions. How can the project manager best recognize their development and impact?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Highlight specific examples of their support in team meetings and discuss how this aligns with their growth path."
+      },
+      {
+        "id": "b",
+        "label": "Assume the team member is satisfied and take no action."
+      },
+      {
+        "id": "c",
+        "label": "Ask the team member to stop helping others to focus only on their own tasks."
+      },
+      {
+        "id": "d",
+        "label": "Send a generic thank-you email to the entire team without naming anyone."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because specific, visible recognition reinforces helpful behavior and connects it to development. Option b is incorrect because unrecognized contributions can lead to disengagement. Option c is incorrect because discouraging collaboration harms team performance. Option d is incorrect because vague recognition dilutes the impact for the person who contributed.",
+    "difficulty": "easy",
+    "topics": ["recognition", "collaboration"]
+  },
+  {
+    "id": "q-people-3-2-006",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A new graduate on the team is struggling with complex tasks but is eager to learn. What should the project manager do to best support their development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Pair the graduate with a mentor, assign gradually increasing complexity, and review progress regularly."
+      },
+      {
+        "id": "b",
+        "label": "Assign only simple, repetitive tasks so they can avoid mistakes."
+      },
+      {
+        "id": "c",
+        "label": "Reduce feedback to once a year so they have time to figure things out alone."
+      },
+      {
+        "id": "d",
+        "label": "Move the graduate off the project until they gain more experience elsewhere."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured mentoring, progressive challenge, and regular feedback build confidence and skills. Option b is incorrect because only simple work limits learning. Option c is incorrect because infrequent feedback slows development. Option d is incorrect because it removes an opportunity to develop within the project context.",
+    "difficulty": "easy",
+    "topics": ["mentoring", "progressive challenge"]
+  },
+  {
+    "id": "q-people-3-2-007",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "You notice that only high-visibility roles receive recognition, while back-office contributors feel overlooked. What is the best action for the project manager to support growth and recognition across the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Create a recognition approach that includes behind-the-scenes contributions and invite peers to nominate colleagues."
+      },
+      {
+        "id": "b",
+        "label": "Focus recognition only on those who present in steering meetings."
+      },
+      {
+        "id": "c",
+        "label": "Leave recognition to functional managers and ignore it at the project level."
+      },
+      {
+        "id": "d",
+        "label": "Rotate recognition randomly, regardless of actual contributions."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because inclusive recognition that surfaces non-visible work supports morale and growth. Option b is incorrect because recognizing only visible roles undervalues essential support work. Option c is incorrect because project-level recognition is part of effective team leadership. Option d is incorrect because random recognition weakens the link between behavior and appreciation.",
+    "difficulty": "medium",
+    "topics": ["inclusive recognition", "peer nominations"]
+  },
+  {
+    "id": "q-people-3-2-008",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A high-performing engineer wants to learn facilitation skills. The project has upcoming workshops with stakeholders. How can the project manager best support this development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Have the engineer co-facilitate a workshop with guidance and debrief afterward."
+      },
+      {
+        "id": "b",
+        "label": "Ask the engineer to silently observe meetings without any active role."
+      },
+      {
+        "id": "c",
+        "label": "Tell the engineer facilitation is unrelated to engineering and decline the request."
+      },
+      {
+        "id": "d",
+        "label": "Assign the engineer to facilitate all future workshops alone immediately."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because co-facilitation with coaching provides a safe environment to practice new skills. Option b is incorrect because observation without participation limits practical learning. Option c is incorrect because facilitation is valuable for many technical roles. Option d is incorrect because assigning full responsibility without support may lead to failure.",
+    "difficulty": "medium",
+    "topics": ["facilitation skills", "co-facilitation"]
+  },
+  {
+    "id": "q-people-3-2-009",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "The project manager wants to encourage a learning culture on a long-running project. What is the most effective way to support ongoing team development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Incorporate learning goals into sprint planning and celebrate when team members share new knowledge."
+      },
+      {
+        "id": "b",
+        "label": "Limit all learning activities to off-hours to protect velocity."
+      },
+      {
+        "id": "c",
+        "label": "Allow learning only at the end of the project to avoid distractions."
+      },
+      {
+        "id": "d",
+        "label": "Discourage experimenting with new techniques to avoid risk."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because integrating learning into normal planning and recognizing it reinforces a sustainable learning culture. Option b is incorrect because restricting learning to off-hours contributes to burnout. Option c is incorrect because deferring development reduces agility and adaptability. Option d is incorrect because avoiding experimentation limits improvement.",
+    "difficulty": "medium",
+    "topics": ["learning culture", "sprint goals"]
+  },
+  {
+    "id": "q-people-3-2-010",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A team member expresses interest in leadership but receives mostly operational tasks. What should the project manager do to align work with this growth aspiration?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Give them opportunities to lead small initiatives, such as coordinating a feature or facilitating a ceremony, and provide feedback."
+      },
+      {
+        "id": "b",
+        "label": "Explain that leadership development is reserved for senior staff only."
+      },
+      {
+        "id": "c",
+        "label": "Keep assigning operational tasks because they are familiar with them."
+      },
+      {
+        "id": "d",
+        "label": "Ask the team member to pursue leadership roles outside the project instead."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because giving real but manageable leadership opportunities with feedback is a practical way to grow leadership skills. Option b is incorrect because leadership development should not be limited arbitrarily. Option c is incorrect because stagnant assignments hinder growth. Option d is incorrect because ignoring aspirations within the project may cause attrition.",
+    "difficulty": "easy",
+    "topics": ["leadership development", "small initiatives"]
+  },
+  {
+    "id": "q-people-3-2-011",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "You observe that recognition in the team focuses on individual heroes, not on collaboration or knowledge sharing. How can the project manager redirect recognition to support healthy development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Design recognition criteria that value collaboration, mentoring, and shared outcomes, and communicate these expectations."
+      },
+      {
+        "id": "b",
+        "label": "Continue to recognize only individuals who work late hours to meet deadlines."
+      },
+      {
+        "id": "c",
+        "label": "Stop all forms of recognition so no one feels left out."
+      },
+      {
+        "id": "d",
+        "label": "Base recognition solely on who receives the most compliments from executives."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shifting recognition criteria toward collaborative behaviors encourages development that benefits the whole team. Option b is incorrect because rewarding long hours promotes unsustainable practices. Option c is incorrect because removing recognition altogether ignores an important motivational tool. Option d is incorrect because executive visibility alone is not a good proxy for contribution.",
+    "difficulty": "medium",
+    "topics": ["recognition criteria", "collaboration"]
+  },
+  {
+    "id": "q-people-3-2-012",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A team member returns from training but is not applying the new techniques. What is the best first step for the project manager to support development and realize value from the training?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Discuss what was learned, identify where it can be applied in the project, and agree on a small pilot use."
+      },
+      {
+        "id": "b",
+        "label": "Assume the training was not useful and stop funding future courses."
+      },
+      {
+        "id": "c",
+        "label": "Assign the team member to unrelated tasks so training does not slow delivery."
+      },
+      {
+        "id": "d",
+        "label": "Ignore the situation because training and application are separate concerns."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because linking training content to specific project opportunities helps the team member practice and the project benefit. Option b is incorrect because one case does not justify stopping all training. Option c is incorrect because moving the person away from relevant work prevents using the new skills. Option d is incorrect because development without application limits value.",
+    "difficulty": "medium",
+    "topics": ["training follow-up", "application"]
+  },
+  {
+    "id": "q-people-3-2-013",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "Your organization requires individual development plans (IDPs), but several team members see them as a formality. How can the project manager use IDPs to genuinely support growth?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Co-create IDPs that link personal goals with project opportunities and revisit them during one-on-one meetings."
+      },
+      {
+        "id": "b",
+        "label": "Fill out IDPs quickly with generic goals and file them away."
+      },
+      {
+        "id": "c",
+        "label": "Delegate IDP completion entirely to HR without project involvement."
+      },
+      {
+        "id": "d",
+        "label": "Only create IDPs for underperformers to correct issues."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because collaboratively created and regularly reviewed IDPs connect development to day-to-day work. Option b is incorrect because generic plans do not drive meaningful growth. Option c is incorrect because the project context is critical for practical development. Option d is incorrect because all team members, not just underperformers, benefit from structured growth planning.",
+    "difficulty": "medium",
+    "topics": ["individual development plans", "one-on-ones"]
+  },
+  {
+    "id": "q-people-3-2-014",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A team member from a non-technical background has joined a highly technical project. They feel overwhelmed and worry their contributions are small. How should the project manager support their development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Clarify expectations, pair them with a buddy, and assign tasks that leverage their strengths while gradually increasing technical exposure."
+      },
+      {
+        "id": "b",
+        "label": "Assign only administrative tasks to avoid technical complexity permanently."
+      },
+      {
+        "id": "c",
+        "label": "Advise them to look for a non-technical project instead of developing."
+      },
+      {
+        "id": "d",
+        "label": "Ask them to self-study technical topics without guidance or support."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because combining clear expectations, strengths-based work, and guided technical exposure builds confidence and capability. Option b is incorrect because restricting them to administrative tasks limits growth. Option c is incorrect because it dismisses the opportunity to develop. Option d is incorrect because unsupported self-study can be ineffective and discouraging.",
+    "difficulty": "easy",
+    "topics": ["onboarding", "strengths-based development"]
+  },
+  {
+    "id": "q-people-3-2-015",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "Midway through the project, you notice that most recognition comes only at release milestones. Team members say their ongoing progress is invisible. What is the best change to support and recognize development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Introduce regular, small-scale recognition during standups or reviews that highlights incremental growth and learning."
+      },
+      {
+        "id": "b",
+        "label": "Maintain recognition only at major milestones to keep it special."
+      },
+      {
+        "id": "c",
+        "label": "Recognize only those who deliver visible features, ignoring others."
+      },
+      {
+        "id": "d",
+        "label": "Ask team members to nominate themselves only at the end of the project."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because frequent, specific recognition of progress supports motivation and reinforces development throughout the project. Option b is incorrect because infrequent recognition underplays continuous improvement. Option c is incorrect because focusing only on visible output ignores important contributions. Option d is incorrect because self-nomination only at the end misses timely reinforcement.",
+    "difficulty": "easy",
+    "topics": ["continuous recognition", "incremental progress"]
+  },
+  {
+    "id": "q-people-3-2-016",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "Some team members attend conferences but do not share learnings with the rest of the project team. What is the best way for the project manager to support broader development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask attendees to prepare short knowledge-sharing sessions or summaries for the team after events."
+      },
+      {
+        "id": "b",
+        "label": "Treat conference attendance as a personal benefit with no obligation to share."
+      },
+      {
+        "id": "c",
+        "label": "Stop approving conference attendance for anyone in the future."
+      },
+      {
+        "id": "d",
+        "label": "Ask attendees to share learnings only with senior management."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured knowledge sharing multiplies the benefit of external learning and supports team development. Option b is incorrect because keeping knowledge private limits impact. Option c is incorrect because eliminating conferences wastes a potential growth channel. Option d is incorrect because sharing only upwards excludes the team that can apply the knowledge.",
+    "difficulty": "medium",
+    "topics": ["knowledge sharing", "conferences"]
+  },
+  {
+    "id": "q-people-3-2-017",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "Organizational metrics show that junior staff are not progressing into senior roles as expected. What can the project manager do within this project to better support junior team member development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Identify senior-junior pairs for mentoring, assign growth tasks, and provide feedback on readiness for increased responsibility."
+      },
+      {
+        "id": "b",
+        "label": "Assign all complex tasks to seniors to protect delivery dates."
+      },
+      {
+        "id": "c",
+        "label": "Advise juniors to wait for opportunities in other projects."
+      },
+      {
+        "id": "d",
+        "label": "Leave development planning entirely to HR and take no project-level actions."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because pairing, targeted tasks, and feedback within the project directly build junior capability. Option b is incorrect because shielding juniors from complexity slows their growth. Option c is incorrect because pushing opportunities elsewhere misses responsibility within the current project. Option d is incorrect because project-level actions are critical for day-to-day development.",
+    "difficulty": "hard",
+    "topics": ["junior development", "mentoring pairs"]
+  },
+  {
+    "id": "q-people-3-2-018",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A remote team member feels their achievements are less visible than those of co-located colleagues. What should the project manager do to support and recognize their development fairly?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Intentionally highlight remote contributions in group forums and ensure recognition practices work equally for all locations."
+      },
+      {
+        "id": "b",
+        "label": "Encourage the remote member to move closer to the main office for better visibility."
+      },
+      {
+        "id": "c",
+        "label": "Explain that visibility naturally favors co-located staff and cannot be changed."
+      },
+      {
+        "id": "d",
+        "label": "Recognize only co-located achievements to reinforce office presence."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because equitable recognition for remote staff requires deliberate effort to surface their contributions and ensure inclusive practices. Option b is incorrect because relocation is not a reasonable expectation. Option c is incorrect because the project manager can influence recognition patterns. Option d is incorrect because excluding remote contributions undermines engagement.",
+    "difficulty": "medium",
+    "topics": ["remote recognition", "inclusive practices"]
+  },
+  {
+    "id": "q-people-3-2-019",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "You learn that a team member has been presenting at internal communities of practice and is seen as an emerging expert. How can the project manager leverage this to support their growth and the team's development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Recognize their contributions, invite them to lead internal knowledge sessions, and discuss how this fits their development goals."
+      },
+      {
+        "id": "b",
+        "label": "Ask them to stop presenting externally to avoid distractions."
+      },
+      {
+        "id": "c",
+        "label": "Ignore this activity because it is not part of the project plan."
+      },
+      {
+        "id": "d",
+        "label": "Assign unrelated administrative work so they have less time for communities of practice."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning their emerging expertise with team learning and personal goals reinforces development. Option b is incorrect because stopping such engagement blocks growth and visibility. Option c is incorrect because this activity has clear benefits for both the individual and project. Option d is incorrect because assigning unrelated tasks to limit this activity is counterproductive.",
+    "difficulty": "medium",
+    "topics": ["communities of practice", "emerging experts"]
+  },
+  {
+    "id": "q-people-3-2-020",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "The sponsor believes recognition should be tied only to meeting schedule milestones, while the project manager wants to recognize learning and improvement. What should the project manager do?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Discuss with the sponsor how recognizing learning supports long-term performance and propose a balanced recognition approach."
+      },
+      {
+        "id": "b",
+        "label": "Follow the sponsor's view completely and avoid recognizing development efforts."
+      },
+      {
+        "id": "c",
+        "label": "Create a separate recognition program without informing the sponsor."
+      },
+      {
+        "id": "d",
+        "label": "Stop all recognition to avoid disagreement with the sponsor."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning expectations with the sponsor while advocating for development-based recognition supports both delivery and growth. Option b is incorrect because ignoring learning undermines capability. Option c is incorrect because secret programs can erode trust. Option d is incorrect because removing recognition harms motivation.",
+    "difficulty": "hard",
+    "topics": ["sponsor alignment", "recognition strategy"]
+  },
+  {
+    "id": "q-people-3-2-021",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A team member says their growth conversations focus only on weaknesses and never on strengths. What is the best way for the project manager to adjust their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Balance feedback by recognizing strengths, exploring how to use them more, and identifying a few development areas."
+      },
+      {
+        "id": "b",
+        "label": "Continue focusing only on weaknesses because they are the main issues."
+      },
+      {
+        "id": "c",
+        "label": "Avoid giving any feedback to prevent uncomfortable conversations."
+      },
+      {
+        "id": "d",
+        "label": "Ask the team member to write their own review and use it without discussion."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because effective development conversations build on strengths as well as address gaps, which increases engagement. Option b is incorrect because an exclusive focus on weaknesses can demotivate. Option c is incorrect because avoiding feedback prevents growth. Option d is incorrect because using self-review alone misses the project manager's perspective.",
+    "difficulty": "easy",
+    "topics": ["strengths-based feedback", "development conversations"]
+  },
+  {
+    "id": "q-people-3-2-022",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "Due to budget constraints, formal training courses are limited this year. What is the most effective way for the project manager to still support team development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Encourage internal learning sessions, peer coaching, and small experiments that build skills on the job."
+      },
+      {
+        "id": "b",
+        "label": "Suspend all development efforts until more training budget becomes available."
+      },
+      {
+        "id": "c",
+        "label": "Tell team members that development is now their personal responsibility only."
+      },
+      {
+        "id": "d",
+        "label": "Focus exclusively on delivery metrics and ignore growth topics."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because on-the-job learning, peer coaching, and internal sessions can maintain development even with limited budget. Option b is incorrect because stopping development harms long-term capability. Option c is incorrect because shifting all responsibility to individuals reduces support. Option d is incorrect because ignoring growth may lead to stagnation and attrition.",
+    "difficulty": "medium",
+    "topics": ["low-cost development", "peer coaching"]
+  },
+  {
+    "id": "q-people-3-2-023",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "You notice that recognition often goes to the same few team members, while others feel invisible despite meeting their goals. What is the best way to adjust recognition practices?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Review recognition patterns, solicit input from the team, and set guidelines to ensure recognition is broad, specific, and aligned with contributions."
+      },
+      {
+        "id": "b",
+        "label": "Continue recognizing the same people since they are top performers."
+      },
+      {
+        "id": "c",
+        "label": "Stop all public recognition and provide only private feedback."
+      },
+      {
+        "id": "d",
+        "label": "Ask team members to nominate themselves only when they feel overlooked."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because analyzing patterns and establishing inclusive guidelines helps recognition support motivation across the team. Option b is incorrect because consistently overlooking others reduces engagement. Option c is incorrect because removing public recognition altogether misses a useful tool. Option d is incorrect because self-nomination alone may feel awkward and does not fix systemic patterns.",
+    "difficulty": "hard",
+    "topics": ["recognition patterns", "team input"]
+  },
+  {
+    "id": "q-people-3-2-024",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "A high-potential team member is at risk of burnout due to taking on too many stretch assignments. How should the project manager respond while still supporting development?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Rebalance their workload, prioritize a few key growth assignments, and discuss sustainable pacing for development."
+      },
+      {
+        "id": "b",
+        "label": "Encourage them to continue accepting all extra work to maintain visibility."
+      },
+      {
+        "id": "c",
+        "label": "Remove all challenging work and assign only simple tasks from now on."
+      },
+      {
+        "id": "d",
+        "label": "Ignore early burnout signs because high performers can handle more work."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because sustainable development requires balancing stretch assignments with capacity and well-being. Option b is incorrect because constant overload increases burnout risk. Option c is incorrect because eliminating challenge entirely slows growth. Option d is incorrect because ignoring burnout signs can lead to serious performance and health issues.",
+    "difficulty": "hard",
+    "topics": ["burnout risk", "sustainable growth"]
+  },
+  {
+    "id": "q-people-3-2-025",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-2"],
+    "text": "At project closeout, you want to support future growth for your team members. What is the most appropriate step for the project manager to take?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Conduct development-focused exit discussions, document achievements and new skills, and share insights with functional managers."
+      },
+      {
+        "id": "b",
+        "label": "Focus only on documenting deliverables and ignore team development topics."
+      },
+      {
+        "id": "c",
+        "label": "Assume functional managers already know about team growth and take no action."
+      },
+      {
+        "id": "d",
+        "label": "End the project abruptly without providing any feedback or recognition."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because reflecting on growth, recording new skills, and informing functional managers help team members access future opportunities. Option b is incorrect because focusing only on deliverables ignores people development. Option c is incorrect because assuming others know about growth may cause missed opportunities. Option d is incorrect because closing without feedback or recognition undermines morale.",
+    "difficulty": "medium",
+    "topics": ["project closure", "future opportunities"]
+  }
+]
+
