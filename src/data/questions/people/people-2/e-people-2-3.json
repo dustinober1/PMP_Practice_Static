@@ -9,11 +9,11 @@
     "text": "The team is experiencing low morale and feels unsupported. How can the project manager demonstrate servant leadership?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Ask what is blocking the team, remove impediments, and provide resources they identify as needed."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Increase oversight and micromanage daily tasks."
       },
       {
@@ -25,13 +25,15 @@
         "label": "Delegate all leadership responsibilities to the sponsor."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because servant leaders focus on enabling the team by removing obstacles and providing support. Option b is incorrect because micromanagement reduces autonomy and motivation. Option c is incorrect because demanding more effort without support ignores root causes. Option d is incorrect because abdicating leadership removes local support.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because servant leaders focus on enabling the team by removing obstacles and providing support. Option a is incorrect because micromanagement reduces autonomy and motivation. Option c is incorrect because demanding more effort without support ignores root causes. Option d is incorrect because abdicating leadership removes local support.",
     "difficulty": "easy",
     "topics": [
       "servant leadership",
       "impediment removal"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-002",
@@ -43,11 +45,11 @@
     "text": "Team members are hesitant to raise impediments. What servant leadership behavior should the project manager show?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Model vulnerability by sharing their own challenges and inviting open discussion of issues."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Criticize anyone who mentions problems in public."
       },
       {
@@ -59,13 +61,15 @@
         "label": "Ignore impediments and rely on escalation only through formal channels."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because modeling openness and vulnerability encourages others to speak up. Option b is incorrect because criticism discourages transparency. Option c is incorrect because equating impediments with weakness reduces learning. Option d is incorrect because relying only on formal escalations delays action.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because modeling openness and vulnerability encourages others to speak up. Option a is incorrect because criticism discourages transparency. Option c is incorrect because equating impediments with weakness reduces learning. Option d is incorrect because relying only on formal escalations delays action.",
     "difficulty": "medium",
     "topics": [
       "servant leadership",
       "psychological safety"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-003",
@@ -74,14 +78,14 @@
     "enablerIds": [
       "e-people-2-3"
     ],
-    "text": "A senior leader suggests taking credit for the team’s success without mentioning them. How should a servant leader respond?",
+    "text": "A senior leader suggests taking credit for the team's success without mentioning them. How should a servant leader respond?",
     "options": [
       {
-        "id": "a",
-        "label": "Highlight the team’s contributions and insist on sharing credit with them."
+        "id": "b",
+        "label": "Highlight the team's contributions and insist on sharing credit with them."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Agree to take credit alone to improve personal visibility."
       },
       {
@@ -93,13 +97,15 @@
         "label": "Ignore the suggestion and submit reports without acknowledging anyone."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because servant leaders elevate the team and recognize their contributions. Option b is incorrect because taking sole credit undermines trust. Option c is incorrect because omitting the team hides their effort. Option d is incorrect because ignoring recognition misses an opportunity to motivate.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because servant leaders elevate the team and recognize their contributions. Option a is incorrect because taking sole credit undermines trust. Option c is incorrect because omitting the team hides their effort. Option d is incorrect because ignoring recognition misses an opportunity to motivate.",
     "difficulty": "hard",
     "topics": [
       "recognition",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-004",
@@ -111,11 +117,11 @@
     "text": "The team is struggling with a blocker that requires cross-functional coordination. What is a servant leadership response?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Use your network to connect the right people and stay engaged until the blocker is removed."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Tell the team to handle it alone without support."
       },
       {
@@ -127,13 +133,15 @@
         "label": "Document the blocker but take no action."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because servant leaders actively help remove cross-team obstacles. Option b is incorrect because abandoning the team contradicts servant leadership. Option c is incorrect because waiting passively delays resolution. Option d is incorrect because documentation alone does not clear the blocker.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because servant leaders actively help remove cross-team obstacles. Option a is incorrect because abandoning the team contradicts servant leadership. Option c is incorrect because waiting passively delays resolution. Option d is incorrect because documentation alone does not clear the blocker.",
     "difficulty": "medium",
     "topics": [
       "impediments",
       "cross-functional support"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-005",
@@ -145,11 +153,11 @@
     "text": "Several team members ask for clearer growth opportunities. What should a servant leader project manager do?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Discuss development goals individually and look for ways to align work assignments with growth."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Explain that growth is outside the scope of project leadership."
       },
       {
@@ -161,13 +169,15 @@
         "label": "Assign extra work without considering development goals."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because serving the team includes supporting their development when possible. Option b is incorrect because leadership influences growth even if HR owns formal paths. Option c is incorrect because avoiding development discussions limits engagement. Option d is incorrect because extra work without purpose can demotivate.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because serving the team includes supporting their development when possible. Option a is incorrect because leadership influences growth even if HR owns formal paths. Option c is incorrect because avoiding development discussions limits engagement. Option d is incorrect because extra work without purpose can demotivate.",
     "difficulty": "medium",
     "topics": [
       "servant leadership",
       "development"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-006",
@@ -179,11 +189,11 @@
     "text": "The team reports that their biggest pain point is slow access to test environments, which leadership has not prioritized. What should a servant leader project manager do?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Collect evidence of the impact, advocate for improvement with leadership, and help remove the environment bottleneck."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Tell the team to be patient because environment issues are common."
       },
       {
@@ -195,13 +205,15 @@
         "label": "Avoid raising the issue to maintain a good relationship with leadership."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because servant leaders act to remove obstacles that slow the team, using data to build a case for change. Option b is incorrect because accepting chronic pain points keeps productivity low. Option c is incorrect because overtime treats symptoms instead of root causes and risks burnout. Option d is incorrect because avoiding escalation leaves the team unsupported.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because servant leaders act to remove obstacles that slow the team, using data to build a case for change. Option a is incorrect because accepting chronic pain points keeps productivity low. Option c is incorrect because overtime treats symptoms instead of root causes and risks burnout. Option d is incorrect because avoiding escalation leaves the team unsupported.",
     "difficulty": "medium",
     "topics": [
       "servant leadership",
       "impediment advocacy"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-007",
@@ -213,7 +225,7 @@
     "text": "Team members say they rarely receive recognition except when things go wrong. How should a servant leader respond?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Introduce regular, specific recognition of positive behaviors and outcomes during ceremonies and updates."
       },
       {
@@ -221,7 +233,7 @@
         "label": "Explain that pay is their only form of recognition and nothing else is needed."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Reserve feedback solely for failures to keep standards high."
       },
       {
@@ -229,13 +241,15 @@
         "label": "Delegate all recognition to HR and avoid direct involvement."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because consistent, specific recognition from leaders supports motivation and morale. Option b is incorrect because relying only on pay ignores intrinsic motivators. Option c is incorrect because focusing on failures creates a negative culture. Option d is incorrect because servant leaders are directly engaged in appreciating the team.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because consistent, specific recognition from leaders supports motivation and morale. Option b is incorrect because relying only on pay ignores intrinsic motivators. Option a is incorrect because focusing on failures creates a negative culture. Option d is incorrect because servant leaders are directly engaged in appreciating the team.",
     "difficulty": "easy",
     "topics": [
       "servant leadership",
       "recognition"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-008",
@@ -247,7 +261,7 @@
     "text": "The team is unclear which impediments the project manager will handle versus what they should solve themselves. What is a servant leadership action?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Clarify expectations, encourage the team to solve what they can, and commit to escalating issues beyond their reach."
       },
       {
@@ -255,7 +269,7 @@
         "label": "Take over all problem solving personally to show leadership."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Ask the team to resolve every issue without support."
       },
       {
@@ -263,13 +277,15 @@
         "label": "Wait for the team to clarify roles on their own over time."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because defining shared responsibilities empowers the team while ensuring support where needed. Option b is incorrect because doing everything yourself undermines team ownership. Option c is incorrect because abandoning them contradicts servant leadership. Option d is incorrect because passively waiting prolongs confusion.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because defining shared responsibilities empowers the team while ensuring support where needed. Option b is incorrect because doing everything yourself undermines team ownership. Option a is incorrect because abandoning them contradicts servant leadership. Option d is incorrect because passively waiting prolongs confusion.",
     "difficulty": "medium",
     "topics": [
       "role clarity",
       "impediment ownership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-009",
@@ -281,7 +297,7 @@
     "text": "A cross-functional team struggles to coordinate work across functions. What would a servant leader do?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Facilitate cross-functional planning and daily collaboration until the team builds better coordination habits."
       },
       {
@@ -289,7 +305,7 @@
         "label": "Assign blame to whichever function seems to be late most often."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Avoid joining cross-functional sessions so the team can \"figure it out\" alone."
       },
       {
@@ -297,13 +313,15 @@
         "label": "Reduce cross-functional work by re-introducing strict silos."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because servant leaders help teams establish practices that improve collaboration and then gradually step back. Option b is incorrect because blame creates defensiveness rather than improvement. Option c is incorrect because complete absence may leave teams stuck. Option d is incorrect because re-creating silos undermines agile and collaborative principles.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because servant leaders help teams establish practices that improve collaboration and then gradually step back. Option b is incorrect because blame creates defensiveness rather than improvement. Option a is incorrect because complete absence may leave teams stuck. Option d is incorrect because re-creating silos undermines agile and collaborative principles.",
     "difficulty": "medium",
     "topics": [
       "cross-functional teams",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-010",
@@ -315,7 +333,7 @@
     "text": "A team member shares that they feel overloaded but worries about disappointing the project manager. What is a servant leader response?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Listen without judgment, adjust workload where possible, and thank them for raising the concern."
       },
       {
@@ -323,7 +341,7 @@
         "label": "Tell them that workload is fixed and they should manage stress privately."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Suggest they stop raising concerns if they want good evaluations."
       },
       {
@@ -331,13 +349,15 @@
         "label": "Ignore the comment and continue assigning tasks as before."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because supporting wellbeing and responding to concerns demonstrates care and encourages openness. Option b is incorrect because dismissing stress fosters burnout. Option c is incorrect because linking concerns to negative evaluations discourages transparency. Option d is incorrect because inaction ignores a clear signal.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because supporting wellbeing and responding to concerns demonstrates care and encourages openness. Option b is incorrect because dismissing stress fosters burnout. Option a is incorrect because linking concerns to negative evaluations discourages transparency. Option d is incorrect because inaction ignores a clear signal.",
     "difficulty": "easy",
     "topics": [
       "wellbeing",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-011",
@@ -349,7 +369,7 @@
     "text": "The project manager notices that they speak first in every meeting, and the team rarely disagrees. What should a servant leader do?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Deliberately speak last, invite alternative views, and create space for others to lead discussions."
       },
       {
@@ -357,7 +377,7 @@
         "label": "Maintain the pattern because it keeps meetings efficient."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Discourage team members from bringing different perspectives to avoid conflict."
       },
       {
@@ -365,13 +385,15 @@
         "label": "Reduce the number of meetings to limit team input."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because stepping back and encouraging others to contribute fosters ownership and better ideas. Option b is incorrect because over-dominance suppresses contributions. Option c is incorrect because discouraging differing views reduces learning. Option d is incorrect because fewer meetings without changed behavior does not solve the underlying issue.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because stepping back and encouraging others to contribute fosters ownership and better ideas. Option b is incorrect because over-dominance suppresses contributions. Option a is incorrect because discouraging differing views reduces learning. Option d is incorrect because fewer meetings without changed behavior does not solve the underlying issue.",
     "difficulty": "medium",
     "topics": [
       "servant leadership",
       "facilitation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-012",
@@ -383,7 +405,7 @@
     "text": "Leadership suggests imposing a solution on the team for a complex problem. How would a servant leader prefer to approach this?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Advocate for involving the team in exploring options and present their insights to leadership."
       },
       {
@@ -391,21 +413,23 @@
         "label": "Accept the imposed solution immediately without consulting the team."
       },
       {
-        "id": "c",
-        "label": "Keep the team unaware of leadership’s ideas to avoid debate."
+        "id": "a",
+        "label": "Keep the team unaware of leadership's ideas to avoid debate."
       },
       {
         "id": "d",
         "label": "Ask the team to implement the solution without explaining the reasoning."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because engaging the team respects their expertise and can improve the solution while still aligning with leadership. Option b is incorrect because bypassing the team reduces buy-in. Option c is incorrect because withholding information erodes trust. Option d is incorrect because lack of context undermines motivation and quality.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because engaging the team respects their expertise and can improve the solution while still aligning with leadership. Option b is incorrect because bypassing the team reduces buy-in. Option a is incorrect because withholding information erodes trust. Option d is incorrect because lack of context undermines motivation and quality.",
     "difficulty": "hard",
     "topics": [
       "servant leadership",
       "leadership alignment"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-013",
@@ -417,7 +441,7 @@
     "text": "A team member suggests an improvement that could reduce manual work, but the project manager is busy. What should a servant leader do?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Prioritize understanding the suggestion, help evaluate it, and support implementation if it benefits the team."
       },
       {
@@ -429,17 +453,19 @@
         "label": "Ask the team member to drop the idea to avoid distraction."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Delegate the suggestion to another project without follow-up."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because servant leaders value team-generated improvements that remove waste. Option b is incorrect because rigidity hampers continuous improvement. Option c is incorrect because discouraging ideas diminishes engagement. Option d is incorrect because passing it off without follow-up may stall progress.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because servant leaders value team-generated improvements that remove waste. Option b is incorrect because rigidity hampers continuous improvement. Option c is incorrect because discouraging ideas diminishes engagement. Option a is incorrect because passing it off without follow-up may stall progress.",
     "difficulty": "medium",
     "topics": [
       "continuous improvement",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-014",
@@ -448,10 +474,10 @@
     "enablerIds": [
       "e-people-2-3"
     ],
-    "text": "Team members are unclear about how decisions are made and feel excluded. What is a servant leader’s action?",
+    "text": "Team members are unclear about how decisions are made and feel excluded. What is a servant leader's action?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Clarify decision-making processes, share who is involved for which decisions, and invite feedback on the approach."
       },
       {
@@ -463,17 +489,19 @@
         "label": "Inform the team that decisions are confidential and not their concern."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Reduce communication about decisions to avoid questions."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because transparency and feedback about decisions build trust and engagement. Option b is incorrect because opacity breeds mistrust. Option c is incorrect because declaring decisions off-limits signals disregard for the team. Option d is incorrect because reducing communication worsens exclusion.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because transparency and feedback about decisions build trust and engagement. Option b is incorrect because opacity breeds mistrust. Option c is incorrect because declaring decisions off-limits signals disregard for the team. Option a is incorrect because reducing communication worsens exclusion.",
     "difficulty": "medium",
     "topics": [
       "decision transparency",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-015",
@@ -485,7 +513,7 @@
     "text": "The team is hesitant to experiment with new ideas because they fear blame if experiments fail. How can the project manager act as a servant leader?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Frame experiments as learning opportunities, protect the team when outcomes are not ideal, and focus on what was learned."
       },
       {
@@ -497,17 +525,19 @@
         "label": "Punish failed experiments to reinforce high standards."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Avoid discussing experiments to keep risk low."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because psychological safety around experiments helps teams innovate. Option b is incorrect because banning experimentation limits improvement. Option c is incorrect because punishment discourages future learning. Option d is incorrect because not discussing experiments hides risk-taking and learning.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because psychological safety around experiments helps teams innovate. Option b is incorrect because banning experimentation limits improvement. Option c is incorrect because punishment discourages future learning. Option a is incorrect because not discussing experiments hides risk-taking and learning.",
     "difficulty": "medium",
     "topics": [
       "experimentation",
       "safety"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-016",
@@ -519,7 +549,7 @@
     "text": "During a retrospective, most actions identified require management support. What should a servant leader do?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Help prioritize actions, sponsor them with leadership, and communicate progress back to the team."
       },
       {
@@ -531,17 +561,19 @@
         "label": "Tell the team that management concerns will be handled, but never follow up."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Ask the team to stop proposing actions that require support."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because servant leaders bridge the gap between team needs and management, ensuring actions move forward. Option b is incorrect because ignoring these actions wastes insight. Option c is incorrect because unfulfilled promises erode trust. Option d is incorrect because limiting suggestions restricts improvement.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because servant leaders bridge the gap between team needs and management, ensuring actions move forward. Option b is incorrect because ignoring these actions wastes insight. Option c is incorrect because unfulfilled promises erode trust. Option a is incorrect because limiting suggestions restricts improvement.",
     "difficulty": "medium",
     "topics": [
       "retrospective actions",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-017",
@@ -550,10 +582,10 @@
     "enablerIds": [
       "e-people-2-3"
     ],
-    "text": "A new project manager joins a team with existing practices. What is a servant leader’s first step?",
+    "text": "A new project manager joins a team with existing practices. What is a servant leader's first step?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Observe and listen to understand current practices and needs before suggesting changes."
       },
       {
@@ -565,17 +597,19 @@
         "label": "Avoid meeting the team to stay objective."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Ask the sponsor which practices to remove without consulting the team."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because servant leaders seek to understand before changing systems, showing respect for existing experience. Option b is incorrect because imposing changes can create resistance. Option c is incorrect because avoiding the team prevents understanding. Option d is incorrect because removing practices without team input may discard what works.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because servant leaders seek to understand before changing systems, showing respect for existing experience. Option b is incorrect because imposing changes can create resistance. Option c is incorrect because avoiding the team prevents understanding. Option a is incorrect because removing practices without team input may discard what works.",
     "difficulty": "easy",
     "topics": [
       "servant leadership",
       "joining a team"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-018",
@@ -587,7 +621,7 @@
     "text": "A team member often volunteers to support others but is not getting help when they are stuck. How should a servant leader respond?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Highlight the importance of mutual support and ensure the team makes time to assist them as well."
       },
       {
@@ -599,17 +633,19 @@
         "label": "Advise them to stop helping others to protect their capacity."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Ignore the imbalance and let team dynamics evolve on their own."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because promoting reciprocity and balanced support strengthens team cohesion. Option b is incorrect because one-sided support can lead to burnout. Option c is incorrect because advising withdrawal removes a positive behavior rather than fixing imbalance. Option d is incorrect because inaction allows unfair patterns to persist.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because promoting reciprocity and balanced support strengthens team cohesion. Option b is incorrect because one-sided support can lead to burnout. Option c is incorrect because advising withdrawal removes a positive behavior rather than fixing imbalance. Option a is incorrect because inaction allows unfair patterns to persist.",
     "difficulty": "medium",
     "topics": [
       "team support",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-019",
@@ -630,7 +666,7 @@
       },
       {
         "id": "c",
-        "label": "Ignore leadership’s request without discussion."
+        "label": "Ignore leadership's request without discussion."
       },
       {
         "id": "d",
@@ -643,7 +679,9 @@
     "topics": [
       "time balance",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-020",
@@ -677,7 +715,9 @@
     "topics": [
       "feedback loop",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-021",
@@ -711,7 +751,9 @@
     "topics": [
       "dependencies",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-022",
@@ -745,7 +787,9 @@
     "topics": [
       "context sharing",
       "empowerment"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-023",
@@ -754,7 +798,7 @@
     "enablerIds": [
       "e-people-2-3"
     ],
-    "text": "A team member makes a mistake that impacts delivery. What is a servant leader’s response?",
+    "text": "A team member makes a mistake that impacts delivery. What is a servant leader's response?",
     "options": [
       {
         "id": "a",
@@ -779,7 +823,9 @@
     "topics": [
       "mistakes",
       "learning culture"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-024",
@@ -788,7 +834,7 @@
     "enablerIds": [
       "e-people-2-3"
     ],
-    "text": "The team’s improvement backlog is growing, but little time is dedicated to it. What should a servant leader do?",
+    "text": "The team's improvement backlog is growing, but little time is dedicated to it. What should a servant leader do?",
     "options": [
       {
         "id": "a",
@@ -813,7 +859,9 @@
     "topics": [
       "improvement backlog",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-3-025",
@@ -847,6 +895,8 @@
     "topics": [
       "sustainable pace",
       "servant leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   }
 ]

@@ -1,0 +1,641 @@
+{
+  "totalQuestionsCompared": 75,
+  "issues": [],
+  "coverageGaps": [
+    {
+      "enablerId": "e-people-2-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-2-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-2-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-2-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-2-5",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-3-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-3-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-3-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-3-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-4-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-4-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-4-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-4-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-5-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-5-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-5-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-5-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-6-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-6-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-6-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-7-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-7-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-7-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-7-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-8-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-8-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-8-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-8-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-8-5",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-9-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-9-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-9-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-10-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-10-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-10-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-10-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-11-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-11-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-11-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-11-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-12-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-12-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-12-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-13-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-13-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-14-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-people-14-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-1-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-1-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-1-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-2-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-2-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-2-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-2-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-3-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-3-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-4-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-4-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-4-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-4-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-5-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-5-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-5-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-5-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-6-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-6-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-6-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-6-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-6-5",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-7-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-7-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-7-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-8-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-8-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-8-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-9-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-9-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-9-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-9-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-9-5",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-10-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-10-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-10-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-10-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-11-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-11-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-11-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-11-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-11-5",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-12-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-12-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-12-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-13-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-13-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-13-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-13-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-14-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-14-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-15-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-15-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-15-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-16-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-16-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-16-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-17-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-17-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-process-17-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-1-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-1-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-1-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-1-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-1-5",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-1-6",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-1-7",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-2-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-2-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-2-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-2-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-2-5",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-2-6",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-3-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-3-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-3-3",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-3-4",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-4-1",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-4-2",
+      "count": 0,
+      "expected": 25
+    },
+    {
+      "enablerId": "e-business-4-3",
+      "count": 0,
+      "expected": 25
+    }
+  ]
+}

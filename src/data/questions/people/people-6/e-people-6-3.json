@@ -3,425 +3,850 @@
     "id": "q-people-6-3-001",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "Midway through an agile project, the team decides to switch from a relational database to a NoSQL database to improve performance. The project manager identifies that the current team lacks experience with NoSQL. What should the project manager do immediately?",
     "options": [
-      { "id": "a", "label": "Hire a new team of external consultants to replace the current team." },
-      { "id": "b", "label": "Assess the specific skill gap and arrange for immediate training or coaching for the existing team." },
-      { "id": "c", "label": "Ask the Product Owner to remove the database requirement from the backlog." },
-      { "id": "d", "label": "Instruct the team to learn it on their own time over the weekend." }
+      {
+        "id": "a",
+        "label": "Hire a new team of external consultants to replace the current team."
+      },
+      {
+        "id": "b",
+        "label": "Assess the specific skill gap and arrange for immediate training or coaching for the existing team."
+      },
+      {
+        "id": "c",
+        "label": "Ask the Product Owner to remove the database requirement from the backlog."
+      },
+      {
+        "id": "d",
+        "label": "Instruct the team to learn it on their own time over the weekend."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. When project needs change (technology switch), the PM must continuously assess skills and refresh them through training or coaching. Option a is disruptive and hurts morale. Option c ignores the technical necessity. Option d violates sustainable work practices.",
     "difficulty": "medium",
-    "topics": ["Skill Gap Analysis", "Training"]
+    "topics": [
+      "Skill Gap Analysis",
+      "Training"
+    ]
   },
   {
     "id": "q-people-6-3-002",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "During a Sprint Retrospective, the team highlights that testing is becoming a bottleneck because only one person knows how to use the automation tool. What strategy should the project manager (or Scrum Master) encourage to refresh team skills?",
     "options": [
-      { "id": "a", "label": "Implement pair programming or cross-training to spread the automation skill." },
-      { "id": "b", "label": "Hire a second dedicated tester to work in isolation." },
-      { "id": "c", "label": "Reduce the sprint scope to match the single tester's capacity permanently." },
-      { "id": "d", "label": "Ask the tester to work overtime to clear the bottleneck." }
+      {
+        "id": "a",
+        "label": "Implement pair programming or cross-training to spread the automation skill."
+      },
+      {
+        "id": "b",
+        "label": "Hire a second dedicated tester to work in isolation."
+      },
+      {
+        "id": "c",
+        "label": "Reduce the sprint scope to match the single tester's capacity permanently."
+      },
+      {
+        "id": "d",
+        "label": "Ask the tester to work overtime to clear the bottleneck."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct. Continuous assessment revealed a 'single point of failure.' Cross-training (refreshing skills of others) builds T-shaped skills and removes the bottleneck. Option b reinforces silos. Option c accepts inefficiency. Option d leads to burnout.",
     "difficulty": "medium",
-    "topics": ["Cross-Training", "T-Shaped Skills"]
+    "topics": [
+      "Cross-Training",
+      "T-Shaped Skills"
+    ]
   },
   {
     "id": "q-people-6-3-003",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A project manager observes that a high-performing team member has started making simple errors in their code. After a private conversation, it is revealed the member is burnt out. How should the project manager assess and refresh the situation?",
     "options": [
-      { "id": "a", "label": "Send the member to a technical refresher course." },
-      { "id": "b", "label": "Issue a formal warning about performance standards." },
-      { "id": "c", "label": "Assess the workload and allow the member time to recover, potentially re-assigning tasks temporarily." },
-      { "id": "d", "label": "Ignore the errors as the member has a good track record." }
+      {
+        "id": "a",
+        "label": "Send the member to a technical refresher course."
+      },
+      {
+        "id": "b",
+        "label": "Issue a formal warning about performance standards."
+      },
+      {
+        "id": "c",
+        "label": "Assess the workload and allow the member time to recover, potentially re-assigning tasks temporarily."
+      },
+      {
+        "id": "d",
+        "label": "Ignore the errors as the member has a good track record."
+      }
     ],
     "correctOptionId": "c",
     "explanation": "Option c is correct. Skill assessment isn't just about knowledge; it's about capacity and well-being. 'Refreshing' here means restoring the human resource's energy. Option a misdiagnoses burnout as a lack of skill. Option b is punitive and counterproductive. Option d risks project quality.",
     "difficulty": "medium",
-    "topics": ["Burnout", "Performance Support"]
+    "topics": [
+      "Burnout",
+      "Performance Support"
+    ]
   },
   {
     "id": "q-people-6-3-004",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "The project is entering Phase 3, which involves complex regulatory compliance documentation. The project manager reviews the team's capabilities and realizes they are excellent at construction but weak in documentation. This action is best described as:",
     "options": [
-      { "id": "a", "label": "Project closure." },
-      { "id": "b", "label": "Continuous skill assessment aligned with upcoming project phases." },
-      { "id": "c", "label": "Scope creep analysis." },
-      { "id": "d", "label": "Stakeholder identification." }
+      {
+        "id": "a",
+        "label": "Project closure."
+      },
+      {
+        "id": "b",
+        "label": "Continuous skill assessment aligned with upcoming project phases."
+      },
+      {
+        "id": "c",
+        "label": "Scope creep analysis."
+      },
+      {
+        "id": "d",
+        "label": "Stakeholder identification."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. The PM is proactively looking ahead (Phase 3) and comparing the requirement (documentation) with current skills. This is the definition of continuous assessment to meet changing project needs. Option a is premature. Option c is unrelated to skills. Option d is already done.",
     "difficulty": "easy",
-    "topics": ["Phase Planning", "Proactive Assessment"]
+    "topics": [
+      "Phase Planning",
+      "Proactive Assessment"
+    ]
   },
   {
     "id": "q-people-6-3-005",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A junior developer is struggling to keep up with the team's velocity. The project manager wants to use a supportive approach to refresh their skills. Which action is most appropriate?",
     "options": [
-      { "id": "a", "label": "Publicly track their daily tasks on a whiteboard." },
-      { "id": "b", "label": "Assign a senior mentor to pair with them for the next two sprints." },
-      { "id": "c", "label": "Move them to a non-technical role immediately." },
-      { "id": "d", "label": "Recommend termination to HR." }
+      {
+        "id": "a",
+        "label": "Publicly track their daily tasks on a whiteboard."
+      },
+      {
+        "id": "b",
+        "label": "Assign a senior mentor to pair with them for the next two sprints."
+      },
+      {
+        "id": "c",
+        "label": "Move them to a non-technical role immediately."
+      },
+      {
+        "id": "d",
+        "label": "Recommend termination to HR."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Mentoring is a highly effective way to upskill (refresh) team members while building confidence. Option a is shaming. Option c gives up on the resource too early. Option d is a last resort, not a supportive first step.",
     "difficulty": "medium",
-    "topics": ["Mentoring", "Skill Development"]
+    "topics": [
+      "Mentoring",
+      "Skill Development"
+    ]
   },
   {
     "id": "q-people-6-3-006",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A project manager manages a long-term project (3 years). During year 2, a new version of the primary software tool is released. What should the project manager do?",
     "options": [
-      { "id": "a", "label": "Continue using the old version to avoid disruption." },
-      { "id": "b", "label": "Assess the benefits of the new version and if valuable, plan training for the team to upgrade their skills." },
-      { "id": "c", "label": "Demand the vendor support the old version indefinitely." },
-      { "id": "d", "label": "Fire the current team and hire one that knows the new version." }
+      {
+        "id": "a",
+        "label": "Continue using the old version to avoid disruption."
+      },
+      {
+        "id": "b",
+        "label": "Assess the benefits of the new version and if valuable, plan training for the team to upgrade their skills."
+      },
+      {
+        "id": "c",
+        "label": "Demand the vendor support the old version indefinitely."
+      },
+      {
+        "id": "d",
+        "label": "Fire the current team and hire one that knows the new version."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Long-term projects face technological drift. Continuous assessment involves evaluating new tools and 'refreshing' the team's skills to leverage efficiencies. Option a may result in technical debt or security risks. Option c is not always possible. Option d is extreme.",
     "difficulty": "medium",
-    "topics": ["Technology Refresh", "Long-term Planning"]
+    "topics": [
+      "Technology Refresh",
+      "Long-term Planning"
+    ]
   },
   {
     "id": "q-people-6-3-007",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "Which document is primarily updated when the project manager identifies that three team members need certification in safety protocols to continue working on the site?",
     "options": [
-      { "id": "a", "label": "The Project Charter." },
-      { "id": "b", "label": "The Resource Management Plan." },
-      { "id": "c", "label": "The Business Case." },
-      { "id": "d", "label": "The Lessons Learned Register." }
+      {
+        "id": "a",
+        "label": "The Project Charter."
+      },
+      {
+        "id": "b",
+        "label": "The Resource Management Plan."
+      },
+      {
+        "id": "c",
+        "label": "The Business Case."
+      },
+      {
+        "id": "d",
+        "label": "The Lessons Learned Register."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. The Resource Management Plan includes the training plan and certification requirements. When new training needs are identified, this plan (or the specific training log within it) is updated. Option a is a high-level authorization. Option c justifies the project existence. Option d records past events.",
     "difficulty": "medium",
-    "topics": ["Resource Management Plan", "Documentation"]
+    "topics": [
+      "Resource Management Plan",
+      "Documentation"
+    ]
   },
   {
     "id": "q-people-6-3-008",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "An agile team consistently fails to complete user stories related to the User Interface (UI). The Retrospective reveals that the back-end developers are uncomfortable doing UI work. How should the team address this?",
     "options": [
-      { "id": "a", "label": "Stop doing UI work." },
-      { "id": "b", "label": "Acknowledge the skill gap and schedule a 'Spike' or training session to upskill the back-end developers in UI basics." },
-      { "id": "c", "label": "Assign all UI work to the Product Owner." },
-      { "id": "d", "label": "Log it as a risk and do nothing." }
+      {
+        "id": "a",
+        "label": "Stop doing UI work."
+      },
+      {
+        "id": "b",
+        "label": "Acknowledge the skill gap and schedule a 'Spike' or training session to upskill the back-end developers in UI basics."
+      },
+      {
+        "id": "c",
+        "label": "Assign all UI work to the Product Owner."
+      },
+      {
+        "id": "d",
+        "label": "Log it as a risk and do nothing."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Assessing the failure reveals a skill gap. Refreshing the team's skills through a Spike (investigation/learning time) or training allows the team to become more cross-functional. Option a is impossible. Option c is not the PO's role. Option d fails to solve the problem.",
     "difficulty": "medium",
-    "topics": ["Agile Spikes", "Skill Gaps"]
+    "topics": [
+      "Agile Spikes",
+      "Skill Gaps"
+    ]
   },
   {
     "id": "q-people-6-3-009",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A project manager uses 360-degree feedback tools to assess team performance. The results show that while technical skills are high, communication scores are very low. What is the most appropriate next step?",
     "options": [
-      { "id": "a", "label": "Replace the team with better communicators." },
-      { "id": "b", "label": "Organize a communications workshop or team-building activity to refresh soft skills." },
-      { "id": "c", "label": "Ignore the feedback as long as the technical work is done." },
-      { "id": "d", "label": "Stop using 360-degree feedback tools." }
+      {
+        "id": "a",
+        "label": "Replace the team with better communicators."
+      },
+      {
+        "id": "b",
+        "label": "Organize a communications workshop or team-building activity to refresh soft skills."
+      },
+      {
+        "id": "c",
+        "label": "Ignore the feedback as long as the technical work is done."
+      },
+      {
+        "id": "d",
+        "label": "Stop using 360-degree feedback tools."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Assessment identified a specific soft-skill gap. The response should be to 'refresh' or build that specific skill through targeted training. Option a is drastic. Option c ignores a key component of project success (collaboration). Option d shoots the messenger.",
     "difficulty": "easy",
-    "topics": ["360-Degree Feedback", "Soft Skills"]
+    "topics": [
+      "360-Degree Feedback",
+      "Soft Skills"
+    ]
   },
   {
     "id": "q-people-6-3-010",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "During a project performance review, the project manager notices that the team's actual cost per hour is higher than planned because senior staff are performing junior-level tasks. What does this assessment suggest?",
     "options": [
-      { "id": "a", "label": "The team needs more senior staff." },
-      { "id": "b", "label": "The junior staff may lack the skills to work independently, requiring upskilling." },
-      { "id": "c", "label": "The budget was calculated incorrectly." },
-      { "id": "d", "label": "The project should be cancelled." }
+      {
+        "id": "a",
+        "label": "The team needs more senior staff."
+      },
+      {
+        "id": "b",
+        "label": "The junior staff may lack the skills to work independently, requiring upskilling."
+      },
+      {
+        "id": "c",
+        "label": "The budget was calculated incorrectly."
+      },
+      {
+        "id": "d",
+        "label": "The project should be cancelled."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. If seniors are doing junior work, it often means juniors aren't capable (skill gap) or seniors aren't delegating. Upskilling the juniors allows seniors to focus on high-value work, correcting the cost imbalance. Option a worsens the cost. Option c is possible but less likely than the resource misuse.",
     "difficulty": "hard",
-    "topics": ["Resource Optimization", "Delegation"]
+    "topics": [
+      "Resource Optimization",
+      "Delegation"
+    ]
   },
   {
     "id": "q-people-6-3-011",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A project manager is leading a digital transformation project. The technology landscape changes rapidly. To ensure the team remains competent, what should be included in the project budget?",
     "options": [
-      { "id": "a", "label": "A generous severance package fund." },
-      { "id": "b", "label": "A training and professional development allowance." },
-      { "id": "c", "label": "A fixed-price contract with a single vendor." },
-      { "id": "d", "label": "A contingency reserve for weather delays." }
+      {
+        "id": "a",
+        "label": "A generous severance package fund."
+      },
+      {
+        "id": "b",
+        "label": "A training and professional development allowance."
+      },
+      {
+        "id": "c",
+        "label": "A fixed-price contract with a single vendor."
+      },
+      {
+        "id": "d",
+        "label": "A contingency reserve for weather delays."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. To 'continuously assess and refresh' skills in a changing environment, money must be allocated (budgeted) specifically for ongoing training. Option a anticipates failure. Option c locks in a vendor, not team skills. Option d is unrelated.",
     "difficulty": "easy",
-    "topics": ["Budgeting for Training", "Continuous Learning"]
+    "topics": [
+      "Budgeting for Training",
+      "Continuous Learning"
+    ]
   },
   {
     "id": "q-people-6-3-012",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "The project team consists of members from three merged companies, all using different project management terminologies. This causes confusion. What is the best way to refresh the team's skills to meet the project need for clarity?",
     "options": [
-      { "id": "a", "label": "Force everyone to use the terminology of the largest company." },
-      { "id": "b", "label": "Conduct a norming session to establish a common lexicon and agreed-upon ways of working." },
-      { "id": "c", "label": "Forbid the use of any technical terms." },
-      { "id": "d", "label": "Hire a translator." }
+      {
+        "id": "a",
+        "label": "Force everyone to use the terminology of the largest company."
+      },
+      {
+        "id": "b",
+        "label": "Conduct a norming session to establish a common lexicon and agreed-upon ways of working."
+      },
+      {
+        "id": "c",
+        "label": "Forbid the use of any technical terms."
+      },
+      {
+        "id": "d",
+        "label": "Hire a translator."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Skill refreshment here refers to aligning the team on a shared communication standard (norming). A workshop to define common terms solves the specific project need. Option a creates resentment. Option c makes work impossible.",
     "difficulty": "medium",
-    "topics": ["Team Norming", "Communication"]
+    "topics": [
+      "Team Norming",
+      "Communication"
+    ]
   },
   {
     "id": "q-people-6-3-013",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A key subject matter expert (SME) is leaving the project in two weeks. The project manager identifies that no one else has this specific knowledge. What is the immediate priority for skill refreshment?",
     "options": [
-      { "id": "a", "label": "Start a recruitment drive for a replacement after the SME leaves." },
-      { "id": "b", "label": "Initiate an intensive knowledge transfer and shadowing process with remaining team members." },
-      { "id": "c", "label": "Ask the SME to write a manual on their last day." },
-      { "id": "d", "label": "Cancel the tasks associated with the SME." }
+      {
+        "id": "a",
+        "label": "Start a recruitment drive for a replacement after the SME leaves."
+      },
+      {
+        "id": "b",
+        "label": "Initiate an intensive knowledge transfer and shadowing process with remaining team members."
+      },
+      {
+        "id": "c",
+        "label": "Ask the SME to write a manual on their last day."
+      },
+      {
+        "id": "d",
+        "label": "Cancel the tasks associated with the SME."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Assessing the risk (loss of skill) requires immediate action to 'refresh' the remaining team's skills via knowledge transfer before the expert departs. Option a leaves a gap. Option c is usually insufficient and rushed. Option d impacts scope.",
     "difficulty": "medium",
-    "topics": ["Knowledge Transfer", "Succession Planning"]
+    "topics": [
+      "Knowledge Transfer",
+      "Succession Planning"
+    ]
   },
   {
     "id": "q-people-6-3-014",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "In a hybrid project, the hardware team uses a Waterfall approach while the software team uses Scrum. The hardware team is struggling to understand when the software team will deliver increments. How should the project manager address this skill gap?",
     "options": [
-      { "id": "a", "label": "Make the hardware team switch to Scrum immediately." },
-      { "id": "b", "label": "Make the software team switch to Waterfall." },
-      { "id": "c", "label": "Provide training to the hardware team on Agile concepts and how to interpret software release schedules." },
-      { "id": "d", "label": "Separate the teams so they never speak to each other." }
+      {
+        "id": "a",
+        "label": "Make the hardware team switch to Scrum immediately."
+      },
+      {
+        "id": "b",
+        "label": "Make the software team switch to Waterfall."
+      },
+      {
+        "id": "c",
+        "label": "Provide training to the hardware team on Agile concepts and how to interpret software release schedules."
+      },
+      {
+        "id": "d",
+        "label": "Separate the teams so they never speak to each other."
+      }
     ],
     "correctOptionId": "c",
     "explanation": "Option c is correct. The assessment shows a gap in understanding methodology. Training (refreshing knowledge) bridges the gap without forcing an inappropriate process change (Options a/b) or creating silos (Option d).",
     "difficulty": "medium",
-    "topics": ["Hybrid Methodologies", "Cross-Training"]
+    "topics": [
+      "Hybrid Methodologies",
+      "Cross-Training"
+    ]
   },
   {
     "id": "q-people-6-3-015",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A project manager observes that the team is unmotivated and skills are stagnating because they have been doing the same repetitive tasks for months. What strategy can assessing this situation lead to?",
     "options": [
-      { "id": "a", "label": "Job rotation to expose members to new tasks and refresh their interest and skills." },
-      { "id": "b", "label": "Strict disciplinary action for lack of motivation." },
-      { "id": "c", "label": "Increasing the volume of repetitive tasks to build mastery." },
-      { "id": "d", "label": "Ignoring the issue as long as the work gets done." }
+      {
+        "id": "a",
+        "label": "Job rotation to expose members to new tasks and refresh their interest and skills."
+      },
+      {
+        "id": "b",
+        "label": "Strict disciplinary action for lack of motivation."
+      },
+      {
+        "id": "c",
+        "label": "Increasing the volume of repetitive tasks to build mastery."
+      },
+      {
+        "id": "d",
+        "label": "Ignoring the issue as long as the work gets done."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct. Job rotation is a classic technique to assess hidden talents, refresh skills, and improve morale/motivation in repetitive environments. Option b destroys morale. Option c worsens the stagnation.",
     "difficulty": "easy",
-    "topics": ["Job Rotation", "Motivation"]
+    "topics": [
+      "Job Rotation",
+      "Motivation"
+    ]
   },
   {
     "id": "q-people-6-3-016",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "The project sponsor introduces a requirement for the final product to be accessible to users with disabilities. The current team has no experience with accessibility standards (WCAG). This represents:",
     "options": [
-      { "id": "a", "label": "A gold-plating request." },
-      { "id": "b", "label": "A need to assess team capability and implement targeted upskilling." },
-      { "id": "c", "label": "A reason to reject the change request." },
-      { "id": "d", "label": "A procurement failure." }
+      {
+        "id": "a",
+        "label": "A gold-plating request."
+      },
+      {
+        "id": "b",
+        "label": "A need to assess team capability and implement targeted upskilling."
+      },
+      {
+        "id": "c",
+        "label": "A reason to reject the change request."
+      },
+      {
+        "id": "d",
+        "label": "A procurement failure."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. New requirements often expose skill gaps. The PM must assess the team against this new need and 'refresh' skills (training) to deliver it. Option a is incorrect if the sponsor requires it (it's scope, not gold plating). Option c is not the first step; feasibility should be assessed first.",
     "difficulty": "medium",
-    "topics": ["Change Management", "Skill Assessment"]
+    "topics": [
+      "Change Management",
+      "Skill Assessment"
+    ]
   },
   {
     "id": "q-people-6-3-017",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "During a project post-mortem (retrospective) of Phase 1, the team identifies that poor negotiation skills led to higher vendor costs. What should the project manager do for Phase 2?",
     "options": [
-      { "id": "a", "label": "Punish the team members responsible for the contracts." },
-      { "id": "b", "label": "Do nothing, as Phase 1 is over." },
-      { "id": "c", "label": "Include negotiation training or assign a negotiation mentor for Phase 2." },
-      { "id": "d", "label": "Handle all negotiations personally." }
+      {
+        "id": "a",
+        "label": "Punish the team members responsible for the contracts."
+      },
+      {
+        "id": "b",
+        "label": "Do nothing, as Phase 1 is over."
+      },
+      {
+        "id": "c",
+        "label": "Include negotiation training or assign a negotiation mentor for Phase 2."
+      },
+      {
+        "id": "d",
+        "label": "Handle all negotiations personally."
+      }
     ],
     "correctOptionId": "c",
     "explanation": "Option c is correct. Lessons learned should lead to action. Assessing the Phase 1 failure leads to refreshing the skill (negotiation) for Phase 2 to prevent recurrence. Option a is a blame culture. Option b ignores improvement. Option d creates a bottleneck and doesn't improve team capability.",
     "difficulty": "medium",
-    "topics": ["Lessons Learned", "Continuous Improvement"]
+    "topics": [
+      "Lessons Learned",
+      "Continuous Improvement"
+    ]
   },
   {
     "id": "q-people-6-3-018",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A project manager uses 'Gamification' (e.g., badges for completing coding challenges) within the team. What is the primary goal of this regarding team skills?",
     "options": [
-      { "id": "a", "label": "To distract the team from the hard work." },
-      { "id": "b", "label": "To create a hostile competitive environment." },
-      { "id": "c", "label": "To encourage continuous learning and skill refreshment in a fun way." },
-      { "id": "d", "label": "To reduce the salary budget." }
+      {
+        "id": "a",
+        "label": "To distract the team from the hard work."
+      },
+      {
+        "id": "b",
+        "label": "To create a hostile competitive environment."
+      },
+      {
+        "id": "c",
+        "label": "To encourage continuous learning and skill refreshment in a fun way."
+      },
+      {
+        "id": "d",
+        "label": "To reduce the salary budget."
+      }
     ],
     "correctOptionId": "c",
     "explanation": "Option c is correct. Gamification is a strategy to drive engagement in continuous learning and skill development. Option a is incorrect. Option b is a risk, not a goal. Option d is unrelated.",
     "difficulty": "easy",
-    "topics": ["Gamification", "Engagement"]
+    "topics": [
+      "Gamification",
+      "Engagement"
+    ]
   },
   {
     "id": "q-people-6-3-019",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "An organization is shifting to a remote-first work model. The project manager notices some team members are struggling with self-management and isolation. Assessing this, the project manager should:",
     "options": [
-      { "id": "a", "label": "Demand they return to the office." },
-      { "id": "b", "label": "Provide training on remote work best practices and mental health support." },
-      { "id": "c", "label": "Increase the number of daily status meetings to monitor them closely." },
-      { "id": "d", "label": "Reduce their pay." }
+      {
+        "id": "a",
+        "label": "Demand they return to the office."
+      },
+      {
+        "id": "b",
+        "label": "Provide training on remote work best practices and mental health support."
+      },
+      {
+        "id": "c",
+        "label": "Increase the number of daily status meetings to monitor them closely."
+      },
+      {
+        "id": "d",
+        "label": "Reduce their pay."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. The environment changed (remote), and skills (self-management) need refreshing/support. Training and support address the root cause. Option a may violate company policy. Option c is micromanagement and exacerbates stress.",
     "difficulty": "medium",
-    "topics": ["Virtual Teams", "Environment Change"]
+    "topics": [
+      "Virtual Teams",
+      "Environment Change"
+    ]
   },
   {
     "id": "q-people-6-3-020",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "What is the primary benefit of maintaining a 'Skills Matrix' throughout the project lifecycle?",
     "options": [
-      { "id": "a", "label": "It allows the project manager to identify who to fire first." },
-      { "id": "b", "label": "It provides a visual snapshot of current competencies and identifies gaps for continuous improvement." },
-      { "id": "c", "label": "It is a required document for tax purposes." },
-      { "id": "d", "label": "It guarantees that no training budget is ever needed." }
+      {
+        "id": "a",
+        "label": "It allows the project manager to identify who to fire first."
+      },
+      {
+        "id": "b",
+        "label": "It provides a visual snapshot of current competencies and identifies gaps for continuous improvement."
+      },
+      {
+        "id": "c",
+        "label": "It is a required document for tax purposes."
+      },
+      {
+        "id": "d",
+        "label": "It guarantees that no training budget is ever needed."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. A Skills Matrix is the primary tool for assessing team capabilities. Updating it allows the PM to see where skills are degrading or where gaps exist, prompting refreshment actions. Options a, c, and d are incorrect interpretations.",
     "difficulty": "easy",
-    "topics": ["Skills Matrix", "Gap Analysis"]
+    "topics": [
+      "Skills Matrix",
+      "Gap Analysis"
+    ]
   },
   {
     "id": "q-people-6-3-021",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A team member asks to attend a conference that is loosely related to the project but focuses on emerging trends. The project manager approves it. What is the rationale behind this decision?",
     "options": [
-      { "id": "a", "label": "It is a reward for good behavior." },
-      { "id": "b", "label": "It helps the team member assess future technologies and bring fresh ideas back to the project." },
-      { "id": "c", "label": "The project manager wants the team member out of the office for a few days." },
-      { "id": "d", "label": "The conference organizers are friends of the project manager." }
+      {
+        "id": "a",
+        "label": "It is a reward for good behavior."
+      },
+      {
+        "id": "b",
+        "label": "It helps the team member assess future technologies and bring fresh ideas back to the project."
+      },
+      {
+        "id": "c",
+        "label": "The project manager wants the team member out of the office for a few days."
+      },
+      {
+        "id": "d",
+        "label": "The conference organizers are friends of the project manager."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Continuous assessment includes looking at future trends. Conferences are a way to refresh the team's perspective and innovate, even if the application isn't immediate. Option a is secondary. Options c and d are unprofessional.",
     "difficulty": "medium",
-    "topics": ["Innovation", "Professional Development"]
+    "topics": [
+      "Innovation",
+      "Professional Development"
+    ]
   },
   {
     "id": "q-people-6-3-022",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "The project is using a Kanban board. The 'WIP' (Work In Progress) limit is consistently breached in the 'Design' column. This data suggests a need to:",
     "options": [
-      { "id": "a", "label": "Fire the designers." },
-      { "id": "b", "label": "Assess if the team needs more designers or if non-designers can be trained to help (swarming)." },
-      { "id": "c", "label": "Remove the WIP limits." },
-      { "id": "d", "label": "Stop accepting new work." }
+      {
+        "id": "a",
+        "label": "Fire the designers."
+      },
+      {
+        "id": "b",
+        "label": "Assess if the team needs more designers or if non-designers can be trained to help (swarming)."
+      },
+      {
+        "id": "c",
+        "label": "Remove the WIP limits."
+      },
+      {
+        "id": "d",
+        "label": "Stop accepting new work."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. A bottleneck in Kanban indicates a flow problem. Assessing skills allows the PM to decide if they need to 'refresh' the team's capabilities (cross-training/swarming) to clear the bottleneck. Option c removes the visibility of the problem. Option a is reactive.",
     "difficulty": "hard",
-    "topics": ["Kanban", "Bottleneck Analysis"]
+    "topics": [
+      "Kanban",
+      "Bottleneck Analysis"
+    ]
   },
   {
     "id": "q-people-6-3-023",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "A project manager notices that the team's conflict resolution skills are deteriorating as pressure mounts near a deadline. Arguments are becoming personal. Which intervention is most suitable?",
     "options": [
-      { "id": "a", "label": "Wait until the project ends to address it." },
-      { "id": "b", "label": "Facilitate a conflict resolution session to refresh ground rules and de-escalation techniques." },
-      { "id": "c", "label": "Separate the team members and forbid them from talking." },
-      { "id": "d", "label": "Tell them to 'toughen up'." }
+      {
+        "id": "a",
+        "label": "Wait until the project ends to address it."
+      },
+      {
+        "id": "b",
+        "label": "Facilitate a conflict resolution session to refresh ground rules and de-escalation techniques."
+      },
+      {
+        "id": "c",
+        "label": "Separate the team members and forbid them from talking."
+      },
+      {
+        "id": "d",
+        "label": "Tell them to 'toughen up'."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Skills (even soft skills) degrade under pressure. The PM must assess this drift and intervene to refresh the team's ability to handle conflict constructively. Option a risks project failure. Option c stops collaboration. Option d is poor leadership.",
     "difficulty": "medium",
-    "topics": ["Conflict Management", "Team Dynamics"]
+    "topics": [
+      "Conflict Management",
+      "Team Dynamics"
+    ]
   },
   {
     "id": "q-people-6-3-024",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "During a project, a team member obtains a new PMP certification. How should the project manager respond?",
     "options": [
-      { "id": "a", "label": "Ignore it as it is personal development." },
-      { "id": "b", "label": "Update the team member's records and assess if they can now take on more advanced leadership tasks." },
-      { "id": "c", "label": "Tell them certifications don't matter." },
-      { "id": "d", "label": "Ask them to redo the certification to prove it." }
+      {
+        "id": "a",
+        "label": "Ignore it as it is personal development."
+      },
+      {
+        "id": "b",
+        "label": "Update the team member's records and assess if they can now take on more advanced leadership tasks."
+      },
+      {
+        "id": "c",
+        "label": "Tell them certifications don't matter."
+      },
+      {
+        "id": "d",
+        "label": "Ask them to redo the certification to prove it."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Continuous assessment includes recognizing *new* skills acquired. The PM should refresh the role assignment to leverage this new competence for the project's benefit. Option a wastes a resource. Option c is demotivating.",
     "difficulty": "easy",
-    "topics": ["Role Enhancement", "Recognition"]
+    "topics": [
+      "Role Enhancement",
+      "Recognition"
+    ]
   },
   {
     "id": "q-people-6-3-025",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-3"],
+    "enablerIds": [
+      "e-people-6-3"
+    ],
     "text": "The project manager schedules 'Lunch and Learn' sessions where team members teach each other about their specific domains. This practice directly supports:",
     "options": [
-      { "id": "a", "label": "Reducing food waste." },
-      { "id": "b", "label": "Continuous assessment and refreshing of team skills through peer-to-peer learning." },
-      { "id": "c", "label": "Formal performance appraisals." },
-      { "id": "d", "label": "Vendor management." }
+      {
+        "id": "a",
+        "label": "Reducing food waste."
+      },
+      {
+        "id": "b",
+        "label": "Continuous assessment and refreshing of team skills through peer-to-peer learning."
+      },
+      {
+        "id": "c",
+        "label": "Formal performance appraisals."
+      },
+      {
+        "id": "d",
+        "label": "Vendor management."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Peer-to-peer learning is a low-cost, high-impact way to ensure skills are shared (refreshed) and the team understands each other's work (assessment of capabilities). Option c is incorrect; this is informal.",
     "difficulty": "easy",
-    "topics": ["Peer Learning", "Knowledge Sharing"]
+    "topics": [
+      "Peer Learning",
+      "Knowledge Sharing"
+    ]
   }
 ]

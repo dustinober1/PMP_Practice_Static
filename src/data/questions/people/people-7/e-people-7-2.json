@@ -3,7 +3,9 @@
     "id": "q-people-7-2-001",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A project manager is facing three simultaneous impediments: 1. A delay in a non-critical component delivery. 2. A server crash affecting the critical path testing environment. 3. A stakeholder requesting a minor scope change. Which impediment should be prioritized first?",
     "options": [
       {
@@ -26,13 +28,18 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. Prioritization is primarily driven by the impact on the project objectives, specifically the schedule. An issue on the **critical path** (the server crash) will immediately delay the project end date, making it the highest priority. Options a and b have lower impacts on the primary constraints. Option d avoids the act of prioritization.",
     "difficulty": "easy",
-    "topics": ["critical path", "prioritization logic"]
+    "topics": [
+      "critical path",
+      "prioritization logic"
+    ]
   },
   {
     "id": "q-people-7-2-002",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "During a Daily Scrum, the team identifies four different blockers. The Scrum Master needs to help the team decide which one to tackle immediately. Which criterion is most appropriate for prioritizing these blockers in an agile context?",
     "options": [
       {
@@ -55,13 +62,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. In Agile, the primary focus of the iteration is the **Sprint Goal**. Any impediment that threatens the Sprint Goal is automatically the highest priority. Option b (age) and d (effort) are secondary factors but not the primary driver of value delivery. Option c is based on hierarchy, which is not an agile value.",
     "difficulty": "medium",
-    "topics": ["agile prioritization", "sprint goal"]
+    "topics": [
+      "agile prioritization",
+      "sprint goal"
+    ]
   },
   {
     "id": "q-people-7-2-003",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A project team has identified a list of 20 potential obstacles to an upcoming migration. Resources are limited, and not all obstacles can be addressed before the start date. Which tool should the project manager use to prioritize the obstacles based on the 80/20 rule?",
     "options": [
       {
@@ -84,13 +96,18 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. A **Pareto Chart** is a histogram that orders frequencies from highest to lowest, helping to identify the 'vital few' sources of problems (the 20%) that cause the majority of the effects (the 80%). This is the specific tool for applying the 80/20 rule to prioritization. Option d finds root causes but does not inherently prioritize them by frequency/impact.",
     "difficulty": "easy",
-    "topics": ["quality tools", "pareto analysis"]
+    "topics": [
+      "quality tools",
+      "pareto analysis"
+    ]
   },
   {
     "id": "q-people-7-2-004",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "The project is facing two major impediments. Impediment A will cost the project $15,000 in rework if not fixed today. Impediment B will delay a regulatory compliance milestone, potentially resulting in a work-stoppage order from the government. How should the project manager prioritize?",
     "options": [
       {
@@ -113,13 +130,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Compliance and legal regulations often function as 'hard constraints.' A work-stoppage order could halt the entire project, costing far more than $15,000 and damaging reputation. Therefore, the **existential threat** (compliance) takes precedence over a manageable cost variance (Impediment A).",
     "difficulty": "medium",
-    "topics": ["compliance", "risk-based prioritization"]
+    "topics": [
+      "compliance",
+      "risk-based prioritization"
+    ]
   },
   {
     "id": "q-people-7-2-005",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A team has identified five technical debt issues acting as impediments to velocity. To prioritize them, the team uses a technique where they plot the issues on a chart with axes for 'Effort to Fix' and 'Impact on Velocity.' Which quadrant should the team prioritize first?",
     "options": [
       {
@@ -142,13 +164,18 @@
     "correctOptionId": "d",
     "explanation": "Option d is correct. In a value/effort matrix, items that are **Low Effort** (easy to do) and **High Impact** (high value) are considered 'Quick Wins.' These should generally be prioritized first to get maximum benefit for minimum investment. Option c is a second priority (major projects).",
     "difficulty": "medium",
-    "topics": ["prioritization matrix", "value vs effort"]
+    "topics": [
+      "prioritization matrix",
+      "value vs effort"
+    ]
   },
   {
     "id": "q-people-7-2-006",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "An agile team is overwhelmed by a large number of organizational impediments listed in their backlog. The project manager suggests using 'Dot Voting' during the retrospective. What is the primary benefit of using this technique for prioritization?",
     "options": [
       {
@@ -171,13 +198,18 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. **Dot Voting** is a participatory decision-making tool used to visualize the group's collective preference. It is fast, democratic, and effective for narrowing down a large list of options to the few that the team agrees are most important (prioritized).",
     "difficulty": "easy",
-    "topics": ["decision making", "agile tools"]
+    "topics": [
+      "decision making",
+      "agile tools"
+    ]
   },
   {
     "id": "q-people-7-2-007",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "The project is blocked by a dependency on an external vendor (Impediment X) and a lack of internal training (Impediment Y). Impediment X is causing a delay of 2 days per week. Impediment Y is causing a delay of 1 day per week. However, Impediment X cannot be resolved for another month due to contract terms, while Impediment Y can be fixed tomorrow. What is the best prioritization strategy?",
     "options": [
       {
@@ -200,13 +232,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. While impact is a key factor in prioritization, **actionability** is also critical. If the highest impact issue (X) is currently immovable (a constraint), the team should prioritize the highest value issue that *can* be acted upon (Y) to maintain momentum and improve efficiency where possible. This is often called the 'Theory of Constraints' or managing flow.",
     "difficulty": "medium",
-    "topics": ["actionability", "constraint management"]
+    "topics": [
+      "actionability",
+      "constraint management"
+    ]
   },
   {
     "id": "q-people-7-2-008",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A project manager manages a remote team across three time zones. Several impediments have been raised regarding communication tools. To prioritize which tool issue to fix first, the project manager assesses the 'Cost of Delay.' What does this metric help determine?",
     "options": [
       {
@@ -229,13 +266,18 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. **Cost of Delay (CoD)** is a way of communicating the impact of time on the outcomes that we hope to achieve. In prioritization, it helps quantify how much value/money is lost for every unit of time the impediment remains unresolved, allowing the manager to prioritize the issue causing the fastest value leak.",
     "difficulty": "medium",
-    "topics": ["cost of delay", "value-based prioritization"]
+    "topics": [
+      "cost of delay",
+      "value-based prioritization"
+    ]
   },
   {
     "id": "q-people-7-2-009",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A construction project has encountered an unexpected soil condition (Impediment A) and a delayed shipment of windows (Impediment B). The soil condition affects the foundation work, which is the immediate predecessor to all other structural work. The windows are needed for the 'dry-in' phase, scheduled for three months from now. Why must Impediment A be prioritized over Impediment B?",
     "options": [
       {
@@ -258,13 +300,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. In a predictive schedule, **logical dependencies** dictate priority. You cannot install windows (or even build the walls for them) if the foundation is blocked. Therefore, the blocker affecting the immediate predecessor (Foundation) is technically and logically the highest priority.",
     "difficulty": "easy",
-    "topics": ["dependencies", "scheduling"]
+    "topics": [
+      "dependencies",
+      "scheduling"
+    ]
   },
   {
     "id": "q-people-7-2-010",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "The project manager is using a Weighted Scoring Model to prioritize a list of blockers. The criteria are 'Schedule Impact' (Weight: 5), 'Cost Impact' (Weight: 3), and 'Team Morale' (Weight: 2). Blocker A scores 9 on Schedule, 2 on Cost, and 2 on Morale. Blocker B scores 4 on Schedule, 8 on Cost, and 8 on Morale. Which blocker should be prioritized?",
     "options": [
       {
@@ -287,13 +334,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. We must calculate the weighted scores. \nBlocker A: (9*5) + (2*3) + (2*2) = 45 + 6 + 4 = 55. \nBlocker B: (4*5) + (8*3) + (8*2) = 20 + 24 + 16 = 60. \nSince 60 > 55, Blocker B is the priority according to the model.",
     "difficulty": "hard",
-    "topics": ["weighted scoring", "math"]
+    "topics": [
+      "weighted scoring",
+      "math"
+    ]
   },
   {
     "id": "q-people-7-2-011",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "In a Hybrid project, the software team (Agile) is blocked by the hardware team (Waterfall) missing a prototype delivery. Simultaneously, the hardware team is blocked by a lack of specifications from the software team. Both teams are pointing fingers. How should the project manager prioritize the resolution?",
     "options": [
       {
@@ -316,13 +368,18 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. This is a **circular dependency** (deadlock). Prioritizing one side individually won't work well because both need each other to proceed effectively. The priority is to break the deadlock through collaboration (joint workshop), rather than treating them as separate linear priorities.",
     "difficulty": "medium",
-    "topics": ["circular dependencies", "hybrid management"]
+    "topics": [
+      "circular dependencies",
+      "hybrid management"
+    ]
   },
   {
     "id": "q-people-7-2-012",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A team member raises an impediment regarding a toxic conflict between two other key members that is affecting the team's atmosphere. At the same time, a server outage is preventing code deployment. Why might a Servant Leader choose to address the conflict *after* the server outage is resolved?",
     "options": [
       {
@@ -345,13 +402,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. While a Servant Leader cares deeply about team health, prioritization often requires addressing **immediate work stoppages** (server outage) first. The server outage stops *everyone* from working right now. The conflict is critical but is a chronic issue that likely requires a longer, more delicate resolution process (coaching/mediation) that can be scheduled once the immediate fire is put out.",
     "difficulty": "medium",
-    "topics": ["servant leadership", "prioritization trade-offs"]
+    "topics": [
+      "servant leadership",
+      "prioritization trade-offs"
+    ]
   },
   {
     "id": "q-people-7-2-013",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "The project has a strict budget. Two impediments have arisen. Impediment A requires hiring a specialized consultant ($5,000). Impediment B requires purchasing a software tool ($500). Impediment A blocks 50% of the project scope. Impediment B blocks 5% of the scope. The project has only $4,000 remaining in contingency. What is the correct prioritization approach?",
     "options": [
       {
@@ -374,13 +436,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. This is a **constraints-based prioritization**. You cannot prioritize an action you cannot afford (Impediment A) without first securing more funds (Escalation). However, you *can* resolve Impediment B immediately with available funds. Therefore, you execute the solution for B (progress) while simultaneously escalating A (process).",
     "difficulty": "hard",
-    "topics": ["budget constraints", "escalation"]
+    "topics": [
+      "budget constraints",
+      "escalation"
+    ]
   },
   {
     "id": "q-people-7-2-014",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "An organization classifies impediments into four levels of severity: Critical (P1), Major (P2), Minor (P3), and Cosmetic (P4). A stakeholder is demanding that a P3 issue (incorrect font size on a report) be fixed immediately, but the team is working on a P1 issue (data corruption). How should the project manager handle this prioritization conflict?",
     "options": [
       {
@@ -403,13 +470,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Established **prioritization frameworks** and Service Level Agreements (SLAs) exist exactly for this reason: to objectify priority and defend against subjectivity. The project manager should uphold the agreed-upon governance (P1 > P3) while managing the stakeholder's expectations.",
     "difficulty": "medium",
-    "topics": ["governance", "stakeholder management"]
+    "topics": [
+      "governance",
+      "stakeholder management"
+    ]
   },
   {
     "id": "q-people-7-2-015",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A project manager is reviewing the Risk Register. Risk A (Probability 90%, Impact $10k) has just occurred and is now an issue. Risk B (Probability 10%, Impact $1M) is still a risk. Which item should be the priority for the team's *immediate active* work?",
     "options": [
       {
@@ -432,13 +504,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This question tests the difference between a **Risk** (potential future event) and an **Issue/Impediment** (current reality). An issue that *has occurred* (Risk A) requires immediate corrective action/resolution. A risk that has *not* occurred (Risk B) requires monitoring or mitigation planning, but it is not currently blocking work. Active fires (issues) generally take priority over potential fires (risks) in daily execution.",
     "difficulty": "hard",
-    "topics": ["risk vs issue", "prioritization"]
+    "topics": [
+      "risk vs issue",
+      "prioritization"
+    ]
   },
   {
     "id": "q-people-7-2-016",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "During a Sprint Planning session, the team identifies a technical impediment: the current database structure will not support the user stories planned for the next three sprints. What is the best way to prioritize this impediment?",
     "options": [
       {
@@ -461,13 +538,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Since the impediment blocks future value delivery (the next three sprints), it must be resolved *now* to enable that future work. Creating a **Spike** (a time-boxed investigation/work item) and prioritizing it immediately ensures the architectural runway is clear. Option b accumulates technical debt. Option d creates rework.",
     "difficulty": "medium",
-    "topics": ["agile spikes", "architectural runway"]
+    "topics": [
+      "agile spikes",
+      "architectural runway"
+    ]
   },
   {
     "id": "q-people-7-2-017",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "Multiple stakeholders have raised impediments. The Marketing Director claims the logo color is wrong (Blocker A). The Security Lead claims the login encryption is weak (Blocker B). The Finance Manager claims the budget report format is confusing (Blocker C). Which impediment must be prioritized first?",
     "options": [
       {
@@ -490,13 +572,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. In most prioritization frameworks (like MoSCoW), **Security** and Compliance are treated as 'Must Haves' because a failure there can render the product unusable or illegal. Branding (A) and Reporting formats (C) are important but usually do not pose the same level of immediate operational risk as a security vulnerability.",
     "difficulty": "medium",
-    "topics": ["quality requirements", "security priority"]
+    "topics": [
+      "quality requirements",
+      "security priority"
+    ]
   },
   {
     "id": "q-people-7-2-018",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A team is using Kanban. The 'Blocked' column is full. To prioritize which blocked item to swarm on, the team looks at the 'Class of Service.' Which Class of Service typically receives the highest priority for unblocking?",
     "options": [
       {
@@ -519,13 +606,18 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. In Kanban, **Expedite** is the Class of Service reserved for critical, immediate-priority items (often visualized by a separate swimlane). If an item in the Expedite lane is blocked, it takes precedence over everything else. 'Fixed Date' is high priority but usually secondary to immediate emergencies (Expedite).",
     "difficulty": "medium",
-    "topics": ["kanban", "class of service"]
+    "topics": [
+      "kanban",
+      "class of service"
+    ]
   },
   {
     "id": "q-people-7-2-019",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A project manager discovers that a critical team member is suffering from burnout (Impediment A) and a key software license has expired (Impediment B). The license can be renewed online in 10 minutes. The burnout requires a workload redistribution plan. What is the correct sequencing?",
     "options": [
       {
@@ -548,13 +640,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. This is a matter of **efficiency and momentum**. If a blocker (B) takes 10 minutes to fix, doing it immediately clears the path and mental space to focus on the more complex, people-centric issue (A). Ignoring a 10-minute fix (Option b) causes unnecessary friction. Option c worsens the burnout.",
     "difficulty": "medium",
-    "topics": ["quick wins", "efficiency"]
+    "topics": [
+      "quick wins",
+      "efficiency"
+    ]
   },
   {
     "id": "q-people-7-2-020",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "The project is in the execution phase. A blockage has occurred that affects a deliverable required for the 'Final Acceptance' milestone. Another blockage affects a deliverable required for an 'Interim Review' milestone. Both milestones are on the critical path, but the Interim Review happens two months earlier. Which blocker gets priority?",
     "options": [
       {
@@ -577,13 +674,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. In schedule management, you generally prioritize the **nearest-term critical path constraint**. If you don't pass the Interim Review (which is on the critical path), you will never reach the Final Acceptance on time anyway. You must clear the immediate hurdle to reach the distant one.",
     "difficulty": "medium",
-    "topics": ["schedule management", "critical path"]
+    "topics": [
+      "schedule management",
+      "critical path"
+    ]
   },
   {
     "id": "q-people-7-2-021",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A project manager has limited authority and cannot remove a specific high-priority organizational impediment. What is the best way to prioritize this impediment's handling?",
     "options": [
       {
@@ -606,13 +708,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. If an impediment is critical but outside the PM's authority, the prioritization action is **Escalation**. It remains a high priority for the *project*, even if the *action* is to hand it off to a sponsor. Ignoring it (a) or hiding it (d) endangers the project.",
     "difficulty": "easy",
-    "topics": ["escalation", "authority limits"]
+    "topics": [
+      "escalation",
+      "authority limits"
+    ]
   },
   {
     "id": "q-people-7-2-022",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "Two teams in a Scrum of Scrums are blocked. Team A is building the core API. Team B is building the UI that consumes the API. Team A is blocked by a server issue. Team B is blocked because Team A hasn't finished the API. Which impediment is the 'Root' priority?",
     "options": [
       {
@@ -635,13 +742,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This is a **cascading blocker**. The server issue blocks Team A. Team A's delay blocks Team B. Therefore, the server issue is the root bottleneck. Resolving Team A's server issue is the highest priority because it unlocks the entire value chain.",
     "difficulty": "medium",
-    "topics": ["dependencies", "systemic impediments"]
+    "topics": [
+      "dependencies",
+      "systemic impediments"
+    ]
   },
   {
     "id": "q-people-7-2-023",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "An impediment log has 50 open items. The project sponsor asks the project manager to focus only on the 'Top 3.' Which combination of factors best defines the 'Top 3'?",
     "options": [
       {
@@ -664,13 +776,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This option combines the three most critical dimensions of project success: **Time** (Critical Path), **Risk/Quality** (Severity), and **Value/Satisfaction** (Stakeholder Priority). This triangulation ensures the most damaging or important impediments are selected.",
     "difficulty": "medium",
-    "topics": ["strategic prioritization", "selection criteria"]
+    "topics": [
+      "strategic prioritization",
+      "selection criteria"
+    ]
   },
   {
     "id": "q-people-7-2-024",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "The team identifies that a lack of automated testing is slowing them down (Impediment A). They also identify that the office coffee machine is broken (Impediment B). The team votes Impediment B as their highest priority because 'morale is low.' How should the Agile Coach respond?",
     "options": [
       {
@@ -693,13 +810,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. In Agile, **team self-organization** and morale are vital. If the team feels strongly that a minor environmental annoyance (coffee) is their biggest blocker to happiness/focus, the Coach should respect that prioritization to build trust (Servant Leadership). However, the Coach should also guide them to address the technical blocker (A) immediately after.",
     "difficulty": "medium",
-    "topics": ["team dynamics", "servant leadership"]
+    "topics": [
+      "team dynamics",
+      "servant leadership"
+    ]
   },
   {
     "id": "q-people-7-2-025",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-2"],
+    "enablerIds": [
+      "e-people-7-2"
+    ],
     "text": "A project manager is taking over a troubled project. There are unassigned tasks, unapproved change requests, and a missing quality management plan. The project is currently in the execution phase and defects are rising. What should be prioritized first?",
     "options": [
       {
@@ -722,6 +844,9 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. You must **stop the bleeding**. If defects are rising, the project is generating waste and negative value. Creating/fixing the **Quality Management Plan** addresses the systemic root cause of the rising defects. Assigning tasks (a) or changes (b) without a quality plan just creates *more* defective work.",
     "difficulty": "hard",
-    "topics": ["troubleshooting", "quality management"]
+    "topics": [
+      "troubleshooting",
+      "quality management"
+    ]
   }
 ]

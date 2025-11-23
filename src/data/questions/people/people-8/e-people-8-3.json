@@ -3,7 +3,9 @@
     "id": "q-people-8-3-001",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "Negotiations with a vendor have concluded, and a draft contract is ready. The project manager's primary objective was to transfer the risk of cost overruns to the vendor. Which clause must the project manager verify is present and correctly worded in the final agreement?",
     "options": [
       {
@@ -26,13 +28,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. To **verify** that the objective of 'transferring cost risk' is met, the contract must be **Fixed Price**. Under Fixed Price, the vendor absorbs the cost of overruns. Options a, c, and d leave the risk with the buyer, which would mean the objective was *not* met.",
     "difficulty": "medium",
-    "topics": ["risk transfer", "contract types", "verification"]
+    "topics": [
+      "risk transfer",
+      "contract types",
+      "verification"
+    ]
   },
   {
     "id": "q-people-8-3-002",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "A project manager is reviewing a proposed agreement for an agile software project. The objective is to ensure high customer collaboration. Upon verification, the project manager notices the contract requires 'Approval of full detailed specifications before coding begins.' What does this indicate?",
     "options": [
       {
@@ -55,13 +63,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Verification** involves checking if the contract terms align with the methodology and objectives. A rigid 'specification approval' phase contradicts the agile value of 'Customer Collaboration over Contract Negotiation.' The PM detects a misalignment.",
     "difficulty": "medium",
-    "topics": ["agile contracts", "alignment verification"]
+    "topics": [
+      "agile contracts",
+      "alignment verification"
+    ]
   },
   {
     "id": "q-people-8-3-003",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project sponsor's ultimate objective is to ensure the vendor provides 'High Quality' deliverables. The project manager verifies the agreement but finds only a delivery date and price. What is missing to verify the quality objective?",
     "options": [
       {
@@ -84,13 +97,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. To **verify** that the 'High Quality' objective is met, there must be measurable standards in the agreement. Without **Acceptance Criteria** or **KPIs**, quality is subjective and the objective is unsecured. Options a and d address schedule and risk, not quality.",
     "difficulty": "easy",
-    "topics": ["quality management", "contract deliverables"]
+    "topics": [
+      "quality management",
+      "contract deliverables"
+    ]
   },
   {
     "id": "q-people-8-3-004",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "During the final review of a Service Level Agreement (SLA), the project manager compares the draft against the Business Case. The Business Case assumes 99.99% uptime to achieve ROI. The draft SLA guarantees 99.0% uptime. What is the result of this verification?",
     "options": [
       {
@@ -113,13 +131,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Verification** requires mathematical and business precision. The difference between 'four nines' and 'two nines' is exponential in terms of downtime minutes. The PM correctly identifies that the agreement fails to support the benefits realization defined in the Business Case.",
     "difficulty": "medium",
-    "topics": ["business case alignment", "SLA verification"]
+    "topics": [
+      "business case alignment",
+      "SLA verification"
+    ]
   },
   {
     "id": "q-people-8-3-005",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project team requested a 'knowledge transfer' session as a key deliverable to ensure they can maintain the system later. The vendor agreed verbally. Before signing, the project manager reads the contract and sees no mention of training or documentation. What should the project manager do?",
     "options": [
       {
@@ -142,13 +165,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Verification** means ensuring that *all* agreed-upon objectives are explicitly written in the contract. Verbal agreements are often unenforceable. If the objective (maintainability/knowledge transfer) isn't in the text, it isn't met.",
     "difficulty": "medium",
-    "topics": ["contract management", "verification"]
+    "topics": [
+      "contract management",
+      "verification"
+    ]
   },
   {
     "id": "q-people-8-3-006",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "A project manager is verifying a resource agreement with a functional manager. The objective was to secure a 'Senior Architect' for 6 months. The email confirmation lists 'Staff Architect' for 6 months. The project manager checks the HR role definitions and sees 'Staff' is a lower tier than 'Senior.' What is the appropriate action?",
     "options": [
       {
@@ -171,13 +199,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Verification involves detail-oriented checking. If the agreement specifies a resource level lower than the objective, the project risks technical failure. The PM must flag this mismatch immediately.",
     "difficulty": "easy",
-    "topics": ["resource management", "verification"]
+    "topics": [
+      "resource management",
+      "verification"
+    ]
   },
   {
     "id": "q-people-8-3-007",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The legal department sends the final contract for a project involving global user data. The project manager verifies the 'Data Privacy' section and notices it references outdated legislation, not the current GDPR/CCPA standards required by the project charter. What is the impact of catching this during verification?",
     "options": [
       {
@@ -200,13 +233,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. The purpose of **verification** is to prevent downstream failure. Catching a compliance mismatch (outdated laws) ensures the **Compliance Objective** is actually met before the binding agreement is signed, avoiding fines and lawsuits.",
     "difficulty": "medium",
-    "topics": ["compliance", "risk management"]
+    "topics": [
+      "compliance",
+      "risk management"
+    ]
   },
   {
     "id": "q-people-8-3-008",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "An agile team is outsourcing a component. Their objective is to inspect the work every 2 weeks. The project manager verifies the contract and finds a clause stating, 'Client inspection shall occur only upon final delivery.' Does this agreement meet the objective?",
     "options": [
       {
@@ -229,13 +267,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. The objective was **iterative inspection** (every 2 weeks). A clause restricting inspection to the end explicitly blocks this objective. The verification step successfully identified a critical process mismatch.",
     "difficulty": "easy",
-    "topics": ["agile methodology", "contract verification"]
+    "topics": [
+      "agile methodology",
+      "contract verification"
+    ]
   },
   {
     "id": "q-people-8-3-009",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project manager is verifying a Memorandum of Understanding (MOU) with a partner. The objective is to share profits 50/50. The text says 'Profits will be shared based on capital contribution.' The project manager knows the partner is contributing 80% of the capital. What does the project manager conclude?",
     "options": [
       {
@@ -258,13 +301,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Verification often requires **scenario analysis**. By applying the contract logic (capital contribution split) to the real data (80/20 split), the PM realizes the output (80/20 profit share) contradicts the objective (50/50 profit share).",
     "difficulty": "hard",
-    "topics": ["financial analysis", "contract interpretation"]
+    "topics": [
+      "financial analysis",
+      "contract interpretation"
+    ]
   },
   {
     "id": "q-people-8-3-010",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project manager verifies that the agreement includes a 'Termination for Convenience' clause. Which project objective does this clause support?",
     "options": [
       {
@@ -287,13 +335,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. A **Termination for Convenience** clause allows the buyer to exit the contract without cause. Verifying its presence ensures the objective of **Flexibility** and **Risk Mitigation** (limiting exposure if the project is cancelled) is met.",
     "difficulty": "medium",
-    "topics": ["contract clauses", "risk mitigation"]
+    "topics": [
+      "contract clauses",
+      "risk mitigation"
+    ]
   },
   {
     "id": "q-people-8-3-011",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "A project manager is verifying a contract for the purchase of hardware. The objective is to have the hardware installed and running by March 1st. The contract lists a 'Delivery Date' of March 1st. Has the objective been met?",
     "options": [
       {
@@ -316,13 +369,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This is a classic verification trap. The objective was **Operational** by March 1st. The contract only promises **Possession** (Delivery) by March 1st. Installation usually takes time. The agreement fails to meet the schedule objective because it ignores the installation lag.",
     "difficulty": "medium",
-    "topics": ["schedule management", "deliverables"]
+    "topics": [
+      "schedule management",
+      "deliverables"
+    ]
   },
   {
     "id": "q-people-8-3-012",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project uses a hybrid approach. The agreement covers the predictive (waterfall) phase of the project. The project manager verifies that the contract explicitly states that 'Requirements are fixed.' This aligns with which objective?",
     "options": [
       {
@@ -345,13 +403,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. In a predictive phase, the objective is usually **Cost/Schedule Certainty**, which requires fixed scope. Verifying that the contract locks down requirements confirms that it supports the predictive methodology's goal.",
     "difficulty": "easy",
-    "topics": ["hybrid management", "contract alignment"]
+    "topics": [
+      "hybrid management",
+      "contract alignment"
+    ]
   },
   {
     "id": "q-people-8-3-013",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "A project manager is verifying the Intellectual Property (IP) clause. The objective is for the buying organization to own the source code. The contract states: 'Vendor grants the Client a perpetual, non-exclusive license to use the software.' Does this meet the objective?",
     "options": [
       {
@@ -374,13 +437,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Ownership** (Assignment of Rights) and **Licensing** are legally distinct. A license permits use; ownership permits control. The objective (Own Source Code) is NOT met by a license agreement. Verification catches this critical asset gap.",
     "difficulty": "medium",
-    "topics": ["IP rights", "legal terms"]
+    "topics": [
+      "IP rights",
+      "legal terms"
+    ]
   },
   {
     "id": "q-people-8-3-014",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project sponsor wants to incentivize the team to finish early. The project manager verifies the Team Charter and rewards agreement. It includes a 'spot bonus' for every bug found. How does this verify against the objective?",
     "options": [
       {
@@ -403,13 +471,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Verification involves checking for **alignment of incentives**. Paying for bugs encourages creating/finding bugs, not necessarily speed or completion. The agreement fails to support the 'Early Finish' objective effectively.",
     "difficulty": "medium",
-    "topics": ["incentives", "team charter"]
+    "topics": [
+      "incentives",
+      "team charter"
+    ]
   },
   {
     "id": "q-people-8-3-015",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project manager checks the 'Dispute Resolution' section of the agreement. The objective is to resolve issues quickly and cheaply to keep the project moving. The contract specifies 'Litigation in the courts of New York' as the first step. Is the objective met?",
     "options": [
       {
@@ -432,13 +505,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Litigation is the opposite of 'quick and cheap.' To meet the objective of efficient dispute resolution, the PM should verify that **Alternative Dispute Resolution (ADR)** methods like mediation or arbitration are listed as prerequisites to lawsuits.",
     "difficulty": "medium",
-    "topics": ["dispute resolution", "contract terms"]
+    "topics": [
+      "dispute resolution",
+      "contract terms"
+    ]
   },
   {
     "id": "q-people-8-3-016",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "A project manager is verifying the Scope Statement within a contract. The objective is to build a 3-story house. The scope lists 'foundation, framing, and roof for a residential structure.' What detail is missing to verify the objective?",
     "options": [
       {
@@ -461,13 +539,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Vague scope descriptions are a major failure point. Verification means ensuring the **specifics** of the objective (3 stories) are explicit in the text. 'Residential structure' is too broad and could mean a 1-story house.",
     "difficulty": "easy",
-    "topics": ["scope definition", "contract ambiguity"]
+    "topics": [
+      "scope definition",
+      "contract ambiguity"
+    ]
   },
   {
     "id": "q-people-8-3-017",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project objective is to ensure the vendor follows the organization's ethical sourcing policy. The project manager searches the contract for a 'Code of Conduct' or 'Audit Rights' clause but finds neither. What is the risk?",
     "options": [
       {
@@ -490,13 +573,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. If the contract lacks **Audit Rights** or a reference to the **Code of Conduct**, the buyer has no legal mechanism to verify or enforce the ethical sourcing objective. The contract fails to meet the governance requirement.",
     "difficulty": "medium",
-    "topics": ["ethics", "governance", "audit rights"]
+    "topics": [
+      "ethics",
+      "governance",
+      "audit rights"
+    ]
   },
   {
     "id": "q-people-8-3-018",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "A project manager is reviewing the final agreement checklist. One item is 'Currency Risk Mitigation.' The project is paying a European vendor in Euros, but the project budget is in Dollars. The contract sets the payment in Euros. Is the mitigation objective met?",
     "options": [
       {
@@ -519,13 +608,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. If the objective is to **mitigate currency risk** for the buyer (who holds Dollars), agreeing to pay in Euros fails that objective because the cost in Dollars will fluctuate. To meet the objective, the risk should be shifted (pay in Dollars) or managed (hedging).",
     "difficulty": "hard",
-    "topics": ["currency risk", "financial management"]
+    "topics": [
+      "currency risk",
+      "financial management"
+    ]
   },
   {
     "id": "q-people-8-3-019",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project objective includes 'Seamless integration with existing teams.' The project manager verifies the contract and notes a requirement for the vendor to 'Use the Client's Jira and Slack channels.' This clause:",
     "options": [
       {
@@ -548,13 +642,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Mandating **common tooling** and communication channels is a concrete way to enforce and verify 'team integration.' The PM confirms that the contract operationalizes the abstract objective.",
     "difficulty": "medium",
-    "topics": ["team integration", "communication management"]
+    "topics": [
+      "team integration",
+      "communication management"
+    ]
   },
   {
     "id": "q-people-8-3-020",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project manager is verifying the signature page of the agreement. The objective is a binding contract. The vendor's signatory is listed as 'Sales Associate.' The project manager checks the vendor's corporate bylaws and sees that only 'VP level and above' can bind the company for deals over $100k. This deal is $500k. What is the status?",
     "options": [
       {
@@ -577,13 +676,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Verification of Authority** is crucial. A contract signed by someone without proper authority (Ultra Vires) may be invalid. The objective of a 'binding contract' is failed if the wrong person signs.",
     "difficulty": "medium",
-    "topics": ["signature authority", "legal validity"]
+    "topics": [
+      "signature authority",
+      "legal validity"
+    ]
   },
   {
     "id": "q-people-8-3-021",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project sponsor wants to ensure the project does not rely on a single individual at the vendor. The project manager verifies the contract includes a 'Key Personnel' clause. What should this clause say to meet the objective?",
     "options": [
       {
@@ -606,13 +710,18 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. To prevent reliance/loss of knowledge (the objective), the **Key Personnel** clause must control the exit. Requiring approval and a **handover period** ensures continuity, verifying the objective of stability.",
     "difficulty": "medium",
-    "topics": ["resource management", "key personnel"]
+    "topics": [
+      "resource management",
+      "key personnel"
+    ]
   },
   {
     "id": "q-people-8-3-022",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project manager is validating the 'Payment Schedule.' The objective is to maintain positive cash flow for the project. The contract requires '50% down payment, 50% on completion.' The project has no funding until Milestone 1 is completed. Does the agreement meet the objective?",
     "options": [
       {
@@ -635,13 +744,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Verification involves aligning the **Contract Cash Flow** with the **Project Funding**. If the contract demands cash before the project has cash, the financial objective is failed. The payment terms need to be renegotiated to align with milestones.",
     "difficulty": "medium",
-    "topics": ["cash flow", "financial alignment"]
+    "topics": [
+      "cash flow",
+      "financial alignment"
+    ]
   },
   {
     "id": "q-people-8-3-023",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "The project's objective is to follow a 'Green/Sustainability' mandate. The project manager verifies the construction contract and finds a requirement to use 'recycled concrete.' However, there is no requirement to track or report the percentage of recycled material used. Why is this a verification failure?",
     "options": [
       {
@@ -664,13 +778,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. A requirement without a **measurement mechanism** is just a wish. To verify the objective is truly met, the contract must include the obligation to **prove** compliance (reporting/tracking).",
     "difficulty": "medium",
-    "topics": ["sustainability", "metrics", "enforceability"]
+    "topics": [
+      "sustainability",
+      "metrics",
+      "enforceability"
+    ]
   },
   {
     "id": "q-people-8-3-024",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "A project manager is reviewing a change control clause in a fixed-price contract. The objective is to minimize scope creep. The clause states: 'Changes under $5,000 do not require formal approval.' How does this align with the objective?",
     "options": [
       {
@@ -693,13 +813,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. While efficient, a clause allowing unapproved changes undermines the objective of **Control**. Multiple small changes can add up to significant scope creep. Verification identifies this loophole.",
     "difficulty": "hard",
-    "topics": ["scope creep", "change control"]
+    "topics": [
+      "scope creep",
+      "change control"
+    ]
   },
   {
     "id": "q-people-8-3-025",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-3"],
+    "enablerIds": [
+      "e-people-8-3"
+    ],
     "text": "After the negotiation, the project manager compares the final contract version to the 'Negotiation Log' (minutes). They notice that a concession made by the vendor regarding 'free shipping' was omitted from the final text. What is the value of this verification step?",
     "options": [
       {
@@ -722,6 +847,9 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. The final step of verification is checking the **Final Draft** against the **Agreed Deal**. Administrative errors (omissions) happen. Catching them ensures the written agreement matches the verbal agreement/objectives.",
     "difficulty": "easy",
-    "topics": ["verification", "administrative closure"]
+    "topics": [
+      "verification",
+      "administrative closure"
+    ]
   }
 ]

@@ -3,7 +3,9 @@
     "id": "q-people-7-4-001",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A project manager helped the team remove a blocker involving a slow approval process by establishing a new Service Level Agreement (SLA) with the legal team. Three sprints later, the team reports that approvals are slowing down again. What should the project manager have done to prevent this recurrence?",
     "options": [
       {
@@ -26,13 +28,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Removing an impediment is not a one-time event; it requires **continual re-assessment**. By monitoring metrics (cycle time) against the agreed solution (SLA), the PM can see if the solution is sustaining or if the impediment is resurfacing (drifting) and take corrective action before it becomes critical again.",
     "difficulty": "medium",
-    "topics": ["monitoring", "impediment recurrence", "metrics"]
+    "topics": [
+      "monitoring",
+      "impediment recurrence",
+      "metrics"
+    ]
   },
   {
     "id": "q-people-7-4-002",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "The Daily Scrum is the primary venue for raising new impediments. However, the Scrum Master notices that the team often raises the *same* impediment (e.g., 'waiting for API') day after day without any change in status. What does this indicate about the re-assessment process?",
     "options": [
       {
@@ -55,13 +63,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. If an impediment is raised repeatedly without a status change, it means the **removal plan** is ineffective or stalled. Continual re-assessment involves checking if the action taken is actually *working*. The Scrum Master must intervene to escalate or change the approach, rather than letting it become a 'zombie' impediment.",
     "difficulty": "medium",
-    "topics": ["daily scrum", "impediment management", "agile ceremonies"]
+    "topics": [
+      "daily scrum",
+      "impediment management",
+      "agile ceremonies"
+    ]
   },
   {
     "id": "q-people-7-4-003",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A project manager maintains an 'Impediment Log' on a shared wiki. The log currently contains 40 resolved items and 5 open items. A stakeholder asks if the 'resolved' items are truly gone for good. How should the project manager verify this?",
     "options": [
       {
@@ -84,13 +98,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Continual re-assessment** applies to resolved issues too, ensuring they don't regress. Using the **Retrospective** to briefly review past fixes (e.g., 'Is that new tool still working for us?') validates the long-term effectiveness of the solutions.",
     "difficulty": "medium",
-    "topics": ["retrospective", "verification", "process improvement"]
+    "topics": [
+      "retrospective",
+      "verification",
+      "process improvement"
+    ]
   },
   {
     "id": "q-people-7-4-004",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "The team implemented a new automated testing tool to remove a bottleneck in QA. Two weeks later, the project manager observes that the team has largely stopped using the tool and reverted to manual testing. What failed in the re-assessment process?",
     "options": [
       {
@@ -113,13 +133,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Implementing a solution (the tool) is not enough. Re-assessment requires checking for **adoption**. If the team reverts to old ways, the impediment (QA bottleneck) returns. The PM needs to investigate *why* usage dropped (e.g., training, usability issues) to truly address the blocker.",
     "difficulty": "medium",
-    "topics": ["adoption", "change management", "re-assessment"]
+    "topics": [
+      "adoption",
+      "change management",
+      "re-assessment"
+    ]
   },
   {
     "id": "q-people-7-4-005",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "During a project status meeting, a team member mentions, 'We are still waiting for access to the database.' The project manager is surprised because this issue was marked as 'Done' in the previous meeting. What is the best immediate action?",
     "options": [
       {
@@ -142,13 +168,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Re-assessment often reveals **false positives**—solutions that appeared to work but didn't, or partial solutions. The immediate action is to reflect reality (Status: Open) and analyze the gap (Root Cause Analysis of the failure). Option a suppresses information. Option d creates clutter.",
     "difficulty": "easy",
-    "topics": ["status tracking", "impediment management"]
+    "topics": [
+      "status tracking",
+      "impediment management"
+    ]
   },
   {
     "id": "q-people-7-4-006",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "An agile team uses a 'Blocker Clustering' technique during their retrospective. They group sticky notes from the last three sprints. They notice that 'Environment Instability' has appeared in every cluster. What is the value of this re-assessment technique?",
     "options": [
       {
@@ -171,13 +202,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Blocker Clustering** is a trend analysis technique used in re-assessment. If an issue recurs across multiple timeframes, it is **chronic/systemic**. This signals that previous 'solutions' were likely just band-aids, and a deeper root cause analysis is required.",
     "difficulty": "medium",
-    "topics": ["trend analysis", "root cause analysis", "agile tools"]
+    "topics": [
+      "trend analysis",
+      "root cause analysis",
+      "agile tools"
+    ]
   },
   {
     "id": "q-people-7-4-007",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "The project manager is reviewing the Issue Log and notices that an impediment assigned to a functional manager has been 'In Progress' for four weeks with no updates. The due date was two weeks ago. What does this suggest about the re-assessment process?",
     "options": [
       {
@@ -200,13 +237,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Re-assessment includes **chasing** and **monitoring** open items. If an item is overdue with no updates, the monitoring loop is broken. The PM needs to re-engage the assignee to unblock the resolution process. Option d masks the delay.",
     "difficulty": "easy",
-    "topics": ["monitoring and controlling", "accountability"]
+    "topics": [
+      "monitoring and controlling",
+      "accountability"
+    ]
   },
   {
     "id": "q-people-7-4-008",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A risk response plan was executed to remove a supply chain blocker by switching vendors. The new vendor is delivering on time, but the quality of the materials is significantly lower, causing manufacturing defects. This new problem is an example of:",
     "options": [
       {
@@ -229,13 +271,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Secondary risks** are risks that arise as a direct result of implementing a risk response. In re-assessing the solution (switching vendors), the PM identified that while the primary blocker (delay) was solved, a new blocker (quality defects) was created. Continual re-assessment checks for these side effects.",
     "difficulty": "hard",
-    "topics": ["risk management", "secondary risks"]
+    "topics": [
+      "risk management",
+      "secondary risks"
+    ]
   },
   {
     "id": "q-people-7-4-009",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "The team is using a Kanban board. Work items are piling up in the 'Code Review' column, exceeding the Work in Progress (WIP) limit. The team cleared a similar pile-up last week, but it has returned. What should the team do?",
     "options": [
       {
@@ -258,13 +305,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. When a bottleneck returns despite previous efforts, the team must **re-assess** the root cause. 'Stopping the line' (Swarming) allows the team to focus on the constraint. Simply increasing the limit (Option a) hides the problem. Option c worsens the bottleneck.",
     "difficulty": "medium",
-    "topics": ["kanban", "bottleneck analysis", "continuous improvement"]
+    "topics": [
+      "kanban",
+      "bottleneck analysis",
+      "continuous improvement"
+    ]
   },
   {
     "id": "q-people-7-4-010",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A project manager works in a hybrid environment. The predictive schedule shows a dependency was cleared last month. However, the agile team, who consumes that dependency, reports in their standup that the component is crashing their build. What is the disconnect?",
     "options": [
       {
@@ -287,13 +340,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Re-assessment ensures that a cleared blocker is *actually* cleared in a way that helps the team. Marking a task 'Complete' in a schedule doesn't mean the impediment is removed if the output is defective. The PM needs to bridge the gap between 'delivered' and 'usable.'",
     "difficulty": "medium",
-    "topics": ["hybrid project management", "quality", "integration"]
+    "topics": [
+      "hybrid project management",
+      "quality",
+      "integration"
+    ]
   },
   {
     "id": "q-people-7-4-011",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "During a monthly stakeholder review, the project manager presents a metric: 'Average Time to Resolve Blockers.' The trend line shows a steady increase from 2 days to 5 days over the last three months. What does this re-assessment data imply?",
     "options": [
       {
@@ -316,13 +375,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Increasing resolution time is a negative trend. **Re-assessment using metrics** allows the PM to diagnose systemic health. A rising trend suggests either the problems are getting harder (complexity) or the support network is getting slower (organizational fatigue). This triggers the need for an investigation.",
     "difficulty": "medium",
-    "topics": ["metrics", "trend analysis", "performance"]
+    "topics": [
+      "metrics",
+      "trend analysis",
+      "performance"
+    ]
   },
   {
     "id": "q-people-7-4-012",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A Servant Leader asks the team at the end of every retrospective, 'On a scale of 1-5, how safe did you feel raising impediments this sprint?' The average score drops from 4.5 to 2.0. What should be the Servant Leader's primary concern?",
     "options": [
       {
@@ -345,13 +410,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Psychological Safety** is the foundation of impediment reporting. If safety drops, team members will hide problems (fear of retribution/judgment). Continually re-assessing safety ensures the *channel* for reporting impediments remains open. A score drop is a critical alarm.",
     "difficulty": "medium",
-    "topics": ["psychological safety", "servant leadership", "impediment reporting"]
+    "topics": [
+      "psychological safety",
+      "servant leadership",
+      "impediment reporting"
+    ]
   },
   {
     "id": "q-people-7-4-013",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "The project manager solved a resource shortage by hiring a contractor. However, the project manager continually checks in with the team's tech lead to ensure the contractor is integrating well. This behavior is an example of:",
     "options": [
       {
@@ -374,13 +445,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Validation** is a key part of re-assessment. Throwing a resource at a problem (hiring) doesn't guarantee the problem is solved. The PM checks in to ensure the solution is *effective* (delivering value) and hasn't introduced new friction (integration issues).",
     "difficulty": "easy",
-    "topics": ["validation", "monitoring", "resource management"]
+    "topics": [
+      "validation",
+      "monitoring",
+      "resource management"
+    ]
   },
   {
     "id": "q-people-7-4-014",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "An external regulatory body conducts quarterly audits. The team passed the Q1 audit. In Q2, the team assumes they are compliant and changes nothing. The Q2 audit finds three major non-compliance blockers. What principle of re-assessment did the team miss?",
     "options": [
       {
@@ -403,13 +480,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Impediment status (like compliance) is **dynamic**, not static. As the project adds features (evolves), the risk profile changes. Continual re-assessment means constantly checking if *new* work has introduced *new* impediments or violated constraints that were previously satisfied.",
     "difficulty": "medium",
-    "topics": ["compliance", "dynamic environments", "monitoring"]
+    "topics": [
+      "compliance",
+      "dynamic environments",
+      "monitoring"
+    ]
   },
   {
     "id": "q-people-7-4-015",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A team has a 'Definition of Ready' (DoR) to prevent blocked user stories from entering the sprint. During the retrospective, they note that 50% of the stories in the sprint became blocked despite meeting the DoR. What should be the re-assessment action?",
     "options": [
       {
@@ -432,13 +515,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. The DoR is a filter to prevent impediments. If it leaks (50% blocked), the filter is broken. **Re-assessment** of the *process* (DoR) leads to **adaptation** (updating the criteria). This is the 'Inspect and Adapt' loop in action.",
     "difficulty": "medium",
-    "topics": ["definition of ready", "process improvement", "inspect and adapt"]
+    "topics": [
+      "definition of ready",
+      "process improvement",
+      "inspect and adapt"
+    ]
   },
   {
     "id": "q-people-7-4-016",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A project manager uses a 'Risk Burndown Chart' to track potential impediments. The chart shows the risk exposure line remains flat for three months while the project timeline advances. What does this suggest?",
     "options": [
       {
@@ -461,13 +550,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. A **Risk Burndown Chart** should generally trend downward as the project progresses (risks are retired, mitigated, or passed). A flat line suggests that re-assessment is passive—risks aren't being closed, or mitigations aren't working. It indicates a lack of active impediment prevention.",
     "difficulty": "hard",
-    "topics": ["risk metrics", "burndown chart", "monitoring"]
+    "topics": [
+      "risk metrics",
+      "burndown chart",
+      "monitoring"
+    ]
   },
   {
     "id": "q-people-7-4-017",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "The team successfully used a 'workaround' to bypass a server configuration issue. Six months later, the project is entering the maintenance phase, and the workaround is still in place. What risk has the lack of re-assessment created?",
     "options": [
       {
@@ -490,13 +585,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Workarounds are temporary fixes. Continual re-assessment involves asking, 'Is this temporary fix still acceptable?' Leaving a workaround permanently creates **Technical Debt**. Re-assessment should trigger the decision to pay down that debt (fix it properly) before handover.",
     "difficulty": "medium",
-    "topics": ["technical debt", "workarounds", "long-term maintenance"]
+    "topics": [
+      "technical debt",
+      "workarounds",
+      "long-term maintenance"
+    ]
   },
   {
     "id": "q-people-7-4-018",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A stakeholder who was previously a blocker (resistant to the project) was converted into a supporter through intensive engagement. The project manager stops engaging them to focus on others. Two months later, the stakeholder becomes a blocker again. What happened?",
     "options": [
       {
@@ -519,13 +620,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Stakeholder sentiment is **fluid**. Re-assessment involves **monitoring stakeholder engagement levels**. Assuming a 'converted' stakeholder will stay supportive without maintenance is a common error. The PM must continually re-assess the relationship health.",
     "difficulty": "easy",
-    "topics": ["stakeholder engagement", "monitoring", "relationship management"]
+    "topics": [
+      "stakeholder engagement",
+      "monitoring",
+      "relationship management"
+    ]
   },
   {
     "id": "q-people-7-4-019",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "The project team identifies 'Low Morale' as an impediment. They implement 'No Meeting Fridays' as a solution. How should the project manager **quantitatively** re-assess if this solution is working?",
     "options": [
       {
@@ -548,13 +655,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. To effectively re-assess a subjective impediment like morale, you need **quantifiable metrics**. **eNPS** or 'Happiness Indices' provide data points to verify if the intervention (No Meeting Fridays) is moving the needle on the core problem.",
     "difficulty": "medium",
-    "topics": ["metrics", "morale", "quantifying soft skills"]
+    "topics": [
+      "metrics",
+      "morale",
+      "quantifying soft skills"
+    ]
   },
   {
     "id": "q-people-7-4-020",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "During a 'Scrum of Scrums', Representative A reports that their team's impediment was resolved by Team B. Representative B corrects them, saying they only provided a partial patch. What does this communication gap highlight the need for?",
     "options": [
       {
@@ -577,13 +690,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Re-assessment requires **verification**. If two parties have different views on the status of an impediment, the **feedback loop** is open. Closed-loop communication ensures both the provider (Team B) and consumer (Team A) agree the impediment is fully resolved.",
     "difficulty": "medium",
-    "topics": ["communication", "scrum of scrums", "verification"]
+    "topics": [
+      "communication",
+      "scrum of scrums",
+      "verification"
+    ]
   },
   {
     "id": "q-people-7-4-021",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A project manager schedules a 'clean-up' session for the backlog but realizes that 20% of the stories are tagged with 'Blocked' due to dependencies that were supposedly resolved months ago. What immediate step helps re-assess the validity of these tags?",
     "options": [
       {
@@ -606,13 +725,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Blocked tags often become **stale** (the blocker is gone, but no one updated the ticket). A 'Board Walk' or backlog refinement session focused on re-assessment forces the team to validate the *current* state of every impediment, cleaning up the data.",
     "difficulty": "medium",
-    "topics": ["backlog refinement", "data hygiene", "impediment validation"]
+    "topics": [
+      "backlog refinement",
+      "data hygiene",
+      "impediment validation"
+    ]
   },
   {
     "id": "q-people-7-4-022",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "The team solved a communication blocker by moving to a new chat tool. However, the project manager notices that critical project decisions are now being made in private chat channels, excluding key stakeholders. Re-assessment has identified this as:",
     "options": [
       {
@@ -635,13 +760,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Re-assessment looks for **unintended consequences**. While the tool solved the speed issue, it created an **Information Silo** (transparency issue). The PM must adjust the usage guidelines (policy) to ensure decisions remain visible.",
     "difficulty": "medium",
-    "topics": ["communication", "information silos", "transparency"]
+    "topics": [
+      "communication",
+      "information silos",
+      "transparency"
+    ]
   },
   {
     "id": "q-people-7-4-023",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A project manager is using 'Management by Walking Around' (MBWA) to re-assess impediments. They notice team members are using headphones and looking stressed, despite the status report saying 'All Green.' What is the value of this observation?",
     "options": [
       {
@@ -664,13 +795,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Formal reports often lag reality or hide bad news ('Watermelon reporting' - green outside, red inside). **MBWA** allows the PM to re-assess based on **observation** and **non-verbal cues**, catching impediments (burnout/stress) that aren't on the official log.",
     "difficulty": "easy",
-    "topics": ["observation", "mbwa", "status verification"]
+    "topics": [
+      "observation",
+      "mbwa",
+      "status verification"
+    ]
   },
   {
     "id": "q-people-7-4-024",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "The project is in the final phase. The team is fatigued. The project manager increases the frequency of 'check-ins' regarding blockers from weekly to daily. Why is this adjustment in re-assessment frequency appropriate?",
     "options": [
       {
@@ -693,13 +830,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. The **cadence of re-assessment** should match the project risk. In the final phase (Crunch Time), there is zero slack. A small blocker can cause a missed deadline. Therefore, **higher frequency monitoring** is required to catch and kill impediments immediately.",
     "difficulty": "medium",
-    "topics": ["monitoring cadence", "risk management", "project closing"]
+    "topics": [
+      "monitoring cadence",
+      "risk management",
+      "project closing"
+    ]
   },
   {
     "id": "q-people-7-4-025",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-4"],
+    "enablerIds": [
+      "e-people-7-4"
+    ],
     "text": "A solution to a data privacy impediment involved implementing a complex encryption algorithm. The project manager schedules a 'Post-Implementation Review' with the technical architect one month later. What is the primary purpose of this meeting?",
     "options": [
       {
@@ -722,6 +865,10 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. A **Post-Implementation Review** is a formal re-assessment tool. It validates **effectiveness** (did it solve the problem?) and checks for **performance regression** (did it break anything else?). This ensures the impediment is truly resolved in a balanced way.",
     "difficulty": "medium",
-    "topics": ["post-implementation review", "quality assurance", "validation"]
+    "topics": [
+      "post-implementation review",
+      "quality assurance",
+      "validation"
+    ]
   }
 ]

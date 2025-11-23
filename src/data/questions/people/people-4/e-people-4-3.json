@@ -3,7 +3,9 @@
     "id": "q-people-4-3-001",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The team agreed that tasks would not be marked done until peer review is complete. After several sprints, build quality has improved. What is the best way for the project manager to evaluate demonstration of task accountability?",
     "options": [
       {
@@ -26,13 +28,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because evaluating accountability requires checking that agreed behaviors (peer reviews) are being followed and connected to outcomes. Option b is incorrect because outcomes alone do not confirm specific behavior. Option c is incorrect because one stakeholder perspective is insufficient. Option d is incorrect because accountability includes process adherence, not just dates.",
     "difficulty": "medium",
-    "topics": ["peer review", "behavior verification"]
+    "topics": [
+      "peer review",
+      "behavior verification"
+    ]
   },
   {
     "id": "q-people-4-3-002",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "A developer commits to handling stakeholder communication for a feature but later delegates all updates to others. How should the project manager evaluate their demonstration of accountability?",
     "options": [
       {
@@ -55,13 +62,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because accountability includes owning agreed responsibilities and being evaluated on follow-through. Option b is incorrect because ignoring delegations may hide issues. Option c is incorrect because task accountability includes communication, not just technical delivery. Option d is incorrect because relying on complaints is reactive.",
     "difficulty": "easy",
-    "topics": ["commitment vs action", "stakeholder updates"]
+    "topics": [
+      "commitment vs action",
+      "stakeholder updates"
+    ]
   },
   {
     "id": "q-people-4-3-003",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "A quality improvement initiative assigned each team member responsibility for a specific metric (such as defect density or cycle time). Some metrics improved, while others did not. How should the project manager evaluate task accountability in this case?",
     "options": [
       {
@@ -84,13 +96,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because evaluating accountability involves looking at both results and whether owners took meaningful actions. Option b is incorrect because disregarding behavior prevents learning. Option c is incorrect because ignoring underperforming metrics misses improvement opportunities. Option d is incorrect because frequent mentions do not guarantee action.",
     "difficulty": "hard",
-    "topics": ["metric ownership", "result evaluation"]
+    "topics": [
+      "metric ownership",
+      "result evaluation"
+    ]
   },
   {
     "id": "q-people-4-3-004",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The team agreed that blockers must be raised within one working day. In practice, some team members struggle silently for several days before asking for help. How should the project manager evaluate accountability for this agreement?",
     "options": [
       {
@@ -113,13 +130,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because evaluating accountability includes checking adherence to team agreements and addressing gaps. Option b is incorrect because ignoring delays undermines the agreement. Option c is incorrect because documents alone do not ensure behavior. Option d is incorrect because optionalizing agreements weakens accountability.",
     "difficulty": "medium",
-    "topics": ["blocker escalation", "agreement adherence"]
+    "topics": [
+      "blocker escalation",
+      "agreement adherence"
+    ]
   },
   {
     "id": "q-people-4-3-005",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "A newly appointed task owner inherited a partially completed work package. They successfully delivered it on time and documented key decisions. How should the project manager evaluate their demonstration of accountability?",
     "options": [
       {
@@ -142,13 +164,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because accountability includes effectively taking over and completing tasks, including capturing decisions. Option b is incorrect because documentation is part of responsibility. Option c and d are incorrect because they minimize the current owner's contribution.",
     "difficulty": "easy",
-    "topics": ["ownership transition", "recognition"]
+    "topics": [
+      "ownership transition",
+      "recognition"
+    ]
   },
   {
     "id": "q-people-4-3-006",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The project manager wants to evaluate whether the team demonstrates accountability for retrospective action items. Which evidence is most relevant?",
     "options": [
       {
@@ -171,13 +198,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because accountability is demonstrated by owned actions that lead to change. Option b is incorrect because lack of owners and dates undermines ownership. Option c is incorrect because frequency of meetings alone does not show accountability. Option d is incorrect because vague intentions without tracking are weak.",
     "difficulty": "easy",
-    "topics": ["retrospective actions", "evidence"]
+    "topics": [
+      "retrospective actions",
+      "evidence"
+    ]
   },
   {
     "id": "q-people-4-3-007",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The sponsor notes that a few team members always step in to fix critical issues, even when they are not the assigned owners. How should the project manager evaluate task accountability in this situation?",
     "options": [
       {
@@ -200,13 +232,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because effective accountability requires that assigned owners deliver, not just that work gets done by volunteers. Option b is incorrect because it overlooks systemic issues. Option c is incorrect because concentrating work on a few people is unsustainable. Option d is incorrect because timing and ownership matter.",
     "difficulty": "hard",
-    "topics": ["hero culture", "owner performance"]
+    "topics": [
+      "hero culture",
+      "owner performance"
+    ]
   },
   {
     "id": "q-people-4-3-008",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "A task owner is responsible for collecting sign-offs but repeatedly submits documents for approval with incomplete sections. How should the project manager evaluate accountability for this task?",
     "options": [
       {
@@ -229,13 +266,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because accountability includes delivering complete inputs to stakeholders, not just meeting dates. Option b is incorrect because quality of handoffs is important. Option c is incorrect because shifting work to approvers is outside the task's scope. Option d is incorrect because repeated issues should be addressed.",
     "difficulty": "medium",
-    "topics": ["sign-offs", "handoff quality"]
+    "topics": [
+      "sign-offs",
+      "handoff quality"
+    ]
   },
   {
     "id": "q-people-4-3-009",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The team implemented a policy where task owners must present their work during sprint reviews. Some owners delegate the presentation to others. How should the project manager evaluate accountability under this policy?",
     "options": [
       {
@@ -258,13 +300,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because the key is that owners remain visible and answerable for results, regardless of presentation help. Option b is incorrect because focusing only on the speaker may misrepresent ownership. Option c is incorrect because policy adjustments, not removal, may be needed. Option d is incorrect because review presentations are part of demonstrating ownership.",
     "difficulty": "medium",
-    "topics": ["sprint reviews", "owner visibility"]
+    "topics": [
+      "sprint reviews",
+      "owner visibility"
+    ]
   },
   {
     "id": "q-people-4-3-010",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "Several tasks were delivered on time, but dependencies were not fully considered, leading to rework for another team. How should the project manager evaluate demonstration of task accountability for the original team?",
     "options": [
       {
@@ -287,13 +334,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because true accountability includes end-to-end effects on other teams, not just isolated tasks. Option b is incorrect because schedule alone is insufficient. Option c is incorrect because upstream teams share responsibility for dependencies. Option d is incorrect because ignoring cross-team impacts gives an incomplete picture.",
     "difficulty": "hard",
-    "topics": ["end-to-end accountability", "dependencies"]
+    "topics": [
+      "end-to-end accountability",
+      "dependencies"
+    ]
   },
   {
     "id": "q-people-4-3-011",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The project manager wants to evaluate whether task accountability improved after introducing a RACI matrix. Which indicator would be most relevant?",
     "options": [
       {
@@ -316,13 +368,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because improved accountability is reflected in fewer gaps, faster decisions, and less ownership confusion. Option b is incorrect because documentation alone does not show behavioral change. Option c is incorrect because memorization does not guarantee use. Option d is incorrect because more emails may signal confusion.",
     "difficulty": "medium",
-    "topics": ["RACI outcomes", "task gaps"]
+    "topics": [
+      "RACI outcomes",
+      "task gaps"
+    ]
   },
   {
     "id": "q-people-4-3-012",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "A team member owns a risk mitigation task but has not started it by the due date. The risk remains open. How should the project manager evaluate this person's accountability for the task?",
     "options": [
       {
@@ -345,13 +402,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because missing a mitigation task indicates an accountability gap that must be addressed. Option b is incorrect because risk severity should be assessed, not assumed. Option c is incorrect because waiting for an issue to occur is reactive. Option d is incorrect because transferring tasks without discussion hides the problem.",
     "difficulty": "medium",
-    "topics": ["risk mitigation tasks", "missed actions"]
+    "topics": [
+      "risk mitigation tasks",
+      "missed actions"
+    ]
   },
   {
     "id": "q-people-4-3-013",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "After clarifying roles, the team reports that they can better see who owns which work. The project manager now wants to evaluate demonstration of accountability. Which approach is best?",
     "options": [
       {
@@ -374,13 +436,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because accountability is shown in behavior, such as task completion and escalation, not just awareness. Option b is incorrect because sentiment alone is incomplete. Option c is incorrect because documentation alone does not confirm practice. Option d is incorrect because project-level metrics may hide local issues.",
     "difficulty": "easy",
-    "topics": ["role clarity", "behavior monitoring"]
+    "topics": [
+      "role clarity",
+      "behavior monitoring"
+    ]
   },
   {
     "id": "q-people-4-3-014",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "Team members agreed to update the kanban board daily. After a month, some columns reflect reality, while others are outdated. How should the project manager evaluate task accountability for board maintenance?",
     "options": [
       {
@@ -403,13 +470,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because maintaining accurate boards is part of task accountability and should be evaluated and improved. Option b is incorrect because inaccurate boards hinder coordination. Option c is incorrect because unverified data may mislead decisions. Option d is incorrect because abandoning the board removes a useful tool instead of fixing usage.",
     "difficulty": "medium",
-    "topics": ["board maintenance", "information accountability"]
+    "topics": [
+      "board maintenance",
+      "information accountability"
+    ]
   },
   {
     "id": "q-people-4-3-015",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The project manager wants to include task accountability in performance reviews. What is the best way to evaluate it fairly?",
     "options": [
       {
@@ -432,13 +504,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because fair evaluation relies on observable evidence of taking ownership and following through. Option b is incorrect because impressions are biased. Option c is incorrect because assignment count does not show follow-through. Option d is incorrect because popularity is not a reliable indicator.",
     "difficulty": "hard",
-    "topics": ["performance reviews", "objective evidence"]
+    "topics": [
+      "performance reviews",
+      "objective evidence"
+    ]
   },
   {
     "id": "q-people-4-3-016",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "Two teams share responsibility for integration testing. Each assumes the other will write the tests. Few tests are created, and defects escape. How should the project manager evaluate task accountability across the teams?",
     "options": [
       {
@@ -461,13 +538,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because examining and clarifying shared responsibilities is key to evaluating and improving accountability. Option b is incorrect because blaming individuals ignores structural ambiguity. Option c is incorrect because escape defects show a problem. Option d is incorrect because project-level accountability is essential.",
     "difficulty": "hard",
-    "topics": ["shared accountability", "integration testing"]
+    "topics": [
+      "shared accountability",
+      "integration testing"
+    ]
   },
   {
     "id": "q-people-4-3-017",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "After introducing daily checklists for deployment tasks, rollbacks decreased. However, some team members report skipping checklist steps when under time pressure. What should the project manager evaluate regarding accountability?",
     "options": [
       {
@@ -490,13 +572,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because evaluating accountability requires checking adherence to agreed safeguards and addressing barriers to use. Option b is incorrect because skipped steps may lead to future issues. Option c is incorrect because optionalizing safeguards weakens them. Option d is incorrect because unused checklists do not demonstrate accountable behavior.",
     "difficulty": "medium",
-    "topics": ["checklist adherence", "time pressure"]
+    "topics": [
+      "checklist adherence",
+      "time pressure"
+    ]
   },
   {
     "id": "q-people-4-3-018",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The project manager wants to evaluate whether empowering team members improved accountability. Over several sprints, the team self-selects tasks and sets realistic commitments. What evidence would best support that accountability has increased?",
     "options": [
       {
@@ -519,13 +606,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because meeting commitments and proactive behavior indicate stronger accountability. Option b is incorrect because more tasks alone do not show responsible follow-through. Option c is incorrect because frequent owner changes may signal instability. Option d is incorrect because less facilitation does not guarantee accountability.",
     "difficulty": "medium",
-    "topics": ["empowerment outcomes", "ownership indicators"]
+    "topics": [
+      "empowerment outcomes",
+      "ownership indicators"
+    ]
   },
   {
     "id": "q-people-4-3-019",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "During project closure, the project manager wants to evaluate how well task accountability was demonstrated across phases. Which approach is most appropriate?",
     "options": [
       {
@@ -548,13 +640,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because a structured review of how responsibilities were fulfilled supports learning for future projects. Option b is incorrect because management satisfaction alone is not enough. Option c is incorrect because schedule and budget do not reveal accountability details. Option d is incorrect because closure is an opportunity to learn.",
     "difficulty": "easy",
-    "topics": ["closure evaluation", "patterns"]
+    "topics": [
+      "closure evaluation",
+      "patterns"
+    ]
   },
   {
     "id": "q-people-4-3-020",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The project uses a shared inbox for support requests. Several emails remain unanswered for days. No one is explicitly assigned. How should the project manager evaluate accountability and adjust practices?",
     "options": [
       {
@@ -577,13 +674,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because assigning explicit responsibility for the inbox improves accountability and response times. Option b is incorrect because unmanaged queues lead to neglect. Option c is incorrect because placing the burden on requesters is reactive. Option d is incorrect because treating delays as normal undermines service.",
     "difficulty": "medium",
-    "topics": ["shared queues", "owner assignment"]
+    "topics": [
+      "shared queues",
+      "owner assignment"
+    ]
   },
   {
     "id": "q-people-4-3-021",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "A senior leader asks whether the team is reliably following change control procedures. What should the project manager review to evaluate task accountability for change management?",
     "options": [
       {
@@ -606,13 +708,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because accountability for change control is demonstrated by adherence to each step and complete records. Option b is incorrect because perception of clarity is not enough. Option c is incorrect because documentation alone does not prove follow-through. Option d is incorrect because counts alone omit process quality.",
     "difficulty": "hard",
-    "topics": ["change control", "process adherence"]
+    "topics": [
+      "change control",
+      "process adherence"
+    ]
   },
   {
     "id": "q-people-4-3-022",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The team introduced peer checklists for complex tasks to improve accountability. After several uses, some team members sign off on items they did not actually verify. How should the project manager evaluate accountability with respect to these checklists?",
     "options": [
       {
@@ -635,13 +742,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because evaluating accountability must include verifying that controls are applied honestly and addressing gaps. Option b is incorrect because symbolic sign-offs undermine controls. Option c is incorrect because improvement is possible rather than elimination. Option d is incorrect because absence of incidents may be temporary.",
     "difficulty": "hard",
-    "topics": ["checklist integrity", "control effectiveness"]
+    "topics": [
+      "checklist integrity",
+      "control effectiveness"
+    ]
   },
   {
     "id": "q-people-4-3-023",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "Over time, the project has reduced the number of overdue tasks and escalations. The project manager wants to confirm that this reflects stronger task accountability rather than just reduced scope. What should be examined?",
     "options": [
       {
@@ -664,13 +776,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because controlling for scope and workload is necessary to attribute improvements to accountability. Option b is incorrect because counts alone lack context. Option c is incorrect because fewer tasks may simply reflect less work. Option d is incorrect because sponsor satisfaction can hide underlying issues.",
     "difficulty": "medium",
-    "topics": ["trend interpretation", "scope context"]
+    "topics": [
+      "trend interpretation",
+      "scope context"
+    ]
   },
   {
     "id": "q-people-4-3-024",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "The project manager wants to encourage self-reflection on accountability among team members. Which practice would best support evaluating and improving task accountability?",
     "options": [
       {
@@ -693,13 +810,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because regular self-reflection on commitments helps individuals internalize accountability. Option b is incorrect because one-off assessments have limited impact. Option c is incorrect because self-awareness is important. Option d is incorrect because hidden feedback does not support personal improvement.",
     "difficulty": "easy",
-    "topics": ["self-assessment", "continuous improvement"]
+    "topics": [
+      "self-assessment",
+      "continuous improvement"
+    ]
   },
   {
     "id": "q-people-4-3-025",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-3"],
+    "enablerIds": [
+      "e-people-4-3"
+    ],
     "text": "At the portfolio review, leadership asks how the project ensures accountability for critical deliverables. What evidence should the project manager highlight to demonstrate task accountability?",
     "options": [
       {
@@ -722,7 +844,9 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because concrete evidence of ownership, criteria, reviews, and issue handling demonstrates accountability for critical work. Option b is incorrect because unowned tasks are risky. Option c is incorrect because high-level charts without owners lack accountability detail. Option d is incorrect because verbal statements alone are weak evidence.",
     "difficulty": "medium",
-    "topics": ["portfolio review", "critical deliverables"]
+    "topics": [
+      "portfolio review",
+      "critical deliverables"
+    ]
   }
 ]
-

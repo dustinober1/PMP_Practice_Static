@@ -3,7 +3,9 @@
     "id": "q-people-8-4-001",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "During a tense negotiation with a supplier, the supplier's representative slams their fist on the table and threatens to walk out if their price is not met. What is the best immediate reaction for the project manager?",
     "options": [
       {
@@ -26,13 +28,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. In negotiation, emotional outbursts are often tactics or signs of genuine stress. The project manager should **separate the people from the problem**. Staying calm and calling a recess allows emotions to cool without surrendering (Option c) or escalating (Option a).",
     "difficulty": "medium",
-    "topics": ["emotional intelligence", "conflict management", "negotiation tactics"]
+    "topics": [
+      "emotional intelligence",
+      "conflict management",
+      "negotiation tactics"
+    ]
   },
   {
     "id": "q-people-8-4-002",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The project manager is leading a negotiation team. A junior technical member of the team interrupts the lead negotiator to correct a minor technical detail, inadvertently revealing that the team is desperate for the solution. How should the project manager handle this in the moment?",
     "options": [
       {
@@ -55,13 +63,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. When a team member makes a tactical error (revealing leverage), the lead negotiator must **damage control** immediately. Pivoting quickly minimizes the impact. Public reprimands (Option a) show disunity, which the other side will exploit.",
     "difficulty": "medium",
-    "topics": ["team dynamics", "negotiation discipline"]
+    "topics": [
+      "team dynamics",
+      "negotiation discipline"
+    ]
   },
   {
     "id": "q-people-8-4-003",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "A vendor makes an opening offer that is extremely high, far above the project manager's budget. This is known as 'Anchoring.' What is the most effective response?",
     "options": [
       {
@@ -84,13 +97,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. You must **reject the anchor** immediately. If you work from their number (Option c) or split the difference (Option d), the anchor has successfully pulled the final result in their favor. Re-anchoring with data resets the playing field.",
     "difficulty": "medium",
-    "topics": ["anchoring", "counter-offers", "tactics"]
+    "topics": [
+      "anchoring",
+      "counter-offers",
+      "tactics"
+    ]
   },
   {
     "id": "q-people-8-4-004",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "Negotiations have stalled on the issue of warranty duration. Both sides are repeating their demands ('Positions'). To break the deadlock, the project manager asks, 'Why is a 1-year warranty so critical for you?' This technique is:",
     "options": [
       {
@@ -113,13 +132,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. **Principled Negotiation** (Harvard method) focuses on interests, not positions. By asking 'Why,' the PM uncovers the underlying need (Interest), which might be solvable in a different way than the rigid demand (Position).",
     "difficulty": "easy",
-    "topics": ["interests vs positions", "principled negotiation"]
+    "topics": [
+      "interests vs positions",
+      "principled negotiation"
+    ]
   },
   {
     "id": "q-people-8-4-005",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The project manager is negotiating with a vendor from a high-context culture (e.g., Japan, Middle East). The vendor spends the first two meetings discussing family, history, and tea, avoiding business details. The project manager should:",
     "options": [
       {
@@ -142,13 +166,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. In **high-context cultures**, business is personal. Attempting to rush to the transaction (Option a) is rude and will likely kill the deal. Participating in the ritual builds the necessary **social capital** to negotiate successfully.",
     "difficulty": "medium",
-    "topics": ["cultural awareness", "relationship building"]
+    "topics": [
+      "cultural awareness",
+      "relationship building"
+    ]
   },
   {
     "id": "q-people-8-4-006",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The counterparty offers a concession on price. The project manager immediately accepts it and moves to the next item. What key negotiation principle did the project manager miss?",
     "options": [
       {
@@ -171,13 +200,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. In negotiation, **concessions should be traded**, not just taken. If the other side gives something (price), the PM should have used that momentum to get something else or given a small concession in return to solidify the deal. Simply taking it can sometimes make the other side feel they gave too much too easily.",
     "difficulty": "medium",
-    "topics": ["reciprocity", "concession strategy"]
+    "topics": [
+      "reciprocity",
+      "concession strategy"
+    ]
   },
   {
     "id": "q-people-8-4-007",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The negotiation is taking place virtually via video conference. The vendor turns off their camera and goes on mute for long periods after the project manager makes a proposal. How should the project manager interpret and handle this?",
     "options": [
       {
@@ -200,13 +234,18 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. **Silence** is a powerful tool. In virtual negotiations, 'mute' often means the other side is discussing internally. Filling the silence (Option b) usually leads to bidding against oneself. Patience is key.",
     "difficulty": "medium",
-    "topics": ["virtual negotiation", "silence"]
+    "topics": [
+      "virtual negotiation",
+      "silence"
+    ]
   },
   {
     "id": "q-people-8-4-008",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "Just as the agreement is about to be signed, the vendor asks for 'one small thing'—adding an inflation adjustment clause. This tactic is known as:",
     "options": [
       {
@@ -229,13 +268,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. **The Nibble** is a tactic where a negotiator asks for a small concession at the very end, hoping the other side will agree just to get the deal done. The PM should resist or ask for a counter-concession.",
     "difficulty": "easy",
-    "topics": ["negotiation tactics", "the nibble"]
+    "topics": [
+      "negotiation tactics",
+      "the nibble"
+    ]
   },
   {
     "id": "q-people-8-4-009",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "A project manager is negotiating with two representatives from a vendor. One is aggressive and demanding, while the other is friendly and apologetic. The friendly one whispers, 'I can get this deal done if you just agree to this one price hike.' This is an example of:",
     "options": [
       {
@@ -258,13 +302,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Good Cop / Bad Cop** is a classic psychological tactic. The 'Bad Cop' creates fear/pressure, making the 'Good Cop' seem like a savior, encouraging the victim to concede to the Good Cop to escape the Bad Cop.",
     "difficulty": "easy",
-    "topics": ["psychological tactics", "good cop bad cop"]
+    "topics": [
+      "psychological tactics",
+      "good cop bad cop"
+    ]
   },
   {
     "id": "q-people-8-4-010",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "During the negotiation, the other party presents a complex chart showing why their costs are so high. The project manager suspects the data is misleading. What is the best active listening response?",
     "options": [
       {
@@ -287,13 +336,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This uses **inquiry and verification**. Instead of accusing (Option a) or ignoring (Option c), the PM investigates the data politely but firmly. This exposes the weakness in their argument without necessarily being aggressive.",
     "difficulty": "medium",
-    "topics": ["active listening", "data verification", "communication"]
+    "topics": [
+      "active listening",
+      "data verification",
+      "communication"
+    ]
   },
   {
     "id": "q-people-8-4-011",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The project manager realizes that the vendor's negotiator does not have the authority to approve the discount being discussed. What should the project manager do?",
     "options": [
       {
@@ -316,13 +371,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Negotiating with someone who lacks **authority** is often a waste of time or a trap (they can say 'my boss rejected it' later). Ensuring the decision-maker is present or reachable is crucial for closing.",
     "difficulty": "medium",
-    "topics": ["authority", "stakeholder management"]
+    "topics": [
+      "authority",
+      "stakeholder management"
+    ]
   },
   {
     "id": "q-people-8-4-012",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The vendor states, 'Take it or leave it. This is our final offer.' The project manager knows the offer is still slightly above budget but acceptable. What is the best strategic response?",
     "options": [
       {
@@ -345,13 +405,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Ultimata are often bluffs. Using **silence** tests the resolve. Asking for a small concession (e.g., 'If we agree to this price, can you include expedited shipping?') allows the PM to accept the 'final' offer while still claiming a small win ('Saving Face').",
     "difficulty": "hard",
-    "topics": ["ultimatums", "strategy"]
+    "topics": [
+      "ultimatums",
+      "strategy"
+    ]
   },
   {
     "id": "q-people-8-4-013",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "A project manager is negotiating resource allocation with a functional manager. The project manager says, 'If you give me the Senior Developer for 3 weeks, I will release the Junior Developer back to you immediately.' This is an example of:",
     "options": [
       {
@@ -374,13 +439,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This is **Trading** (quid pro quo). The PM is not splitting the difference (Compromise); they are exchanging currencies (Senior time for Junior availability) to optimize value.",
     "difficulty": "easy",
-    "topics": ["bargaining", "conflict resolution"]
+    "topics": [
+      "bargaining",
+      "conflict resolution"
+    ]
   },
   {
     "id": "q-people-8-4-014",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "Throughout the negotiation meeting, the project manager takes detailed notes on a visible whiteboard, summarizing points of agreement as they happen. What is the primary benefit of this technique?",
     "options": [
       {
@@ -403,13 +473,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Visualizing the agreement** builds momentum and trust. It also serves as a control mechanism. If someone tries to change a term agreed upon 10 minutes ago, the PM can point to the board: 'We already captured that here.'",
     "difficulty": "medium",
-    "topics": ["facilitation", "communication", "agreement verification"]
+    "topics": [
+      "facilitation",
+      "communication",
+      "agreement verification"
+    ]
   },
   {
     "id": "q-people-8-4-015",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The project manager uses the phrase, 'So, if I understand you correctly, you are saying that without the additional fee, you cannot guarantee the delivery date?' This is an example of:",
     "options": [
       {
@@ -432,13 +508,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. **Paraphrasing** checks understanding and forces the other party to confirm the implication of their statement. It clarifies the position without being accusatory.",
     "difficulty": "easy",
-    "topics": ["active listening", "communication"]
+    "topics": [
+      "active listening",
+      "communication"
+    ]
   },
   {
     "id": "q-people-8-4-016",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "Negotiations are deadlocked. The project manager suggests, 'Let's set aside the price issue for a moment and talk about the delivery schedule and training.' This strategy is:",
     "options": [
       {
@@ -461,13 +542,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. When blocked on a big issue (Price), **parking** it and moving to smaller/different issues allows the parties to build momentum and uncover new variables that might help solve the main block later.",
     "difficulty": "medium",
-    "topics": ["deadlock resolution", "strategy"]
+    "topics": [
+      "deadlock resolution",
+      "strategy"
+    ]
   },
   {
     "id": "q-people-8-4-017",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The vendor claims, 'Our policy forbids changing the liability clause.' The project manager knows other clients have changed it. How should the project manager respond?",
     "options": [
       {
@@ -490,13 +576,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. 'Policy' is often a soft barrier masquerading as a hard one. Asking about **exceptions** challenges the barrier politely and invites them to find a way around their own rules without directly calling them dishonest.",
     "difficulty": "medium",
-    "topics": ["challenging constraints", "negotiation tactics"]
+    "topics": [
+      "challenging constraints",
+      "negotiation tactics"
+    ]
   },
   {
     "id": "q-people-8-4-018",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The project manager arranges the meeting room so that the parties are sitting at a round table rather than across from each other. What is the psychological intent?",
     "options": [
       {
@@ -519,13 +610,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Physical environment** impacts negotiation. Sitting 'across' suggests opposition. Sitting 'together' (round table or side-by-side) suggests partnership and collaboration.",
     "difficulty": "easy",
-    "topics": ["environment", "collaboration"]
+    "topics": [
+      "environment",
+      "collaboration"
+    ]
   },
   {
     "id": "q-people-8-4-019",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The project manager decides to bring a Subject Matter Expert (SME) to the negotiation. What is the primary role of the SME during the meeting?",
     "options": [
       {
@@ -548,13 +644,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **SMEs** are there for credibility and facts. They should generally *not* negotiate terms or price (that's the Lead's job) to avoid accidental concessions. Their role is support and validation.",
     "difficulty": "medium",
-    "topics": ["roles and responsibilities", "team negotiation"]
+    "topics": [
+      "roles and responsibilities",
+      "team negotiation"
+    ]
   },
   {
     "id": "q-people-8-4-020",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The project manager uses the 'Flinch' tactic when the vendor names their price (visibly reacting with shock/pain). What is the goal of this body language?",
     "options": [
       {
@@ -577,13 +678,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. **The Flinch** is a non-verbal tactic. If the PM reacts neutrally to a high price, the vendor thinks, 'They might pay this.' If the PM flinches, the vendor thinks, 'Oops, I went too high,' and often immediately offers a discount.",
     "difficulty": "easy",
-    "topics": ["body language", "tactics", "the flinch"]
+    "topics": [
+      "body language",
+      "tactics",
+      "the flinch"
+    ]
   },
   {
     "id": "q-people-8-4-021",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The vendor offers a concession, but frames it as 'a personal favor to you.' This invokes the principle of:",
     "options": [
       {
@@ -606,13 +713,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Framing it as personal creates a **social debt**. The vendor wants the PM to feel obliged to return the favor later. Recognizing this allows the PM to accept the value without necessarily accepting the emotional debt.",
     "difficulty": "medium",
-    "topics": ["psychology", "persuasion"]
+    "topics": [
+      "psychology",
+      "persuasion"
+    ]
   },
   {
     "id": "q-people-8-4-022",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The negotiation is concluding, but one small issue remains unresolved. The project manager suggests, 'Let's split the difference on this last $500.' When is splitting the difference appropriate?",
     "options": [
       {
@@ -635,13 +747,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Splitting the difference is a **closing tactic**. It is lazy if done early, but efficient if done late for small amounts to just get the deal done.",
     "difficulty": "easy",
-    "topics": ["closing tactics", "efficiency"]
+    "topics": [
+      "closing tactics",
+      "efficiency"
+    ]
   },
   {
     "id": "q-people-8-4-023",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The project manager enters the negotiation with a 'BATNA' (Best Alternative to a Negotiated Agreement) of hiring a different, slightly more expensive vendor. During the meeting, the current vendor refuses to budge on price. The project manager should:",
     "options": [
       {
@@ -664,13 +781,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. The power of **BATNA** is the ability to walk away. Participating in the negotiation means knowing *when* to use that power. If the deal on the table is worse than the BATNA, you walk.",
     "difficulty": "medium",
-    "topics": ["BATNA", "power"]
+    "topics": [
+      "BATNA",
+      "power"
+    ]
   },
   {
     "id": "q-people-8-4-024",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "The project manager is negotiating with an internal department. The tone is getting heated. The project manager says, 'I feel like we aren't making progress. I suggest we stop for today and resume tomorrow.' This is an example of:",
     "options": [
       {
@@ -693,13 +815,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. A skilled negotiator manages the **process**. Adjourning when emotions block progress protects the relationship and allows parties to reset.",
     "difficulty": "easy",
-    "topics": ["process management", "emotional intelligence"]
+    "topics": [
+      "process management",
+      "emotional intelligence"
+    ]
   },
   {
     "id": "q-people-8-4-025",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-4"],
+    "enablerIds": [
+      "e-people-8-4"
+    ],
     "text": "At the end of the meeting, the project manager says, 'Let me summarize what we agreed to: Point A, Point B, and Point C. Is that correct?' This step is critical to:",
     "options": [
       {
@@ -722,6 +849,10 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Closing confirmation** is the final step of participation. It ensures both parties leave the room with the *exact same* understanding of the deal.",
     "difficulty": "medium",
-    "topics": ["closing", "communication", "verification"]
+    "topics": [
+      "closing",
+      "communication",
+      "verification"
+    ]
   }
 ]

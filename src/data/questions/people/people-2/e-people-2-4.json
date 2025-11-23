@@ -9,11 +9,11 @@
     "text": "The team is new and uncertain about the work. Which leadership style is most appropriate at this stage?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Directive, with more guidance and structure while the team builds confidence."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Hands-off, providing no guidance to encourage experimentation."
       },
       {
@@ -25,13 +25,15 @@
         "label": "Punitive, focusing on errors to accelerate learning."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because a more directive style helps a new team understand expectations and workflows. Option b is incorrect because no guidance can cause confusion. Option c is incorrect because avoidance leaves the team unsupported. Option d is incorrect because punishment damages trust and learning.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because a more directive style helps a new team understand expectations and workflows. Option a is incorrect because no guidance can cause confusion. Option c is incorrect because avoidance leaves the team unsupported. Option d is incorrect because punishment damages trust and learning.",
     "difficulty": "easy",
     "topics": [
       "situational leadership",
       "directive style"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-002",
@@ -43,11 +45,11 @@
     "text": "An experienced, high-performing team is consistently delivering. What leadership style should the project manager favor?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Collaborative, involving the team in decisions and giving more autonomy."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Highly directive, specifying every step even for routine work."
       },
       {
@@ -59,13 +61,15 @@
         "label": "Random, changing style daily to keep the team alert."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because experienced teams benefit from autonomy and shared decision making. Option b is incorrect because over-directing can demotivate. Option c is incorrect because authoritarian behavior suppresses ownership. Option d is incorrect because inconsistency creates confusion.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because experienced teams benefit from autonomy and shared decision making. Option a is incorrect because over-directing can demotivate. Option c is incorrect because authoritarian behavior suppresses ownership. Option d is incorrect because inconsistency creates confusion.",
     "difficulty": "medium",
     "topics": [
       "situational leadership",
       "collaborative style"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-003",
@@ -77,11 +81,11 @@
     "text": "The team is facing a crisis that requires quick action. Which leadership style is most appropriate in this situation?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Directive, clearly assigning actions and decisions to stabilize the situation."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Only consensus-based, waiting until everyone fully agrees."
       },
       {
@@ -93,13 +97,15 @@
         "label": "Avoidant, delaying involvement until after the crisis passes."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because in crises clear direction and coordination are needed to respond quickly. Option b is incorrect because full consensus may be too slow. Option c is incorrect because uncoordinated action can worsen the crisis. Option d is incorrect because avoidance abdicates responsibility.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because in crises clear direction and coordination are needed to respond quickly. Option a is incorrect because full consensus may be too slow. Option c is incorrect because uncoordinated action can worsen the crisis. Option d is incorrect because avoidance abdicates responsibility.",
     "difficulty": "medium",
     "topics": [
       "crisis leadership",
       "directive style"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-004",
@@ -111,11 +117,11 @@
     "text": "Team members with different experience levels are working together. How should the project manager adapt leadership style?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Provide more guidance to less experienced members while empowering experienced members with greater autonomy."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Apply the same level of control to everyone regardless of experience."
       },
       {
@@ -127,13 +133,15 @@
         "label": "Avoid providing any feedback to prevent misunderstandings."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because tailoring support to experience levels balances development and efficiency. Option b is incorrect because identical control ignores individual needs. Option c is incorrect because excluding juniors slows their growth. Option d is incorrect because no feedback hinders improvement.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because tailoring support to experience levels balances development and efficiency. Option a is incorrect because identical control ignores individual needs. Option c is incorrect because excluding juniors slows their growth. Option d is incorrect because no feedback hinders improvement.",
     "difficulty": "medium",
     "topics": [
       "situational leadership",
       "tailoring style"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-005",
@@ -145,11 +153,11 @@
     "text": "Feedback suggests that the team feels micromanaged. What leadership adjustment should the project manager consider?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Shift toward a more coaching and collaborative style, focusing on outcomes rather than detailing every task."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Increase task-level checks even further to ensure quality."
       },
       {
@@ -161,352 +169,734 @@
         "label": "Ignore the feedback because performance looks acceptable."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because reducing micromanagement and coaching around outcomes increases ownership. Option b is incorrect because more checks intensify the problem. Option c is incorrect because silence is not healthy empowerment. Option d is incorrect because disregarding feedback undermines trust.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because reducing micromanagement and coaching around outcomes increases ownership. Option a is incorrect because more checks intensify the problem. Option c is incorrect because silence is not healthy empowerment. Option d is incorrect because disregarding feedback undermines trust.",
     "difficulty": "hard",
     "topics": [
       "leadership adaptation",
       "coaching"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-006",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "A newly formed team is unsure how to start planning. What leadership behavior is most appropriate initially?",
     "options": [
-      { "id": "a", "label": "Provide structure by outlining key planning steps and facilitating the first sessions closely." },
-      { "id": "b", "label": "Let the team figure out planning entirely on their own without guidance." },
-      { "id": "c", "label": "Wait to engage until after the first sprint is complete." },
-      { "id": "d", "label": "Assign planning to one person and ask others to observe silently." }
+      {
+        "id": "b",
+        "label": "Provide structure by outlining key planning steps and facilitating the first sessions closely."
+      },
+      {
+        "id": "a",
+        "label": "Let the team figure out planning entirely on their own without guidance."
+      },
+      {
+        "id": "c",
+        "label": "Wait to engage until after the first sprint is complete."
+      },
+      {
+        "id": "d",
+        "label": "Assign planning to one person and ask others to observe silently."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because new teams benefit from clear structure and facilitation while they learn how to plan effectively. Option b is incorrect because no guidance can lead to confusion and rework. Option c is incorrect because delaying involvement misses the chance to set good patterns early. Option d is incorrect because concentrating planning in one person limits shared understanding and ownership.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because new teams benefit from clear structure and facilitation while they learn how to plan effectively. Option a is incorrect because no guidance can lead to confusion and rework. Option c is incorrect because delaying involvement misses the chance to set good patterns early. Option d is incorrect because concentrating planning in one person limits shared understanding and ownership.",
     "difficulty": "easy",
-    "topics": ["situational leadership", "early planning"]
+    "topics": [
+      "situational leadership",
+      "early planning"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-007",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "A high-performing team begins to resist detailed instructions, saying they know how to deliver. How should the project manager adjust leadership style?",
     "options": [
-      { "id": "a", "label": "Shift to a more delegating and coaching style, focusing on goals and removing obstacles." },
-      { "id": "b", "label": "Increase the level of detail in instructions to reassert control." },
-      { "id": "c", "label": "Stop engaging with the team to avoid conflict about style." },
-      { "id": "d", "label": "Rotate leadership style randomly to keep the team guessing." }
+      {
+        "id": "c",
+        "label": "Shift to a more delegating and coaching style, focusing on goals and removing obstacles."
+      },
+      {
+        "id": "b",
+        "label": "Increase the level of detail in instructions to reassert control."
+      },
+      {
+        "id": "a",
+        "label": "Stop engaging with the team to avoid conflict about style."
+      },
+      {
+        "id": "d",
+        "label": "Rotate leadership style randomly to keep the team guessing."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because experienced teams respond better to autonomy and support than to micromanagement. Option b is incorrect because more control can further erode trust and motivation. Option c is incorrect because disengagement is not an effective leadership strategy. Option d is incorrect because randomness creates instability and confusion.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because experienced teams respond better to autonomy and support than to micromanagement. Option b is incorrect because more control can further erode trust and motivation. Option a is incorrect because disengagement is not an effective leadership strategy. Option d is incorrect because randomness creates instability and confusion.",
     "difficulty": "medium",
-    "topics": ["situational leadership", "delegating"]
+    "topics": [
+      "situational leadership",
+      "delegating"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-008",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "The team is facing a complex, ambiguous problem and looks to the project manager for direction. Which leadership style best fits?",
     "options": [
-      { "id": "a", "label": "Collaborative, co-creating options with the team while providing structure for decision making." },
-      { "id": "b", "label": "Autocratic, making all decisions without consulting the team." },
-      { "id": "c", "label": "Avoidant, leaving the team to address ambiguity alone." },
-      { "id": "d", "label": "Punitive, criticizing the team for not knowing what to do." }
+      {
+        "id": "c",
+        "label": "Collaborative, co-creating options with the team while providing structure for decision making."
+      },
+      {
+        "id": "b",
+        "label": "Autocratic, making all decisions without consulting the team."
+      },
+      {
+        "id": "a",
+        "label": "Avoidant, leaving the team to address ambiguity alone."
+      },
+      {
+        "id": "d",
+        "label": "Punitive, criticizing the team for not knowing what to do."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because collaboration leverages team expertise and shared ownership, which is essential when problems are ambiguous. Option b is incorrect because autocratic decisions reduce buy-in and may ignore critical perspectives. Option c is incorrect because avoiding leadership in ambiguity leaves the team unsupported. Option d is incorrect because punishment discourages experimentation and learning.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because collaboration leverages team expertise and shared ownership, which is essential when problems are ambiguous. Option b is incorrect because autocratic decisions reduce buy-in and may ignore critical perspectives. Option a is incorrect because avoiding leadership in ambiguity leaves the team unsupported. Option d is incorrect because punishment discourages experimentation and learning.",
     "difficulty": "medium",
-    "topics": ["complexity", "collaborative style"]
+    "topics": [
+      "complexity",
+      "collaborative style"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-009",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "In daily standups, the project manager is answering questions directed to the team and solving every issue personally. What leadership change is most appropriate?",
     "options": [
-      { "id": "a", "label": "Encourage team members to respond to questions and only step in when they need support." },
-      { "id": "b", "label": "Continue answering all questions to keep meetings efficient." },
-      { "id": "c", "label": "Stop attending standups altogether to force the team to self-manage." },
-      { "id": "d", "label": "Replace standups with one-way status emails from the project manager." }
+      {
+        "id": "c",
+        "label": "Encourage team members to respond to questions and only step in when they need support."
+      },
+      {
+        "id": "b",
+        "label": "Continue answering all questions to keep meetings efficient."
+      },
+      {
+        "id": "a",
+        "label": "Stop attending standups altogether to force the team to self-manage."
+      },
+      {
+        "id": "d",
+        "label": "Replace standups with one-way status emails from the project manager."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because shifting focus to team ownership builds confidence and self-organization while still providing backup. Option b is incorrect because over-owning discussions prevents the team from stepping up. Option c is incorrect because disappearing abruptly may cause confusion. Option d is incorrect because one-way emails remove real-time collaboration.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because shifting focus to team ownership builds confidence and self-organization while still providing backup. Option b is incorrect because over-owning discussions prevents the team from stepping up. Option a is incorrect because disappearing abruptly may cause confusion. Option d is incorrect because one-way emails remove real-time collaboration.",
     "difficulty": "easy",
-    "topics": ["team empowerment", "meeting leadership"]
+    "topics": [
+      "team empowerment",
+      "meeting leadership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-010",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "A junior team member makes a visible mistake and is anxious about feedback. What leadership approach supports their growth best?",
     "options": [
-      { "id": "a", "label": "Use a coaching style, focusing on what they learned and how to prevent similar issues." },
-      { "id": "b", "label": "Use a punitive style, publicly criticizing the mistake to deter others." },
-      { "id": "c", "label": "Use an avoidant style, saying nothing so as not to upset them." },
-      { "id": "d", "label": "Use a purely directive style, giving orders without explanation." }
+      {
+        "id": "c",
+        "label": "Use a coaching style, focusing on what they learned and how to prevent similar issues."
+      },
+      {
+        "id": "b",
+        "label": "Use a punitive style, publicly criticizing the mistake to deter others."
+      },
+      {
+        "id": "a",
+        "label": "Use an avoidant style, saying nothing so as not to upset them."
+      },
+      {
+        "id": "d",
+        "label": "Use a purely directive style, giving orders without explanation."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because coaching feedback builds capability and safety for future learning. Option b is incorrect because public criticism damages trust and morale. Option c is incorrect because silence misses a development opportunity. Option d is incorrect because orders without explanation do not help them understand how to improve.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because coaching feedback builds capability and safety for future learning. Option b is incorrect because public criticism damages trust and morale. Option a is incorrect because silence misses a development opportunity. Option d is incorrect because orders without explanation do not help them understand how to improve.",
     "difficulty": "medium",
-    "topics": ["coaching", "feedback"]
+    "topics": [
+      "coaching",
+      "feedback"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-011",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "A senior subject matter expert is disengaged and feels over-directed. How should the project manager adapt leadership style?",
     "options": [
-      { "id": "a", "label": "Invite them into decision making and give them more autonomy on technical choices." },
-      { "id": "b", "label": "Increase detailed supervision to ensure compliance with the plan." },
-      { "id": "c", "label": "Avoid interacting with them to prevent conflict." },
-      { "id": "d", "label": "Assign only routine tasks that require no decisions." }
+      {
+        "id": "c",
+        "label": "Invite them into decision making and give them more autonomy on technical choices."
+      },
+      {
+        "id": "b",
+        "label": "Increase detailed supervision to ensure compliance with the plan."
+      },
+      {
+        "id": "a",
+        "label": "Avoid interacting with them to prevent conflict."
+      },
+      {
+        "id": "d",
+        "label": "Assign only routine tasks that require no decisions."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because experienced experts are best engaged when trusted with appropriate authority. Option b is incorrect because more supervision deepens disengagement. Option c is incorrect because avoidance ignores the problem. Option d is incorrect because underutilizing their skills wastes expertise.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because experienced experts are best engaged when trusted with appropriate authority. Option b is incorrect because more supervision deepens disengagement. Option a is incorrect because avoidance ignores the problem. Option d is incorrect because underutilizing their skills wastes expertise.",
     "difficulty": "medium",
-    "topics": ["expert engagement", "adaptive style"]
+    "topics": [
+      "expert engagement",
+      "adaptive style"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-012",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "Morale is low and the team feels they have little control over decisions. Which leadership adjustment would help most?",
     "options": [
-      { "id": "a", "label": "Increase collaborative decision making on how work is done while maintaining clarity on constraints." },
-      { "id": "b", "label": "Tighten control further so decisions are made more quickly." },
-      { "id": "c", "label": "Stop asking for input and simply issue directives." },
-      { "id": "d", "label": "Avoid discussing decisions to keep meetings short." }
+      {
+        "id": "c",
+        "label": "Increase collaborative decision making on how work is done while maintaining clarity on constraints."
+      },
+      {
+        "id": "b",
+        "label": "Tighten control further so decisions are made more quickly."
+      },
+      {
+        "id": "a",
+        "label": "Stop asking for input and simply issue directives."
+      },
+      {
+        "id": "d",
+        "label": "Avoid discussing decisions to keep meetings short."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because involving the team in decisions improves ownership and engagement. Option b is incorrect because more control typically reduces morale further. Option c is incorrect because removing input signals disregard for the team’s perspective. Option d is incorrect because avoiding decision discussions increases confusion.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because involving the team in decisions improves ownership and engagement. Option b is incorrect because more control typically reduces morale further. Option a is incorrect because removing input signals disregard for the team's perspective. Option d is incorrect because avoiding decision discussions increases confusion.",
     "difficulty": "hard",
-    "topics": ["morale", "collaborative style"]
+    "topics": [
+      "morale",
+      "collaborative style"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-013",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "The project manager notices that their preferred style is highly directive, even when the team is experienced. What should they do?",
     "options": [
-      { "id": "a", "label": "Reflect on the team’s maturity, solicit feedback, and intentionally practice more coaching and delegating behaviors." },
-      { "id": "b", "label": "Continue directing every detail because it has worked in past projects." },
-      { "id": "c", "label": "Tell the team that leadership style cannot change once set." },
-      { "id": "d", "label": "Switch abruptly to a hands-off style without explanation." }
+      {
+        "id": "d",
+        "label": "Reflect on the team's maturity, solicit feedback, and intentionally practice more coaching and delegating behaviors."
+      },
+      {
+        "id": "b",
+        "label": "Continue directing every detail because it has worked in past projects."
+      },
+      {
+        "id": "c",
+        "label": "Tell the team that leadership style cannot change once set."
+      },
+      {
+        "id": "a",
+        "label": "Switch abruptly to a hands-off style without explanation."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because self-awareness and deliberate adaptation enable a better fit between leadership style and team needs. Option b is incorrect because past success does not guarantee current fit. Option c is incorrect because claiming style is fixed ignores growth. Option d is incorrect because abrupt changes without context can be destabilizing.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because self-awareness and deliberate adaptation enable a better fit between leadership style and team needs. Option b is incorrect because past success does not guarantee current fit. Option c is incorrect because claiming style is fixed ignores growth. Option a is incorrect because abrupt changes without context can be destabilizing.",
     "difficulty": "hard",
-    "topics": ["self-awareness", "adaptive leadership"]
+    "topics": [
+      "self-awareness",
+      "adaptive leadership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-014",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "In a crisis, the project manager takes full control and gives clear orders. Once the crisis passes, what leadership shift is most appropriate?",
     "options": [
-      { "id": "a", "label": "Gradually return to a more collaborative style, involving the team in decisions again." },
-      { "id": "b", "label": "Maintain crisis-level control indefinitely to prevent future problems." },
-      { "id": "c", "label": "Avoid any decisions to compensate for earlier control." },
-      { "id": "d", "label": "Ask the team to make all decisions without any guidance." }
+      {
+        "id": "d",
+        "label": "Gradually return to a more collaborative style, involving the team in decisions again."
+      },
+      {
+        "id": "b",
+        "label": "Maintain crisis-level control indefinitely to prevent future problems."
+      },
+      {
+        "id": "c",
+        "label": "Avoid any decisions to compensate for earlier control."
+      },
+      {
+        "id": "a",
+        "label": "Ask the team to make all decisions without any guidance."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because once stability returns, sharing control supports engagement and long-term performance. Option b is incorrect because extended over-control can demotivate the team. Option c is incorrect because swinging to complete indecision creates confusion. Option d is incorrect because removing guidance entirely ignores the leader’s role.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because once stability returns, sharing control supports engagement and long-term performance. Option b is incorrect because extended over-control can demotivate the team. Option c is incorrect because swinging to complete indecision creates confusion. Option a is incorrect because removing guidance entirely ignores the leader's role.",
     "difficulty": "medium",
-    "topics": ["crisis recovery", "style shift"]
+    "topics": [
+      "crisis recovery",
+      "style shift"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-015",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "A distributed team spans multiple cultures and working styles. How should the project manager choose an appropriate leadership style?",
     "options": [
-      { "id": "a", "label": "Observe team preferences, understand cultural expectations, and blend directive and collaborative approaches as needed." },
-      { "id": "b", "label": "Apply exactly the same directive style used in previous local teams." },
-      { "id": "c", "label": "Avoid adapting style to prevent perceptions of inconsistency." },
-      { "id": "d", "label": "Let leadership style be defined entirely by the loudest team member." }
+      {
+        "id": "d",
+        "label": "Observe team preferences, understand cultural expectations, and blend directive and collaborative approaches as needed."
+      },
+      {
+        "id": "b",
+        "label": "Apply exactly the same directive style used in previous local teams."
+      },
+      {
+        "id": "c",
+        "label": "Avoid adapting style to prevent perceptions of inconsistency."
+      },
+      {
+        "id": "a",
+        "label": "Let leadership style be defined entirely by the loudest team member."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because situational leadership considers both task and cultural factors when choosing behaviors. Option b is incorrect because copying past patterns may not fit new contexts. Option c is incorrect because refusing to adapt ignores team needs. Option d is incorrect because letting one voice define style is not intentional leadership.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because situational leadership considers both task and cultural factors when choosing behaviors. Option b is incorrect because copying past patterns may not fit new contexts. Option c is incorrect because refusing to adapt ignores team needs. Option a is incorrect because letting one voice define style is not intentional leadership.",
     "difficulty": "hard",
-    "topics": ["cross-cultural leadership", "situational leadership"]
+    "topics": [
+      "cross-cultural leadership",
+      "situational leadership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-016",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "The team is experimenting with a new technology and feels uncertain. What leadership style best supports them?",
     "options": [
-      { "id": "a", "label": "Provide guidance on goals and guardrails while encouraging exploration and learning." },
-      { "id": "b", "label": "Demand detailed status updates every hour to monitor progress." },
-      { "id": "c", "label": "Avoid engaging, assuming the team will manage the experiment alone." },
-      { "id": "d", "label": "Prohibit any experimentation to avoid risk." }
+      {
+        "id": "d",
+        "label": "Provide guidance on goals and guardrails while encouraging exploration and learning."
+      },
+      {
+        "id": "b",
+        "label": "Demand detailed status updates every hour to monitor progress."
+      },
+      {
+        "id": "c",
+        "label": "Avoid engaging, assuming the team will manage the experiment alone."
+      },
+      {
+        "id": "a",
+        "label": "Prohibit any experimentation to avoid risk."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because a balanced style gives direction without stifling experimentation. Option b is incorrect because excessive monitoring increases pressure and reduces creativity. Option c is incorrect because disengagement leaves them without support. Option d is incorrect because banning experimentation blocks innovation.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because a balanced style gives direction without stifling experimentation. Option b is incorrect because excessive monitoring increases pressure and reduces creativity. Option c is incorrect because disengagement leaves them without support. Option a is incorrect because banning experimentation blocks innovation.",
     "difficulty": "medium",
-    "topics": ["experimentation", "supportive leadership"]
+    "topics": [
+      "experimentation",
+      "supportive leadership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-017",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
-    "text": "A senior developer frequently overrides teammates’ suggestions. What leadership style should the project manager apply to rebalance collaboration?",
-    "options": [
-      { "id": "a", "label": "Use a coaching and facilitative style to set collaboration norms and ensure all voices are heard." },
-      { "id": "b", "label": "Let the senior developer continue deciding, assuming they know best." },
-      { "id": "c", "label": "Completely remove the senior developer from all decisions." },
-      { "id": "d", "label": "Avoid intervening because conflict may arise." }
+    "enablerIds": [
+      "e-people-2-4"
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because facilitative leadership helps distribute influence and protects collaboration. Option b is incorrect because unchecked dominance limits diversity of thought. Option c is incorrect because excluding them wastes experience and may be disproportionate. Option d is incorrect because inaction enables the pattern to continue.",
+    "text": "A senior developer frequently overrides teammates' suggestions. What leadership style should the project manager apply to rebalance collaboration?",
+    "options": [
+      {
+        "id": "d",
+        "label": "Use a coaching and facilitative style to set collaboration norms and ensure all voices are heard."
+      },
+      {
+        "id": "b",
+        "label": "Let the senior developer continue deciding, assuming they know best."
+      },
+      {
+        "id": "c",
+        "label": "Completely remove the senior developer from all decisions."
+      },
+      {
+        "id": "a",
+        "label": "Avoid intervening because conflict may arise."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because facilitative leadership helps distribute influence and protects collaboration. Option b is incorrect because unchecked dominance limits diversity of thought. Option c is incorrect because excluding them wastes experience and may be disproportionate. Option a is incorrect because inaction enables the pattern to continue.",
     "difficulty": "medium",
-    "topics": ["collaboration", "facilitative leadership"]
+    "topics": [
+      "collaboration",
+      "facilitative leadership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-018",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "The team is stuck in analysis paralysis, delaying decisions for fear of making mistakes. How can leadership style help?",
     "options": [
-      { "id": "a", "label": "Adopt a more decisive style by helping the team set decision criteria and timeboxes." },
-      { "id": "b", "label": "Allow the team to continue analysis indefinitely until they feel completely certain." },
-      { "id": "c", "label": "Avoid engaging in decisions to remain neutral." },
-      { "id": "d", "label": "Impose decisions without explanation to speed things up." }
+      {
+        "id": "d",
+        "label": "Adopt a more decisive style by helping the team set decision criteria and timeboxes."
+      },
+      {
+        "id": "b",
+        "label": "Allow the team to continue analysis indefinitely until they feel completely certain."
+      },
+      {
+        "id": "c",
+        "label": "Avoid engaging in decisions to remain neutral."
+      },
+      {
+        "id": "a",
+        "label": "Impose decisions without explanation to speed things up."
+      }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because setting criteria and time limits supports timely, thoughtful decisions. Option b is incorrect because endless analysis delays value. Option c is incorrect because neutrality in the face of paralysis is not helpful. Option d is incorrect because unexplained decisions hinder learning and ownership.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because setting criteria and time limits supports timely, thoughtful decisions. Option b is incorrect because endless analysis delays value. Option c is incorrect because neutrality in the face of paralysis is not helpful. Option a is incorrect because unexplained decisions hinder learning and ownership.",
     "difficulty": "hard",
-    "topics": ["decision making", "decisive leadership"]
+    "topics": [
+      "decision making",
+      "decisive leadership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-019",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "The team has grown significantly, and some newer members require more guidance than others. What leadership approach should the project manager use?",
     "options": [
-      { "id": "a", "label": "Apply situational leadership, adjusting the level of direction and support to each person’s competence and commitment." },
-      { "id": "b", "label": "Treat everyone identically to avoid perceptions of favoritism." },
-      { "id": "c", "label": "Focus leadership only on new members and ignore experienced ones." },
-      { "id": "d", "label": "Give all decisions to the most senior team member." }
+      {
+        "id": "a",
+        "label": "Apply situational leadership, adjusting the level of direction and support to each person's competence and commitment."
+      },
+      {
+        "id": "b",
+        "label": "Treat everyone identically to avoid perceptions of favoritism."
+      },
+      {
+        "id": "c",
+        "label": "Focus leadership only on new members and ignore experienced ones."
+      },
+      {
+        "id": "d",
+        "label": "Give all decisions to the most senior team member."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct because tailoring style to individual needs maximizes effectiveness and fairness. Option b is incorrect because identical treatment can be inequitable when needs differ. Option c is incorrect because experienced members still benefit from leadership and support. Option d is incorrect because concentrating decisions in one person reduces shared ownership.",
     "difficulty": "hard",
-    "topics": ["situational leadership", "individual needs"]
+    "topics": [
+      "situational leadership",
+      "individual needs"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-020",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "The team indicates they want more say in how work is done but still expect the project manager to resolve external blockers. What leadership balance is most appropriate?",
     "options": [
-      { "id": "a", "label": "Share decision making on internal work practices while remaining directive in removing external impediments." },
-      { "id": "b", "label": "Retain full control over both internal practices and external issues." },
-      { "id": "c", "label": "Delegate all decisions and impediments to the team without support." },
-      { "id": "d", "label": "Avoid changing leadership approach to keep things simple." }
+      {
+        "id": "a",
+        "label": "Share decision making on internal work practices while remaining directive in removing external impediments."
+      },
+      {
+        "id": "b",
+        "label": "Retain full control over both internal practices and external issues."
+      },
+      {
+        "id": "c",
+        "label": "Delegate all decisions and impediments to the team without support."
+      },
+      {
+        "id": "d",
+        "label": "Avoid changing leadership approach to keep things simple."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct because balancing empowerment with strong external advocacy supports autonomy and protection simultaneously. Option b is incorrect because full control limits engagement. Option c is incorrect because transferring all responsibilities may overload the team. Option d is incorrect because ignoring feedback about style misses an improvement opportunity.",
     "difficulty": "medium",
-    "topics": ["balanced leadership", "impediment handling"]
+    "topics": [
+      "balanced leadership",
+      "impediment handling"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-021",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "The project transitions from start-up mode to a more stable, long-term delivery phase. How should the project manager adjust leadership style?",
     "options": [
-      { "id": "a", "label": "Move from highly directive crisis-style decisions toward more collaborative planning and shared ownership." },
-      { "id": "b", "label": "Maintain a constant emergency tone and tight control to keep pressure high." },
-      { "id": "c", "label": "Withdraw from leadership activities altogether now that the project is stable." },
-      { "id": "d", "label": "Change leadership style randomly from meeting to meeting to avoid predictability." }
+      {
+        "id": "a",
+        "label": "Move from highly directive crisis-style decisions toward more collaborative planning and shared ownership."
+      },
+      {
+        "id": "b",
+        "label": "Maintain a constant emergency tone and tight control to keep pressure high."
+      },
+      {
+        "id": "c",
+        "label": "Withdraw from leadership activities altogether now that the project is stable."
+      },
+      {
+        "id": "d",
+        "label": "Change leadership style randomly from meeting to meeting to avoid predictability."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct because as projects mature, teams benefit from increased autonomy and partnership instead of crisis-driven control. Option b is incorrect because prolonged emergency leadership creates fatigue and undermines sustainability. Option c is incorrect because stable projects still need intentional leadership. Option d is incorrect because inconsistency creates uncertainty rather than engagement.",
     "difficulty": "medium",
-    "topics": ["lifecycle transitions", "adaptive style"]
+    "topics": [
+      "lifecycle transitions",
+      "adaptive style"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-022",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "The team is experimenting with self-organization, but decisions are taking too long. What leadership adjustment is most appropriate?",
     "options": [
-      { "id": "a", "label": "Provide clearer decision boundaries and timeboxes while still allowing the team to decide within those limits." },
-      { "id": "b", "label": "Take back all decision making permanently and issue detailed orders." },
-      { "id": "c", "label": "Stop all experiments with self-organization and return to a predictive command-and-control approach." },
-      { "id": "d", "label": "Avoid addressing decision delays so the team learns on its own timeline." }
+      {
+        "id": "a",
+        "label": "Provide clearer decision boundaries and timeboxes while still allowing the team to decide within those limits."
+      },
+      {
+        "id": "b",
+        "label": "Take back all decision making permanently and issue detailed orders."
+      },
+      {
+        "id": "c",
+        "label": "Stop all experiments with self-organization and return to a predictive command-and-control approach."
+      },
+      {
+        "id": "d",
+        "label": "Avoid addressing decision delays so the team learns on its own timeline."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct because adding light structure around decisions helps self-organizing teams become more effective without removing ownership. Option b is incorrect because fully centralizing decisions undermines self-organization. Option c is incorrect because abandoning adaptive practices due to early friction blocks improvement. Option d is incorrect because ignoring delays does not help the team improve its process.",
     "difficulty": "hard",
-    "topics": ["self-organization", "decision structure"]
+    "topics": [
+      "self-organization",
+      "decision structure"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-023",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "Several new graduates join the team alongside senior engineers. What is the best way to blend leadership styles?",
     "options": [
-      { "id": "a", "label": "Offer more direction and mentoring to new graduates while giving senior engineers more autonomy and influence in technical decisions." },
-      { "id": "b", "label": "Apply the same minimal guidance to everyone, regardless of experience." },
-      { "id": "c", "label": "Assign all important decisions only to the new graduates to accelerate their learning." },
-      { "id": "d", "label": "Exclude new graduates from decision making until they have more experience." }
+      {
+        "id": "a",
+        "label": "Offer more direction and mentoring to new graduates while giving senior engineers more autonomy and influence in technical decisions."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same minimal guidance to everyone, regardless of experience."
+      },
+      {
+        "id": "c",
+        "label": "Assign all important decisions only to the new graduates to accelerate their learning."
+      },
+      {
+        "id": "d",
+        "label": "Exclude new graduates from decision making until they have more experience."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct because calibrating guidance to experience levels supports development and efficiency. Option b is incorrect because identical treatment can be ineffective across different skill levels. Option c is incorrect because giving all key decisions to new graduates too early may create risk. Option d is incorrect because excluding them from decisions slows growth and signals low trust.",
     "difficulty": "medium",
-    "topics": ["mixed-experience teams", "situational leadership"]
+    "topics": [
+      "mixed-experience teams",
+      "situational leadership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-024",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "A new leader joins the organization with a very top-down style and asks the project manager to \"take full control\" of the team. How should the project manager respond?",
     "options": [
-      { "id": "a", "label": "Explain the benefits of collaborative, adaptive leadership and demonstrate how it supports delivery while maintaining appropriate accountability." },
-      { "id": "b", "label": "Immediately revert to strict command-and-control without discussion." },
-      { "id": "c", "label": "Ignore the new leader’s expectations completely." },
-      { "id": "d", "label": "Ask the team to disregard the new leader’s input." }
+      {
+        "id": "a",
+        "label": "Explain the benefits of collaborative, adaptive leadership and demonstrate how it supports delivery while maintaining appropriate accountability."
+      },
+      {
+        "id": "b",
+        "label": "Immediately revert to strict command-and-control without discussion."
+      },
+      {
+        "id": "c",
+        "label": "Ignore the new leader's expectations completely."
+      },
+      {
+        "id": "d",
+        "label": "Ask the team to disregard the new leader's input."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct because educating stakeholders on effective leadership approaches can align expectations without sacrificing team autonomy. Option b is incorrect because abruptly adopting a rigid style can harm engagement. Option c is incorrect because ignoring leadership feedback damages alignment. Option d is incorrect because advising the team to disregard leadership undermines trust and governance.",
     "difficulty": "hard",
-    "topics": ["stakeholder expectations", "leadership alignment"]
+    "topics": [
+      "stakeholder expectations",
+      "leadership alignment"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-4-025",
     "domainId": "people",
     "taskId": "people-2",
-    "enablerIds": ["e-people-2-4"],
+    "enablerIds": [
+      "e-people-2-4"
+    ],
     "text": "A retrospective reveals that some team members prefer clear direction while others prefer more autonomy. What leadership approach should the project manager take?",
     "options": [
-      { "id": "a", "label": "Use situational leadership by offering more direction to those who want it and more space to those ready for autonomy, within agreed boundaries." },
-      { "id": "b", "label": "Force everyone to accept the same highly directive style for consistency." },
-      { "id": "c", "label": "Force everyone to accept a purely hands-off style to promote independence." },
-      { "id": "d", "label": "Alternate randomly between directive and hands-off behavior so no one knows what to expect." }
+      {
+        "id": "a",
+        "label": "Use situational leadership by offering more direction to those who want it and more space to those ready for autonomy, within agreed boundaries."
+      },
+      {
+        "id": "b",
+        "label": "Force everyone to accept the same highly directive style for consistency."
+      },
+      {
+        "id": "c",
+        "label": "Force everyone to accept a purely hands-off style to promote independence."
+      },
+      {
+        "id": "d",
+        "label": "Alternate randomly between directive and hands-off behavior so no one knows what to expect."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct because tailoring leadership to individual preferences and readiness aligns with situational leadership principles. Option b is incorrect because imposing one rigid style may not suit everyone. Option c is incorrect because a purely hands-off approach can leave some team members unsupported. Option d is incorrect because randomness increases uncertainty and reduces trust.",
     "difficulty": "medium",
-    "topics": ["situational leadership", "individual preferences"]
+    "topics": [
+      "situational leadership",
+      "individual preferences"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   }
 ]

@@ -3,425 +3,850 @@
     "id": "q-people-6-1-001",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager is launching a project that requires niche technical expertise. Several internal candidates have been suggested by functional managers. What should the project manager do first to ensure these candidates are suitable?",
     "options": [
-      { "id": "a", "label": "Accept the functional managers' recommendations to maintain good relationships." },
-      { "id": "b", "label": "Conduct a specific skills assessment to verify the candidates' technical competencies against project needs." },
-      { "id": "c", "label": "Schedule a team kickoff meeting to see how the candidates interact with each other." },
-      { "id": "d", "label": "Assign the hardest tasks to the candidates immediately to test their resilience." }
+      {
+        "id": "a",
+        "label": "Accept the functional managers' recommendations to maintain good relationships."
+      },
+      {
+        "id": "b",
+        "label": "Conduct a specific skills assessment to verify the candidates' technical competencies against project needs."
+      },
+      {
+        "id": "c",
+        "label": "Schedule a team kickoff meeting to see how the candidates interact with each other."
+      },
+      {
+        "id": "d",
+        "label": "Assign the hardest tasks to the candidates immediately to test their resilience."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct because verifying competencies through assessment is the primary step in appraising stakeholder skills before onboarding. Option a is incorrect because it relies on assumptions rather than objective appraisal. Option c is incorrect because interaction (forming) comes after selection. Option d is incorrect because it creates unnecessary risk and stress before the team is built.",
     "difficulty": "easy",
-    "topics": ["Skills Assessment", "Resource Acquisition"]
+    "topics": [
+      "Skills Assessment",
+      "Resource Acquisition"
+    ]
   },
   {
     "id": "q-people-6-1-002",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager is taking over a project midway. The previous manager left a skills matrix, but the project has recently pivoted to an Agile approach. What is the most critical skill the project manager should now appraise in the existing stakeholders?",
     "options": [
-      { "id": "a", "label": "Proficiency in the specific coding language used in the legacy system." },
-      { "id": "b", "label": "Ability to work in a cross-functional, self-organizing environment." },
-      { "id": "c", "label": "Experience with traditional waterfall reporting documentation." },
-      { "id": "d", "label": "The number of years each stakeholder has been with the company." }
+      {
+        "id": "a",
+        "label": "Proficiency in the specific coding language used in the legacy system."
+      },
+      {
+        "id": "b",
+        "label": "Ability to work in a cross-functional, self-organizing environment."
+      },
+      {
+        "id": "c",
+        "label": "Experience with traditional waterfall reporting documentation."
+      },
+      {
+        "id": "d",
+        "label": "The number of years each stakeholder has been with the company."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct because an Agile pivot requires a shift in mindset and soft skills (collaboration, self-organization) which must be appraised. Option a is likely already known or less critical than the methodology shift. Option c is irrelevant to the new approach. Option d is not a skill.",
     "difficulty": "medium",
-    "topics": ["Agile Transformation", "Soft Skills Appraisal"]
+    "topics": [
+      "Agile Transformation",
+      "Soft Skills Appraisal"
+    ]
   },
   {
     "id": "q-people-6-1-003",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "You are building a team for a global project that involves stakeholders from diverse cultural backgrounds. To prevent communication friction, what specific appraisal should be included in your analysis?",
     "options": [
-      { "id": "a", "label": "Technical certification verification." },
-      { "id": "b", "label": "Cultural intelligence and language proficiency assessment." },
-      { "id": "c", "label": "Availability and time zone analysis." },
-      { "id": "d", "label": "Cost rate comparison." }
+      {
+        "id": "a",
+        "label": "Technical certification verification."
+      },
+      {
+        "id": "b",
+        "label": "Cultural intelligence and language proficiency assessment."
+      },
+      {
+        "id": "c",
+        "label": "Availability and time zone analysis."
+      },
+      {
+        "id": "d",
+        "label": "Cost rate comparison."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. While technical skills are important, the specific risk mentioned is 'communication friction' due to diversity, making cultural intelligence the key skill to appraise. Option a, c, and d do not address the communication/cultural aspect.",
     "difficulty": "medium",
-    "topics": ["Cultural Awareness", "Communication Skills"]
+    "topics": [
+      "Cultural Awareness",
+      "Communication Skills"
+    ]
   },
   {
     "id": "q-people-6-1-004",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A key stakeholder from the finance department is required to validate project cost models but is consistently delaying reviews. The project manager suspects the stakeholder may lack the necessary data analysis skills. How should the project manager handle this?",
     "options": [
-      { "id": "a", "label": "Replace the stakeholder immediately with someone more qualified." },
-      { "id": "b", "label": "Privately discuss the requirements with the stakeholder to assess their comfort level and training needs." },
-      { "id": "c", "label": "Escalate the delay to the project sponsor as a performance issue." },
-      { "id": "d", "label": "Simplify the cost models so anyone can understand them." }
+      {
+        "id": "a",
+        "label": "Replace the stakeholder immediately with someone more qualified."
+      },
+      {
+        "id": "b",
+        "label": "Privately discuss the requirements with the stakeholder to assess their comfort level and training needs."
+      },
+      {
+        "id": "c",
+        "label": "Escalate the delay to the project sponsor as a performance issue."
+      },
+      {
+        "id": "d",
+        "label": "Simplify the cost models so anyone can understand them."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct because it involves appraising the stakeholder's skills in a supportive, non-confrontational way to identify gaps. Option a is too aggressive and may damage relationships. Option c is premature without understanding the root cause. Option d compromises the project's technical rigor.",
     "difficulty": "hard",
-    "topics": ["Stakeholder Analysis", "Conflict Resolution"]
+    "topics": [
+      "Stakeholder Analysis",
+      "Conflict Resolution"
+    ]
   },
   {
     "id": "q-people-6-1-005",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "During team selection, a project manager identifies a candidate who has excellent technical skills but scored low on an emotional intelligence (EQ) assessment. The project requires high levels of client interaction. What is the best course of action?",
     "options": [
-      { "id": "a", "label": "Select the candidate but restrict them to back-end tasks with no client interaction." },
-      { "id": "b", "label": "Select the candidate and hope they learn soft skills on the job." },
-      { "id": "c", "label": "Reject the candidate solely based on the EQ score." },
-      { "id": "d", "label": "Ignore the EQ score as technical skills are the only priority." }
+      {
+        "id": "a",
+        "label": "Select the candidate but restrict them to back-end tasks with no client interaction."
+      },
+      {
+        "id": "b",
+        "label": "Select the candidate and hope they learn soft skills on the job."
+      },
+      {
+        "id": "c",
+        "label": "Reject the candidate solely based on the EQ score."
+      },
+      {
+        "id": "d",
+        "label": "Ignore the EQ score as technical skills are the only priority."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct because it utilizes the appraisal data to place the resource where their strengths are utilized while mitigating the risk (client interaction). Option b is risky. Option c is rigid; the person has value in other areas. Option d ignores a critical project requirement (client interaction).",
     "difficulty": "medium",
-    "topics": ["Emotional Intelligence", "Resource Allocation"]
+    "topics": [
+      "Emotional Intelligence",
+      "Resource Allocation"
+    ]
   },
   {
     "id": "q-people-6-1-006",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager is forming a team for a high-security government project. Apart from technical competence, what is a mandatory pre-condition for appraising stakeholder eligibility?",
     "options": [
-      { "id": "a", "label": "Willingness to work overtime." },
-      { "id": "b", "label": "Security clearance verification." },
-      { "id": "c", "label": "Prior experience with Agile methodologies." },
-      { "id": "d", "label": "Proximity to the main office." }
+      {
+        "id": "a",
+        "label": "Willingness to work overtime."
+      },
+      {
+        "id": "b",
+        "label": "Security clearance verification."
+      },
+      {
+        "id": "c",
+        "label": "Prior experience with Agile methodologies."
+      },
+      {
+        "id": "d",
+        "label": "Proximity to the main office."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. In high-security contexts, security clearance is a 'go/no-go' skill/qualification attribute that must be appraised before any other factor. Options a, c, and d are secondary preferences or irrelevant compared to the mandatory compliance requirement.",
     "difficulty": "easy",
-    "topics": ["Compliance", "Team Formation"]
+    "topics": [
+      "Compliance",
+      "Team Formation"
+    ]
   },
   {
     "id": "q-people-6-1-007",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "The project manager is reviewing the skills of potential team members for a new innovation project. The project requires 'T-shaped' skills. What is the project manager looking for?",
     "options": [
-      { "id": "a", "label": "Deep expertise in one area and broad ability to collaborate across other disciplines." },
-      { "id": "b", "label": "General knowledge across all areas but no specific specialization." },
-      { "id": "c", "label": "Deep expertise in two distinct fields (e.g., Finance and IT)." },
-      { "id": "d", "label": "Ability to manage time (T) effectively." }
+      {
+        "id": "a",
+        "label": "Deep expertise in one area and broad ability to collaborate across other disciplines."
+      },
+      {
+        "id": "b",
+        "label": "General knowledge across all areas but no specific specialization."
+      },
+      {
+        "id": "c",
+        "label": "Deep expertise in two distinct fields (e.g., Finance and IT)."
+      },
+      {
+        "id": "d",
+        "label": "Ability to manage time (T) effectively."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct. 'T-shaped' skills refer to having a depth of knowledge in a single field (the vertical bar) and a breadth of collaborative skills across other fields (the horizontal bar). This is highly valued in Agile/innovation teams. Option b describes a generalist. Option c describes 'Pi-shaped' skills.",
     "difficulty": "medium",
-    "topics": ["T-Shaped Skills", "Agile Team Building"]
+    "topics": [
+      "T-Shaped Skills",
+      "Agile Team Building"
+    ]
   },
   {
     "id": "q-people-6-1-008",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "To build a balanced team, the project manager wants to ensure a mix of personality types to foster creativity and reduce groupthink. Which tool would be most effective for this appraisal?",
     "options": [
-      { "id": "a", "label": "RACI Matrix." },
-      { "id": "b", "label": "Personality Profile Assessment (e.g., DISC or MBTI)." },
-      { "id": "c", "label": "Requirements Traceability Matrix." },
-      { "id": "d", "label": "Monte Carlo Simulation." }
+      {
+        "id": "a",
+        "label": "RACI Matrix."
+      },
+      {
+        "id": "b",
+        "label": "Personality Profile Assessment (e.g., DISC or MBTI)."
+      },
+      {
+        "id": "c",
+        "label": "Requirements Traceability Matrix."
+      },
+      {
+        "id": "d",
+        "label": "Monte Carlo Simulation."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct because personality assessments provide data on interaction styles and cognitive diversity. Option a assigns roles, not personality types. Option c tracks requirements. Option d analyzes risk schedules/costs.",
     "difficulty": "easy",
-    "topics": ["Personality Assessment", "Diversity"]
+    "topics": [
+      "Personality Assessment",
+      "Diversity"
+    ]
   },
   {
     "id": "q-people-6-1-009",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager discovers that a nominated team lead lacks experience in the specific project management software the organization uses. The lead is otherwise perfect for the role. What is the best way to address this skill gap during team building?",
     "options": [
-      { "id": "a", "label": "Reject the nomination and ask for a candidate who knows the software." },
-      { "id": "b", "label": "Change the project management software to one the lead knows." },
-      { "id": "c", "label": "Assess the gap as trainable and include training in the resource management plan." },
-      { "id": "d", "label": "Assign a junior member to do all the software entry for the lead permanently." }
+      {
+        "id": "a",
+        "label": "Reject the nomination and ask for a candidate who knows the software."
+      },
+      {
+        "id": "b",
+        "label": "Change the project management software to one the lead knows."
+      },
+      {
+        "id": "c",
+        "label": "Assess the gap as trainable and include training in the resource management plan."
+      },
+      {
+        "id": "d",
+        "label": "Assign a junior member to do all the software entry for the lead permanently."
+      }
     ],
     "correctOptionId": "c",
     "explanation": "Option c is correct. If the candidate is strong otherwise, a specific tool gap is easily addressable through training. Option a is an overreaction. Option b disrupts the organization for one person. Option d creates a dependency and reduces the lead's autonomy.",
     "difficulty": "medium",
-    "topics": ["Gap Analysis", "Skill Development"]
+    "topics": [
+      "Gap Analysis",
+      "Skill Development"
+    ]
   },
   {
     "id": "q-people-6-1-010",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "You are appraising the skills of internal stakeholders to identify potential Subject Matter Experts (SMEs). You find that two departments claim ownership of the same expertise area. What should you do?",
     "options": [
-      { "id": "a", "label": "Flip a coin to decide which department provides the SME." },
-      { "id": "b", "label": "Conduct objective interviews or review past project performance to determine true depth of expertise." },
-      { "id": "c", "label": "Invite both departments to send all their staff to the project team." },
-      { "id": "d", "label": "Select the department manager with the highest seniority." }
+      {
+        "id": "a",
+        "label": "Flip a coin to decide which department provides the SME."
+      },
+      {
+        "id": "b",
+        "label": "Conduct objective interviews or review past project performance to determine true depth of expertise."
+      },
+      {
+        "id": "c",
+        "label": "Invite both departments to send all their staff to the project team."
+      },
+      {
+        "id": "d",
+        "label": "Select the department manager with the highest seniority."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. When there is ambiguity about skill ownership, objective appraisal (interviews, performance reviews) is necessary to find the best fit for the project. Option a is unprofessional. Option c creates a bloated team. Option d relies on hierarchy rather than skill.",
     "difficulty": "medium",
-    "topics": ["SME Identification", "Conflict Avoidance"]
+    "topics": [
+      "SME Identification",
+      "Conflict Avoidance"
+    ]
   },
   {
     "id": "q-people-6-1-011",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project is being planned using a hybrid methodology. When appraising the skills of the product owner (PO), what is the most critical attribute to verify to ensure project success?",
     "options": [
-      { "id": "a", "label": "The PO's ability to prioritize the backlog and make timely decisions." },
-      { "id": "b", "label": "The PO's ability to code in Python." },
-      { "id": "c", "label": "The PO's ability to manage the project budget spreadsheet." },
-      { "id": "d", "label": "The PO's history of approving overtime." }
+      {
+        "id": "a",
+        "label": "The PO's ability to prioritize the backlog and make timely decisions."
+      },
+      {
+        "id": "b",
+        "label": "The PO's ability to code in Python."
+      },
+      {
+        "id": "c",
+        "label": "The PO's ability to manage the project budget spreadsheet."
+      },
+      {
+        "id": "d",
+        "label": "The PO's history of approving overtime."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct. In Agile/Hybrid environments, the Product Owner's primary 'skill' is decisive backlog prioritization. Option b is a developer skill. Option c is a PM skill. Option d is not a valid skill requirement.",
     "difficulty": "easy",
-    "topics": ["Product Owner Skills", "Agile Roles"]
+    "topics": [
+      "Product Owner Skills",
+      "Agile Roles"
+    ]
   },
   {
     "id": "q-people-6-1-012",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager is using a multicriteria decision analysis tool to select team members. Which of the following criteria would fall under 'skills appraisal'?",
     "options": [
-      { "id": "a", "label": "Cost and Availability." },
-      { "id": "b", "label": "Experience and Knowledge." },
-      { "id": "c", "label": "Location and Time Zone." },
-      { "id": "d", "label": "Interest and Motivation." }
+      {
+        "id": "a",
+        "label": "Cost and Availability."
+      },
+      {
+        "id": "b",
+        "label": "Experience and Knowledge."
+      },
+      {
+        "id": "c",
+        "label": "Location and Time Zone."
+      },
+      {
+        "id": "d",
+        "label": "Interest and Motivation."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. While all options are criteria for selection, 'Experience and Knowledge' specifically relate to the appraisal of skills. Option a relates to constraints. Option c relates to logistics. Option d relates to attitude.",
     "difficulty": "easy",
-    "topics": ["Multicriteria Decision Analysis", "Selection Criteria"]
+    "topics": [
+      "Multicriteria Decision Analysis",
+      "Selection Criteria"
+    ]
   },
   {
     "id": "q-people-6-1-013",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "The project requires the use of a proprietary legacy system. The project manager identifies that only one person in the company possesses the skill to modify this system. What risk does this skill appraisal reveal?",
     "options": [
-      { "id": "a", "label": "Scope creep." },
-      { "id": "b", "label": "Single point of failure." },
-      { "id": "c", "label": "Gold plating." },
-      { "id": "d", "label": "Communication breakdown." }
+      {
+        "id": "a",
+        "label": "Scope creep."
+      },
+      {
+        "id": "b",
+        "label": "Single point of failure."
+      },
+      {
+        "id": "c",
+        "label": "Gold plating."
+      },
+      {
+        "id": "d",
+        "label": "Communication breakdown."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Identifying that only one person has a critical skill highlights a 'single point of failure' or 'key person risk.' If that person leaves or is unavailable, the project stalls. This is a direct outcome of skill appraisal.",
     "difficulty": "medium",
-    "topics": ["Risk Identification", "Skill Scarcity"]
+    "topics": [
+      "Risk Identification",
+      "Skill Scarcity"
+    ]
   },
   {
     "id": "q-people-6-1-014",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager needs to assess the skills of potential external vendors for a complex construction project. What is the most reliable method to appraise their practical capabilities?",
     "options": [
-      { "id": "a", "label": "Reviewing their marketing brochures." },
-      { "id": "b", "label": "Conducting a bidder conference." },
-      { "id": "c", "label": "Reviewing past performance reports and conducting site visits to previous projects." },
-      { "id": "d", "label": "Asking them to self-rate their quality on a scale of 1-5." }
+      {
+        "id": "a",
+        "label": "Reviewing their marketing brochures."
+      },
+      {
+        "id": "b",
+        "label": "Conducting a bidder conference."
+      },
+      {
+        "id": "c",
+        "label": "Reviewing past performance reports and conducting site visits to previous projects."
+      },
+      {
+        "id": "d",
+        "label": "Asking them to self-rate their quality on a scale of 1-5."
+      }
     ],
     "correctOptionId": "c",
     "explanation": "Option c is correct. Past performance data and physical verification (site visits) provide objective evidence of skills and capabilities. Option a is biased marketing. Option b is for information sharing, not appraisal. Option d is subjective.",
     "difficulty": "medium",
-    "topics": ["Vendor Assessment", "Procurement"]
+    "topics": [
+      "Vendor Assessment",
+      "Procurement"
+    ]
   },
   {
     "id": "q-people-6-1-015",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "During the initiation phase, the project manager creates a stakeholder register. One column is dedicated to 'Assessment information.' What information regarding skills belongs here?",
     "options": [
-      { "id": "a", "label": "The stakeholder's office room number." },
-      { "id": "b", "label": "The stakeholder's potential ability to influence the project based on their expertise." },
-      { "id": "c", "label": "The stakeholder's date of birth." },
-      { "id": "d", "label": "The stakeholder's manager's name." }
+      {
+        "id": "a",
+        "label": "The stakeholder's office room number."
+      },
+      {
+        "id": "b",
+        "label": "The stakeholder's potential ability to influence the project based on their expertise."
+      },
+      {
+        "id": "c",
+        "label": "The stakeholder's date of birth."
+      },
+      {
+        "id": "d",
+        "label": "The stakeholder's manager's name."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Assessment information in the stakeholder register often includes their knowledge, skills, and ability to influence the project. Options a, c, and d are demographic or administrative details, not skill/influence assessments.",
     "difficulty": "medium",
-    "topics": ["Stakeholder Register", "Influence Assessment"]
+    "topics": [
+      "Stakeholder Register",
+      "Influence Assessment"
+    ]
   },
   {
     "id": "q-people-6-1-016",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager is building a virtual team. When appraising skills, the manager notes that several highly technical candidates have never used video conferencing or collaboration platforms. What should the project manager do?",
     "options": [
-      { "id": "a", "label": "Disqualify these candidates immediately." },
-      { "id": "b", "label": "Note this as a training requirement and factor it into the onboarding plan." },
-      { "id": "c", "label": "Assume they will figure it out because they are technical experts." },
-      { "id": "d", "label": "Switch the project to an in-person format to accommodate them." }
+      {
+        "id": "a",
+        "label": "Disqualify these candidates immediately."
+      },
+      {
+        "id": "b",
+        "label": "Note this as a training requirement and factor it into the onboarding plan."
+      },
+      {
+        "id": "c",
+        "label": "Assume they will figure it out because they are technical experts."
+      },
+      {
+        "id": "d",
+        "label": "Switch the project to an in-person format to accommodate them."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Digital literacy is a trainable skill. If the candidates are valuable for their technical expertise, the PM should plan to bridge the gap. Option a is wasteful. Option c is a risky assumption. Option d is likely not feasible for a virtual team project.",
     "difficulty": "medium",
-    "topics": ["Virtual Teams", "Skill Planning"]
+    "topics": [
+      "Virtual Teams",
+      "Skill Planning"
+    ]
   },
   {
     "id": "q-people-6-1-017",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "The organization is moving from a functional to a matrix structure. The project manager needs to negotiate for resources. What data should the project manager present to functional managers to justify requests for specific staff?",
     "options": [
-      { "id": "a", "label": "A list of personal favors owed to the project manager." },
-      { "id": "b", "label": "A competency gap analysis showing why specific individuals' skills are required for project success." },
-      { "id": "c", "label": "A threat to escalate to the CEO if requests are not met." },
-      { "id": "d", "label": "A random list of names from the company directory." }
+      {
+        "id": "a",
+        "label": "A list of personal favors owed to the project manager."
+      },
+      {
+        "id": "b",
+        "label": "A competency gap analysis showing why specific individuals' skills are required for project success."
+      },
+      {
+        "id": "c",
+        "label": "A threat to escalate to the CEO if requests are not met."
+      },
+      {
+        "id": "d",
+        "label": "A random list of names from the company directory."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Negotiating for resources requires objective justification. A gap analysis linking specific skills to project success is the strongest argument. Options a and c are unprofessional. Option d is ineffective.",
     "difficulty": "hard",
-    "topics": ["Negotiation", "Resource Management"]
+    "topics": [
+      "Negotiation",
+      "Resource Management"
+    ]
   },
   {
     "id": "q-people-6-1-018",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project team is being assembled for a highly regulated pharmaceutical project. Which document should the project manager review to determine the mandatory skill certifications required for team members?",
     "options": [
-      { "id": "a", "label": "The Business Case." },
-      { "id": "b", "label": "The Enterprise Environmental Factors (EEF) regarding industry regulations." },
-      { "id": "c", "label": "The Lessons Learned from a software project." },
-      { "id": "d", "label": "The team's vacation calendar." }
+      {
+        "id": "a",
+        "label": "The Business Case."
+      },
+      {
+        "id": "b",
+        "label": "The Enterprise Environmental Factors (EEF) regarding industry regulations."
+      },
+      {
+        "id": "c",
+        "label": "The Lessons Learned from a software project."
+      },
+      {
+        "id": "d",
+        "label": "The team's vacation calendar."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. EEFs contain industry standards and regulations which dictate what certifications or skills are legally required for the team. Option a explains 'why' the project exists, not skill details. Option c is from a different domain. Option d is availability data.",
     "difficulty": "medium",
-    "topics": ["EEF", "Compliance"]
+    "topics": [
+      "EEF",
+      "Compliance"
+    ]
   },
   {
     "id": "q-people-6-1-019",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "You are assessing a stakeholder's skills for a role that requires frequent conflict resolution between departments. Which specific type of skill are you looking for?",
     "options": [
-      { "id": "a", "label": "Hard skills." },
-      { "id": "b", "label": "Interpersonal skills." },
-      { "id": "c", "label": "Programming skills." },
-      { "id": "d", "label": "Budgeting skills." }
+      {
+        "id": "a",
+        "label": "Hard skills."
+      },
+      {
+        "id": "b",
+        "label": "Interpersonal skills."
+      },
+      {
+        "id": "c",
+        "label": "Programming skills."
+      },
+      {
+        "id": "d",
+        "label": "Budgeting skills."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Conflict resolution is a core interpersonal (soft) skill. Option a, c, and d refer to technical or hard skills.",
     "difficulty": "easy",
-    "topics": ["Interpersonal Skills", "Role Definition"]
+    "topics": [
+      "Interpersonal Skills",
+      "Role Definition"
+    ]
   },
   {
     "id": "q-people-6-1-020",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager relies on the 'Halo Effect' when selecting a technical lead. What is the potential negative consequence of this appraisal method?",
     "options": [
-      { "id": "a", "label": "Assuming a person is good at leadership just because they are good at coding." },
-      { "id": "b", "label": "Underestimating the person's technical ability." },
-      { "id": "c", "label": "Conducting too many interviews." },
-      { "id": "d", "label": "Spending too much money on recruitment." }
+      {
+        "id": "a",
+        "label": "Assuming a person is good at leadership just because they are good at coding."
+      },
+      {
+        "id": "b",
+        "label": "Underestimating the person's technical ability."
+      },
+      {
+        "id": "c",
+        "label": "Conducting too many interviews."
+      },
+      {
+        "id": "d",
+        "label": "Spending too much money on recruitment."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct. The Halo Effect is a cognitive bias where an observer's overall impression of a person influences their feelings and thoughts about that person's character or skills in a specific area (e.g., 'Great coder = Great leader'). This leads to poor placement. Options b, c, and d are not definitions of the Halo Effect.",
     "difficulty": "hard",
-    "topics": ["Cognitive Bias", "Team Selection"]
+    "topics": [
+      "Cognitive Bias",
+      "Team Selection"
+    ]
   },
   {
     "id": "q-people-6-1-021",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "In a project using Adaptive (Agile) planning, who is primarily responsible for appraising the team's ability to commit to the work in the upcoming iteration?",
     "options": [
-      { "id": "a", "label": "The Project Manager alone." },
-      { "id": "b", "label": "The Team Members themselves." },
-      { "id": "c", "label": "The Human Resources department." },
-      { "id": "d", "label": "The Product Owner." }
+      {
+        "id": "a",
+        "label": "The Project Manager alone."
+      },
+      {
+        "id": "b",
+        "label": "The Team Members themselves."
+      },
+      {
+        "id": "c",
+        "label": "The Human Resources department."
+      },
+      {
+        "id": "d",
+        "label": "The Product Owner."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. In Agile, the team is self-organizing and self-managing. They appraise their own capacity and skills to determine how much work they can pull into an iteration. Option a, c, and d violate the principle of self-organization.",
     "difficulty": "medium",
-    "topics": ["Agile Principles", "Self-Organization"]
+    "topics": [
+      "Agile Principles",
+      "Self-Organization"
+    ]
   },
   {
     "id": "q-people-6-1-022",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager is appraising skills for a project with a tight deadline. Two candidates are available: Candidate A has 100% of the required skills but is expensive. Candidate B has 60% of the skills, is cheaper, but learns fast. Which factor is most critical to the decision?",
     "options": [
-      { "id": "a", "label": "The project budget is the only factor." },
-      { "id": "b", "label": "The schedule constraint limits the time available for training Candidate B." },
-      { "id": "c", "label": "Candidate B's learning speed is a guarantee of success." },
-      { "id": "d", "label": "Candidate A will likely be bored." }
+      {
+        "id": "a",
+        "label": "The project budget is the only factor."
+      },
+      {
+        "id": "b",
+        "label": "The schedule constraint limits the time available for training Candidate B."
+      },
+      {
+        "id": "c",
+        "label": "Candidate B's learning speed is a guarantee of success."
+      },
+      {
+        "id": "d",
+        "label": "Candidate A will likely be bored."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Because the deadline is 'tight,' there is likely no slack for the learning curve required by Candidate B. Therefore, the appraisal must heavily weight immediate readiness over cost. Option a ignores the schedule. Option c is an assumption. Option d is speculation.",
     "difficulty": "medium",
-    "topics": ["Constraints Analysis", "Trade-offs"]
+    "topics": [
+      "Constraints Analysis",
+      "Trade-offs"
+    ]
   },
   {
     "id": "q-people-6-1-023",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "When assessing the skills of a potential team member, the project manager uses a 'Ability Test.' What is the primary purpose of this tool?",
     "options": [
-      { "id": "a", "label": "To measure the candidate's personality traits." },
-      { "id": "b", "label": "To measure the candidate's capacity to perform specific tasks effectively." },
-      { "id": "c", "label": "To check the candidate's criminal background." },
-      { "id": "d", "label": "To verify the candidate's university degree." }
+      {
+        "id": "a",
+        "label": "To measure the candidate's personality traits."
+      },
+      {
+        "id": "b",
+        "label": "To measure the candidate's capacity to perform specific tasks effectively."
+      },
+      {
+        "id": "c",
+        "label": "To check the candidate's criminal background."
+      },
+      {
+        "id": "d",
+        "label": "To verify the candidate's university degree."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Ability tests (or aptitude tests) are designed to measure a specific competence or skill level (e.g., coding test, typing test). Option a refers to personality assessments. Options c and d are background checks.",
     "difficulty": "easy",
-    "topics": ["Assessment Tools", "Recruitment"]
+    "topics": [
+      "Assessment Tools",
+      "Recruitment"
+    ]
   },
   {
     "id": "q-people-6-1-024",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "A project manager is forming a team for a project involving experimental technology. No one in the organization has the specific skills required. What is the most appropriate initial step?",
     "options": [
-      { "id": "a", "label": "Cancel the project." },
-      { "id": "b", "label": "Perform a 'Make-or-Buy' analysis to decide whether to train internal staff or hire external consultants." },
-      { "id": "c", "label": "Force the existing IT team to work weekends to learn it." },
-      { "id": "d", "label": "Launch the project and hope the skills emerge." }
+      {
+        "id": "a",
+        "label": "Cancel the project."
+      },
+      {
+        "id": "b",
+        "label": "Perform a 'Make-or-Buy' analysis to decide whether to train internal staff or hire external consultants."
+      },
+      {
+        "id": "c",
+        "label": "Force the existing IT team to work weekends to learn it."
+      },
+      {
+        "id": "d",
+        "label": "Launch the project and hope the skills emerge."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. When an internal skill appraisal reveals a total gap, the PM must decide how to acquire the skills—either by developing them internally (Make) or procuring them externally (Buy). Option a is premature. Option c leads to burnout. Option d is irresponsible.",
     "difficulty": "hard",
-    "topics": ["Make-or-Buy Analysis", "Skill Gaps"]
+    "topics": [
+      "Make-or-Buy Analysis",
+      "Skill Gaps"
+    ]
   },
   {
     "id": "q-people-6-1-025",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-1"],
+    "enablerIds": [
+      "e-people-6-1"
+    ],
     "text": "During the appraisal of stakeholder skills, the project manager realizes that the diverse team members have vastly different communication preferences. What should the project manager create to address this diversity?",
     "options": [
-      { "id": "a", "label": "A rigid rule that all communication must be via email." },
-      { "id": "b", "label": "A Communications Management Plan that establishes agreed-upon norms and channels." },
-      { "id": "c", "label": "A complaint box." },
-      { "id": "d", "label": "A separate project for each communication style." }
+      {
+        "id": "a",
+        "label": "A rigid rule that all communication must be via email."
+      },
+      {
+        "id": "b",
+        "label": "A Communications Management Plan that establishes agreed-upon norms and channels."
+      },
+      {
+        "id": "c",
+        "label": "A complaint box."
+      },
+      {
+        "id": "d",
+        "label": "A separate project for each communication style."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. The Communications Management Plan is the tool used to harmonize different stakeholder needs and skills into a cohesive workflow. Option a ignores the appraisal findings. Option c is reactive. Option d is not feasible.",
     "difficulty": "medium",
-    "topics": ["Communications Planning", "Team Norms"]
+    "topics": [
+      "Communications Planning",
+      "Team Norms"
+    ]
   }
 ]

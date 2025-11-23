@@ -3,7 +3,9 @@
     "id": "q-people-8-1-001",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager is preparing to negotiate a contract with a software vendor. The sponsor has explicitly stated that the project cannot exceed a budget of $500,000. Before meeting the vendor, the project manager reviews this constraint to understand the maximum offer they can make. This is an example of identifying the:",
     "options": [
       {
@@ -26,13 +28,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. The **Reservation Price** (or walk-away point) is the least favorable point at which one will accept a deal. For a buyer, this is the maximum price they are willing (or able) to pay. Identifying the $500k cap establishes this bound. BATNA is what you do if negotiations fail. ZOPA is the overlap range.",
     "difficulty": "medium",
-    "topics": ["negotiation basics", "reservation price"]
+    "topics": [
+      "negotiation basics",
+      "reservation price"
+    ]
   },
   {
     "id": "q-people-8-1-002",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "During a negotiation for a new team member from a functional department, the project manager realizes that the functional manager demands a 2-week notice period before the resource can start. The project schedule requires an immediate start. What is the project manager's first step to analyze the bounds of this negotiation?",
     "options": [
       {
@@ -55,13 +62,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. To analyze the **bounds**, the PM must distinguish between real constraints and preferences. Checking the critical path determines the actual flexibility (slack) available. If the critical path allows for a delay, the bound is softer than initially thought. Options a, c, and d act without analyzing the true boundary.",
     "difficulty": "medium",
-    "topics": ["critical path", "negotiation analysis"]
+    "topics": [
+      "critical path",
+      "negotiation analysis"
+    ]
   },
   {
     "id": "q-people-8-1-003",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager is negotiating with a potential partner who is insisting on intellectual property (IP) ownership of the joint product. The project manager checks the Project Charter and organization's legal policies. What is the project manager looking for?",
     "options": [
       {
@@ -84,13 +96,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Analyzing the **bounds** often means identifying what is legally or organizationally **non-negotiable**. Legal policies and Charter mandates form the hard boundaries of the negotiation box. The PM cannot trade away rights they are strictly forbidden to release.",
     "difficulty": "medium",
-    "topics": ["legal constraints", "negotiation boundaries"]
+    "topics": [
+      "legal constraints",
+      "negotiation boundaries"
+    ]
   },
   {
     "id": "q-people-8-1-004",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "Before entering a negotiation with a vendor who has a monopoly on a critical component, the project manager assesses what the project team will do if the vendor refuses to sell or sets an exorbitant price. This analysis is best described as:",
     "options": [
       {
@@ -113,13 +130,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. **BATNA** is the measure of the balance of power. If the vendor is a monopoly, the buyer's BATNA (alternative) is likely weak (e.g., cancelling the feature, redesigning the product). Analyzing this bound is crucial for understanding leverage before talking to the vendor.",
     "difficulty": "medium",
-    "topics": ["BATNA", "negotiation leverage"]
+    "topics": [
+      "BATNA",
+      "negotiation leverage"
+    ]
   },
   {
     "id": "q-people-8-1-005",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager is preparing to negotiate scope with a client. The project team estimates the work will cost between $80k and $100k. The client has indicated they have a budget between $90k and $110k. The overlap between $90k and $100k is known as:",
     "options": [
       {
@@ -142,13 +164,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **ZOPA** is the range in which an agreement is satisfactory to both parties. The seller wants >$80k. The buyer wants <$110k. The overlap ($90k-$100k) is the ZOPA. Analyzing this helps the PM know where a deal is feasible.",
     "difficulty": "easy",
-    "topics": ["ZOPA", "negotiation concepts"]
+    "topics": [
+      "ZOPA",
+      "negotiation concepts"
+    ]
   },
   {
     "id": "q-people-8-1-006",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "The project manager is negotiating a Service Level Agreement (SLA) with an internal IT department. The IT director states they cannot offer 24/7 support due to staffing freezes. This staffing freeze represents:",
     "options": [
       {
@@ -171,13 +198,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Analyzing bounds involves distinguishing between tactics and real constraints. A staffing freeze is an **organizational constraint** (a lack of resources). It effectively removes 24/7 support from the table, bounding the negotiation to 'business hours' support or requiring a different solution.",
     "difficulty": "medium",
-    "topics": ["constraints", "negotiation analysis"]
+    "topics": [
+      "constraints",
+      "negotiation analysis"
+    ]
   },
   {
     "id": "q-people-8-1-007",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager is negotiating a change request that involves a significant cost increase. The project manager checks the 'Delegation of Authority' document and realizes the amount exceeds their approval limit. What is the immediate impact of this analysis on the negotiation bounds?",
     "options": [
       {
@@ -200,13 +232,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Analyzing **authority bounds** is critical. If the PM lacks the authority to sign for that amount, the negotiation is bounded by the need for external approval. The PM can still negotiate (discuss terms), but the final agreement is conditional. Option c is unethical (structuring). Option d is a violation of governance.",
     "difficulty": "medium",
-    "topics": ["authority limits", "governance"]
+    "topics": [
+      "authority limits",
+      "governance"
+    ]
   },
   {
     "id": "q-people-8-1-008",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "During procurement for a global project, the project manager learns that local laws in Country X require 50% of the labor to be sourced locally. This legal requirement:",
     "options": [
       {
@@ -229,13 +266,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Regulatory and legal requirements** act as hard boundaries. Analyzing this bound tells the PM that any deal with <50% local labor is non-viable, regardless of price or preference. It narrows the solution space significantly.",
     "difficulty": "medium",
-    "topics": ["legal constraints", "compliance"]
+    "topics": [
+      "legal constraints",
+      "compliance"
+    ]
   },
   {
     "id": "q-people-8-1-009",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager is analyzing the 'bounds' of a negotiation with a supplier. They identify that the supplier has a warehouse full of unsold inventory that is costing them storage fees. This information represents:",
     "options": [
       {
@@ -258,13 +300,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Analyzing bounds includes analyzing the **counterparty's situation**. Knowing the supplier is under pressure (storage costs) reveals that their **Reservation Price** might be lower than usual, expanding the **ZOPA** in the buyer's favor. This is key leverage analysis.",
     "difficulty": "medium",
-    "topics": ["leverage", "counterparty analysis"]
+    "topics": [
+      "leverage",
+      "counterparty analysis"
+    ]
   },
   {
     "id": "q-people-8-1-010",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "The project team needs a specific technical expert. The only available expert demands a salary 20% above the pay band maximum. The project manager analyzes the situation and finds that hiring a less experienced person would delay the project by 3 months, missing a critical market window. What does this analysis reveal about the negotiation bounds?",
     "options": [
       {
@@ -287,13 +334,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Negotiation bounds are often a hierarchy of constraints. By analyzing the **Trade-off**, the PM realizes that the cost of delay (missing the window) is higher than the cost of the salary variance. The 'bound' of the pay band is softer than the 'bound' of the market window.",
     "difficulty": "hard",
-    "topics": ["trade-off analysis", "constraints"]
+    "topics": [
+      "trade-off analysis",
+      "constraints"
+    ]
   },
   {
     "id": "q-people-8-1-011",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "Before meeting with stakeholders to negotiate the acceptance criteria for a deliverable, the project manager reviews the requirements documentation and the traceability matrix. Why is this step necessary for analyzing bounds?",
     "options": [
       {
@@ -316,13 +368,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. The **Scope Baseline** acts as the primary boundary for acceptance negotiations. The PM analyzes it to ensure they don't agree to criteria that constitute scope creep (outside the bounds) unless the change control process is invoked.",
     "difficulty": "medium",
-    "topics": ["scope baseline", "acceptance criteria"]
+    "topics": [
+      "scope baseline",
+      "acceptance criteria"
+    ]
   },
   {
     "id": "q-people-8-1-012",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager is negotiating a deadline with the team. The team says 4 weeks. The sponsor says 2 weeks. The project manager analyzes the historical velocity and determines that 3 weeks is the absolute fastest the team has ever moved. This 3-week mark represents:",
     "options": [
       {
@@ -345,13 +402,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Analyzing bounds involves looking at **physical/technical reality**. Regardless of what the sponsor wants (2 weeks), the historical data sets a realistic performance bound (3 weeks). Negotiating below this bound is setting the project up for failure.",
     "difficulty": "medium",
-    "topics": ["historical data", "reality checking"]
+    "topics": [
+      "historical data",
+      "reality checking"
+    ]
   },
   {
     "id": "q-people-8-1-013",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "An agile team is negotiating the sprint backlog with the Product Owner. The team's velocity is consistently 20 points per sprint. The Product Owner wants 30 points of work. The 'bound' of this negotiation is determined by:",
     "options": [
       {
@@ -374,13 +436,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. In Agile, the **capacity/velocity** is the hard bound for the Sprint Backlog negotiation. The team pulls work up to their limit. Analyzing this bound protects the team from over-commitment and burnout.",
     "difficulty": "easy",
-    "topics": ["agile velocity", "capacity planning"]
+    "topics": [
+      "agile velocity",
+      "capacity planning"
+    ]
   },
   {
     "id": "q-people-8-1-014",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager identifies that the other party in a negotiation has a strict 'No work on weekends' policy due to union contracts. The project schedule relies on weekend cutovers. Analyzing this bound suggests the project manager must:",
     "options": [
       {
@@ -403,13 +470,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Union contracts are generally very rigid **legal/labor bounds**. Analyzing this tells the PM that the current strategy (weekend cutover with this vendor) is outside the bounds of possibility. The strategy must adapt to the constraint.",
     "difficulty": "medium",
-    "topics": ["labor constraints", "strategy adaptation"]
+    "topics": [
+      "labor constraints",
+      "strategy adaptation"
+    ]
   },
   {
     "id": "q-people-8-1-015",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "When analyzing the bounds for an upcoming procurement negotiation, the project manager lists out: 'Max Price', 'Delivery Date', 'Warranty Period', and 'Payment Terms'. By assigning a range of acceptable values to each, the project manager is defining the:",
     "options": [
       {
@@ -432,13 +504,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Creating a range of acceptable values (Target to Walk-away) for each variable defines the **Negotiation Envelope** or framework. This is the core activity of analyzing bounds—knowing exactly what 'acceptable' looks like for every deal point.",
     "difficulty": "medium",
-    "topics": ["negotiation envelope", "planning"]
+    "topics": [
+      "negotiation envelope",
+      "planning"
+    ]
   },
   {
     "id": "q-people-8-1-016",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager discovers that the vendor they are negotiating with is facing bankruptcy and desperate for cash flow. However, the project's finance department has a policy of 'Net 60' payment terms. How does this analyze as a negotiation bound?",
     "options": [
       {
@@ -461,13 +538,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Analyzing bounds identifies **conflicts**. The vendor's bound (need cash now) clashes with the buyer's bound (pay later). Recognizing this mismatch allows the PM to proactively seek a solution (like a discount for early payment/exception) rather than hitting a wall during talks.",
     "difficulty": "hard",
-    "topics": ["conflict analysis", "financial terms"]
+    "topics": [
+      "conflict analysis",
+      "financial terms"
+    ]
   },
   {
     "id": "q-people-8-1-017",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager is negotiating with a resource manager for a specific senior developer. The resource manager says, 'You can have them, but only for 10 hours a week.' The project manager reviews the task estimates and sees the critical path requires 20 hours a week. This analysis identifies:",
     "options": [
       {
@@ -490,13 +572,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. If the offer (10 hrs) is less than the minimum requirement (20 hrs), there is a **Gap** or **Negative ZOPA**. Analyzing this bound reveals that the current deal on the table is structurally impossible for project success, requiring a change in scope, schedule, or resource selection.",
     "difficulty": "medium",
-    "topics": ["gap analysis", "resource availability"]
+    "topics": [
+      "gap analysis",
+      "resource availability"
+    ]
   },
   {
     "id": "q-people-8-1-018",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "In a fixed-price contract negotiation, the seller wants to add a clause allowing for 'unlimited price adjustments based on inflation.' The project manager analyzes the project's risk tolerance and determines this creates unlimited financial exposure. This clause represents:",
     "options": [
       {
@@ -519,13 +606,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Fixed-price contracts are designed to transfer cost risk to the seller. An unlimited adjustment clause violates the core premise and the project's financial **risk bounds**. Identifying this as a **Deal Breaker** is essential analysis.",
     "difficulty": "medium",
-    "topics": ["contract types", "risk tolerance"]
+    "topics": [
+      "contract types",
+      "risk tolerance"
+    ]
   },
   {
     "id": "q-people-8-1-019",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "The project manager is assessing the 'political bounds' of a negotiation. They know that Department A and Department B are rivals. The project requires an agreement that involves sharing data between them. What does this analysis suggest?",
     "options": [
       {
@@ -548,13 +640,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. **Political context** creates invisible but rigid bounds. Analyzing the rivalry helps the PM predict where the friction (the boundaries) will be—likely around control and ownership. The strategy must account for these emotional/political bounds.",
     "difficulty": "medium",
-    "topics": ["political awareness", "stakeholder analysis"]
+    "topics": [
+      "political awareness",
+      "stakeholder analysis"
+    ]
   },
   {
     "id": "q-people-8-1-020",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager is preparing to negotiate with a vendor. They conduct a 'Market Research' analysis to see what other vendors are charging for similar services. This helps the project manager determine:",
     "options": [
       {
@@ -577,13 +674,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Objective Standards** (market rates) are powerful tools for defining bounds. If the market rate is $100/hr, an offer of $200/hr is clearly 'out of bounds.' This analysis gives the PM data to defend their price ceiling.",
     "difficulty": "medium",
-    "topics": ["market research", "benchmarking"]
+    "topics": [
+      "market research",
+      "benchmarking"
+    ]
   },
   {
     "id": "q-people-8-1-021",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "The project charter states, 'The final product must be compatible with System X.' During negotiations, the vendor proposes a cheaper solution that is not compatible with System X. The project manager rejects it immediately. This is an example of adhering to:",
     "options": [
       {
@@ -606,13 +708,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. The **Project Charter** defines the high-level boundaries of the project. A mandate for compatibility is a **hard technical constraint**. The PM analyzes the proposal against this bound and correctly identifies it as non-compliant.",
     "difficulty": "easy",
-    "topics": ["project charter", "technical constraints"]
+    "topics": [
+      "project charter",
+      "technical constraints"
+    ]
   },
   {
     "id": "q-people-8-1-022",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager realizes that they are too emotionally invested in the outcome of a negotiation to see the limits clearly. To analyze the bounds objectively, what should they do?",
     "options": [
       {
@@ -635,13 +742,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Emotional Bias** can obscure the true bounds of a negotiation (e.g., holding on to a bad deal or rejecting a good one out of spite). Analyzing the situation with a **neutral third party** restores objectivity and clarity on the actual constraints.",
     "difficulty": "medium",
-    "topics": ["emotional intelligence", "objectivity"]
+    "topics": [
+      "emotional intelligence",
+      "objectivity"
+    ]
   },
   {
     "id": "q-people-8-1-023",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "When analyzing bounds, the project manager considers the 'Cost of Delay.' If the agreement is not signed by Friday, the project will incur a penalty of $10,000/day. This information helps the project manager:",
     "options": [
       {
@@ -664,13 +776,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. **Cost of Delay** creates a time-bound financial pressure. Analyzing this tells the PM that paying an extra $5,000 to close the deal on Thursday is mathematically better than waiting until Monday and paying $30,000 in penalties. It shifts the financial bounds of the negotiation.",
     "difficulty": "hard",
-    "topics": ["cost of delay", "financial analysis"]
+    "topics": [
+      "cost of delay",
+      "financial analysis"
+    ]
   },
   {
     "id": "q-people-8-1-024",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "A project manager is negotiating with a start-up vendor. The project manager analyzes the vendor's financial health and realizes the vendor might not exist in two years. How does this define the bounds of the agreement?",
     "options": [
       {
@@ -693,13 +810,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Assessing **vendor viability** analyzes the risk boundaries. A warranty is only as good as the company backing it. If the company is shaky, the 'bound' of trust is low. The PM must structure the deal (escrow/short-term) to fit this reality.",
     "difficulty": "hard",
-    "topics": ["risk assessment", "vendor viability"]
+    "topics": [
+      "risk assessment",
+      "vendor viability"
+    ]
   },
   {
     "id": "q-people-8-1-025",
     "domainId": "people",
     "taskId": "people-8",
-    "enablerIds": ["e-people-8-1"],
+    "enablerIds": [
+      "e-people-8-1"
+    ],
     "text": "During a retrospective, the team realizes they agreed to a vendor deadline that was impossible to meet because they didn't check the team calendar for holidays. What failed in the analysis step?",
     "options": [
       {
@@ -722,6 +844,9 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Negotiation bounds include **logistical constraints** like holidays and time off. Failing to check the calendar means failing to analyze the bounds of 'available time,' leading to an unachievable agreement.",
     "difficulty": "easy",
-    "topics": ["resource calendars", "lessons learned"]
+    "topics": [
+      "resource calendars",
+      "lessons learned"
+    ]
   }
 ]

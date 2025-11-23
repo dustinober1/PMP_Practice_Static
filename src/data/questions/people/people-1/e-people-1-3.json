@@ -9,11 +9,11 @@
     "text": "Two developers disagree about an approach but remain respectful and focused on the technical issue. What conflict resolution approach should the project manager recommend first?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Encourage collaboration to evaluate both options and choose the best solution together."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Impose an immediate decision without team input to save time."
       },
       {
@@ -25,13 +25,15 @@
         "label": "Separate the developers permanently into different teams."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because collaboration leverages the strengths of both ideas when the conflict is respectful and task-focused. Option b is incorrect because imposing a decision reduces ownership and may harm motivation. Option c is incorrect because avoidance can let the disagreement resurface later. Option d is incorrect because splitting the team is an extreme measure not justified by a normal technical disagreement.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because collaboration leverages the strengths of both ideas when the conflict is respectful and task-focused. Option a is incorrect because imposing a decision reduces ownership and may harm motivation. Option c is incorrect because avoidance can let the disagreement resurface later. Option d is incorrect because splitting the team is an extreme measure not justified by a normal technical disagreement.",
     "difficulty": "easy",
     "topics": [
       "conflict resolution",
       "collaboration"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-002",
@@ -44,7 +46,7 @@
     "options": [
       {
         "id": "a",
-        "label": "Forcing, by having the architect’s decision stand without further discussion."
+        "label": "Forcing, by having the architect's decision stand without further discussion."
       },
       {
         "id": "b",
@@ -65,7 +67,9 @@
     "topics": [
       "conflict techniques",
       "collaborating"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-003",
@@ -77,11 +81,11 @@
     "text": "A conflict about meeting times persists despite attempts to rotate schedules. What conflict resolution solution might best reconcile interests for a globally distributed team?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Use asynchronous updates for most topics and limit live meetings to critical decisions."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Require every team member to attend all meetings regardless of time."
       },
       {
@@ -93,13 +97,15 @@
         "label": "Let each region run separate projects with no coordination."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because combining asynchronous updates with focused live sessions reduces burden while preserving alignment. Option b is incorrect because forcing everyone into all time slots is unsustainable and unfair. Option c is incorrect because eliminating meetings altogether undermines collaboration. Option d is incorrect because splitting projects removes necessary coordination and may fragment delivery.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because combining asynchronous updates with focused live sessions reduces burden while preserving alignment. Option a is incorrect because forcing everyone into all time slots is unsustainable and unfair. Option c is incorrect because eliminating meetings altogether undermines collaboration. Option d is incorrect because splitting projects removes necessary coordination and may fragment delivery.",
     "difficulty": "medium",
     "topics": [
       "distributed teams",
       "resolution options"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-004",
@@ -111,11 +117,11 @@
     "text": "A product owner and technical lead disagree strongly about including a complex feature in the next sprint. How should the project manager recommend reconciling this conflict?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Facilitate a discussion to compare value, risk, and technical feasibility against sprint goals."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Ask the team to ignore both opinions and pick a random option."
       },
       {
@@ -127,13 +133,15 @@
         "label": "Cancel the sprint and restart planning from scratch."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because structured evaluation of value, risk, and feasibility helps reach a decision that aligns with sprint goals. Option b is incorrect because random choice ignores data and undermines trust. Option c is incorrect because rewarding loudness encourages unproductive behavior. Option d is incorrect because cancelling the sprint is drastic and wastes planning effort.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because structured evaluation of value, risk, and feasibility helps reach a decision that aligns with sprint goals. Option a is incorrect because random choice ignores data and undermines trust. Option c is incorrect because rewarding loudness encourages unproductive behavior. Option d is incorrect because cancelling the sprint is drastic and wastes planning effort.",
     "difficulty": "medium",
     "topics": [
       "value vs risk",
       "resolution facilitation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-005",
@@ -145,11 +153,11 @@
     "text": "Two senior stakeholders are in conflict about scope, and the disagreement blocks a key decision. What conflict resolution approach should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Facilitate a negotiation that focuses on shared objectives and trade-offs rather than personal preferences."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Ask the team to ignore both stakeholders and continue without direction."
       },
       {
@@ -161,13 +169,15 @@
         "label": "Delay all decisions until the next fiscal year."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because negotiating around shared objectives and trade-offs helps align competing stakeholder interests. Option b is incorrect because proceeding without guidance risks misalignment. Option c is incorrect because defaulting to hierarchy may solve the conflict superficially but can damage relationships. Option d is incorrect because delaying decisions so long harms project momentum and value.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because negotiating around shared objectives and trade-offs helps align competing stakeholder interests. Option a is incorrect because proceeding without guidance risks misalignment. Option c is incorrect because defaulting to hierarchy may solve the conflict superficially but can damage relationships. Option d is incorrect because delaying decisions so long harms project momentum and value.",
     "difficulty": "hard",
     "topics": [
       "stakeholder negotiation",
       "resolution strategy"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-006",
@@ -179,12 +189,12 @@
     "text": "Two team members are in conflict about testing responsibilities, and emotions are high. What is the best immediate conflict resolution action to recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Pause the discussion, meet with them privately, and work through responsibilities and expectations calmly."
       },
       {
-        "id": "b",
-        "label": "Force one person to accept the other’s view without discussion."
+        "id": "a",
+        "label": "Force one person to accept the other's view without discussion."
       },
       {
         "id": "c",
@@ -195,13 +205,15 @@
         "label": "Announce a permanent reorganization of the testing process in the middle of the argument."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because de-escalating and addressing responsibilities in a calmer setting supports a sustainable resolution. Option b is incorrect because forcing acceptance deepens resentment. Option c is incorrect because ignoring a heated conflict risks further damage to relationships and quality. Option d is incorrect because making sudden structural changes during an argument is reactive and may not be well thought out.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because de-escalating and addressing responsibilities in a calmer setting supports a sustainable resolution. Option a is incorrect because forcing acceptance deepens resentment. Option c is incorrect because ignoring a heated conflict risks further damage to relationships and quality. Option d is incorrect because making sudden structural changes during an argument is reactive and may not be well thought out.",
     "difficulty": "easy",
     "topics": [
       "de-escalation",
       "role clarity"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-007",
@@ -213,11 +225,11 @@
     "text": "A conflict continues between two teams about ownership of integration testing. What resolution should the project manager recommend to reconcile this?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Clarify shared ownership and establish a joint integration testing plan with agreed responsibilities."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Assign all integration testing to whichever team complains least."
       },
       {
@@ -229,13 +241,15 @@
         "label": "Rotate ownership randomly each day without regard to skills."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because a joint plan with explicit responsibilities reduces ambiguity and spreads ownership appropriately. Option b is incorrect because rewarding silence may overload one team unfairly. Option c is incorrect because halting integration testing increases project risk. Option d is incorrect because random rotation disregards capability and continuity.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because a joint plan with explicit responsibilities reduces ambiguity and spreads ownership appropriately. Option a is incorrect because rewarding silence may overload one team unfairly. Option c is incorrect because halting integration testing increases project risk. Option d is incorrect because random rotation disregards capability and continuity.",
     "difficulty": "medium",
     "topics": [
       "integration responsibilities",
       "joint plans"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-008",
@@ -247,7 +261,7 @@
     "text": "A team member feels disrespected by how feedback was delivered in a retro. What conflict resolution solution should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Facilitate a conversation to agree on feedback guidelines and repair the relationship."
       },
       {
@@ -255,7 +269,7 @@
         "label": "Ask the offended team member to simply ignore the situation."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Publicly criticize the person who gave the feedback."
       },
       {
@@ -263,13 +277,15 @@
         "label": "Eliminate retrospectives entirely to avoid feedback."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because agreeing on guidelines and repairing trust addresses both process and relationship. Option b is incorrect because ignoring hurt feelings can erode psychological safety. Option c is incorrect because public criticism can create a new conflict and increase defensiveness. Option d is incorrect because removing retros prevents learning and improvement.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because agreeing on guidelines and repairing trust addresses both process and relationship. Option b is incorrect because ignoring hurt feelings can erode psychological safety. Option a is incorrect because public criticism can create a new conflict and increase defensiveness. Option d is incorrect because removing retros prevents learning and improvement.",
     "difficulty": "easy",
     "topics": [
       "feedback agreements",
       "relationship repair"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-009",
@@ -281,7 +297,7 @@
     "text": "A long-running conflict between two senior engineers is affecting delivery. What resolution approach should the project manager recommend after earlier attempts failed?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Bring in a neutral facilitator or mediator to help them reach an agreement."
       },
       {
@@ -289,7 +305,7 @@
         "label": "Force both engineers to work extended hours until they resolve it."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Avoid the topic entirely and focus only on technical status."
       },
       {
@@ -297,13 +313,15 @@
         "label": "Assign all critical work to other team members to bypass them indefinitely."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because an impartial mediator can help break impasses and create a workable agreement. Option b is incorrect because extra hours can increase stress and worsen conflict. Option c is incorrect because avoidance has already failed and will not resolve underlying issues. Option d is incorrect because bypassing them permanently wastes expertise and leaves conflict unresolved.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because an impartial mediator can help break impasses and create a workable agreement. Option b is incorrect because extra hours can increase stress and worsen conflict. Option a is incorrect because avoidance has already failed and will not resolve underlying issues. Option d is incorrect because bypassing them permanently wastes expertise and leaves conflict unresolved.",
     "difficulty": "hard",
     "topics": [
       "mediation",
       "escalated conflict"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-010",
@@ -315,7 +333,7 @@
     "text": "A conflict arises over allocation of a scarce specialist across two projects. What conflict resolution solution should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Facilitate a prioritization discussion with stakeholders to allocate the specialist based on value and urgency."
       },
       {
@@ -323,7 +341,7 @@
         "label": "Assign the specialist randomly without involving stakeholders."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Let the specialist decide independently without context."
       },
       {
@@ -331,13 +349,15 @@
         "label": "Refuse to allocate the specialist to any project."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because stakeholder negotiation around value and urgency provides a transparent basis for allocation. Option b is incorrect because random allocation ignores strategic priorities. Option c is incorrect because the specialist may not have full visibility into portfolio priorities. Option d is incorrect because not allocating the specialist stalls both projects.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because stakeholder negotiation around value and urgency provides a transparent basis for allocation. Option b is incorrect because random allocation ignores strategic priorities. Option a is incorrect because the specialist may not have full visibility into portfolio priorities. Option d is incorrect because not allocating the specialist stalls both projects.",
     "difficulty": "medium",
     "topics": [
       "resource conflicts",
       "prioritization"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-011",
@@ -349,15 +369,15 @@
     "text": "A conflict over quality standards develops between testing and development. What resolution technique should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Collaborate to define shared quality criteria, acceptance tests, and clear exit conditions."
       },
       {
         "id": "b",
-        "label": "Ask one side to silently accept the other’s view."
+        "label": "Ask one side to silently accept the other's view."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Avoid discussing quality to prevent further disagreements."
       },
       {
@@ -365,13 +385,15 @@
         "label": "Rotate responsibility for defining standards with no input from the other group."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because jointly defining standards creates a common reference and shared accountability. Option b is incorrect because forced acceptance can breed resentment. Option c is incorrect because not discussing quality undermines outcomes. Option d is incorrect because unilateral control reduces collaboration and buy-in.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because jointly defining standards creates a common reference and shared accountability. Option b is incorrect because forced acceptance can breed resentment. Option a is incorrect because not discussing quality undermines outcomes. Option d is incorrect because unilateral control reduces collaboration and buy-in.",
     "difficulty": "medium",
     "topics": [
       "quality agreements",
       "collaborative standards"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-012",
@@ -383,7 +405,7 @@
     "text": "A conflict arises when a key decision is repeatedly revisited after being agreed. What conflict resolution solution should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Clarify the decision, document rationale and constraints, and agree on when it can be revisited."
       },
       {
@@ -391,7 +413,7 @@
         "label": "Allow the decision to be reopened at any time without structure."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Ignore the repeated discussions and let the team argue."
       },
       {
@@ -399,13 +421,15 @@
         "label": "Remove decision-making authority from the team entirely."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because documenting rationale and revisit conditions stabilizes decisions while leaving room for change when warranted. Option b is incorrect because constant reopening erodes progress. Option c is incorrect because ignoring cycles wastes time and energy. Option d is incorrect because stripping authority reduces engagement and ownership.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because documenting rationale and revisit conditions stabilizes decisions while leaving room for change when warranted. Option b is incorrect because constant reopening erodes progress. Option a is incorrect because ignoring cycles wastes time and energy. Option d is incorrect because stripping authority reduces engagement and ownership.",
     "difficulty": "medium",
     "topics": [
       "decision stability",
       "conflict over decisions"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-013",
@@ -417,7 +441,7 @@
     "text": "After a heated disagreement, two team members avoid each other and collaboration suffers. What resolution approach should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Hold a facilitated conversation to address concerns, acknowledge impacts, and agree on future working agreements."
       },
       {
@@ -429,17 +453,19 @@
         "label": "Tell them to \"move on\" without providing support."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Reassign all meaningful work to other team members indefinitely."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because facilitated dialogue and agreements help repair trust and restore collaboration. Option b is incorrect because restructuring around conflict can reward avoidance. Option c is incorrect because telling people to move on without support ignores emotional impacts. Option d is incorrect because reassigning all work sidelines them and wastes capacity.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because facilitated dialogue and agreements help repair trust and restore collaboration. Option b is incorrect because restructuring around conflict can reward avoidance. Option c is incorrect because telling people to move on without support ignores emotional impacts. Option a is incorrect because reassigning all work sidelines them and wastes capacity.",
     "difficulty": "hard",
     "topics": [
       "relationship repair",
       "working agreements"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-014",
@@ -451,7 +477,7 @@
     "text": "A conflict between two departments over reporting lines is blocking progress. Which resolution solution should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Escalate to the appropriate governance body to make a structural decision based on organizational priorities."
       },
       {
@@ -463,17 +489,19 @@
         "label": "Decide unilaterally without informing leadership."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Assign reporting lines randomly and hope for acceptance."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because structural conflicts often require governance-level decisions aligned with organizational design. Option b is incorrect because ignoring structural issues leaves confusion unresolved. Option c is incorrect because unilateral changes without leadership buy-in may be reversed. Option d is incorrect because random assignments lack rationale and legitimacy.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because structural conflicts often require governance-level decisions aligned with organizational design. Option b is incorrect because ignoring structural issues leaves confusion unresolved. Option c is incorrect because unilateral changes without leadership buy-in may be reversed. Option a is incorrect because random assignments lack rationale and legitimacy.",
     "difficulty": "hard",
     "topics": [
       "structural conflict",
       "governance resolution"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-015",
@@ -485,7 +513,7 @@
     "text": "A conflict emerges over whether to use a predictive or agile approach. What conflict resolution solution should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Evaluate project characteristics and recommend a hybrid or single approach that best fits risk, complexity, and stakeholder needs."
       },
       {
@@ -497,17 +525,19 @@
         "label": "Avoid the topic and let teams adopt any approach independently."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Change the approach weekly to satisfy everyone."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because tailoring based on project needs reconciles preferences with suitability. Option b is incorrect because popularity does not determine fit. Option c is incorrect because uncoordinated methods create chaos. Option d is incorrect because constant changes undermine stability and learning.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because tailoring based on project needs reconciles preferences with suitability. Option b is incorrect because popularity does not determine fit. Option c is incorrect because uncoordinated methods create chaos. Option a is incorrect because constant changes undermine stability and learning.",
     "difficulty": "medium",
     "topics": [
       "method tailoring",
       "approach conflicts"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-016",
@@ -519,7 +549,7 @@
     "text": "Two teams conflict over whose features should be delivered first. What resolution approach should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Use a transparent prioritization framework such as WSJF or MoSCoW with stakeholders."
       },
       {
@@ -531,17 +561,19 @@
         "label": "Select the team that complains the most to go first."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Deliver features alphabetically by name."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because structured prioritization aligns delivery with value and risk. Option b is incorrect because random choice does not consider impact. Option c is incorrect because rewarding complaints encourages negative behavior. Option d is incorrect because alphabetical order is arbitrary.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because structured prioritization aligns delivery with value and risk. Option b is incorrect because random choice does not consider impact. Option c is incorrect because rewarding complaints encourages negative behavior. Option a is incorrect because alphabetical order is arbitrary.",
     "difficulty": "medium",
     "topics": [
       "prioritization frameworks",
       "conflict resolution"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-017",
@@ -553,7 +585,7 @@
     "text": "A conflict arises when one team member consistently interrupts others. Which resolution solution should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Establish facilitation rules such as speaking turns and reinforce them with the team member privately."
       },
       {
@@ -565,17 +597,19 @@
         "label": "Publicly shame the team member during meetings."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Remove the team member from all future meetings immediately."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because clear meeting rules and private coaching address behavior while preserving dignity. Option b is incorrect because ignoring interruptions erodes respect and participation. Option c is incorrect because public shaming damages trust. Option d is incorrect because exclusion is extreme without prior attempts to correct behavior.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because clear meeting rules and private coaching address behavior while preserving dignity. Option b is incorrect because ignoring interruptions erodes respect and participation. Option c is incorrect because public shaming damages trust. Option a is incorrect because exclusion is extreme without prior attempts to correct behavior.",
     "difficulty": "easy",
     "topics": [
       "meeting norms",
       "behavioral conflict"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-018",
@@ -587,7 +621,7 @@
     "text": "A conflict between a vendor and internal QA over defect acceptance has stalled UAT. What resolution should the project manager recommend?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Agree on objective acceptance criteria and severity thresholds, then re-evaluate defects together."
       },
       {
@@ -599,17 +633,19 @@
         "label": "Ask the vendor to fix everything regardless of severity immediately."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Postpone UAT indefinitely until the conflict fades."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because shared criteria allow consistent, fair decisions. Option b is incorrect because accepting all defects compromises quality. Option c is incorrect because demanding all fixes immediately may be unrealistic and not risk-based. Option d is incorrect because delaying UAT indefinitely harms delivery.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because shared criteria allow consistent, fair decisions. Option b is incorrect because accepting all defects compromises quality. Option c is incorrect because demanding all fixes immediately may be unrealistic and not risk-based. Option a is incorrect because delaying UAT indefinitely harms delivery.",
     "difficulty": "hard",
     "topics": [
       "acceptance criteria",
       "vendor conflicts"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-019",
@@ -643,7 +679,9 @@
     "topics": [
       "communication ownership",
       "issue handling"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-020",
@@ -677,7 +715,9 @@
     "topics": [
       "workload balance",
       "conflict resolution"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-021",
@@ -711,7 +751,9 @@
     "topics": [
       "decision processes",
       "inclusion"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-022",
@@ -720,7 +762,7 @@
     "enablerIds": [
       "e-people-1-3"
     ],
-    "text": "A senior stakeholder disagrees with the team’s risk response and conflict ensues. What resolution should the project manager recommend?",
+    "text": "A senior stakeholder disagrees with the team's risk response and conflict ensues. What resolution should the project manager recommend?",
     "options": [
       {
         "id": "a",
@@ -728,7 +770,7 @@
       },
       {
         "id": "b",
-        "label": "Ignore the stakeholder’s concerns and proceed."
+        "label": "Ignore the stakeholder's concerns and proceed."
       },
       {
         "id": "c",
@@ -745,7 +787,9 @@
     "topics": [
       "risk response",
       "stakeholder conflict"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-023",
@@ -779,7 +823,9 @@
     "topics": [
       "psychological safety",
       "escalation culture"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-024",
@@ -813,7 +859,9 @@
     "topics": [
       "ground rules",
       "team agreements"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-3-025",
@@ -847,6 +895,8 @@
     "topics": [
       "lessons learned",
       "preventive actions"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   }
 ]

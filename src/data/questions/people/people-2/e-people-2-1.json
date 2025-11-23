@@ -9,11 +9,11 @@
     "text": "A new cross-functional team is unsure how their work contributes to the bigger picture. What should the project manager do first to set a clear vision and mission?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Share a concise vision statement that links the project to organizational strategy and expected outcomes."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Ask each team member to create their own separate vision and follow it."
       },
       {
@@ -22,16 +22,18 @@
       },
       {
         "id": "d",
-        "label": "Tell the team that vision is the sponsor’s concern and not relevant to daily work."
+        "label": "Tell the team that vision is the sponsor's concern and not relevant to daily work."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because a shared, concise vision that connects the project to strategy helps everyone understand purpose and direction. Option b is incorrect because separate visions fragment alignment. Option c is incorrect because only focusing on tasks misses why the work matters. Option d is incorrect because dismissing vision undermines engagement and ownership.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because a shared, concise vision that connects the project to strategy helps everyone understand purpose and direction. Option a is incorrect because separate visions fragment alignment. Option c is incorrect because only focusing on tasks misses why the work matters. Option d is incorrect because dismissing vision undermines engagement and ownership.",
     "difficulty": "easy",
     "topics": [
       "vision setting",
       "strategy alignment"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-002",
@@ -43,11 +45,11 @@
     "text": "A project is approved, but different stakeholders describe the project purpose differently. How should the project manager lead the team to a shared mission?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Facilitate a workshop to refine a mission statement that reconciles stakeholder objectives and constraints."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Let each stakeholder communicate their own version of the mission to the team."
       },
       {
@@ -59,13 +61,15 @@
         "label": "Ask the team to guess the mission based on initial tasks."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because a facilitated mission workshop aligns stakeholders and gives the team a coherent purpose. Option b is incorrect because multiple versions confuse the team. Option c is incorrect because ignoring mission fails to resolve misalignment. Option d is incorrect because guessing mission risks divergent assumptions.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because a facilitated mission workshop aligns stakeholders and gives the team a coherent purpose. Option a is incorrect because multiple versions confuse the team. Option c is incorrect because ignoring mission fails to resolve misalignment. Option d is incorrect because guessing mission risks divergent assumptions.",
     "difficulty": "medium",
     "topics": [
       "mission statement",
       "stakeholder alignment"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-003",
@@ -74,14 +78,14 @@
     "enablerIds": [
       "e-people-2-1"
     ],
-    "text": "The team’s work feels like a series of unconnected tasks. What should the project manager do to reinforce the vision?",
+    "text": "The team's work feels like a series of unconnected tasks. What should the project manager do to reinforce the vision?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Regularly restate how sprint goals and deliverables advance the project vision and benefits."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Tell the team the vision is documented and does not need to be repeated."
       },
       {
@@ -93,13 +97,15 @@
         "label": "Ask the sponsor to keep the vision confidential."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because continuously linking work to vision keeps purpose visible and motivates the team. Option b is incorrect because a one-time statement is not enough. Option c is incorrect because dropping goal discussions makes work feel transactional. Option d is incorrect because secrecy about vision undermines transparency and engagement.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because continuously linking work to vision keeps purpose visible and motivates the team. Option a is incorrect because a one-time statement is not enough. Option c is incorrect because dropping goal discussions makes work feel transactional. Option d is incorrect because secrecy about vision undermines transparency and engagement.",
     "difficulty": "easy",
     "topics": [
       "vision communication",
       "motivation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-004",
@@ -111,11 +117,11 @@
     "text": "New stakeholders join mid-project and question why the current scope matters. How can the project manager reinforce the mission for both team and stakeholders?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Update and share a brief mission narrative that connects current scope to strategic outcomes."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Ask stakeholders to review old emails to infer the mission."
       },
       {
@@ -127,13 +133,15 @@
         "label": "Focus only on budget details and skip mission discussion."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because a refreshed mission narrative helps new and existing participants understand why current work matters. Option b is incorrect because expecting stakeholders to infer mission from old messages is inefficient and error-prone. Option c is incorrect because not revisiting mission with new stakeholders prolongs confusion. Option d is incorrect because budget explanation alone does not answer purpose.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because a refreshed mission narrative helps new and existing participants understand why current work matters. Option a is incorrect because expecting stakeholders to infer mission from old messages is inefficient and error-prone. Option c is incorrect because not revisiting mission with new stakeholders prolongs confusion. Option d is incorrect because budget explanation alone does not answer purpose.",
     "difficulty": "medium",
     "topics": [
       "onboarding",
       "mission reinforcement"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-005",
@@ -142,14 +150,14 @@
     "enablerIds": [
       "e-people-2-1"
     ],
-    "text": "The organization’s strategy changes, and the project’s original mission is partially outdated. What should the project manager do to lead the team effectively?",
+    "text": "The organization's strategy changes, and the project's original mission is partially outdated. What should the project manager do to lead the team effectively?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Work with sponsors to refresh the mission, then clearly communicate the revised direction and impacts to the team."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Continue using the original mission to avoid rework."
       },
       {
@@ -161,13 +169,15 @@
         "label": "Pause all communication until the strategy stabilizes completely."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because aligning mission with new strategy and communicating changes allows the team to adjust correctly. Option b is incorrect because an outdated mission misdirects effort. Option c is incorrect because fragmented interpretations cause inconsistency. Option d is incorrect because going silent increases uncertainty and anxiety.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because aligning mission with new strategy and communicating changes allows the team to adjust correctly. Option a is incorrect because an outdated mission misdirects effort. Option c is incorrect because fragmented interpretations cause inconsistency. Option d is incorrect because going silent increases uncertainty and anxiety.",
     "difficulty": "hard",
     "topics": [
       "strategy changes",
       "mission update"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-006",
@@ -176,14 +186,14 @@
     "enablerIds": [
       "e-people-2-1"
     ],
-    "text": "During a kickoff, the sponsor provides a long technical overview. Team members later say they still do not understand the project’s purpose. What should the project manager do to clarify the mission?",
+    "text": "During a kickoff, the sponsor provides a long technical overview. Team members later say they still do not understand the project's purpose. What should the project manager do to clarify the mission?",
     "options": [
       {
-        "id": "a",
-        "label": "Translate the sponsor’s message into a short, plain-language mission that explains who is served and what success looks like."
+        "id": "b",
+        "label": "Translate the sponsor's message into a short, plain-language mission that explains who is served and what success looks like."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Ask team members to reread the entire charter without additional clarification."
       },
       {
@@ -195,13 +205,15 @@
         "label": "Delay clarification until after the first release so the mission can be refined."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because converting technical detail into a concise, audience-appropriate mission gives the team a usable mental model of success. Option b is incorrect because rereading the same complex material does not address the clarity gap. Option c is incorrect because waiting for purpose to emerge wastes early alignment opportunities. Option d is incorrect because postponing mission clarity until after a release risks misdirected work.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because converting technical detail into a concise, audience-appropriate mission gives the team a usable mental model of success. Option a is incorrect because rereading the same complex material does not address the clarity gap. Option c is incorrect because waiting for purpose to emerge wastes early alignment opportunities. Option d is incorrect because postponing mission clarity until after a release risks misdirected work.",
     "difficulty": "medium",
     "topics": [
       "mission clarity",
       "kickoff"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-007",
@@ -213,7 +225,7 @@
     "text": "A team member asks how their current tasks help customers, and the project manager cannot answer clearly. What is the best next step to strengthen the project mission?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Work with the product owner to map backlog items to customer outcomes and share this mapping with the team."
       },
       {
@@ -221,7 +233,7 @@
         "label": "Explain that customer impact is handled by another department and not relevant to the team."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Tell the team member to focus on tasks and stop questioning value."
       },
       {
@@ -229,13 +241,15 @@
         "label": "Respond that customer outcomes will be defined after deployment."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because linking work items to outcomes clarifies how daily tasks support the mission and improves engagement. Option b is incorrect because distancing the team from customers undermines purpose. Option c is incorrect because discouraging value questions suppresses healthy curiosity. Option d is incorrect because defining outcomes only after deployment is too late to influence direction.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because linking work items to outcomes clarifies how daily tasks support the mission and improves engagement. Option b is incorrect because distancing the team from customers undermines purpose. Option a is incorrect because discouraging value questions suppresses healthy curiosity. Option d is incorrect because defining outcomes only after deployment is too late to influence direction.",
     "difficulty": "easy",
     "topics": [
       "backlog to outcomes",
       "mission alignment"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-008",
@@ -247,7 +261,7 @@
     "text": "The project has a mission statement, but it is long and full of jargon. Team members do not remember it. What should the project manager do?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Co-create a shorter, memorable mission phrase with the team that keeps the core intent."
       },
       {
@@ -255,7 +269,7 @@
         "label": "Require everyone to memorize the existing statement verbatim."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Stop referencing the mission and rely on deadlines instead."
       },
       {
@@ -263,13 +277,15 @@
         "label": "Ask the sponsor to send more detailed emails about the mission."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because involving the team in simplifying the mission improves understanding and ownership. Option b is incorrect because rote memorization of jargon does not create real alignment. Option c is incorrect because abandoning mission guidance reduces purpose to schedule pressure. Option d is incorrect because more long emails repeat the original problem.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because involving the team in simplifying the mission improves understanding and ownership. Option b is incorrect because rote memorization of jargon does not create real alignment. Option a is incorrect because abandoning mission guidance reduces purpose to schedule pressure. Option d is incorrect because more long emails repeat the original problem.",
     "difficulty": "medium",
     "topics": [
       "mission design",
       "team co-creation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-009",
@@ -278,10 +294,10 @@
     "enablerIds": [
       "e-people-2-1"
     ],
-    "text": "In a portfolio review, leadership questions whether the project still fits the organization’s mission. How should the project manager respond to maintain a clear project mission?",
+    "text": "In a portfolio review, leadership questions whether the project still fits the organization's mission. How should the project manager respond to maintain a clear project mission?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Present how current and planned outcomes align with strategic objectives and propose mission adjustments if misalignment is found."
       },
       {
@@ -289,7 +305,7 @@
         "label": "Insist the project is important without showing links to strategy."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Avoid engaging in the discussion to prevent changes."
       },
       {
@@ -297,13 +313,15 @@
         "label": "Shift the mission to whatever seems easiest to deliver, regardless of strategy."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because demonstrating alignment and being open to mission refinement keeps the project relevant and purposeful. Option b is incorrect because assertions without evidence do not address leadership’s concerns. Option c is incorrect because avoiding the conversation risks cancellation or drift. Option d is incorrect because optimizing for ease rather than strategy undermines value.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because demonstrating alignment and being open to mission refinement keeps the project relevant and purposeful. Option b is incorrect because assertions without evidence do not address leadership's concerns. Option a is incorrect because avoiding the conversation risks cancellation or drift. Option d is incorrect because optimizing for ease rather than strategy undermines value.",
     "difficulty": "hard",
     "topics": [
       "strategic alignment",
       "mission review"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-010",
@@ -315,7 +333,7 @@
     "text": "Different subteams have created their own informal mission statements that do not fully align. What should the project manager do?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Facilitate a session to consolidate subteam perspectives into a single, unified mission that everyone supports."
       },
       {
@@ -323,7 +341,7 @@
         "label": "Allow each subteam to keep its mission without alignment, since autonomy is more important."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Discard all mission statements and focus solely on scope statements."
       },
       {
@@ -331,13 +349,15 @@
         "label": "Ask the sponsor to define the mission alone without team input."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because co-creating a unified mission ensures coherence while valuing input from all subteams. Option b is incorrect because divergent missions can lead to conflicting priorities. Option c is incorrect because removing mission guidance reduces clarity of purpose. Option d is incorrect because excluding the team diminishes ownership and may miss practical insights.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because co-creating a unified mission ensures coherence while valuing input from all subteams. Option b is incorrect because divergent missions can lead to conflicting priorities. Option a is incorrect because removing mission guidance reduces clarity of purpose. Option d is incorrect because excluding the team diminishes ownership and may miss practical insights.",
     "difficulty": "medium",
     "topics": [
       "mission unification",
       "team alignment"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-011",
@@ -349,7 +369,7 @@
     "text": "A new regulation impacts the project, and the team wonders if their mission has changed. What should the project manager do?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Review the regulation with key stakeholders and update the mission statement if necessary, then communicate the implications clearly."
       },
       {
@@ -357,7 +377,7 @@
         "label": "Tell the team the mission is unchanged without checking the impact."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Ask the team to interpret the regulation on their own and adjust work independently."
       },
       {
@@ -365,13 +385,15 @@
         "label": "Ignore the regulation until an audit occurs."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because confirming the impact and updating the mission keeps the team aligned with new constraints. Option b is incorrect because assuming no change can lead to noncompliance. Option c is incorrect because delegating interpretation to the team without guidance risks inconsistent responses. Option d is incorrect because ignoring regulations invites serious risk.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because confirming the impact and updating the mission keeps the team aligned with new constraints. Option b is incorrect because assuming no change can lead to noncompliance. Option a is incorrect because delegating interpretation to the team without guidance risks inconsistent responses. Option d is incorrect because ignoring regulations invites serious risk.",
     "difficulty": "hard",
     "topics": [
       "regulatory impact",
       "mission adjustment"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-012",
@@ -383,7 +405,7 @@
     "text": "The team is split between focusing on technical elegance and business deadlines. How can the project manager use the mission to guide them?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Revisit the mission to emphasize the balance of value, quality, and timeliness, and use it to evaluate trade-offs."
       },
       {
@@ -391,7 +413,7 @@
         "label": "Let technical staff decide alone based on preferred tools."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Let business stakeholders decide alone based on the earliest possible date."
       },
       {
@@ -399,13 +421,15 @@
         "label": "Avoid discussing the mission to prevent conflict."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because using the mission as a decision lens helps reconcile technical and business priorities. Option b is incorrect because tool preferences may not reflect business needs. Option c is incorrect because focusing only on dates can harm quality and long-term value. Option d is incorrect because avoiding mission discussion forfeits a shared basis for decisions.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because using the mission as a decision lens helps reconcile technical and business priorities. Option b is incorrect because tool preferences may not reflect business needs. Option a is incorrect because focusing only on dates can harm quality and long-term value. Option d is incorrect because avoiding mission discussion forfeits a shared basis for decisions.",
     "difficulty": "medium",
     "topics": [
       "trade-offs",
       "mission as lens"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-013",
@@ -414,10 +438,10 @@
     "enablerIds": [
       "e-people-2-1"
     ],
-    "text": "During onboarding, new team members receive detailed technical training but no explanation of the project’s mission. What should the project manager do?",
+    "text": "During onboarding, new team members receive detailed technical training but no explanation of the project's mission. What should the project manager do?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Add a mission and vision overview to onboarding materials and personally walk new members through it."
       },
       {
@@ -429,17 +453,19 @@
         "label": "Rely solely on the HR orientation to cover mission topics."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Delay mission discussions until the new members have completed several sprints."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because early exposure to mission helps new members connect their work to purpose. Option b is incorrect because informal learning can be inconsistent or inaccurate. Option c is incorrect because HR orientation may not cover project-specific mission. Option d is incorrect because postponing until later wastes an important engagement window.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because early exposure to mission helps new members connect their work to purpose. Option b is incorrect because informal learning can be inconsistent or inaccurate. Option c is incorrect because HR orientation may not cover project-specific mission. Option a is incorrect because postponing until later wastes an important engagement window.",
     "difficulty": "easy",
     "topics": [
       "onboarding",
       "mission communication"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-014",
@@ -451,7 +477,7 @@
     "text": "Stakeholders are pushing for additional features that do not align with the stated mission. How should the project manager respond?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Use the mission to explain why some requests may dilute focus and propose alternatives that support the mission."
       },
       {
@@ -463,17 +489,19 @@
         "label": "Reject all requests without explanation because they seem off-mission."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Ignore the mission and prioritize based on who has the most influence."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because referencing the mission helps negotiate scope while preserving stakeholder relationships. Option b is incorrect because accepting everything risks scope creep and diluted value. Option c is incorrect because rejecting without explanation harms trust. Option d is incorrect because prioritizing by influence alone may move the project away from its purpose.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because referencing the mission helps negotiate scope while preserving stakeholder relationships. Option b is incorrect because accepting everything risks scope creep and diluted value. Option c is incorrect because rejecting without explanation harms trust. Option a is incorrect because prioritizing by influence alone may move the project away from its purpose.",
     "difficulty": "hard",
     "topics": [
       "scope vs mission",
       "stakeholder negotiation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-015",
@@ -485,7 +513,7 @@
     "text": "Midway through the project, team members say they are unsure whether the mission has changed after several scope adjustments. What is the best action for the project manager?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Review changes with sponsors, confirm whether the mission has shifted, and communicate any updated mission clearly to the team."
       },
       {
@@ -497,17 +525,19 @@
         "label": "Ask team members to infer mission changes from the backlog without guidance."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Avoid discussing mission to prevent confusion."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because validating and communicating mission changes maintains alignment. Option b is incorrect because missions can legitimately evolve with scope. Option c is incorrect because unguided inference risks inconsistent interpretations. Option d is incorrect because silence increases confusion.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because validating and communicating mission changes maintains alignment. Option b is incorrect because missions can legitimately evolve with scope. Option c is incorrect because unguided inference risks inconsistent interpretations. Option a is incorrect because silence increases confusion.",
     "difficulty": "medium",
     "topics": [
       "mission evolution",
       "communication"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-016",
@@ -519,7 +549,7 @@
     "text": "The mission statement focuses heavily on internal efficiency, but the organization is shifting to customer-centric metrics. What should the project manager do?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Engage sponsors to revise the mission so it reflects both internal efficiency and customer impact, then align metrics accordingly."
       },
       {
@@ -531,17 +561,19 @@
         "label": "Ignore the organizational shift and focus solely on efficiency."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Stop using metrics to avoid misalignment."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because updating mission and metrics together ensures the team aims at the right outcomes. Option b is incorrect because misaligned mission and metrics confuse priorities. Option c is incorrect because disregarding the shift risks delivering less relevant value. Option d is incorrect because abandoning metrics removes an important feedback mechanism.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because updating mission and metrics together ensures the team aims at the right outcomes. Option b is incorrect because misaligned mission and metrics confuse priorities. Option c is incorrect because disregarding the shift risks delivering less relevant value. Option a is incorrect because abandoning metrics removes an important feedback mechanism.",
     "difficulty": "hard",
     "topics": [
       "mission and metrics",
       "customer focus"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-017",
@@ -553,8 +585,8 @@
     "text": "A distributed team works on several products and is confused about which project mission applies to which work. How should the project manager respond?",
     "options": [
       {
-        "id": "a",
-        "label": "Clearly label work items by project, review each project’s mission, and ensure assignments align with the correct mission."
+        "id": "d",
+        "label": "Clearly label work items by project, review each project's mission, and ensure assignments align with the correct mission."
       },
       {
         "id": "b",
@@ -565,17 +597,19 @@
         "label": "Ask team members to decide individually which mission they prefer to follow."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Reduce communication about mission to avoid confusion."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because clarifying which mission applies to which work helps people focus and make consistent decisions. Option b is incorrect because assuming a single mission across projects may not reflect reality. Option c is incorrect because personal preference cannot override project boundaries. Option d is incorrect because less communication increases misunderstanding.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because clarifying which mission applies to which work helps people focus and make consistent decisions. Option b is incorrect because assuming a single mission across projects may not reflect reality. Option c is incorrect because personal preference cannot override project boundaries. Option a is incorrect because less communication increases misunderstanding.",
     "difficulty": "medium",
     "topics": [
       "multi-project context",
       "mission clarity"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-018",
@@ -584,10 +618,10 @@
     "enablerIds": [
       "e-people-2-1"
     ],
-    "text": "During a town hall, a leader describes the organizational mission in terms that differ slightly from the project’s mission. Team members are confused. What should the project manager do?",
+    "text": "During a town hall, a leader describes the organizational mission in terms that differ slightly from the project's mission. Team members are confused. What should the project manager do?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Clarify how the project mission supports the broader organizational mission and adjust wording if needed for consistency."
       },
       {
@@ -599,17 +633,19 @@
         "label": "Change the project mission immediately without consulting sponsors."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Tell the team to focus only on the organizational mission and forget the project mission."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because positioning the project mission as a specific expression of the organizational mission resolves confusion. Option b is incorrect because ignoring differences can create doubt. Option c is incorrect because unilateral changes without sponsor input may misrepresent intent. Option d is incorrect because discarding the project mission removes needed focus.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because positioning the project mission as a specific expression of the organizational mission resolves confusion. Option b is incorrect because ignoring differences can create doubt. Option c is incorrect because unilateral changes without sponsor input may misrepresent intent. Option a is incorrect because discarding the project mission removes needed focus.",
     "difficulty": "hard",
     "topics": [
       "organizational vs project mission",
       "alignment"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-019",
@@ -643,7 +679,9 @@
     "topics": [
       "user stories",
       "mission framing"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-020",
@@ -677,7 +715,9 @@
     "topics": [
       "portfolio trade-offs",
       "mission justification"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-021",
@@ -711,7 +751,9 @@
     "topics": [
       "multi-partner alignment",
       "mission focus"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-022",
@@ -720,7 +762,7 @@
     "enablerIds": [
       "e-people-2-1"
     ],
-    "text": "A mid-level manager challenges the team’s mission as being \"too ambitious\" for the available time. What should the project manager do?",
+    "text": "A mid-level manager challenges the team's mission as being \"too ambitious\" for the available time. What should the project manager do?",
     "options": [
       {
         "id": "a",
@@ -745,7 +787,9 @@
     "topics": [
       "feasibility",
       "mission and scope"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-023",
@@ -758,15 +802,15 @@
     "options": [
       {
         "id": "a",
-        "label": "Align with the other team’s leadership to clarify boundaries and ensure both missions complement rather than conflict with each other."
+        "label": "Align with the other team's leadership to clarify boundaries and ensure both missions complement rather than conflict with each other."
       },
       {
         "id": "b",
-        "label": "Tell your team to ignore the other team’s mission completely."
+        "label": "Tell your team to ignore the other team's mission completely."
       },
       {
         "id": "c",
-        "label": "Adopt the other team’s mission without consulting sponsors."
+        "label": "Adopt the other team's mission without consulting sponsors."
       },
       {
         "id": "d",
@@ -779,7 +823,9 @@
     "topics": [
       "cross-team alignment",
       "mission coordination"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-024",
@@ -788,7 +834,7 @@
     "enablerIds": [
       "e-people-2-1"
     ],
-    "text": "Team members suggest a new opportunity that would significantly expand the project’s mission. What is the best first step for the project manager?",
+    "text": "Team members suggest a new opportunity that would significantly expand the project's mission. What is the best first step for the project manager?",
     "options": [
       {
         "id": "a",
@@ -813,7 +859,9 @@
     "topics": [
       "mission expansion",
       "benefits analysis"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-1-025",
@@ -822,7 +870,7 @@
     "enablerIds": [
       "e-people-2-1"
     ],
-    "text": "After a major pivot, some long-standing team members feel the project’s mission no longer matches why they joined. How should the project manager respond?",
+    "text": "After a major pivot, some long-standing team members feel the project's mission no longer matches why they joined. How should the project manager respond?",
     "options": [
       {
         "id": "a",
@@ -847,6 +895,8 @@
     "topics": [
       "mission pivot",
       "change leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   }
 ]

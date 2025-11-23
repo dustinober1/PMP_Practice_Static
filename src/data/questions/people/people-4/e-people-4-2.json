@@ -3,7 +3,9 @@
     "id": "q-people-4-2-001",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "A key deliverable is behind schedule because tasks are started but not finished. What is the best first action for the project manager to support team task accountability?",
     "options": [
       {
@@ -26,13 +28,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because clear ownership and completion criteria are foundational for accountability. Option b is incorrect because centralizing work undermines team ownership. Option c is incorrect because changing dates without addressing causes will not fix accountability issues. Option d is incorrect because bypassing the team reduces engagement.",
     "difficulty": "easy",
-    "topics": ["ownership", "completion criteria"]
+    "topics": [
+      "ownership",
+      "completion criteria"
+    ]
   },
   {
     "id": "q-people-4-2-002",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "During standups, team members report vague progress such as \"working on it\" for several days. How can the project manager best support task accountability?",
     "options": [
       {
@@ -55,13 +62,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because prompting for concrete progress and blockers reinforces accountability and transparency. Option b is incorrect because vague updates hide risk. Option c is incorrect because removing standups can reduce coordination. Option d is incorrect because one spokesperson limits individual accountability.",
     "difficulty": "easy",
-    "topics": ["standups", "progress clarity"]
+    "topics": [
+      "standups",
+      "progress clarity"
+    ]
   },
   {
     "id": "q-people-4-2-003",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "A team member frequently takes on new work without finishing existing tasks. This creates bottlenecks. What should the project manager do to reinforce task accountability?",
     "options": [
       {
@@ -84,13 +96,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because setting expectations around limiting work and finishing tasks supports accountability and flow. Option b is incorrect because ignoring the issue will perpetuate it. Option c is incorrect because silently reassigning work may cause resentment. Option d is incorrect because hiding tasks reduces transparency.",
     "difficulty": "medium",
-    "topics": ["WIP limits", "task completion"]
+    "topics": [
+      "WIP limits",
+      "task completion"
+    ]
   },
   {
     "id": "q-people-4-2-004",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "The team agreed on a definition of done, but some members mark tasks as done without meeting all criteria. How can the project manager best support task accountability?",
     "options": [
       {
@@ -113,13 +130,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because common standards and shared understanding are central to accountability. Option b is incorrect because inconsistent definitions lead to quality issues. Option c is incorrect because removing standards reduces clarity. Option d is incorrect because closing tasks prematurely hides work and risk.",
     "difficulty": "medium",
-    "topics": ["definition of done", "quality accountability"]
+    "topics": [
+      "definition of done",
+      "quality accountability"
+    ]
   },
   {
     "id": "q-people-4-2-005",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "Several tasks were assigned verbally and later forgotten, leading to missed dependencies. What should the project manager do to reinforce task accountability?",
     "options": [
       {
@@ -142,13 +164,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because a shared, visible task system with owners and dates supports accountability and coordination. Option b is incorrect because verbal tasks are easily forgotten. Option c is incorrect because emails are dispersed and hard to track. Option d is incorrect because private tracking reduces transparency.",
     "difficulty": "easy",
-    "topics": ["task tracking", "visibility"]
+    "topics": [
+      "task tracking",
+      "visibility"
+    ]
   },
   {
     "id": "q-people-4-2-006",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "Two team members jointly own an integration task. Each assumes the other will handle risk mitigation activities, and none are done. How should the project manager address accountability?",
     "options": [
       {
@@ -171,13 +198,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because breaking down responsibilities within shared tasks restores clear accountability. Option b is incorrect because it undermines responsibility. Option c is incorrect because taking over may not be sustainable. Option d is incorrect because unmitigated risks can harm the project.",
     "difficulty": "medium",
-    "topics": ["shared ownership", "responsibility clarity"]
+    "topics": [
+      "shared ownership",
+      "responsibility clarity"
+    ]
   },
   {
     "id": "q-people-4-2-007",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "A senior team member repeatedly fails to update the status of tasks, making project reporting inaccurate. What should the project manager do to support accountability?",
     "options": [
       {
@@ -200,13 +232,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because direct dialogue and clear expectations are necessary to align behavior with accountability needs, even for senior staff. Option b is incorrect because silently correcting issues hides the problem. Option c is incorrect because abandoning tracking reduces control. Option d is incorrect because shifting responsibility without addressing the root cause is unfair.",
     "difficulty": "hard",
-    "topics": ["status updates", "senior accountability"]
+    "topics": [
+      "status updates",
+      "senior accountability"
+    ]
   },
   {
     "id": "q-people-4-2-008",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "The team has a kanban board, but cards often move directly from \"in progress\" to \"done\" without code review. What step can the project manager take to support task accountability for quality checks?",
     "options": [
       {
@@ -229,13 +266,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because making review steps visible and required strengthens accountability for quality. Option b is incorrect because informal practices may be inconsistent. Option c is incorrect because less visibility reduces control. Option d is incorrect because compilation alone does not ensure quality.",
     "difficulty": "medium",
-    "topics": ["kanban", "quality gates"]
+    "topics": [
+      "kanban",
+      "quality gates"
+    ]
   },
   {
     "id": "q-people-4-2-009",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "When issues arise, team members often say \"someone\" will handle them, but no one follows up. What should the project manager do to support accountability for these tasks?",
     "options": [
       {
@@ -258,13 +300,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because clear ownership, dates, and visibility are essential for accountability on issues. Option b is incorrect because anonymous ownership leads to inaction. Option c is incorrect because assumptions about ownership can fail. Option d is incorrect because many issues need active resolution.",
     "difficulty": "easy",
-    "topics": ["issue ownership", "tracking"]
+    "topics": [
+      "issue ownership",
+      "tracking"
+    ]
   },
   {
     "id": "q-people-4-2-010",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "A distributed team across time zones struggles to hand off work. Tasks are frequently left without clear next owners overnight. How can the project manager support task accountability in this context?",
     "options": [
       {
@@ -287,13 +334,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because clear handoff procedures and ownership support accountability across time zones. Option b is incorrect because informal handoffs lead to gaps. Option c is incorrect because it underuses global capacity. Option d is incorrect because avoiding cross-zone work limits flexibility.",
     "difficulty": "hard",
-    "topics": ["time zones", "handoffs"]
+    "topics": [
+      "time zones",
+      "handoffs"
+    ]
   },
   {
     "id": "q-people-4-2-011",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "The sponsor has requested more transparency on who is responsible for each milestone. Currently, only the project manager's plan lists owners. What should the project manager do to support accountability?",
     "options": [
       {
@@ -316,13 +368,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because shared visibility of responsibilities reinforces accountability and aligns expectations. Option b is incorrect because hidden ownership reduces transparency. Option c is incorrect because milestones often require distributed ownership. Option d is incorrect because top-down assignment alone may not reflect actual capabilities.",
     "difficulty": "medium",
-    "topics": ["milestone ownership", "transparency"]
+    "topics": [
+      "milestone ownership",
+      "transparency"
+    ]
   },
   {
     "id": "q-people-4-2-012",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "In retrospectives, the same people always volunteer for action items, while others remain silent. This creates uneven accountability. How should the project manager respond?",
     "options": [
       {
@@ -345,13 +402,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because expanding ownership and aligning actions with capabilities balances accountability and avoids overloading a few people. Option b is incorrect because over-reliance on volunteers can lead to burnout. Option c is incorrect because random assignment may reduce quality. Option d is incorrect because unowned actions are likely to be ignored.",
     "difficulty": "medium",
-    "topics": ["action items", "shared accountability"]
+    "topics": [
+      "action items",
+      "shared accountability"
+    ]
   },
   {
     "id": "q-people-4-2-013",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "A team member missed a critical deadline but cites unclear priorities as the reason. How can the project manager adjust processes to better support task accountability?",
     "options": [
       {
@@ -374,13 +436,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because clear, shared prioritization enables accountable decisions about where to focus effort. Option b is incorrect because informal assignment without priority leads to confusion. Option c is incorrect because claiming equal importance prevents effective choices. Option d is incorrect because unaligned priorities can conflict.",
     "difficulty": "easy",
-    "topics": ["prioritization", "deadlines"]
+    "topics": [
+      "prioritization",
+      "deadlines"
+    ]
   },
   {
     "id": "q-people-4-2-014",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "The team uses story points, but some members commit to more work than they can complete, repeatedly spilling tasks into the next iteration. What should the project manager do to support accountability for commitments?",
     "options": [
       {
@@ -403,13 +470,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because using historical data to guide realistic commitments reinforces team-level accountability. Option b is incorrect because focusing on individuals alone may ignore systemic issues. Option c is incorrect because losing velocity tracking removes a useful planning tool. Option d is incorrect because external quotas may ignore capacity.",
     "difficulty": "medium",
-    "topics": ["velocity", "sprint commitments"]
+    "topics": [
+      "velocity",
+      "sprint commitments"
+    ]
   },
   {
     "id": "q-people-4-2-015",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "There is confusion between accountable and consulted roles on a RACI matrix. Tasks slip because people assume others are responsible. How should the project manager strengthen accountability?",
     "options": [
       {
@@ -432,13 +504,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because clearly defining a single accountable owner per task reduces ambiguity. Option b is incorrect because multiple accountables dilute responsibility. Option c is incorrect because removing clarity tools may worsen confusion. Option d is incorrect because generic team accountability often becomes no one's responsibility.",
     "difficulty": "hard",
-    "topics": ["RACI", "role clarity"]
+    "topics": [
+      "RACI",
+      "role clarity"
+    ]
   },
   {
     "id": "q-people-4-2-016",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "A team member regularly delivers high-quality work but rarely communicates delays until the due date. How can the project manager support better accountability for communicating status?",
     "options": [
       {
@@ -461,13 +538,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because accountability includes timely communication of risks and issues. Option b is incorrect because surprises reduce the ability to respond. Option c is incorrect because abandoning a strong performer may not fix the underlying behavior. Option d is incorrect because waiting for sponsor prompts is reactive.",
     "difficulty": "medium",
-    "topics": ["status communication", "early escalation"]
+    "topics": [
+      "status communication",
+      "early escalation"
+    ]
   },
   {
     "id": "q-people-4-2-017",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "Some team members feel that accountability is used to assign blame rather than support success. What should the project manager do to reposition accountability constructively?",
     "options": [
       {
@@ -490,13 +572,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because reframing accountability as supportive and improvement-focused builds trust. Option b is incorrect because removing the concept does not solve ownership issues. Option c is incorrect because blame-focused approaches damage morale. Option d is incorrect because outsourcing accountability conversations may reduce effectiveness.",
     "difficulty": "hard",
-    "topics": ["psychological safety", "supportive accountability"]
+    "topics": [
+      "psychological safety",
+      "supportive accountability"
+    ]
   },
   {
     "id": "q-people-4-2-018",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "The project manager notices that tasks involving external approvals often stall. No one tracks their status. How can accountability be strengthened for these tasks?",
     "options": [
       {
@@ -519,13 +606,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because named owners and scheduled reviews support accountability for dependency management. Option b is incorrect because approvals often require active follow-up. Option c is incorrect because generic labels obscure responsibility. Option d is incorrect because overloading the sponsor is not appropriate.",
     "difficulty": "medium",
-    "topics": ["external approvals", "dependency accountability"]
+    "topics": [
+      "external approvals",
+      "dependency accountability"
+    ]
   },
   {
     "id": "q-people-4-2-019",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "A complex task spans multiple sprints. The owner changes due to rotations, and important context is lost. How should the project manager support accountability during these transitions?",
     "options": [
       {
@@ -548,13 +640,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because structured handovers maintain accountability and context when ownership changes. Option b is incorrect because informal transitions lose information. Option c is incorrect because fixed ownership may conflict with rotation needs. Option d is incorrect because concentrating ownership can overload individuals.",
     "difficulty": "hard",
-    "topics": ["handover", "long-running tasks"]
+    "topics": [
+      "handover",
+      "long-running tasks"
+    ]
   },
   {
     "id": "q-people-4-2-020",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "The project manager wants to periodically assess how well the team is meeting commitments. What is the best practice to support accountability while doing this?",
     "options": [
       {
@@ -577,13 +674,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because regular, transparent reviews of commitments support learning and future accountability. Option b is incorrect because delayed feedback reduces effectiveness. Option c is incorrect because team-level commitments matter. Option d is incorrect because avoiding issues hinder improvement.",
     "difficulty": "easy",
-    "topics": ["iteration review", "commitment tracking"]
+    "topics": [
+      "iteration review",
+      "commitment tracking"
+    ]
   },
   {
     "id": "q-people-4-2-021",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "A critical path task depends on input from several stakeholders. The team is unclear who is accountable for coordinating the inputs. How should the project manager address this?",
     "options": [
       {
@@ -606,13 +708,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because clear coordination ownership is needed when multiple stakeholders contribute to a critical task. Option b is incorrect because unmanaged dependencies are risky. Option c is incorrect because collective ownership without a lead can lead to diffusion of responsibility. Option d is incorrect because relying on hope is not sound management.",
     "difficulty": "hard",
-    "topics": ["critical path", "coordination accountability"]
+    "topics": [
+      "critical path",
+      "coordination accountability"
+    ]
   },
   {
     "id": "q-people-4-2-022",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "Some team members feel micromanaged when the project manager frequently checks on task status. How can the project manager support accountability while reducing this perception?",
     "options": [
       {
@@ -635,13 +742,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because mutually agreed update practices can reinforce accountability without micromanagement. Option b is incorrect because lack of visibility can hide issues. Option c is incorrect because more intrusive checks may increase frustration. Option d is incorrect because direct senior checks may feel even more controlling.",
     "difficulty": "medium",
-    "topics": ["autonomy", "status cadence"]
+    "topics": [
+      "autonomy",
+      "status cadence"
+    ]
   },
   {
     "id": "q-people-4-2-023",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "The project manager wants to ensure that accountability also includes learning from missed commitments. What is the best way to incorporate this into team practices?",
     "options": [
       {
@@ -664,13 +776,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because constructive reviews help the team learn and adjust, making accountability developmental rather than punitive. Option b is incorrect because hidden logs do not promote learning. Option c is incorrect because blaming individuals alone may overlook process issues. Option d is incorrect because unaddressed misses can accumulate.",
     "difficulty": "medium",
-    "topics": ["learning review", "missed commitments"]
+    "topics": [
+      "learning review",
+      "missed commitments"
+    ]
   },
   {
     "id": "q-people-4-2-024",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "At project closeout, the project manager wants to demonstrate that task accountability contributed to success. What evidence best supports this?",
     "options": [
       {
@@ -693,13 +810,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because clear ownership, fulfillment of commitments, and issue resolution show that accountability mechanisms worked. Option b is incorrect because unfinished tasks signal problems. Option c is incorrect because few recorded tasks may indicate poor tracking. Option d is incorrect because perceptions without data are incomplete.",
     "difficulty": "easy",
-    "topics": ["evidence of accountability", "closure"]
+    "topics": [
+      "evidence of accountability",
+      "closure"
+    ]
   },
   {
     "id": "q-people-4-2-025",
     "domainId": "people",
     "taskId": "people-4",
-    "enablerIds": ["e-people-4-2"],
+    "enablerIds": [
+      "e-people-4-2"
+    ],
     "text": "The team is about to start a complex phase with many interdependent tasks. What proactive step should the project manager take to support accountability from the beginning?",
     "options": [
       {
@@ -722,7 +844,9 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct because early clarity on ownership, criteria, and checkpoints sets a solid foundation for accountability. Option b is incorrect because informal emergence can be chaotic. Option c is incorrect because it overloads the manager. Option d is incorrect because late ownership limits control.",
     "difficulty": "medium",
-    "topics": ["proactive planning", "complex phase"]
+    "topics": [
+      "proactive planning",
+      "complex phase"
+    ]
   }
 ]
-

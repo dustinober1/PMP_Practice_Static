@@ -9,11 +9,11 @@
     "text": "A team member with a different communication style is often interrupted in meetings. What should the project manager do to support diversity and inclusion?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Establish meeting norms that ensure equal speaking opportunities and actively invite quieter voices."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Ask the team member to adapt completely to the dominant style."
       },
       {
@@ -25,13 +25,15 @@
         "label": "Stop inviting the team member to meetings."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because inclusive norms and facilitation techniques help different styles contribute fully. Option b is incorrect because forcing full conformity devalues diversity. Option c is incorrect because ignoring interruptions normalizes exclusion. Option d is incorrect because excluding the person removes their perspective entirely.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because inclusive norms and facilitation techniques help different styles contribute fully. Option a is incorrect because forcing full conformity devalues diversity. Option c is incorrect because ignoring interruptions normalizes exclusion. Option d is incorrect because excluding the person removes their perspective entirely.",
     "difficulty": "easy",
     "topics": [
       "inclusion",
       "meeting facilitation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-002",
@@ -43,11 +45,11 @@
     "text": "Team members from different backgrounds disagree about how decisions should be made. How can the project manager demonstrate inclusive leadership?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Co-create a decision-making approach that balances participation with clear accountability."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Impose a decision style without seeking input to save time."
       },
       {
@@ -59,13 +61,15 @@
         "label": "Defer all decisions to the sponsor to avoid conflict."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because co-designing decision rules respects diverse expectations while providing clarity. Option b is incorrect because unilateral imposition reduces inclusion. Option c is incorrect because inconsistent rules create confusion. Option d is incorrect because delegating everything upward reduces empowerment and slows decisions.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because co-designing decision rules respects diverse expectations while providing clarity. Option a is incorrect because unilateral imposition reduces inclusion. Option c is incorrect because inconsistent rules create confusion. Option d is incorrect because delegating everything upward reduces empowerment and slows decisions.",
     "difficulty": "medium",
     "topics": [
       "inclusive leadership",
       "decision norms"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-003",
@@ -77,11 +81,11 @@
     "text": "A stakeholder makes a comment that some team members experience as biased. What is the best action for the project manager to support an inclusive environment?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Address the comment respectfully, reinforce team values, and follow up with impacted individuals."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Ignore the comment to avoid discomfort."
       },
       {
@@ -93,13 +97,15 @@
         "label": "Tell the team to be less sensitive and move on."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because directly addressing bias while supporting those affected demonstrates inclusive leadership. Option b is incorrect because silence signals acceptance. Option c is incorrect because public shaming can escalate conflict and limit constructive dialogue. Option d is incorrect because dismissing concerns undermines psychological safety.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because directly addressing bias while supporting those affected demonstrates inclusive leadership. Option a is incorrect because silence signals acceptance. Option c is incorrect because public shaming can escalate conflict and limit constructive dialogue. Option d is incorrect because dismissing concerns undermines psychological safety.",
     "difficulty": "hard",
     "topics": [
       "bias",
       "psychological safety"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-004",
@@ -111,11 +117,11 @@
     "text": "Some team members feel their ideas are overlooked because they work in a different location than headquarters. How should the project manager respond?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Intentionally rotate who presents work, include remote contributions in showcases, and highlight diverse wins."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Ask remote members to accept that visibility is lower by default."
       },
       {
@@ -127,13 +133,15 @@
         "label": "Require that all decisions be made only by headquarters staff."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because creating fair visibility and recognition across locations supports inclusion. Option b is incorrect because accepting lower visibility institutionalizes inequity. Option c is incorrect because excluding headquarters harms collaboration. Option d is incorrect because centralizing power increases imbalance.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because creating fair visibility and recognition across locations supports inclusion. Option a is incorrect because accepting lower visibility institutionalizes inequity. Option c is incorrect because excluding headquarters harms collaboration. Option d is incorrect because centralizing power increases imbalance.",
     "difficulty": "medium",
     "topics": [
       "distributed inclusion",
       "recognition"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-005",
@@ -145,11 +153,11 @@
     "text": "The team composition is becoming more diverse, and some norms are outdated. How can the project manager proactively support diversity and inclusion?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Review ground rules with the team, invite feedback from different perspectives, and update norms together."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Keep the original norms because change may cause confusion."
       },
       {
@@ -161,13 +169,15 @@
         "label": "Avoid discussing norms to keep meetings shorter."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because revisiting norms with input from everyone ensures they reflect current team diversity. Option b is incorrect because outdated norms may exclude new members. Option c is incorrect because separate norms fragment the team. Option d is incorrect because avoiding the topic misses an opportunity to improve inclusion.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because revisiting norms with input from everyone ensures they reflect current team diversity. Option a is incorrect because outdated norms may exclude new members. Option c is incorrect because separate norms fragment the team. Option d is incorrect because avoiding the topic misses an opportunity to improve inclusion.",
     "difficulty": "easy",
     "topics": [
       "team norms",
       "diversity"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-006",
@@ -179,11 +189,11 @@
     "text": "A new team member with a disability says the current workspace setup makes participation difficult. What is the best way for the project manager to support diversity and inclusion?",
     "options": [
       {
-        "id": "a",
+        "id": "b",
         "label": "Ask what adjustments would help and coordinate reasonable accommodations with relevant stakeholders."
       },
       {
-        "id": "b",
+        "id": "a",
         "label": "Explain that everyone must adapt to the existing environment to be fair."
       },
       {
@@ -195,13 +205,15 @@
         "label": "Ignore the concern and continue with current arrangements without changes."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because proactively exploring and implementing reasonable accommodations demonstrates genuine inclusion. Option b is incorrect because treating unequal needs identically can perpetuate barriers. Option c is incorrect because excluding the person from the shared space reduces inclusion rather than addressing access. Option d is incorrect because ignoring an expressed need undermines trust and belonging.",
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because proactively exploring and implementing reasonable accommodations demonstrates genuine inclusion. Option a is incorrect because treating unequal needs identically can perpetuate barriers. Option c is incorrect because excluding the person from the shared space reduces inclusion rather than addressing access. Option d is incorrect because ignoring an expressed need undermines trust and belonging.",
     "difficulty": "medium",
     "topics": [
       "accommodations",
       "inclusive environment"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-007",
@@ -213,7 +225,7 @@
     "text": "Some team members speak a second language and hesitate to contribute in large meetings. How can the project manager promote inclusion?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Use smaller breakout discussions, provide written summaries, and explicitly invite input in ways that reduce pressure."
       },
       {
@@ -221,7 +233,7 @@
         "label": "Require all team members to speak only in highly technical jargon."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Discourage non-native speakers from presenting to avoid slowing meetings."
       },
       {
@@ -229,13 +241,15 @@
         "label": "Rely solely on the most fluent speakers for all discussions."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because multiple avenues for contribution and smaller groups make it easier for non-native speakers to participate fully. Option b is incorrect because heavy jargon increases exclusion. Option c is incorrect because limiting participation reduces inclusion and development opportunities. Option d is incorrect because relying only on fluent speakers suppresses diverse perspectives.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because multiple avenues for contribution and smaller groups make it easier for non-native speakers to participate fully. Option b is incorrect because heavy jargon increases exclusion. Option a is incorrect because limiting participation reduces inclusion and development opportunities. Option d is incorrect because relying only on fluent speakers suppresses diverse perspectives.",
     "difficulty": "medium",
     "topics": [
       "language diversity",
       "meeting design"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-008",
@@ -247,7 +261,7 @@
     "text": "A recurring social event is always scheduled at a time that excludes team members in another time zone. What should the project manager do?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Rotate times or design inclusive activities that different time zones can join fairly."
       },
       {
@@ -255,7 +269,7 @@
         "label": "Keep the existing time because changing it would be inconvenient."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Cancel all social events to avoid the appearance of exclusion."
       },
       {
@@ -263,13 +277,15 @@
         "label": "Suggest that excluded members watch recordings later if they want to feel included."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because rotating or redesigning social events shows that inclusion extends beyond formal meetings. Option b is incorrect because prioritizing convenience over fairness reinforces exclusion. Option c is incorrect because eliminating events removes opportunities for connection instead of making them more inclusive. Option d is incorrect because recordings of social events do not create genuine participation.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because rotating or redesigning social events shows that inclusion extends beyond formal meetings. Option b is incorrect because prioritizing convenience over fairness reinforces exclusion. Option a is incorrect because eliminating events removes opportunities for connection instead of making them more inclusive. Option d is incorrect because recordings of social events do not create genuine participation.",
     "difficulty": "easy",
     "topics": [
       "distributed inclusion",
       "team culture"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-009",
@@ -281,7 +297,7 @@
     "text": "A senior engineer frequently dominates discussions, and others stop sharing ideas. How can the project manager support inclusive participation?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Set expectations for balanced participation and use facilitation techniques that limit speaking time and invite other voices."
       },
       {
@@ -289,7 +305,7 @@
         "label": "Let the senior engineer continue because they have the most experience."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Ask quieter team members to speak only in one-on-one meetings."
       },
       {
@@ -297,13 +313,15 @@
         "label": "Stop holding group discussions and rely solely on written updates."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because clear expectations and structured facilitation promote balanced input and psychological safety. Option b is incorrect because over-reliance on one voice limits diversity of thought. Option c is incorrect because relegating others to private conversations restricts collaborative problem solving. Option d is incorrect because eliminating discussions reduces real-time shared understanding.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because clear expectations and structured facilitation promote balanced input and psychological safety. Option b is incorrect because over-reliance on one voice limits diversity of thought. Option a is incorrect because relegating others to private conversations restricts collaborative problem solving. Option d is incorrect because eliminating discussions reduces real-time shared understanding.",
     "difficulty": "medium",
     "topics": [
       "dominant voices",
       "facilitation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-010",
@@ -315,7 +333,7 @@
     "text": "A team member shares that holiday celebrations on the project do not reflect their culture. What is the most inclusive response from the project manager?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Invite input on how to recognize a broader range of occasions and adjust celebrations collaboratively."
       },
       {
@@ -323,7 +341,7 @@
         "label": "Explain that the current holidays are standard and cannot be changed."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Ask the team member to organize their own separate celebration."
       },
       {
@@ -331,13 +349,15 @@
         "label": "Stop all celebrations to avoid discussing cultural differences."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because co-creating inclusive ways to recognize events shows respect for diverse cultural backgrounds. Option b is incorrect because treating existing practices as fixed discourages inclusion. Option c is incorrect because placing the burden entirely on the individual can feel isolating. Option d is incorrect because removing celebrations avoids the issue instead of improving it.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because co-creating inclusive ways to recognize events shows respect for diverse cultural backgrounds. Option b is incorrect because treating existing practices as fixed discourages inclusion. Option a is incorrect because placing the burden entirely on the individual can feel isolating. Option d is incorrect because removing celebrations avoids the issue instead of improving it.",
     "difficulty": "medium",
     "topics": [
       "cultural inclusion",
       "team rituals"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-011",
@@ -349,7 +369,7 @@
     "text": "Performance feedback data shows that certain demographic groups are consistently rated lower despite similar outcomes. What should the project manager do in the project context?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Raise the pattern with relevant leaders, review criteria with the team, and support bias-aware calibration discussions."
       },
       {
@@ -357,7 +377,7 @@
         "label": "Assume the data is coincidental and continue as usual."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Share the raw data publicly without context and let people draw conclusions."
       },
       {
@@ -365,13 +385,15 @@
         "label": "Stop collecting any performance information to avoid sensitive issues."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because surfacing patterns and clarifying criteria supports fair evaluation while involving the right stakeholders. Option b is incorrect because ignoring potential systemic bias is irresponsible. Option c is incorrect because sharing sensitive data without facilitation can create defensiveness. Option d is incorrect because abandoning measurement eliminates insights needed for equity.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because surfacing patterns and clarifying criteria supports fair evaluation while involving the right stakeholders. Option b is incorrect because ignoring potential systemic bias is irresponsible. Option a is incorrect because sharing sensitive data without facilitation can create defensiveness. Option d is incorrect because abandoning measurement eliminates insights needed for equity.",
     "difficulty": "hard",
     "topics": [
       "bias in evaluation",
       "fairness"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-012",
@@ -383,7 +405,7 @@
     "text": "Hiring for the project tends to favor candidates with similar backgrounds to the current team. What can the project manager do to support diversity?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "Advocate for diverse candidate slates and participate in interviews that focus on skills and potential rather than similarity."
       },
       {
@@ -391,7 +413,7 @@
         "label": "Leave all hiring decisions unquestioned because they are outside the project scope."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "Ask the team to recommend only friends from their existing networks."
       },
       {
@@ -399,13 +421,15 @@
         "label": "Avoid participating in interviews to remain neutral."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because encouraging varied candidate pools and objective criteria supports a more diverse team. Option b is incorrect because project leaders can constructively influence hiring practices. Option c is incorrect because relying solely on homogenous networks reinforces sameness. Option d is incorrect because non-participation forfeits a chance to support inclusive practices.",
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because encouraging varied candidate pools and objective criteria supports a more diverse team. Option b is incorrect because project leaders can constructively influence hiring practices. Option a is incorrect because relying solely on homogenous networks reinforces sameness. Option d is incorrect because non-participation forfeits a chance to support inclusive practices.",
     "difficulty": "hard",
     "topics": [
       "hiring diversity",
       "inclusive practices"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-013",
@@ -417,7 +441,7 @@
     "text": "New joiners notice that leadership roles on the project are held mostly by people from one background. How can the project manager respond constructively?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Acknowledge the observation, discuss development pathways, and encourage fair consideration of diverse candidates for future leadership roles."
       },
       {
@@ -429,17 +453,19 @@
         "label": "Discourage further discussion about leadership diversity to avoid discomfort."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Explain that leadership roles are fixed and will not change."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because transparency and proactive development support more inclusive leadership over time. Option b is incorrect because representation can influence perceptions of fairness and belonging. Option c is incorrect because silencing discussion reduces trust. Option d is incorrect because declaring roles fixed closes the door on progress.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because transparency and proactive development support more inclusive leadership over time. Option b is incorrect because representation can influence perceptions of fairness and belonging. Option c is incorrect because silencing discussion reduces trust. Option a is incorrect because declaring roles fixed closes the door on progress.",
     "difficulty": "hard",
     "topics": [
       "representation",
       "inclusive leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-014",
@@ -451,7 +477,7 @@
     "text": "Feedback from a survey indicates that some team members do not feel safe speaking up. Which action best supports an inclusive culture?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Share the results, invite anonymous and live feedback, and co-create actions to improve psychological safety."
       },
       {
@@ -463,17 +489,19 @@
         "label": "Question the validity of the survey and dismiss the results."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Tell team members to be more resilient and adapt."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because acknowledging concerns and involving the team in solutions builds trust and ownership. Option b is incorrect because hiding results suggests that leadership does not care. Option c is incorrect because dismissing feedback undermines future honesty. Option d is incorrect because placing responsibility solely on individuals ignores environmental factors.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because acknowledging concerns and involving the team in solutions builds trust and ownership. Option b is incorrect because hiding results suggests that leadership does not care. Option c is incorrect because dismissing feedback undermines future honesty. Option a is incorrect because placing responsibility solely on individuals ignores environmental factors.",
     "difficulty": "medium",
     "topics": [
       "psychological safety",
       "surveys"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-015",
@@ -485,29 +513,31 @@
     "text": "Two team members from different cultures disagree about what is considered respectful communication. What is the best inclusive action?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Facilitate a discussion where each explains their expectations and agree on shared communication norms."
       },
       {
         "id": "b",
-        "label": "Tell both to ignore their preferences and follow the project manager’s personal style."
+        "label": "Tell both to ignore their preferences and follow the project manager's personal style."
       },
       {
         "id": "c",
         "label": "Avoid addressing the disagreement and hope it fades."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Assign them to separate teams permanently to reduce interaction."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because mutual understanding and agreed norms respect both perspectives and support ongoing collaboration. Option b is incorrect because imposing a single style disregards cultural differences. Option c is incorrect because unresolved misunderstandings can resurface. Option d is incorrect because separating people avoids learning and may not be feasible.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because mutual understanding and agreed norms respect both perspectives and support ongoing collaboration. Option b is incorrect because imposing a single style disregards cultural differences. Option c is incorrect because unresolved misunderstandings can resurface. Option a is incorrect because separating people avoids learning and may not be feasible.",
     "difficulty": "medium",
     "topics": [
       "cross-cultural communication",
       "norm setting"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-016",
@@ -519,7 +549,7 @@
     "text": "A project document uses terms that some team members find exclusive or outdated. How should the project manager respond?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Review and update the language with the team to ensure it reflects inclusive, current terminology."
       },
       {
@@ -531,17 +561,19 @@
         "label": "Ask team members not to focus on wording as long as the content is technically correct."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Delete the document without replacement to avoid complaints."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because updating language signals respect and inclusion. Option b is incorrect because tradition alone does not justify exclusionary terms. Option c is incorrect because dismissing concerns minimizes their impact. Option d is incorrect because removing documentation entirely harms clarity.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because updating language signals respect and inclusion. Option b is incorrect because tradition alone does not justify exclusionary terms. Option c is incorrect because dismissing concerns minimizes their impact. Option a is incorrect because removing documentation entirely harms clarity.",
     "difficulty": "easy",
     "topics": [
       "inclusive language",
       "documentation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-017",
@@ -553,7 +585,7 @@
     "text": "Some team members feel that only people from certain roles are invited to important discussions. What inclusive step should the project manager take?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Clarify criteria for participation, broaden invitations where appropriate, and create channels for others to contribute input."
       },
       {
@@ -565,17 +597,19 @@
         "label": "Tell concerned members that key discussions are reserved for leaders only."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Stop holding discussions and make all decisions via email."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because transparent criteria and expanded input opportunities improve fairness and engagement. Option b is incorrect because shrinking invitations without clarity may worsen perceptions. Option c is incorrect because restricting participation exacerbates exclusion. Option d is incorrect because eliminating discussions reduces collaboration.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because transparent criteria and expanded input opportunities improve fairness and engagement. Option b is incorrect because shrinking invitations without clarity may worsen perceptions. Option c is incorrect because restricting participation exacerbates exclusion. Option a is incorrect because eliminating discussions reduces collaboration.",
     "difficulty": "medium",
     "topics": [
       "participation",
       "decision inclusion"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-018",
@@ -587,7 +621,7 @@
     "text": "A mentoring program pairs only senior employees from one region with juniors from the same region. How can the project manager champion more inclusive development opportunities?",
     "options": [
       {
-        "id": "a",
+        "id": "d",
         "label": "Propose expanding mentoring across regions and backgrounds to expose people to diverse perspectives."
       },
       {
@@ -599,17 +633,19 @@
         "label": "Recommend cancelling mentoring to keep assignments simple."
       },
       {
-        "id": "d",
+        "id": "a",
         "label": "Suggest that mentoring remain informal without any structure."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Option a is correct because cross-group mentoring broadens perspectives and opportunities. Option b is incorrect because convenience is not a strong justification for homogeneity. Option c is incorrect because removing mentoring eliminates benefits instead of improving equity. Option d is incorrect because unstructured mentoring may reinforce existing patterns.",
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because cross-group mentoring broadens perspectives and opportunities. Option b is incorrect because convenience is not a strong justification for homogeneity. Option c is incorrect because removing mentoring eliminates benefits instead of improving equity. Option a is incorrect because unstructured mentoring may reinforce existing patterns.",
     "difficulty": "hard",
     "topics": [
       "mentoring",
       "diverse development"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-019",
@@ -622,7 +658,7 @@
     "options": [
       {
         "id": "a",
-        "label": "Introduce facilitation techniques such as round-robin or silent brainstorming to ensure everyone’s ideas are captured and considered."
+        "label": "Introduce facilitation techniques such as round-robin or silent brainstorming to ensure everyone's ideas are captured and considered."
       },
       {
         "id": "b",
@@ -643,7 +679,9 @@
     "topics": [
       "retrospectives",
       "idea inclusion"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-020",
@@ -677,7 +715,9 @@
     "topics": [
       "respectful communication",
       "team norms"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-021",
@@ -711,7 +751,9 @@
     "topics": [
       "estimation",
       "inclusive practices"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-022",
@@ -745,7 +787,9 @@
     "topics": [
       "belonging",
       "inclusive leadership"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-023",
@@ -779,7 +823,9 @@
     "topics": [
       "recognition equity",
       "distributed teams"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-024",
@@ -813,7 +859,9 @@
     "topics": [
       "training design",
       "anti-bias"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-2-2-025",
@@ -847,6 +895,8 @@
     "topics": [
       "visibility",
       "inclusive opportunities"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   }
 ]

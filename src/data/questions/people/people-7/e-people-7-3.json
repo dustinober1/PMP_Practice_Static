@@ -3,7 +3,9 @@
     "id": "q-people-7-3-001",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A project team is blocked because a functional manager from the Finance department refuses to approve a necessary budget variance, citing policy. The project manager has tried explaining the need but failed. What is the best way to use a *network* to remove this blocker?",
     "options": [
       {
@@ -26,13 +28,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. When a project manager lacks the authority to influence a stakeholder (the Finance manager), they must use their **network**, specifically the **Project Sponsor**. The Sponsor's role includes clearing political and organizational roadblocks that are beyond the PM's control. Option b is unethical/risky. Option c burns bridges. Option d is a passive avoidance strategy.",
     "difficulty": "medium",
-    "topics": ["escalation", "sponsor role", "organizational politics"]
+    "topics": [
+      "escalation",
+      "sponsor role",
+      "organizational politics"
+    ]
   },
   {
     "id": "q-people-7-3-002",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "An agile team is struggling with a complex technical challenge related to a legacy API. No one on the team has the specific expertise to solve it, and work has stalled. How should the Scrum Master acts as a servant leader to remove this impediment using the organization's network?",
     "options": [
       {
@@ -55,13 +63,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This demonstrates using the **internal network** (Communities of Practice/Guilds) to find solutions. A Servant Leader facilitates the removal of blockers by connecting the team to the right people (SMEs) within the organization. Option a is commanding, not helping. Option c gives up too easily. Option d ignores internal capabilities and processes.",
     "difficulty": "medium",
-    "topics": ["servant leadership", "communities of practice", "resource acquisition"]
+    "topics": [
+      "servant leadership",
+      "communities of practice",
+      "resource acquisition"
+    ]
   },
   {
     "id": "q-people-7-3-003",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A project requires a specific piece of equipment that is currently being used by another project. The other project manager is unwilling to share. The project manager knows a senior engineer on the other team from a previous job. How should the project manager approach this?",
     "options": [
       {
@@ -84,13 +98,19 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. This illustrates the use of **informal networks** and **social capital**. Official channels (Project Manager to Project Manager) failed. Using a personal connection to gather intelligence (actual usage) and find a collaborative solution (time-sharing) is an effective way to remove the obstacle without formal escalation (Option a) or unethical behavior (Option b).",
     "difficulty": "medium",
-    "topics": ["influencing without authority", "negotiation", "informal networks"]
+    "topics": [
+      "influencing without authority",
+      "negotiation",
+      "informal networks"
+    ]
   },
   {
     "id": "q-people-7-3-004",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The legal department is taking too long to review a vendor contract, blocking the start of development. The project manager has sent multiple emails with no response. Which action best utilizes the network to resolve this?",
     "options": [
       {
@@ -113,13 +133,18 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. **Personal connection** is often faster than formal digital communication. Building rapport (a networking skill) humanizes the request and allows the PM to convey urgency effectively. Option b is aggressive and likely to damage the network. Option c is a massive risk/compliance violation. Option d is passive.",
     "difficulty": "easy",
-    "topics": ["communication", "stakeholder engagement"]
+    "topics": [
+      "communication",
+      "stakeholder engagement"
+    ]
   },
   {
     "id": "q-people-7-3-005",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A critical stakeholder is resisting the project because they believe it threatens their department's control. This resistance is blocking requirements approval. The project manager identifies that the stakeholder respects the opinion of the VP of Operations. What is the best strategy?",
     "options": [
       {
@@ -142,13 +167,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This is using **influence** through a **network proxy**. If the PM cannot influence the stakeholder directly, they should identify someone in their network who *can* (the VP of Operations) and ask them to intervene. This is a classic change management strategy. Option a causes conflict. Option c compromises scope/value. Option d ignores a critical voice.",
     "difficulty": "medium",
-    "topics": ["influencing", "change management", "stakeholder resistance"]
+    "topics": [
+      "influencing",
+      "change management",
+      "stakeholder resistance"
+    ]
   },
   {
     "id": "q-people-7-3-006",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A project team in a matrix organization is demoralized because their functional manager keeps pulling them into operational firefighting duties. The project manager has no direct authority over the functional manager. How should the project manager implement a solution?",
     "options": [
       {
@@ -171,13 +202,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Implementing a solution in a matrix requires **negotiation** and **collaboration**. The PM uses the meeting to establish a formal agreement (the solution) that respects both project needs and operational realities. Option b puts the team in a terrible position (insubordination). Option c is unprofessional. Option d is passive.",
     "difficulty": "medium",
-    "topics": ["matrix management", "negotiation", "conflict resolution"]
+    "topics": [
+      "matrix management",
+      "negotiation",
+      "conflict resolution"
+    ]
   },
   {
     "id": "q-people-7-3-007",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The project depends on a third-party API that has just deprecated a feature the team was using, blocking progress. The official support channel has a 48-hour response time. How can the project manager use a *network* to speed this up?",
     "options": [
       {
@@ -200,13 +237,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This is leveraging **organizational network connections**. Often, Procurement or another tech lead has a dedicated Account Manager relationship that can bypass the standard support queue. Finding this connection is a key way to remove external blockers. Option a is unprofessional. Option c accepts the delay. Option d is a premature, expensive reaction.",
     "difficulty": "medium",
-    "topics": ["vendor management", "networking", "problem solving"]
+    "topics": [
+      "vendor management",
+      "networking",
+      "problem solving"
+    ]
   },
   {
     "id": "q-people-7-3-008",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A remote team is suffering from isolation and a lack of information flow, which is acting as a blocker to collaboration. The project manager wants to implement a solution using the 'network' concept. What is the best approach?",
     "options": [
       {
@@ -229,13 +272,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Removing the impediment of isolation requires rebuilding the **social network** of the team. Virtual tools and informal sessions facilitate the organic exchange of information and build relationships. Option a increases bureaucracy. Option c is likely cost-prohibitive and disruptive. Option d creates a bottleneck, not a network.",
     "difficulty": "medium",
-    "topics": ["virtual teams", "communication", "team building"]
+    "topics": [
+      "virtual teams",
+      "communication",
+      "team building"
+    ]
   },
   {
     "id": "q-people-7-3-009",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The project is blocked because the team does not understand the compliance requirements for the new European market. The project manager does not have a budget for external training. How can the project manager use the organization's existing network to remove this knowledge blocker?",
     "options": [
       {
@@ -258,13 +307,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. This is leveraging **internal assets** via the network. Most large organizations have internal experts. Bringing them in for a short session is a low-cost, high-value way to remove a knowledge blocker. Option b is reckless. Option c is unfair to the team. Option d accepts an unnecessary delay.",
     "difficulty": "easy",
-    "topics": ["knowledge transfer", "resourcefulness", "networking"]
+    "topics": [
+      "knowledge transfer",
+      "resourcefulness",
+      "networking"
+    ]
   },
   {
     "id": "q-people-7-3-010",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "An agile team's velocity is suffering because the centralized deployment team (DevOps) is slow to respond to tickets. The project manager wants to implement a structural solution. Who should the project manager network with to solve this systemic issue?",
     "options": [
       {
@@ -287,13 +342,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. To remove a systemic process blocker, the PM must network with the **owners of the process/resource** (DevOps Manager) and the **governance body** (PMO). Proposing a structural change (embedding resources) is a definitive solution to the impediment. Option a is punitive. Option c ignores the problem. Option d involves the wrong stakeholders.",
     "difficulty": "hard",
-    "topics": ["organizational change", "devops", "negotiation"]
+    "topics": [
+      "organizational change",
+      "devops",
+      "negotiation"
+    ]
   },
   {
     "id": "q-people-7-3-011",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A project manager takes over a project where two team leads haven't spoken in weeks due to a past conflict, causing a communication blocker. The project manager tries mediation but fails. What is the next step using the *network*?",
     "options": [
       {
@@ -316,13 +377,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. When direct intervention fails, the PM should use the network to bring in **specialized help** (HR/Ombudsman). These departments are equipped for conflict resolution. Option b is a last resort. Option c masks the problem but leaves the organizational scar. Option d creates a winner/loser dynamic which harms culture.",
     "difficulty": "medium",
-    "topics": ["conflict resolution", "hr resources", "networking"]
+    "topics": [
+      "conflict resolution",
+      "hr resources",
+      "networking"
+    ]
   },
   {
     "id": "q-people-7-3-012",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The project is blocked by a new government regulation. The interpretation is ambiguous. The internal legal team is deadlocked. The project manager knows a former colleague who now works for the regulatory body. What is the appropriate way to use this connection?",
     "options": [
       {
@@ -345,13 +412,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. Using a network connection for **information gathering** (public guidance) or **navigation** (finding the liaison) is ethical and effective. Option a and c are unethical and potentially illegal (bribery/corruption). Option d is overly cautious if the contact is just for information gathering.",
     "difficulty": "medium",
-    "topics": ["ethics", "networking", "compliance"]
+    "topics": [
+      "ethics",
+      "networking",
+      "compliance"
+    ]
   },
   {
     "id": "q-people-7-3-013",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A critical path task is blocked because the assigned junior developer is struggling. The senior developer who could help is fully booked on another high-priority project. How can the project manager use the network to solve this?",
     "options": [
       {
@@ -374,13 +447,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. This is **resource negotiation**. By reaching out to the network (the other PM), the project manager can find a 'win-win' or a minor concession (2 hours/day) that removes the blocker without derailing the other project. Option b leads to burnout. Option c is expensive and disruptive. Option d leaves the blocker in place.",
     "difficulty": "medium",
-    "topics": ["negotiation", "resource management", "mentoring"]
+    "topics": [
+      "negotiation",
+      "resource management",
+      "mentoring"
+    ]
   },
   {
     "id": "q-people-7-3-014",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The project uses a shared test environment. The environment is unstable because too many uncoordinated teams are deploying updates simultaneously. The project manager wants to implement a governance solution. Who should be included in the network to solve this?",
     "options": [
       {
@@ -403,13 +482,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. The solution to a 'Tragedy of the Commons' problem is **coordination** among the users. Networking with peers (other PMs/Leads) to establish a **working group** or governance structure allows them to implement a schedule or rules of engagement, removing the instability blocker.",
     "difficulty": "medium",
-    "topics": ["governance", "coordination", "shared resources"]
+    "topics": [
+      "governance",
+      "coordination",
+      "shared resources"
+    ]
   },
   {
     "id": "q-people-7-3-015",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The team is blocked by a cumbersome, manual expense reporting process that consumes hours every week. The project manager identifies this as a non-value-added impediment. Who is the best person in the network to approach to streamline this?",
     "options": [
       {
@@ -432,13 +517,19 @@
     "correctOptionId": "c",
     "explanation": "Option c is correct. To change a process, you must engage the **Process Owner**. Leveraging internal experts in **Continuous Improvement** (Six Sigma/Lean) effectively uses the organizational network to design and implement a systemic solution (automation). Option b is unrealistic escalation. Option a is not a solution. Option d accepts the waste.",
     "difficulty": "medium",
-    "topics": ["process improvement", "continuous improvement", "networking"]
+    "topics": [
+      "process improvement",
+      "continuous improvement",
+      "networking"
+    ]
   },
   {
     "id": "q-people-7-3-016",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A key decision is stuck in a steering committee that hasn't met in a month. The project is effectively paused. The project manager knows the executive assistant of the committee chair. How can this connection be used?",
     "options": [
       {
@@ -461,13 +552,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. **Gatekeepers** (like Executive Assistants) are powerful nodes in a network. They control access and schedule. Building a relationship with them allows the PM to find the 'cracks' in a busy calendar to get the necessary signature/decision, removing the blocker. Option a is fraud. Option c is unprofessional.",
     "difficulty": "easy",
-    "topics": ["gatekeepers", "scheduling", "influencing"]
+    "topics": [
+      "gatekeepers",
+      "scheduling",
+      "influencing"
+    ]
   },
   {
     "id": "q-people-7-3-017",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A project manager is leading a cross-functional project. The marketing team is refusing to provide content until the product is 'finished,' but the development team needs content to finish the layout. This deadlock is the blocker. How should the PM use the network?",
     "options": [
       {
@@ -490,13 +587,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. The PM uses the network to **bridge the silo**. Facilitating a workshop (collaboration) allows the two groups to find an intermediate solution (low-fidelity content) that satisfies both needs and removes the deadlock. Option b is premature. Option c risks quality. Option d guarantees delay.",
     "difficulty": "medium",
-    "topics": ["facilitation", "silo busting", "collaboration"]
+    "topics": [
+      "facilitation",
+      "silo busting",
+      "collaboration"
+    ]
   },
   {
     "id": "q-people-7-3-018",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The project team is blocked by a lack of clarity on the strategic direction of the company, causing them to hesitate on design choices. The Project Charter is vague. Which network connection is most appropriate to resolve this ambiguity?",
     "options": [
       {
@@ -519,13 +622,18 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. The **Project Sponsor** is the link between the project and the organizational strategy. When strategic ambiguity is the blocker, the PM must pull on this specific network string to get the Sponsor to clarify the vision for the team. Options a, c, and d look in the wrong directions for internal strategic clarity.",
     "difficulty": "easy",
-    "topics": ["strategic alignment", "sponsor role"]
+    "topics": [
+      "strategic alignment",
+      "sponsor role"
+    ]
   },
   {
     "id": "q-people-7-3-019",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A specialized database administrator (DBA) is the only person who can approve schema changes. They are currently on unexpected medical leave for two weeks. The team is blocked. How should the project manager implement a solution?",
     "options": [
       {
@@ -548,13 +656,19 @@
     "correctOptionId": "b",
     "explanation": "Option b is correct. This is about finding the **contingency node** in the network. Functional managers usually have continuity plans (backups/deputies). The PM must reach out to the resource owner (IT Manager) to activate this backup. Option a is unethical and harassing. Option c is a security violation. Option d is a passive acceptance of delay.",
     "difficulty": "medium",
-    "topics": ["resource management", "contingency planning", "networking"]
+    "topics": [
+      "resource management",
+      "contingency planning",
+      "networking"
+    ]
   },
   {
     "id": "q-people-7-3-020",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The team is demoralized because they feel their hard work is invisible to the organization. This lack of recognition is becoming a blocker to motivation and performance. How can the project manager use the network to solve this?",
     "options": [
       {
@@ -577,13 +691,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. The PM acts as a bridge, bringing the **network (Executives/Sponsors)** to the team. By facilitating this visibility (Sprint Review attendance), the PM removes the 'invisibility' blocker and boosts morale through organizational recognition. Option b is a nice gesture but doesn't solve the structural visibility issue. Option c is unlikely to work.",
     "difficulty": "medium",
-    "topics": ["motivation", "recognition", "stakeholder engagement"]
+    "topics": [
+      "motivation",
+      "recognition",
+      "stakeholder engagement"
+    ]
   },
   {
     "id": "q-people-7-3-021",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "An internal audit has flagged a compliance issue, halting the project. The audit report is technical and dense. The project manager doesn't understand the specific violation. What is the best immediate step?",
     "options": [
       {
@@ -606,13 +726,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. When blocked by a lack of understanding of an external output (Audit), the PM must **engage the source**. Networking with the Auditor transforms them from an adversary into a partner in clarification, allowing the team to define the solution. Option c sets the junior developer up for failure.",
     "difficulty": "medium",
-    "topics": ["audit", "communication", "problem solving"]
+    "topics": [
+      "audit",
+      "communication",
+      "problem solving"
+    ]
   },
   {
     "id": "q-people-7-3-022",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The project needs 50 beta testers from the customer base to validate the product. The marketing team says they are too busy to recruit them. This is a blocker for the Validation phase. How should the project manager use the network?",
     "options": [
       {
@@ -635,13 +761,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. If one node in the network (Marketing) is blocked, the PM should look for **alternative paths** to the goal. Customer Support has direct access to customers (the network). leveraging this lateral connection solves the resource problem. Option b invalidates the test (bias). Option c is fraud.",
     "difficulty": "medium",
-    "topics": ["resourcefulness", "alternative solutions", "networking"]
+    "topics": [
+      "resourcefulness",
+      "alternative solutions",
+      "networking"
+    ]
   },
   {
     "id": "q-people-7-3-023",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "A project manager observes that the team is constantly blocked because they have to manually copy data from System A to System B. The PM knows the IT Director for System A. How should the PM approach the IT Director to remove this impediment?",
     "options": [
       {
@@ -664,13 +796,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. When asking a network contact for a technical solution, it helps to speak the language of **business value**. By quantifying the cost of the impediment, the PM justifies the request for the IT Director's resources to build the automation. This makes it a rational business decision, not a favor. Option b is unreasonable.",
     "difficulty": "hard",
-    "topics": ["business acumen", "influencing", "automation"]
+    "topics": [
+      "business acumen",
+      "influencing",
+      "automation"
+    ]
   },
   {
     "id": "q-people-7-3-024",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "The project team is geographically dispersed and cultural misunderstandings are causing friction (a blocker). The project manager wants to improve cultural intelligence. Who in the network is the best resource?",
     "options": [
       {
@@ -693,13 +831,19 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. Many organizations have established networks for **cultural support** (DEI/ERGs). Leveraging these internal experts to provide training or facilitation is a direct way to remove the cultural friction blocker. The other options are unrelated to cultural competence.",
     "difficulty": "easy",
-    "topics": ["cultural awareness", "dei", "internal resources"]
+    "topics": [
+      "cultural awareness",
+      "dei",
+      "internal resources"
+    ]
   },
   {
     "id": "q-people-7-3-025",
     "domainId": "people",
     "taskId": "people-7",
-    "enablerIds": ["e-people-7-3"],
+    "enablerIds": [
+      "e-people-7-3"
+    ],
     "text": "After successfully using the network to remove a major impediment involving the procurement department, what is the most important final step for the project manager to take to ensure the network remains strong for the future?",
     "options": [
       {
@@ -722,6 +866,10 @@
     "correctOptionId": "a",
     "explanation": "Option a is correct. **Networking is reciprocal**. To maintain the network for future solutions, the PM must close the loop with gratitude and by sharing credit. This builds **social capital**. Option b can fatigue the network. Option c destroys trust. Option d is transactional and short-sighted.",
     "difficulty": "easy",
-    "topics": ["social capital", "relationship management", "closing the loop"]
+    "topics": [
+      "social capital",
+      "relationship management",
+      "closing the loop"
+    ]
   }
 ]

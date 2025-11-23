@@ -3,425 +3,850 @@
     "id": "q-people-6-4-001",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A key technical lead is leaving the project in two weeks to take a new job. The project manager is concerned about the loss of tacit knowledge. What is the most effective immediate action?",
     "options": [
-      { "id": "a", "label": "Ask the lead to write comprehensive documentation of every task they perform." },
-      { "id": "b", "label": "Implement a 'shadowing' arrangement where a peer observes and works with the lead for the remaining time." },
-      { "id": "c", "label": "Record a video interview of the lead on their last day." },
-      { "id": "d", "label": "Offer the lead a bonus to stay for another month." }
+      {
+        "id": "a",
+        "label": "Ask the lead to write comprehensive documentation of every task they perform."
+      },
+      {
+        "id": "b",
+        "label": "Implement a 'shadowing' arrangement where a peer observes and works with the lead for the remaining time."
+      },
+      {
+        "id": "c",
+        "label": "Record a video interview of the lead on their last day."
+      },
+      {
+        "id": "d",
+        "label": "Offer the lead a bonus to stay for another month."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Tacit knowledge (experience, intuition) is best transferred through observation and interaction (shadowing/pairing), not just reading documents. Option a captures explicit knowledge but misses the 'how' and 'why' often found in tacit knowledge. Option c is too late. Option d delays the inevitable but doesn't solve the transfer problem.",
     "difficulty": "medium",
-    "topics": ["Tacit Knowledge", "Shadowing"]
+    "topics": [
+      "Tacit Knowledge",
+      "Shadowing"
+    ]
   },
   {
     "id": "q-people-6-4-002",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "At the end of a project phase, the team conducts a 'Lessons Learned' session. To ensure this knowledge is maintained and useful for future projects, what must the project manager do next?",
     "options": [
-      { "id": "a", "label": "File the meeting minutes in the project folder." },
-      { "id": "b", "label": "Update the Organizational Process Assets (OPA) with the findings." },
-      { "id": "c", "label": "Email the lessons to the project sponsor." },
-      { "id": "d", "label": " memorize the lessons for the next project." }
+      {
+        "id": "a",
+        "label": "File the meeting minutes in the project folder."
+      },
+      {
+        "id": "b",
+        "label": "Update the Organizational Process Assets (OPA) with the findings."
+      },
+      {
+        "id": "c",
+        "label": "Email the lessons to the project sponsor."
+      },
+      {
+        "id": "d",
+        "label": "memorize the lessons for the next project."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. For knowledge to be 'maintained' and transferred to the organization, it must be formalized into the OPAs (e.g., updating templates, procedures, or the central repository). Option a creates a data silo. Option c is transient. Option d is not scalable.",
     "difficulty": "medium",
-    "topics": ["OPA", "Lessons Learned"]
+    "topics": [
+      "OPA",
+      "Lessons Learned"
+    ]
   },
   {
     "id": "q-people-6-4-003",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "An agile team has a 'Bus Factor' of 1 regarding their deployment pipeline. This means if one specific person is unavailable, no one can deploy code. How should the project manager (or Scrum Master) address this risk?",
     "options": [
-      { "id": "a", "label": "Assign a bodyguard to the specific person." },
-      { "id": "b", "label": "Promote cross-training and pair programming to distribute the deployment skill across the team." },
-      { "id": "c", "label": "Document the risk in the risk register and accept it." },
-      { "id": "d", "label": "Hire an external vendor to manage deployments." }
+      {
+        "id": "a",
+        "label": "Assign a bodyguard to the specific person."
+      },
+      {
+        "id": "b",
+        "label": "Promote cross-training and pair programming to distribute the deployment skill across the team."
+      },
+      {
+        "id": "c",
+        "label": "Document the risk in the risk register and accept it."
+      },
+      {
+        "id": "d",
+        "label": "Hire an external vendor to manage deployments."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Reducing key person dependency is a core part of maintaining a resilient team. Cross-training ensures knowledge transfer so the team can survive the loss of an individual. Option a is a joke. Option c is passive. Option d creates a new dependency.",
     "difficulty": "easy",
-    "topics": ["Bus Factor", "Cross-Training"]
+    "topics": [
+      "Bus Factor",
+      "Cross-Training"
+    ]
   },
   {
     "id": "q-people-6-4-004",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A project manager observes that valuable project information is being shared via private instant messages between two team members, excluding the rest of the team. How should the project manager encourage better knowledge transfer?",
     "options": [
-      { "id": "a", "label": "Ban private messaging." },
-      { "id": "b", "label": "Encourage the use of public channels or a shared project wiki for technical discussions." },
-      { "id": "c", "label": "Demand to be copied on all messages." },
-      { "id": "d", "label": "Ignore it, as long as the work gets done." }
+      {
+        "id": "a",
+        "label": "Ban private messaging."
+      },
+      {
+        "id": "b",
+        "label": "Encourage the use of public channels or a shared project wiki for technical discussions."
+      },
+      {
+        "id": "c",
+        "label": "Demand to be copied on all messages."
+      },
+      {
+        "id": "d",
+        "label": "Ignore it, as long as the work gets done."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. To maintain team knowledge, information needs to be accessible (osmotic communication). Moving discussions to public channels or wikis democratizes the knowledge. Option a is draconian. Option c creates a bottleneck. Option d allows silos to form.",
     "difficulty": "medium",
-    "topics": ["Communication Channels", "Transparency"]
+    "topics": [
+      "Communication Channels",
+      "Transparency"
+    ]
   },
   {
     "id": "q-people-6-4-005",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "During the execution of a multi-year project, several team members are scheduled to rotate off the project. What document should the project manager consult to manage this transition smoothly?",
     "options": [
-      { "id": "a", "label": "The Stakeholder Register." },
-      { "id": "b", "label": "The Resource Management Plan." },
-      { "id": "c", "label": "The Cost Baseline." },
-      { "id": "d", "label": "The Project Charter." }
+      {
+        "id": "a",
+        "label": "The Stakeholder Register."
+      },
+      {
+        "id": "b",
+        "label": "The Resource Management Plan."
+      },
+      {
+        "id": "c",
+        "label": "The Cost Baseline."
+      },
+      {
+        "id": "d",
+        "label": "The Project Charter."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. The Resource Management Plan details how resources are acquired, managed, and *released*. It includes the release plan and knowledge transfer requirements for departing members. The other documents do not cover release procedures.",
     "difficulty": "medium",
-    "topics": ["Resource Management Plan", "Offboarding"]
+    "topics": [
+      "Resource Management Plan",
+      "Offboarding"
+    ]
   },
   {
     "id": "q-people-6-4-006",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A project manager is taking over a project that is 50% complete. The outgoing manager hands over a folder of disorganized documents. What is the main risk to the 'Maintain team and knowledge transfer' enabler here?",
     "options": [
-      { "id": "a", "label": "The new manager will have too much reading to do." },
-      { "id": "b", "label": "Information fragmentation and loss of context (continuity) may cause delays." },
-      { "id": "c", "label": "The documents might be in a file format the new manager cannot open." },
-      { "id": "d", "label": "The team will refuse to work with the new manager." }
+      {
+        "id": "a",
+        "label": "The new manager will have too much reading to do."
+      },
+      {
+        "id": "b",
+        "label": "Information fragmentation and loss of context (continuity) may cause delays."
+      },
+      {
+        "id": "c",
+        "label": "The documents might be in a file format the new manager cannot open."
+      },
+      {
+        "id": "d",
+        "label": "The team will refuse to work with the new manager."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Poor handover processes (disorganized docs) lead to a loss of project continuity and context. This fragmentation prevents the new manager from effectively maintaining the team's momentum. Options a and c are minor administrative issues compared to the continuity risk.",
     "difficulty": "medium",
-    "topics": ["Project Handover", "Continuity"]
+    "topics": [
+      "Project Handover",
+      "Continuity"
+    ]
   },
   {
     "id": "q-people-6-4-007",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A virtual team is struggling to share knowledge because they work in different time zones with no overlap. What strategy can the project manager implement to maintain knowledge transfer?",
     "options": [
-      { "id": "a", "label": "Force everyone to work on New York time." },
-      { "id": "b", "label": "Implement a 'Follow the Sun' model with rigorous daily handoff documentation and recorded standups." },
-      { "id": "c", "label": "Cancel the daily standups as they are impossible." },
-      { "id": "d", "label": "Wait for the team to relocate." }
+      {
+        "id": "a",
+        "label": "Force everyone to work on New York time."
+      },
+      {
+        "id": "b",
+        "label": "Implement a 'Follow the Sun' model with rigorous daily handoff documentation and recorded standups."
+      },
+      {
+        "id": "c",
+        "label": "Cancel the daily standups as they are impossible."
+      },
+      {
+        "id": "d",
+        "label": "Wait for the team to relocate."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. In non-overlapping time zones, asynchronous communication (recordings, rigorous handoff notes) is essential for maintaining knowledge flow. Option a leads to burnout. Option c removes a touchpoint. Option d is unrealistic.",
     "difficulty": "hard",
-    "topics": ["Virtual Teams", "Asynchronous Communication"]
+    "topics": [
+      "Virtual Teams",
+      "Asynchronous Communication"
+    ]
   },
   {
     "id": "q-people-6-4-008",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "The project uses an external vendor for a critical component. The contract is ending, and the vendor is leaving. The project team realizes they don't know how to maintain the component. What failed?",
     "options": [
-      { "id": "a", "label": "The procurement negotiation." },
-      { "id": "b", "label": "The transition and knowledge transfer plan within the closing process." },
-      { "id": "c", "label": "The selection of the vendor." },
-      { "id": "d", "label": "The budget estimation." }
+      {
+        "id": "a",
+        "label": "The procurement negotiation."
+      },
+      {
+        "id": "b",
+        "label": "The transition and knowledge transfer plan within the closing process."
+      },
+      {
+        "id": "c",
+        "label": "The selection of the vendor."
+      },
+      {
+        "id": "d",
+        "label": "The budget estimation."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. A critical part of closing a procurement or project phase is the knowledge transfer (transition) to operations or the internal team. Failing to capture this before the vendor leaves is a failure of the transfer plan. Option a is possible, but the immediate failure is the lack of transfer.",
     "difficulty": "medium",
-    "topics": ["Vendor Transition", "Closing"]
+    "topics": [
+      "Vendor Transition",
+      "Closing"
+    ]
   },
   {
     "id": "q-people-6-4-009",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "To foster a culture of knowledge sharing, an agile coach encourages the team to use 'Pair Programming.' Ideally, how does this help maintain the team?",
     "options": [
-      { "id": "a", "label": "It doubles the cost of development." },
-      { "id": "b", "label": "It ensures that if one person leaves, the knowledge stays with the pair, maintaining continuity." },
-      { "id": "c", "label": "It allows one person to sleep while the other works." },
-      { "id": "d", "label": "It reduces the need for code reviews." }
+      {
+        "id": "a",
+        "label": "It doubles the cost of development."
+      },
+      {
+        "id": "b",
+        "label": "It ensures that if one person leaves, the knowledge stays with the pair, maintaining continuity."
+      },
+      {
+        "id": "c",
+        "label": "It allows one person to sleep while the other works."
+      },
+      {
+        "id": "d",
+        "label": "It reduces the need for code reviews."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Pair programming is a real-time knowledge transfer technique. It ensures code familiarity is shared, preventing knowledge silos and maintaining team capability if personnel changes occur. Option a is a myth (efficiency often offsets cost). Option c is misconduct.",
     "difficulty": "easy",
-    "topics": ["Pair Programming", "Agile Practices"]
+    "topics": [
+      "Pair Programming",
+      "Agile Practices"
+    ]
   },
   {
     "id": "q-people-6-4-010",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A project manager notices that the team's wiki page is outdated and rarely used. To improve knowledge transfer, what should the project manager do?",
     "options": [
-      { "id": "a", "label": "Delete the wiki." },
-      { "id": "b", "label": "Assign a 'Gardener' role or rotate the responsibility to curate and update the wiki content." },
-      { "id": "c", "label": "Send a memo demanding everyone read the wiki daily." },
-      { "id": "d", "label": "Hire a librarian." }
+      {
+        "id": "a",
+        "label": "Delete the wiki."
+      },
+      {
+        "id": "b",
+        "label": "Assign a 'Gardener' role or rotate the responsibility to curate and update the wiki content."
+      },
+      {
+        "id": "c",
+        "label": "Send a memo demanding everyone read the wiki daily."
+      },
+      {
+        "id": "d",
+        "label": "Hire a librarian."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Knowledge repositories (wikis) require maintenance (gardening). Rotating this responsibility engages the team and ensures the knowledge remains relevant and useful. Option a destroys the asset. Option c ignores the root cause (outdated content).",
     "difficulty": "medium",
-    "topics": ["Knowledge Repositories", "Content Maintenance"]
+    "topics": [
+      "Knowledge Repositories",
+      "Content Maintenance"
+    ]
   },
   {
     "id": "q-people-6-4-011",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "An older, experienced team member is retiring. A younger member is identified as the successor. What is the best method to ensure a successful transfer of knowledge?",
     "options": [
-      { "id": "a", "label": "Hand over the login passwords on the last day." },
-      { "id": "b", "label": "Create a structured succession plan involving phased handover and mentoring over several months." },
-      { "id": "c", "label": "Ask the retiree to record a podcast." },
-      { "id": "d", "label": "Hope the younger member learns fast." }
+      {
+        "id": "a",
+        "label": "Hand over the login passwords on the last day."
+      },
+      {
+        "id": "b",
+        "label": "Create a structured succession plan involving phased handover and mentoring over several months."
+      },
+      {
+        "id": "c",
+        "label": "Ask the retiree to record a podcast."
+      },
+      {
+        "id": "d",
+        "label": "Hope the younger member learns fast."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Succession planning requires a structured approach (phased handover, mentoring) to transfer complex knowledge effectively. Option a is a security risk and insufficient. Option c is a supplement, not a plan. Option d is not management.",
     "difficulty": "medium",
-    "topics": ["Succession Planning", "Mentoring"]
+    "topics": [
+      "Succession Planning",
+      "Mentoring"
+    ]
   },
   {
     "id": "q-people-6-4-012",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "In a Hybrid environment, the project manager uses a 'Community of Practice' (CoP). What is the primary function of a CoP regarding this enabler?",
     "options": [
-      { "id": "a", "label": "To complain about management." },
-      { "id": "b", "label": "To facilitate informal knowledge sharing across different teams or projects about specific domains." },
-      { "id": "c", "label": "To enforce strict process compliance." },
-      { "id": "d", "label": "To manage the project budget." }
+      {
+        "id": "a",
+        "label": "To complain about management."
+      },
+      {
+        "id": "b",
+        "label": "To facilitate informal knowledge sharing across different teams or projects about specific domains."
+      },
+      {
+        "id": "c",
+        "label": "To enforce strict process compliance."
+      },
+      {
+        "id": "d",
+        "label": "To manage the project budget."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Communities of Practice are groups of people who share a concern or passion for something they do and learn how to do it better as they interact regularly. They are key for cross-project knowledge transfer. Option c is a PMO function.",
     "difficulty": "easy",
-    "topics": ["Communities of Practice", "Informal Learning"]
+    "topics": [
+      "Communities of Practice",
+      "Informal Learning"
+    ]
   },
   {
     "id": "q-people-6-4-013",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "High turnover is affecting the project team. New members take weeks to become productive. What should the project manager improve to maintain the team's momentum?",
     "options": [
-      { "id": "a", "label": "The onboarding process and documentation." },
-      { "id": "b", "label": "The salary offer." },
-      { "id": "c", "label": "The complexity of the code." },
-      { "id": "d", "label": "The length of the workday." }
+      {
+        "id": "a",
+        "label": "The onboarding process and documentation."
+      },
+      {
+        "id": "b",
+        "label": "The salary offer."
+      },
+      {
+        "id": "c",
+        "label": "The complexity of the code."
+      },
+      {
+        "id": "d",
+        "label": "The length of the workday."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct. While turnover is the problem, the specific symptom (slow time-to-productivity) is solved by better onboarding and accessible knowledge (documentation). This helps new members absorb the necessary knowledge faster. Option b might help retention but doesn't solve the integration speed.",
     "difficulty": "medium",
-    "topics": ["Onboarding", "Efficiency"]
+    "topics": [
+      "Onboarding",
+      "Efficiency"
+    ]
   },
   {
     "id": "q-people-6-4-014",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A project manager is archiving project data at closure. Why is this considered part of maintaining knowledge transfer?",
     "options": [
-      { "id": "a", "label": "It isn't; it is just administrative work." },
-      { "id": "b", "label": "It ensures historical data is available for future teams to improve their estimates and planning." },
-      { "id": "c", "label": "It frees up hard drive space." },
-      { "id": "d", "label": "It prevents the team from accessing old files." }
+      {
+        "id": "a",
+        "label": "It isn't; it is just administrative work."
+      },
+      {
+        "id": "b",
+        "label": "It ensures historical data is available for future teams to improve their estimates and planning."
+      },
+      {
+        "id": "c",
+        "label": "It frees up hard drive space."
+      },
+      {
+        "id": "d",
+        "label": "It prevents the team from accessing old files."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Archiving is the final step of knowledge transfer—moving project knowledge into the organizational memory so future teams can leverage it (e.g., for estimation). It maintains the knowledge *for the organization*.",
     "difficulty": "easy",
-    "topics": ["Archiving", "Organizational Knowledge"]
+    "topics": [
+      "Archiving",
+      "Organizational Knowledge"
+    ]
   },
   {
     "id": "q-people-6-4-015",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "The project manager creates a 'Skills Directory' or 'Yellow Pages' for the organization. How does this help maintain the team?",
     "options": [
-      { "id": "a", "label": "It allows the project manager to call team members at home." },
-      { "id": "b", "label": "It enables team members to quickly locate internal experts to solve problems, facilitating knowledge exchange." },
-      { "id": "c", "label": "It lists the favorite colors of team members." },
-      { "id": "d", "label": "It replaces the need for a project schedule." }
+      {
+        "id": "a",
+        "label": "It allows the project manager to call team members at home."
+      },
+      {
+        "id": "b",
+        "label": "It enables team members to quickly locate internal experts to solve problems, facilitating knowledge exchange."
+      },
+      {
+        "id": "c",
+        "label": "It lists the favorite colors of team members."
+      },
+      {
+        "id": "d",
+        "label": "It replaces the need for a project schedule."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. A Skills Directory facilitates 'connecting people to people,' which is a primary method of knowledge transfer in complex organizations. It reduces the time spent searching for answers.",
     "difficulty": "easy",
-    "topics": ["Skills Directory", "Expert Location"]
+    "topics": [
+      "Skills Directory",
+      "Expert Location"
+    ]
   },
   {
     "id": "q-people-6-4-016",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A team member hoards information to make themselves indispensable. This behavior threatens knowledge transfer. What is the best way to address this?",
     "options": [
-      { "id": "a", "label": "Publicly shame the team member." },
-      { "id": "b", "label": "Create a culture of psychological safety where sharing is rewarded, not penalized." },
-      { "id": "c", "label": "Fire the team member immediately." },
-      { "id": "d", "label": "Ignore it." }
+      {
+        "id": "a",
+        "label": "Publicly shame the team member."
+      },
+      {
+        "id": "b",
+        "label": "Create a culture of psychological safety where sharing is rewarded, not penalized."
+      },
+      {
+        "id": "c",
+        "label": "Fire the team member immediately."
+      },
+      {
+        "id": "d",
+        "label": "Ignore it."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Hoarding often stems from insecurity. Building psychological safety and rewarding collaboration (rather than just individual heroism) encourages the member to share knowledge without fear of being replaced. Options a and c are reactive and damage morale.",
     "difficulty": "hard",
-    "topics": ["Psychological Safety", "Culture"]
+    "topics": [
+      "Psychological Safety",
+      "Culture"
+    ]
   },
   {
     "id": "q-people-6-4-017",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "During a Sprint Review, the stakeholders ask detailed technical questions that only the developers can answer. The Product Owner usually answers everything. What should happen to improve knowledge transfer?",
     "options": [
-      { "id": "a", "label": "The developers should be invited to demonstrate the work and answer questions directly." },
-      { "id": "b", "label": "The Product Owner should guess the answers." },
-      { "id": "c", "label": "The stakeholders should be told to stop asking technical questions." },
-      { "id": "d", "label": "The Scrum Master should answer on behalf of the team." }
+      {
+        "id": "a",
+        "label": "The developers should be invited to demonstrate the work and answer questions directly."
+      },
+      {
+        "id": "b",
+        "label": "The Product Owner should guess the answers."
+      },
+      {
+        "id": "c",
+        "label": "The stakeholders should be told to stop asking technical questions."
+      },
+      {
+        "id": "d",
+        "label": "The Scrum Master should answer on behalf of the team."
+      }
     ],
     "correctOptionId": "a",
     "explanation": "Option a is correct. Direct interaction between the builders (developers) and the users (stakeholders) during the Sprint Review transfers knowledge about constraints and capabilities efficiently. It also empowers the team. Option b is risky. Option c creates barriers.",
     "difficulty": "medium",
-    "topics": ["Sprint Review", "Stakeholder Interaction"]
+    "topics": [
+      "Sprint Review",
+      "Stakeholder Interaction"
+    ]
   },
   {
     "id": "q-people-6-4-018",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "What is the primary difference between 'Training' and 'Knowledge Transfer' in the context of team building?",
     "options": [
-      { "id": "a", "label": "Training is free; Knowledge Transfer is expensive." },
-      { "id": "b", "label": "Training focuses on acquiring new skills; Knowledge Transfer focuses on sharing existing project-specific information among members." },
-      { "id": "c", "label": "They are exactly the same thing." },
-      { "id": "d", "label": "Knowledge Transfer only happens at the end of a project." }
+      {
+        "id": "a",
+        "label": "Training is free; Knowledge Transfer is expensive."
+      },
+      {
+        "id": "b",
+        "label": "Training focuses on acquiring new skills; Knowledge Transfer focuses on sharing existing project-specific information among members."
+      },
+      {
+        "id": "c",
+        "label": "They are exactly the same thing."
+      },
+      {
+        "id": "d",
+        "label": "Knowledge Transfer only happens at the end of a project."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Training (Enabler 3) is often about upskilling (e.g., learning Python). Knowledge Transfer (Enabler 4) is about sharing context, experience, and project specifics (e.g., how *we* use Python on this project). Option d is false; it should happen continuously.",
     "difficulty": "easy",
-    "topics": ["Definitions", "Concept Clarity"]
+    "topics": [
+      "Definitions",
+      "Concept Clarity"
+    ]
   },
   {
     "id": "q-people-6-4-019",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A project manager uses a 'Kanban Board' as a radiant information radiator. How does this tool support the maintenance of the team?",
     "options": [
-      { "id": "a", "label": "It makes the office look colorful." },
-      { "id": "b", "label": "It provides transparency on work status, reducing the need for status meetings and keeping the whole team aligned." },
-      { "id": "c", "label": "It prevents stakeholders from asking questions." },
-      { "id": "d", "label": "It is required by PMP standards." }
+      {
+        "id": "a",
+        "label": "It makes the office look colorful."
+      },
+      {
+        "id": "b",
+        "label": "It provides transparency on work status, reducing the need for status meetings and keeping the whole team aligned."
+      },
+      {
+        "id": "c",
+        "label": "It prevents stakeholders from asking questions."
+      },
+      {
+        "id": "d",
+        "label": "It is required by PMP standards."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Information radiators (Kanban boards) transfer knowledge (status, bottlenecks) passively and continuously to anyone who looks at them. This maintains team alignment and shared understanding without manual reporting.",
     "difficulty": "medium",
-    "topics": ["Information Radiators", "Kanban"]
+    "topics": [
+      "Information Radiators",
+      "Kanban"
+    ]
   },
   {
     "id": "q-people-6-4-020",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "The project is ending. The team is disbanded. One month later, the operations team calls the project manager because the server crashed and they don't know the admin password. This indicates a failure in:",
     "options": [
-      { "id": "a", "label": "The team building activity." },
-      { "id": "b", "label": "The transition to operations (handoff) procedure." },
-      { "id": "c", "label": "The server hardware quality." },
-      { "id": "d", "label": "The project charter." }
+      {
+        "id": "a",
+        "label": "The team building activity."
+      },
+      {
+        "id": "b",
+        "label": "The transition to operations (handoff) procedure."
+      },
+      {
+        "id": "c",
+        "label": "The server hardware quality."
+      },
+      {
+        "id": "d",
+        "label": "The project charter."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. The transition to operations must include the transfer of all critical operational knowledge (passwords, manuals, troubleshooting guides). A missing password is a classic failure of this specific knowledge transfer step.",
     "difficulty": "easy",
-    "topics": ["Transition to Operations", "Handoff"]
+    "topics": [
+      "Transition to Operations",
+      "Handoff"
+    ]
   },
   {
     "id": "q-people-6-4-021",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A team member proposes using a 'Brown Bag' lunch session to present a new technique they learned. The project manager should:",
     "options": [
-      { "id": "a", "label": "Deny the request because lunch is for eating." },
-      { "id": "b", "label": "Approve and encourage it as a low-cost knowledge transfer opportunity." },
-      { "id": "c", "label": "Require the team member to prepare a 50-page slide deck first." },
-      { "id": "d", "label": "Charge the team member for the time." }
+      {
+        "id": "a",
+        "label": "Deny the request because lunch is for eating."
+      },
+      {
+        "id": "b",
+        "label": "Approve and encourage it as a low-cost knowledge transfer opportunity."
+      },
+      {
+        "id": "c",
+        "label": "Require the team member to prepare a 50-page slide deck first."
+      },
+      {
+        "id": "d",
+        "label": "Charge the team member for the time."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Brown Bag sessions are informal, voluntary meetings that are excellent for peer-to-peer knowledge transfer and maintaining team engagement. They should be encouraged.",
     "difficulty": "easy",
-    "topics": ["Informal Sharing", "Team Culture"]
+    "topics": [
+      "Informal Sharing",
+      "Team Culture"
+    ]
   },
   {
     "id": "q-people-6-4-022",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A project manager is concerned about retention. To maintain the team, they implement a 'Recognition and Rewards' system. To be effective for knowledge transfer, what behavior should be rewarded?",
     "options": [
-      { "id": "a", "label": "Being the only person who knows how to fix a bug." },
-      { "id": "b", "label": "Working the most overtime." },
-      { "id": "c", "label": "Mentoring junior members and documenting processes." },
-      { "id": "d", "label": "Never asking for help." }
+      {
+        "id": "a",
+        "label": "Being the only person who knows how to fix a bug."
+      },
+      {
+        "id": "b",
+        "label": "Working the most overtime."
+      },
+      {
+        "id": "c",
+        "label": "Mentoring junior members and documenting processes."
+      },
+      {
+        "id": "d",
+        "label": "Never asking for help."
+      }
     ],
     "correctOptionId": "c",
     "explanation": "Option c is correct. You get the behavior you reward. To maintain knowledge transfer, you must reward sharing (mentoring, documenting), not hoarding (Option a) or burnout (Option b).",
     "difficulty": "medium",
-    "topics": ["Rewards and Recognition", "Behavior Modification"]
+    "topics": [
+      "Rewards and Recognition",
+      "Behavior Modification"
+    ]
   },
   {
     "id": "q-people-6-4-023",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "In an Agile project, the team uses a 'Wiki' that is editable by everyone. Some stakeholders worry about data accuracy. How should the project manager respond?",
     "options": [
-      { "id": "a", "label": "Lock the Wiki so only the PM can edit it." },
-      { "id": "b", "label": "Explain that collective ownership and frequent updates generally lead to higher accuracy and better knowledge transfer than static docs." },
-      { "id": "c", "label": "Delete the Wiki and use email." },
-      { "id": "d", "label": "Agreed, Wikis are dangerous." }
+      {
+        "id": "a",
+        "label": "Lock the Wiki so only the PM can edit it."
+      },
+      {
+        "id": "b",
+        "label": "Explain that collective ownership and frequent updates generally lead to higher accuracy and better knowledge transfer than static docs."
+      },
+      {
+        "id": "c",
+        "label": "Delete the Wiki and use email."
+      },
+      {
+        "id": "d",
+        "label": "Agreed, Wikis are dangerous."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Agile promotes collective ownership. While there is a risk of error, the benefit of real-time, crowd-sourced knowledge transfer usually outweighs the risks of static, gate-kept documentation (Option a).",
     "difficulty": "medium",
-    "topics": ["Agile Tools", "Collective Ownership"]
+    "topics": [
+      "Agile Tools",
+      "Collective Ownership"
+    ]
   },
   {
     "id": "q-people-6-4-024",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "The project is using a 'Fishbowl' conversation technique during a workshop. What is the purpose of this regarding the team?",
     "options": [
-      { "id": "a", "label": "To watch fish." },
-      { "id": "b", "label": "To facilitate knowledge sharing where a small group discusses a topic while the rest of the team listens and observes." },
-      { "id": "c", "label": "To isolate the troublemakers." },
-      { "id": "d", "label": "To interview new candidates." }
+      {
+        "id": "a",
+        "label": "To watch fish."
+      },
+      {
+        "id": "b",
+        "label": "To facilitate knowledge sharing where a small group discusses a topic while the rest of the team listens and observes."
+      },
+      {
+        "id": "c",
+        "label": "To isolate the troublemakers."
+      },
+      {
+        "id": "d",
+        "label": "To interview new candidates."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. The Fishbowl technique is a specific facilitation method used to share knowledge or discuss complex topics. A small group (the fish) talks in the center, while the outer circle listens, allowing for focused discussion and broad observation.",
     "difficulty": "hard",
-    "topics": ["Facilitation Techniques", "Knowledge Sharing"]
+    "topics": [
+      "Facilitation Techniques",
+      "Knowledge Sharing"
+    ]
   },
   {
     "id": "q-people-6-4-025",
     "domainId": "people",
     "taskId": "people-6",
-    "enablerIds": ["e-people-6-4"],
+    "enablerIds": [
+      "e-people-6-4"
+    ],
     "text": "A project manager is leading a team where members are constantly shifted to other projects by functional managers. This 'churn' disrupts knowledge transfer. What is the best negotiation strategy for the PM?",
     "options": [
-      { "id": "a", "label": "Demand that the functional managers stop working." },
-      { "id": "b", "label": "Negotiate for 'Core Team' stability, where a percentage of the team remains fixed for the project duration." },
-      { "id": "c", "label": "Accept it as inevitable." },
-      { "id": "d", "label": "Hide the team members in a conference room." }
+      {
+        "id": "a",
+        "label": "Demand that the functional managers stop working."
+      },
+      {
+        "id": "b",
+        "label": "Negotiate for 'Core Team' stability, where a percentage of the team remains fixed for the project duration."
+      },
+      {
+        "id": "c",
+        "label": "Accept it as inevitable."
+      },
+      {
+        "id": "d",
+        "label": "Hide the team members in a conference room."
+      }
     ],
     "correctOptionId": "b",
     "explanation": "Option b is correct. Negotiating for a stable core team ensures that at least some knowledge is retained and continuity is maintained, even if peripheral members rotate. This strikes a balance in a matrix organization.",
     "difficulty": "hard",
-    "topics": ["Team Stability", "Matrix Negotiation"]
+    "topics": [
+      "Team Stability",
+      "Matrix Negotiation"
+    ]
   }
 ]

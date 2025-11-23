@@ -13,11 +13,11 @@
         "label": "Assign blame based on the defect log entry."
       },
       {
-        "id": "b",
+        "id": "c",
         "label": "Meet with each person separately to understand perspectives and triggers."
       },
       {
-        "id": "c",
+        "id": "b",
         "label": "Escalate the issue to the functional manager immediately."
       },
       {
@@ -25,13 +25,15 @@
         "label": "Move the team members to different workstreams without discussion."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Private conversations help you understand interests, triggers, and history before choosing a resolution strategy.",
+    "correctOptionId": "c",
+    "explanation": "Meeting with each team member privately helps you understand their perspectives, triggers, and history so you can interpret both the source and stage of the conflict before acting. Assigning blame from the defect log, escalating immediately, or moving people to different workstreams skips diagnosis and can make the conflict worse instead of resolving it.",
     "difficulty": "easy",
     "topics": [
       "conflict management",
       "source of conflict"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-002",
@@ -47,11 +49,11 @@
         "label": "Ask the product owner to declare a winner so the meeting can move on."
       },
       {
-        "id": "b",
+        "id": "c",
         "label": "Review the Definition of Done and clarify how each person interpreted it."
       },
       {
-        "id": "c",
+        "id": "b",
         "label": "Extend the meeting until both parties agree entirely."
       },
       {
@@ -59,13 +61,15 @@
         "label": "Remove the story from the sprint and cancel the retrospective."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Comparing each person’s interpretation of shared agreements reveals whether the conflict stems from unclear expectations.",
+    "correctOptionId": "c",
+    "explanation": "Reviewing the Definition of Done and how each person interpreted it connects the conflict directly to shared agreements and expectations. Asking the product owner to pick a winner, extending the meeting until there is full agreement, or cancelling the retrospective ignores the underlying misunderstanding and undermines team learning.",
     "difficulty": "medium",
     "topics": [
       "definition of done",
       "conflict source"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-003",
@@ -81,11 +85,11 @@
         "label": "Whether the team members are following the issue escalation process."
       },
       {
-        "id": "b",
+        "id": "c",
         "label": "Whether the conflict is about resources, recognition, or decision authority."
       },
       {
-        "id": "c",
+        "id": "b",
         "label": "Whether both team members attended the last town hall meeting."
       },
       {
@@ -93,13 +97,15 @@
         "label": "Whether the project communications plan was approved by the sponsor."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Understanding if the conflict is about resources, recognition, or authority helps determine the appropriate conflict resolution technique.",
+    "correctOptionId": "c",
+    "explanation": "Analyzing whether the conflict is about resources, recognition, or decision authority helps you identify the real source and choose an appropriate resolution approach. Focusing on the escalation process, town hall attendance, or whether the communications plan was approved does not reveal what the disagreement is truly about.",
     "difficulty": "medium",
     "topics": [
       "conflict source",
       "team dynamics"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-004",
@@ -115,11 +121,11 @@
         "label": "Ask the architect to stop the discussion until after the meeting."
       },
       {
-        "id": "b",
+        "id": "c",
         "label": "Observe whether the disagreement is still about the problem or has shifted to personal attacks."
       },
       {
-        "id": "c",
+        "id": "b",
         "label": "Immediately reassign the developer to a different project."
       },
       {
@@ -127,13 +133,15 @@
         "label": "Send an email to HR requesting mediation."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Determining whether the conflict is still task-focused or has escalated to personal conflict indicates the stage and urgency.",
+    "correctOptionId": "c",
+    "explanation": "Observing whether the conversation is still focused on the problem or has become personal shows how far the conflict has escalated and how urgent an intervention is. Simply stopping the discussion, reassigning the developer, or asking HR to step in immediately addresses symptoms but does not help you interpret the conflict stage.",
     "difficulty": "medium",
     "topics": [
       "conflict stages",
       "observation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-005",
@@ -145,7 +153,7 @@
     "text": "During sprint planning, team members disagree about story estimates. The discussion is lively but still respectful. How should the project manager interpret this conflict?",
     "options": [
       {
-        "id": "a",
+        "id": "c",
         "label": "As a healthy difference of opinion that can improve estimates."
       },
       {
@@ -153,7 +161,7 @@
         "label": "As a serious interpersonal conflict that requires HR intervention."
       },
       {
-        "id": "c",
+        "id": "a",
         "label": "As evidence that the team is not capable of self-organization."
       },
       {
@@ -161,13 +169,15 @@
         "label": "As a reason to cancel the sprint planning meeting immediately."
       }
     ],
-    "correctOptionId": "a",
-    "explanation": "Respectful debate about estimates is a normal, early-stage task conflict that can improve planning.",
+    "correctOptionId": "c",
+    "explanation": "Respectful debate about estimates is a normal, healthy task conflict that can improve planning quality and team understanding. Treating this as a serious interpersonal issue that needs HR, assuming the team cannot self-organize, or cancelling sprint planning overreacts and may discourage constructive discussion.",
     "difficulty": "easy",
     "topics": [
       "healthy conflict",
       "estimation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-006",
@@ -183,11 +193,11 @@
         "label": "It is at an early stage and can be ignored."
       },
       {
-        "id": "b",
+        "id": "c",
         "label": "It has escalated beyond task disagreement and needs active intervention."
       },
       {
-        "id": "c",
+        "id": "b",
         "label": "It indicates the project charter is incomplete."
       },
       {
@@ -195,13 +205,15 @@
         "label": "It is a normal part of forming a team and will resolve itself."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Personal attacks and long duration indicate a later, escalated conflict stage that requires intentional resolution.",
+    "correctOptionId": "c",
+    "explanation": "Personal remarks and a conflict that has persisted for weeks indicate a later, escalated stage that requires active intervention. Saying it is early and can be ignored, blaming the project charter, or assuming it will resolve itself minimizes clear warning signs and delays needed action.",
     "difficulty": "medium",
     "topics": [
       "conflict stages",
       "escalation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-007",
@@ -230,12 +242,14 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "Examining decisions and speaking with participants helps you infer whether the tension comes from scope, roles, or priorities.",
+    "explanation": "Reviewing recent decisions and speaking with key participants helps you see patterns in scope, roles, or priorities that may be creating tension. Assuming it is just schedule pressure, adopting the sponsor's explanation without investigation, or re-baselining the schedule immediately bypasses proper analysis and can misdiagnose the conflict.",
     "difficulty": "medium",
     "topics": [
       "stakeholder communication",
       "conflict source"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-008",
@@ -251,7 +265,7 @@
         "label": "The stakeholder engagement plan to see who attended meetings."
       },
       {
-        "id": "b",
+        "id": "d",
         "label": "The risk register and decision log that record approved responses."
       },
       {
@@ -259,17 +273,19 @@
         "label": "The project schedule to see when tasks were planned."
       },
       {
-        "id": "d",
+        "id": "b",
         "label": "The procurement management plan for vendor responsibilities."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Risk and decision logs clarify what was agreed, helping you see if the conflict stems from misunderstanding or missing approvals.",
+    "correctOptionId": "d",
+    "explanation": "Checking the risk register and decision log shows which responses were formally approved, clarifying whether the disagreement comes from missing authorization or miscommunication. Looking only at the stakeholder engagement plan, project schedule, or procurement management plan does not directly answer whether the risk response was authorized.",
     "difficulty": "medium",
     "topics": [
       "risk register",
       "decision log"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-009",
@@ -285,7 +301,7 @@
         "label": "Remind them that decisions are made by senior team members only."
       },
       {
-        "id": "b",
+        "id": "d",
         "label": "Ask open-ended questions to understand how often they were invited and how they perceived interactions."
       },
       {
@@ -293,17 +309,19 @@
         "label": "Immediately rotate them off the project to avoid further disruption."
       },
       {
-        "id": "d",
+        "id": "b",
         "label": "Ask them to document all complaints in a formal risk log."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Exploring their experiences helps identify whether the issue is about inclusion, communication, or role clarity.",
+    "correctOptionId": "d",
+    "explanation": "Asking open questions about invitations and interactions helps you understand whether the issue is inclusion, communication, or role clarity so you can respond appropriately. Telling the person that only senior members decide, immediately rotating them off the project, or pushing them to file formal complaints treats symptoms and can further damage trust.",
     "difficulty": "easy",
     "topics": [
       "inclusion",
       "conflict source"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-010",
@@ -319,7 +337,7 @@
         "label": "The conflict is driven by personal dislike between team members."
       },
       {
-        "id": "b",
+        "id": "d",
         "label": "The conflict source is disagreement over the value of paying down technical debt."
       },
       {
@@ -327,17 +345,19 @@
         "label": "The conflict is unrelated to project work and can be ignored."
       },
       {
-        "id": "d",
+        "id": "b",
         "label": "The conflict indicates a need to change the project sponsor."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "A recurring trigger tied to a specific topic points to a task-level disagreement about value and priorities.",
+    "correctOptionId": "d",
+    "explanation": "Seeing conflict only when technical debt is discussed points to a disagreement about the value of paying down debt versus delivering new work. Assuming it is personal dislike, claiming it is unrelated to project work, or blaming the sponsor ignores the clear pattern tied to a specific topic.",
     "difficulty": "medium",
     "topics": [
       "patterns",
       "technical debt"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-011",
@@ -353,7 +373,7 @@
         "label": "As a sign that all conflicts have been resolved successfully."
       },
       {
-        "id": "b",
+        "id": "d",
         "label": "As an indicator that unresolved conflict is affecting psychological safety."
       },
       {
@@ -361,17 +381,19 @@
         "label": "As a normal phase of team development that requires no action."
       },
       {
-        "id": "d",
+        "id": "b",
         "label": "As evidence that the project scope is too complex."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Withdrawal after conflict often signals reduced safety and unresolved tension, which you must recognize and address.",
+    "correctOptionId": "d",
+    "explanation": "Withdrawal from discussions after a heated conflict is a sign that unresolved issues are harming psychological safety and participation. Interpreting this as proof that conflicts are resolved, as a normal phase needing no action, or as evidence that scope is too complex overlooks the impact on team climate.",
     "difficulty": "medium",
     "topics": [
       "psychological safety",
       "conflict impact"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-012",
@@ -400,12 +422,14 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "Differences in understanding of requirements often drive conflict and should be examined first.",
+    "explanation": "Examining how each group understood acceptance criteria and business value targets the likely source of conflict in differing requirements interpretations. Comparing charge-out rates, worrying about the exact document template, or trying to hide the conflict from the sponsor does not address the misunderstanding about requirements.",
     "difficulty": "easy",
     "topics": [
       "requirements clarity",
       "conflict source"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-013",
@@ -434,12 +458,14 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "Conflict that moves from facts to personal attacks indicates escalation that must be recognized.",
+    "explanation": "Watching whether the discussion stays fact-based or shifts to questioning competence tells you whether the conflict is escalating from task to personal. Tracking invoice timing, diagram updates, or contract end dates may matter to delivery but does not reveal the conflict stage between the individuals.",
     "difficulty": "medium",
     "topics": [
       "vendor management",
       "conflict stages"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-014",
@@ -455,7 +481,7 @@
         "label": "It is likely minor because it appears late in the schedule."
       },
       {
-        "id": "b",
+        "id": "d",
         "label": "It may be more intense because pressure is high near release."
       },
       {
@@ -463,17 +489,19 @@
         "label": "It is irrelevant because test coverage is a technical concern."
       },
       {
-        "id": "d",
+        "id": "b",
         "label": "It means the original requirements were not approved."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Conflicts close to deadlines often involve higher emotion and urgency and need careful handling.",
+    "correctOptionId": "d",
+    "explanation": "A conflict about test coverage close to a major release is likely to be more intense because deadline pressure heightens emotion and perceived risk. Assuming it is minor because it appears late, dismissing coverage as irrelevant, or blaming unapproved requirements misreads why the timing matters.",
     "difficulty": "medium",
     "topics": [
       "schedule pressure",
       "conflict intensity"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-015",
@@ -489,7 +517,7 @@
         "label": "The resource calendars for each lead."
       },
       {
-        "id": "b",
+        "id": "d",
         "label": "The RACI or role descriptions to see how responsibilities are defined."
       },
       {
@@ -497,17 +525,19 @@
         "label": "The procurement contracts with external vendors."
       },
       {
-        "id": "d",
+        "id": "b",
         "label": "The organization-wide vacation policy."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "Examining role definitions helps you confirm whether the conflict source is overlapping responsibilities.",
+    "correctOptionId": "d",
+    "explanation": "Reviewing the RACI or role descriptions shows how responsibilities are defined and whether overlapping roles are causing the conflict. Looking at resource calendars, vendor contracts, or the general vacation policy does not clarify who is accountable for which decisions.",
     "difficulty": "easy",
     "topics": [
       "roles and responsibilities",
       "RACI"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-016",
@@ -536,12 +566,14 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "Repeated conflict around overtime often points to concerns about fairness, workload, and personal time.",
+    "explanation": "Conflicts that flare whenever overtime is requested often stem from concerns about compensation, workload, and work-life balance. Focusing on software tools, seating arrangements, or branding guidelines ignores the fairness and personal impact issues driving the tension.",
     "difficulty": "medium",
     "topics": [
       "workload",
       "work-life balance"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-017",
@@ -570,12 +602,14 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "Sarcasm and side comments can signal brewing interpersonal conflict that you need to recognize.",
+    "explanation": "Sarcastic private messages after a failed deployment suggest frustration and that the conflict may be shifting from the issue itself to judgments about people. Interpreting this as high psychological safety, full acceptance of the failure, or readiness to celebrate misreads the warning signs in the behavior.",
     "difficulty": "medium",
     "topics": [
       "team behavior",
       "conflict signals"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-018",
@@ -604,12 +638,14 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "Using the project manager as a go-between can indicate avoidance and a deeper conflict stage.",
+    "explanation": "When senior engineers use you as a go-between instead of speaking directly, it signals avoidance and a deeper, escalating conflict that needs to be addressed. Assuming the conflict is resolved, claiming it shows effective collaboration, or blaming the schedule ignores the relational problem.",
     "difficulty": "medium",
     "topics": [
       "avoidance",
       "conflict stages"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-019",
@@ -638,12 +674,14 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "Individual discussions and review of prior decisions provide context on how long conflicts have existed and what drives them.",
+    "explanation": "One-on-one conversations combined with a review of past decisions and escalations give you context about how long conflicts have existed and what drives them. Demanding written complaints immediately, cancelling all meetings, or replacing the whole team are extreme reactions that do not first seek to understand the source and stage.",
     "difficulty": "hard",
     "topics": [
       "transition",
       "conflict diagnosis"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-020",
@@ -672,12 +710,14 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "Conflicts over budget often reflect underlying concerns about fairness and incentives that must be understood.",
+    "explanation": "Analyzing historical budget allocations, incentives, and perceived fairness helps you see whether structural or political factors are driving the conflict between departments. Looking at spreadsheet colors, office locations, or the number of meetings does not uncover the underlying concerns about equity and resources.",
     "difficulty": "hard",
     "topics": [
       "budget",
       "organizational politics"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-021",
@@ -706,12 +746,14 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "A long history of rivalry suggests an entrenched conflict that may need structured resolution beyond the project manager.",
+    "explanation": "A long history of rivalry indicates an entrenched interpersonal conflict that may require escalation or formal mediation beyond routine project management. Treating it as a new, simple task dispute, ignoring it as unrelated to the project, or rewriting the charter misses how deep and persistent the relationship issue is.",
     "difficulty": "hard",
     "topics": [
       "interpersonal conflict",
       "mediation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-022",
@@ -740,12 +782,14 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "The specific trigger suggests a value conflict between compliance and innovation that must be acknowledged.",
+    "explanation": "If conflict appears only when regulatory work competes with new features, the likely source is different views on the value of compliance versus innovation. Preferences for meeting rooms, messaging tools, or dress code are peripheral and do not explain why tension spikes around regulatory prioritization.",
     "difficulty": "hard",
     "topics": [
       "compliance",
       "value conflict"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-023",
@@ -774,12 +818,14 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "Organizational changes can introduce new incentives and power dynamics that create conflict.",
+    "explanation": "A shift from collaboration to competition for visibility after a reorganization suggests new incentives and reporting lines are driving conflict. Concluding that project objectives are met, assuming no one understands requirements, or blaming the work breakdown structure ignores how structural changes alter behavior.",
     "difficulty": "hard",
     "topics": [
       "organizational change",
       "conflict source"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-024",
@@ -808,12 +854,14 @@
       }
     ],
     "correctOptionId": "b",
-    "explanation": "Nonverbal cues like eye-rolling indicate an ongoing, passive conflict that affects respect and collaboration.",
+    "explanation": "Eye-rolling and side conversations when a stakeholder speaks are nonverbal signs of a passive, undermining stage of conflict that is damaging trust. Claiming there is no conflict, treating it as purely technical, or assuming it has ended overlooks the disrespect and continuing tension.",
     "difficulty": "hard",
     "topics": [
       "nonverbal cues",
       "conflict observation"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   },
   {
     "id": "q-people-1-1-025",
@@ -842,11 +890,13 @@
       }
     ],
     "correctOptionId": "a",
-    "explanation": "Reviewing escalations and speaking with stakeholders helps you understand both the origins and current stage of conflict.",
+    "explanation": "Reviewing escalation logs and meeting with key parties quickly gives you insight into both the origins and current stage of conflicts so you can plan a response. Cancelling escalations, ignoring them, or freezing the budget are reactive moves that do not first build understanding and may worsen stakeholder relationships.",
     "difficulty": "hard",
     "topics": [
       "escalation history",
       "conflict diagnosis"
-    ]
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   }
 ]
