@@ -2,6 +2,7 @@
   {
     "id": "q-001",
     "domainId": "people",
+    "taskId": "people-1",
     "text": "A cross-functional team is forming and members are uncertain about responsibilities. What should the project manager do first?",
     "options": [
       { "id": "a", "label": "Assign tasks based on prior titles" },
@@ -10,11 +11,12 @@
       { "id": "d", "label": "Delay decisions until risks are logged" }
     ],
     "correctOptionId": "b",
-    "explanation": "Early clarity on roles and norms reduces friction and accelerates team formation."
+    "explanation": "Option b is correct because facilitating a working agreement and clarifying roles directly addresses the uncertainty and sets shared expectations for how the team will work. Option a is incorrect because assigning tasks based only on prior titles ignores the current project context and may reinforce silos. Option c is incorrect because escalating to the sponsor before trying to resolve the issue within the team undermines team ownership. Option d is incorrect because delaying decisions leaves the conflict and confusion unaddressed, slowing team formation."
   },
   {
     "id": "q-002",
     "domainId": "people",
+    "taskId": "people-2",
     "text": "A stakeholder frequently interrupts sprint reviews with new requests. How should the project manager respond?",
     "options": [
       { "id": "a", "label": "Redirect them to backlog refinement and priorities" },
@@ -23,11 +25,12 @@
       { "id": "d", "label": "Raise a change control for every suggestion immediately" }
     ],
     "correctOptionId": "a",
-    "explanation": "Use the backlog and refinement to capture requests and keep review cadence focused."
+    "explanation": "Option a is correct because redirecting new requests into backlog refinement and prioritization respects the stakeholder’s input while protecting the purpose and timebox of the sprint review. Option b is incorrect because extending the meeting to handle all new ideas derails the review and reduces focus. Option c is incorrect because removing the stakeholder harms engagement and does not address the underlying need. Option d is incorrect because raising formal change control for every suggestion immediately is inefficient and bypasses the product backlog as the primary intake mechanism."
   },
   {
     "id": "q-003",
     "domainId": "people",
+    "taskId": "people-2",
     "text": "Team members report conflicting priorities from functional managers. What is the best action?",
     "options": [
       { "id": "a", "label": "Document the conflict and continue as planned" },
@@ -36,11 +39,12 @@
       { "id": "d", "label": "Escalate to HR for resolution" }
     ],
     "correctOptionId": "b",
-    "explanation": "Engage stakeholders to align priorities and reduce conflicting directives."
+    "explanation": "Option b is correct because facilitating a priority alignment session with the relevant managers and stakeholders surfaces conflicts and leads to a common understanding of priorities. Option a is incorrect because documenting the conflict without resolving it leaves the team stuck between competing directions. Option c is incorrect because asking the team to work overtime treats the symptom, not the root cause of conflicting priorities. Option d is incorrect because escalating directly to HR reframes a work-prioritization issue as a personnel problem, which is not appropriate at this stage."
   },
   {
     "id": "q-004",
     "domainId": "process",
+    "taskId": "process-2",
     "text": "A deliverable fails quality checks late in the iteration. What should the project manager have done to prevent this?",
     "options": [
       { "id": "a", "label": "Shorten the sprint duration" },
@@ -49,11 +53,12 @@
       { "id": "d", "label": "Assign a dedicated tester after development" }
     ],
     "correctOptionId": "b",
-    "explanation": "Define acceptance criteria and integrate quality gates earlier to catch issues sooner."
+    "explanation": "Option b is correct because adding in-line quality gates and clear acceptance criteria builds quality into the process and reduces late surprises. Option a is incorrect because shortening the sprint duration alone does not address the underlying lack of quality checks. Option c is incorrect because simply increasing buffer time accepts defects as inevitable instead of preventing them. Option d is incorrect because assigning a dedicated tester after development moves quality to the end rather than integrating it throughout the workflow."
   },
   {
     "id": "q-005",
     "domainId": "process",
+    "taskId": "process-1",
     "text": "The team is planning a release with multiple dependencies. What tool is most appropriate to visualize and manage them?",
     "options": [
       { "id": "a", "label": "Burnup chart" },
@@ -62,11 +67,12 @@
       { "id": "d", "label": "RACI matrix" }
     ],
     "correctOptionId": "b",
-    "explanation": "A dependency-focused view (Gantt/board) helps sequence and track interrelated work."
+    "explanation": "Option b is correct because a Gantt chart or dependency board visualizes sequencing and interdependencies, which is critical when managing multiple related tasks. Option a is incorrect because a burnup chart tracks scope completion over time, not detailed dependencies. Option c is incorrect because a risk probability matrix is useful for risk analysis, not for mapping task dependencies. Option d is incorrect because a RACI matrix clarifies roles and responsibilities, not the order and linkage of work."
   },
   {
     "id": "q-006",
     "domainId": "process",
+    "taskId": "process-1",
     "text": "Scope changes are requested mid-iteration. What should the project manager do?",
     "options": [
       { "id": "a", "label": "Reject all changes to protect schedule" },
@@ -75,11 +81,12 @@
       { "id": "d", "label": "Pause work until a new charter is signed" }
     ],
     "correctOptionId": "b",
-    "explanation": "Assess scope, cost, and schedule impact, then process changes through the agreed mechanism."
+    "explanation": "Option b is correct because evaluating impact and routing changes through the agreed change control or backlog process balances flexibility with control. Option a is incorrect because rejecting all changes can prevent the project from adapting to legitimate needs. Option c is incorrect because informally absorbing changes without analysis risks scope creep and hidden impacts. Option d is incorrect because pausing work until a new charter is signed is disproportionate to typical mid-iteration changes and causes unnecessary delay."
   },
   {
     "id": "q-007",
     "domainId": "business",
+    "taskId": "business-1",
     "text": "Midway through delivery, benefits metrics show declining value. What is the best next step?",
     "options": [
       { "id": "a", "label": "Continue the plan to avoid sunk cost" },
@@ -88,11 +95,12 @@
       { "id": "d", "label": "Replace the team lead" }
     ],
     "correctOptionId": "b",
-    "explanation": "Reassess with stakeholders and adjust to restore value delivery."
+    "explanation": "Option b is correct because engaging stakeholders to pivot scope or approach uses current benefits data to realign the project with value. Option a is incorrect because continuing the original plan just to avoid sunk cost ignores evidence that value is declining. Option c is incorrect because freezing spending without analysis may harm necessary work and does not solve the underlying problem. Option d is incorrect because replacing the team lead assumes the issue is performance rather than misaligned benefits."
   },
   {
     "id": "q-008",
     "domainId": "business",
+    "taskId": "business-2",
     "text": "A regulatory update affects part of the solution. What should the project manager do first?",
     "options": [
       { "id": "a", "label": "Ignore it until testing" },
@@ -101,11 +109,12 @@
       { "id": "d", "label": "Assign extra documentation tasks to the team" }
     ],
     "correctOptionId": "b",
-    "explanation": "Capture the risk, engage SMEs early, and plan updates to remain compliant."
+    "explanation": "Option b is correct because logging the change as a risk and informing the compliance SME ensures it is tracked and expert guidance is applied early. Option a is incorrect because ignoring the update until testing creates a high likelihood of late, costly rework or noncompliance. Option c is incorrect because halting all releases immediately may be excessive before understanding impact and options. Option d is incorrect because assigning extra documentation tasks alone does not ensure that the solution design itself remains compliant."
   },
   {
     "id": "q-009",
     "domainId": "business",
+    "taskId": "business-1",
     "text": "A sponsor wants to cut training to save costs. What is the best response?",
     "options": [
       { "id": "a", "label": "Agree to show partnership" },
@@ -114,11 +123,12 @@
       { "id": "d", "label": "Hide training costs in another budget line" }
     ],
     "correctOptionId": "b",
-    "explanation": "Clarify value loss and negotiate options that protect benefits realization."
+    "explanation": "Option b is correct because explaining how cutting training harms adoption and offering alternatives maintains focus on benefits while addressing cost concerns. Option a is incorrect because agreeing without discussion sacrifices long-term value for short-term savings. Option c is incorrect because escalating immediately bypasses the chance to directly address the sponsor’s concern. Option d is incorrect because hiding training costs in another budget line is unethical and violates transparency."
   },
   {
     "id": "q-010",
     "domainId": "people",
+    "taskId": "people-1",
     "text": "A team member is consistently late to daily standups. What is the best action?",
     "options": [
       { "id": "a", "label": "Remove them from the team" },
@@ -127,11 +137,12 @@
       { "id": "d", "label": "File a formal HR complaint immediately" }
     ],
     "correctOptionId": "b",
-    "explanation": "Private conversation to understand blockers and reinforce team agreements is the right first step."
+    "explanation": "Option b is correct because a private conversation helps uncover root causes and reinforces expectations without shaming the team member. Option a is incorrect because removing them from the team is a severe response that does not attempt to understand or resolve the issue. Option c is incorrect because extending the standup undermines its purpose and may not address the lateness. Option d is incorrect because escalating directly to HR is premature for a behavioral issue that can usually be handled by the project manager."
   },
   {
     "id": "q-011",
     "domainId": "process",
+    "taskId": "process-1",
     "text": "Velocity has slowed over the last three sprints. What should the project manager do?",
     "options": [
       { "id": "a", "label": "Set a higher target velocity" },
@@ -140,11 +151,12 @@
       { "id": "d", "label": "Shorten standups" }
     ],
     "correctOptionId": "b",
-    "explanation": "Use retrospectives and WIP/estimate adjustments to address underlying causes."
+    "explanation": "Option b is correct because examining root causes with the team and adjusting WIP and estimates addresses systemic flow issues. Option a is incorrect because simply setting a higher target velocity ignores real capacity and can demotivate the team. Option c is incorrect because adding more scope to create urgency increases pressure without solving the slowdown. Option d is incorrect because shortening standups alone will not significantly affect throughput or address deeper issues."
   },
   {
     "id": "q-012",
     "domainId": "process",
+    "taskId": "process-2",
     "text": "Which action best supports continuous delivery of value?",
     "options": [
       { "id": "a", "label": "Batch releases quarterly" },
@@ -153,11 +165,12 @@
       { "id": "d", "label": "Freeze the backlog" }
     ],
     "correctOptionId": "b",
-    "explanation": "Automation enables smaller, frequent releases and faster feedback."
+    "explanation": "Option b is correct because automating build, test, and deploy pipelines supports frequent, reliable releases and faster feedback loops. Option a is incorrect because batching releases quarterly increases batch size and delays value. Option c is incorrect because relying entirely on manual testers slows delivery and is error-prone. Option d is incorrect because freezing the backlog stops adaptation and does not support continuous value delivery."
   },
   {
     "id": "q-013",
     "domainId": "business",
+    "taskId": "business-1",
     "text": "A key assumption proves false, reducing expected ROI. What is the first thing to do?",
     "options": [
       { "id": "a", "label": "Update the benefits register and reassess options" },
@@ -166,11 +179,12 @@
       { "id": "d", "label": "Increase scope to compensate" }
     ],
     "correctOptionId": "a",
-    "explanation": "Revisit the benefits case and evaluate pivot/continue options with stakeholders."
+    "explanation": "Option a is correct because updating the benefits register and reassessing options formally captures the change in value and informs decisions with stakeholders. Option b is incorrect because ignoring the change risks delivering a product that no longer justifies its investment. Option c is incorrect because cancelling the project immediately may be premature without exploring alternatives. Option d is incorrect because increasing scope without revisiting benefits can increase cost without restoring value."
   },
   {
     "id": "q-014",
     "domainId": "people",
+    "taskId": "people-1",
     "text": "How can psychological safety be increased during retrospectives?",
     "options": [
       { "id": "a", "label": "Anonymous blame boards" },
@@ -179,11 +193,12 @@
       { "id": "d", "label": "Hold retros once per quarter" }
     ],
     "correctOptionId": "b",
-    "explanation": "Agreements and process focus encourage candid, blame-free discussion."
+    "explanation": "Option b is correct because setting working agreements and focusing on process, not individuals, creates a safe environment for honest discussion. Option a is incorrect because anonymous blame boards encourage finger-pointing rather than learning. Option c is incorrect because inviting only managers limits diverse perspectives and may suppress openness. Option d is incorrect because holding retros infrequently reduces opportunities to inspect and adapt team behavior."
   },
   {
     "id": "q-015",
     "domainId": "process",
+    "taskId": "process-1",
     "text": "A risk is realized and impacts the critical path. What should the project manager do first?",
     "options": [
       { "id": "a", "label": "Update the issue log and execute the response plan" },
@@ -192,11 +207,12 @@
       { "id": "d", "label": "Notify audit immediately" }
     ],
     "correctOptionId": "a",
-    "explanation": "Move the risk to the issue log and execute the predefined response."
+    "explanation": "Option a is correct because once a risk materializes, it becomes an issue that should be logged and addressed using the planned response. Option b is incorrect because waiting until a later status meeting delays necessary action on a critical-path issue. Option c is incorrect because relying on overtime without a structured response can lead to burnout and inconsistent results. Option d is incorrect because notifying audit immediately is not usually the first operational step for handling a realized risk."
   },
   {
     "id": "q-016",
     "domainId": "business",
+    "taskId": "business-1",
     "text": "The product owner wants to prioritize features with the highest Net Present Value (NPV). What is the best approach?",
     "options": [
       { "id": "a", "label": "Sequence by lowest cost first" },
@@ -205,11 +221,12 @@
       { "id": "d", "label": "Ignore NPV and focus on risk items only" }
     ],
     "correctOptionId": "b",
-    "explanation": "Use NPV as a prioritization factor while considering dependencies."
+    "explanation": "Option b is correct because ordering the backlog by relative NPV while considering dependencies aligns delivery with highest economic value. Option a is incorrect because choosing lowest cost items first does not optimize long-term value. Option c is incorrect because doing only low-value items wastes capacity and delays high-impact work. Option d is incorrect because ignoring NPV discards a key input for value-based prioritization."
   },
   {
     "id": "q-017",
     "domainId": "people",
+    "taskId": "people-1",
     "text": "A new team member joins mid-project. What should the project manager do to integrate them effectively?",
     "options": [
       { "id": "a", "label": "Assign the toughest task immediately" },
@@ -218,11 +235,12 @@
       { "id": "d", "label": "Delay their involvement until the next phase" }
     ],
     "correctOptionId": "b",
-    "explanation": "Structured onboarding and pairing accelerates integration and reduces friction."
+    "explanation": "Option b is correct because onboarding, clarifying roles, and pairing with a buddy support faster integration and reduce confusion. Option a is incorrect because assigning the toughest task immediately can overwhelm the new member and increase risk. Option c is incorrect because relying solely on documentation ignores the benefits of social integration and coaching. Option d is incorrect because delaying involvement wastes capacity and slows learning."
   },
   {
     "id": "q-018",
     "domainId": "process",
+    "taskId": "process-2",
     "text": "Which metric best indicates flow efficiency in a Kanban system?",
     "options": [
       { "id": "a", "label": "Number of defects" },
@@ -231,11 +249,12 @@
       { "id": "d", "label": "Budget variance" }
     ],
     "correctOptionId": "b",
-    "explanation": "Cycle time and WIP show how smoothly work moves through the system."
+    "explanation": "Option b is correct because cycle time and WIP directly reflect how efficiently work flows through the system. Option a is incorrect because defect count measures quality but not overall flow efficiency. Option c is incorrect because team size alone does not indicate how effectively work moves. Option d is incorrect because budget variance is a cost metric, not a flow metric."
   },
   {
     "id": "q-019",
     "domainId": "business",
+    "taskId": "business-1",
     "text": "Which artifact helps connect project outputs to strategic objectives?",
     "options": [
       { "id": "a", "label": "Communications plan" },
@@ -244,11 +263,12 @@
       { "id": "d", "label": "Team charter" }
     ],
     "correctOptionId": "b",
-    "explanation": "Benefits management plan ties outputs to expected outcomes and strategic goals."
+    "explanation": "Option b is correct because the benefits management plan explicitly links project outputs to expected outcomes and organizational objectives. Option a is incorrect because the communications plan focuses on information flows, not strategic benefit alignment. Option c is incorrect because the issue log tracks current problems rather than strategic connections. Option d is incorrect because the team charter defines how the team will work together, not how outputs tie to strategy."
   },
   {
     "id": "q-020",
     "domainId": "process",
+    "taskId": "process-1",
     "text": "A sponsor asks for a status summary focused on value delivery. Which artifact is most appropriate?",
     "options": [
       { "id": "a", "label": "Detailed work breakdown structure" },
@@ -257,6 +277,1706 @@
       { "id": "d", "label": "Team velocity chart" }
     ],
     "correctOptionId": "b",
-    "explanation": "Summaries that connect increments to value/benefits best answer value-focused status requests."
+    "explanation": "Option b is correct because an incremental value roadmap or benefits dashboard highlights how releases deliver value over time, matching the sponsor’s focus. Option a is incorrect because a detailed WBS emphasizes tasks and structure rather than value outcomes. Option c is incorrect because a risk-only view omits progress on benefits and delivered value. Option d is incorrect because a velocity chart shows throughput, not directly the value realized by the sponsor."
+  },
+  {
+    "id": "q-people-1-1-001",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "Two team members are arguing about who owns a defect. What should the project manager do first to interpret the source and stage of this conflict?",
+    "options": [
+      { "id": "a", "label": "Assign blame based on the defect log entry." },
+      { "id": "b", "label": "Meet with each person separately to understand perspectives and triggers." },
+      { "id": "c", "label": "Escalate the issue to the functional manager immediately." },
+      { "id": "d", "label": "Move the team members to different workstreams without discussion." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Private conversations help you understand interests, triggers, and history before choosing a resolution strategy.",
+    "difficulty": "easy",
+    "topics": ["conflict management", "source of conflict"]
+  },
+  {
+    "id": "q-people-1-1-002",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A developer and a tester are disagreeing during a retrospective about whether a story was truly done. How can the project manager best interpret the source of this conflict?",
+    "options": [
+      { "id": "a", "label": "Ask the product owner to declare a winner so the meeting can move on." },
+      { "id": "b", "label": "Review the Definition of Done and clarify how each person interpreted it." },
+      { "id": "c", "label": "Extend the meeting until both parties agree entirely." },
+      { "id": "d", "label": "Remove the story from the sprint and cancel the retrospective." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Comparing each person’s interpretation of shared agreements reveals whether the conflict stems from unclear expectations.",
+    "difficulty": "medium",
+    "topics": ["definition of done", "conflict source"]
+  },
+  {
+    "id": "q-people-1-1-003",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "Repeated disagreements over priorities suggest a deeper conflict between two senior team members. What should the project manager analyze first?",
+    "options": [
+      { "id": "a", "label": "Whether the team members are following the issue escalation process." },
+      { "id": "b", "label": "Whether the conflict is about resources, recognition, or decision authority." },
+      { "id": "c", "label": "Whether both team members attended the last town hall meeting." },
+      { "id": "d", "label": "Whether the project communications plan was approved by the sponsor." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Understanding if the conflict is about resources, recognition, or authority helps determine the appropriate conflict resolution technique.",
+    "difficulty": "medium",
+    "topics": ["conflict source", "team dynamics"]
+  },
+  {
+    "id": "q-people-1-1-004",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A conflict between a senior architect and a junior developer appears suddenly during a design review. To interpret the stage of this conflict, what should the project manager do?",
+    "options": [
+      { "id": "a", "label": "Ask the architect to stop the discussion until after the meeting." },
+      { "id": "b", "label": "Observe whether the disagreement is still about the problem or has shifted to personal attacks." },
+      { "id": "c", "label": "Immediately reassign the developer to a different project." },
+      { "id": "d", "label": "Send an email to HR requesting mediation." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Determining whether the conflict is still task-focused or has escalated to personal conflict indicates the stage and urgency.",
+    "difficulty": "medium",
+    "topics": ["conflict stages", "observation"]
+  },
+  {
+    "id": "q-people-1-1-005",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "During sprint planning, team members disagree about story estimates. The discussion is lively but still respectful. How should the project manager interpret this conflict?",
+    "options": [
+      { "id": "a", "label": "As a healthy difference of opinion that can improve estimates." },
+      { "id": "b", "label": "As a serious interpersonal conflict that requires HR intervention." },
+      { "id": "c", "label": "As evidence that the team is not capable of self-organization." },
+      { "id": "d", "label": "As a reason to cancel the sprint planning meeting immediately." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respectful debate about estimates is a normal, early-stage task conflict that can improve planning.",
+    "difficulty": "easy",
+    "topics": ["healthy conflict", "estimation"]
+  },
+  {
+    "id": "q-people-1-1-006",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A conflict over resource allocation has existed for several weeks and now includes personal remarks in emails. What does this suggest about the stage of the conflict?",
+    "options": [
+      { "id": "a", "label": "It is at an early stage and can be ignored." },
+      { "id": "b", "label": "It has escalated beyond task disagreement and needs active intervention." },
+      { "id": "c", "label": "It indicates the project charter is incomplete." },
+      { "id": "d", "label": "It is a normal part of forming a team and will resolve itself." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Personal attacks and long duration indicate a later, escalated conflict stage that requires intentional resolution.",
+    "difficulty": "medium",
+    "topics": ["conflict stages", "escalation"]
+  },
+  {
+    "id": "q-people-1-1-007",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A sponsor notices tension in meetings and asks you what is driving it. What is the best way to interpret the conflict source before responding?",
+    "options": [
+      { "id": "a", "label": "Review recent decision logs and talk with key participants to identify themes." },
+      { "id": "b", "label": "Assume the tension is due to schedule pressure and assure the sponsor it is normal." },
+      { "id": "c", "label": "Ask the sponsor for their opinion and adopt it as the explanation." },
+      { "id": "d", "label": "Immediately re-baseline the schedule without further analysis." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Examining decisions and speaking with participants helps you infer whether the tension comes from scope, roles, or priorities.",
+    "difficulty": "medium",
+    "topics": ["stakeholder communication", "conflict source"]
+  },
+  {
+    "id": "q-people-1-1-008",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "Team members disagree about whether a risk response was authorized. To interpret the conflict source, which document should you review first?",
+    "options": [
+      { "id": "a", "label": "The stakeholder engagement plan to see who attended meetings." },
+      { "id": "b", "label": "The risk register and decision log that record approved responses." },
+      { "id": "c", "label": "The project schedule to see when tasks were planned." },
+      { "id": "d", "label": "The procurement management plan for vendor responsibilities." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Risk and decision logs clarify what was agreed, helping you see if the conflict stems from misunderstanding or missing approvals.",
+    "difficulty": "medium",
+    "topics": ["risk register", "decision log"]
+  },
+  {
+    "id": "q-people-1-1-009",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A new team member feels excluded from design decisions and voices frustration. What is the best first step to interpret this conflict?",
+    "options": [
+      { "id": "a", "label": "Remind them that decisions are made by senior team members only." },
+      { "id": "b", "label": "Ask open-ended questions to understand how often they were invited and how they perceived interactions." },
+      { "id": "c", "label": "Immediately rotate them off the project to avoid further disruption." },
+      { "id": "d", "label": "Ask them to document all complaints in a formal risk log." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Exploring their experiences helps identify whether the issue is about inclusion, communication, or role clarity.",
+    "difficulty": "easy",
+    "topics": ["inclusion", "conflict source"]
+  },
+  {
+    "id": "q-people-1-1-010",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "You notice that conflict arises only when technical debt stories are discussed. What does this pattern suggest?",
+    "options": [
+      { "id": "a", "label": "The conflict is driven by personal dislike between team members." },
+      { "id": "b", "label": "The conflict source is disagreement over the value of paying down technical debt." },
+      { "id": "c", "label": "The conflict is unrelated to project work and can be ignored." },
+      { "id": "d", "label": "The conflict indicates a need to change the project sponsor." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A recurring trigger tied to a specific topic points to a task-level disagreement about value and priorities.",
+    "difficulty": "medium",
+    "topics": ["patterns", "technical debt"]
+  },
+  {
+    "id": "q-people-1-1-011",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "Several quiet team members start withdrawing from discussions after a heated conflict last week. How should the project manager interpret this change?",
+    "options": [
+      { "id": "a", "label": "As a sign that all conflicts have been resolved successfully." },
+      { "id": "b", "label": "As an indicator that unresolved conflict is affecting psychological safety." },
+      { "id": "c", "label": "As a normal phase of team development that requires no action." },
+      { "id": "d", "label": "As evidence that the project scope is too complex." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Withdrawal after conflict often signals reduced safety and unresolved tension, which you must recognize and address.",
+    "difficulty": "medium",
+    "topics": ["psychological safety", "conflict impact"]
+  },
+  {
+    "id": "q-people-1-1-012",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "When a conflict arises between business analysts and developers about requirements, what should the project manager focus on first to interpret the source?",
+    "options": [
+      { "id": "a", "label": "How each group understood the acceptance criteria and business value." },
+      { "id": "b", "label": "Which group has a higher charge-out rate to the project." },
+      { "id": "c", "label": "Whether requirements were typed in a specific document template." },
+      { "id": "d", "label": "If the conflict can be hidden from the sponsor." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Differences in understanding of requirements often drive conflict and should be examined first.",
+    "difficulty": "easy",
+    "topics": ["requirements clarity", "conflict source"]
+  },
+  {
+    "id": "q-people-1-1-013",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A vendor and internal architect disagree sharply about a design approach. To interpret the stage of conflict, what should you observe?",
+    "options": [
+      { "id": "a", "label": "Whether discussions are still fact-based or have shifted to questioning competence." },
+      { "id": "b", "label": "Whether the vendor has submitted the latest invoice on time." },
+      { "id": "c", "label": "Whether the architect has updated the architecture diagrams." },
+      { "id": "d", "label": "Whether the contract end date is approaching." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Conflict that moves from facts to personal attacks indicates escalation that must be recognized.",
+    "difficulty": "medium",
+    "topics": ["vendor management", "conflict stages"]
+  },
+  {
+    "id": "q-people-1-1-014",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A conflict about test coverage arises close to a major release. What does the timing suggest about the conflict stage?",
+    "options": [
+      { "id": "a", "label": "It is likely minor because it appears late in the schedule." },
+      { "id": "b", "label": "It may be more intense because pressure is high near release." },
+      { "id": "c", "label": "It is irrelevant because test coverage is a technical concern." },
+      { "id": "d", "label": "It means the original requirements were not approved." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Conflicts close to deadlines often involve higher emotion and urgency and need careful handling.",
+    "difficulty": "medium",
+    "topics": ["schedule pressure", "conflict intensity"]
+  },
+  {
+    "id": "q-people-1-1-015",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "You suspect that a conflict between two leads is rooted in different interpretations of their roles. What should you review first?",
+    "options": [
+      { "id": "a", "label": "The resource calendars for each lead." },
+      { "id": "b", "label": "The RACI or role descriptions to see how responsibilities are defined." },
+      { "id": "c", "label": "The procurement contracts with external vendors." },
+      { "id": "d", "label": "The organization-wide vacation policy." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Examining role definitions helps you confirm whether the conflict source is overlapping responsibilities.",
+    "difficulty": "easy",
+    "topics": ["roles and responsibilities", "RACI"]
+  },
+  {
+    "id": "q-people-1-1-016",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A conflict emerges every time overtime is requested. What is the most likely conflict source to explore?",
+    "options": [
+      { "id": "a", "label": "Differences in compensation expectations, workload, and work-life balance." },
+      { "id": "b", "label": "Differences in preferred project management software tools." },
+      { "id": "c", "label": "Differences in office seating arrangements." },
+      { "id": "d", "label": "Differences in understanding of corporate branding guidelines." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Repeated conflict around overtime often points to concerns about fairness, workload, and personal time.",
+    "difficulty": "medium",
+    "topics": ["workload", "work-life balance"]
+  },
+  {
+    "id": "q-people-1-1-017",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "You notice private chat messages becoming sarcastic after a failed deployment. What does this behavior suggest?",
+    "options": [
+      { "id": "a", "label": "The team has high psychological safety." },
+      { "id": "b", "label": "Frustration is present and the conflict may be moving from issue-focused to person-focused." },
+      { "id": "c", "label": "The team has fully accepted the failure and moved on." },
+      { "id": "d", "label": "The team is ready for immediate celebrations." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Sarcasm and side comments can signal brewing interpersonal conflict that you need to recognize.",
+    "difficulty": "medium",
+    "topics": ["team behavior", "conflict signals"]
+  },
+  {
+    "id": "q-people-1-1-018",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "Two senior engineers disagree about architecture and avoid speaking directly, instead using you as a go-between. How should you interpret this behavior?",
+    "options": [
+      { "id": "a", "label": "As a sign that the conflict is resolved." },
+      { "id": "b", "label": "As a sign of avoidance and an escalating stage of conflict." },
+      { "id": "c", "label": "As a sign that they are collaborating effectively." },
+      { "id": "d", "label": "As a sign that the project schedule is too aggressive." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Using the project manager as a go-between can indicate avoidance and a deeper conflict stage.",
+    "difficulty": "medium",
+    "topics": ["avoidance", "conflict stages"]
+  },
+  {
+    "id": "q-people-1-1-019",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "You are new to a project and sense underlying tension in meetings. What is the best first step to interpret both source and stage of conflicts?",
+    "options": [
+      { "id": "a", "label": "Ask each person to submit written complaints immediately." },
+      { "id": "b", "label": "Conduct one-on-one conversations and review historical decisions and escalations." },
+      { "id": "c", "label": "Cancel all meetings until tension disappears." },
+      { "id": "d", "label": "Replace the entire team with new members." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Individual discussions and review of prior decisions provide context on how long conflicts have existed and what drives them.",
+    "difficulty": "hard",
+    "topics": ["transition", "conflict diagnosis"]
+  },
+  {
+    "id": "q-people-1-1-020",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A conflict between two departments appears during budgeting. What should you analyze to interpret the source most effectively?",
+    "options": [
+      { "id": "a", "label": "Historical budget allocations, incentives, and perceived fairness between departments." },
+      { "id": "b", "label": "The color scheme of the budgeting spreadsheet." },
+      { "id": "c", "label": "The office location of each department." },
+      { "id": "d", "label": "The number of meetings scheduled for the year." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Conflicts over budget often reflect underlying concerns about fairness and incentives that must be understood.",
+    "difficulty": "hard",
+    "topics": ["budget", "organizational politics"]
+  },
+  {
+    "id": "q-people-1-1-021",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A long-standing personal rivalry between two leaders surfaces during steering committee meetings. What does this history tell you about the conflict?",
+    "options": [
+      { "id": "a", "label": "It is a new task-related conflict that will be easy to resolve." },
+      { "id": "b", "label": "It is an entrenched interpersonal conflict that may require escalation or formal mediation." },
+      { "id": "c", "label": "It is unrelated to the project and can be ignored safely." },
+      { "id": "d", "label": "It indicates the project charter must be completely rewritten." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A long history of rivalry suggests an entrenched conflict that may need structured resolution beyond the project manager.",
+    "difficulty": "hard",
+    "topics": ["interpersonal conflict", "mediation"]
+  },
+  {
+    "id": "q-people-1-1-022",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "Conflicts appear only when prioritizing regulatory work against new features. What is the most likely conflict source?",
+    "options": [
+      { "id": "a", "label": "Differing views on the relative value of compliance work versus new features." },
+      { "id": "b", "label": "Different preferences for meeting room locations." },
+      { "id": "c", "label": "Different choices of instant messaging tools." },
+      { "id": "d", "label": "Different attitudes toward office dress code." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The specific trigger suggests a value conflict between compliance and innovation that must be acknowledged.",
+    "difficulty": "hard",
+    "topics": ["compliance", "value conflict"]
+  },
+  {
+    "id": "q-people-1-1-023",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "A previously collaborative team suddenly starts competing for visibility after a reorganization. How should you interpret this shift?",
+    "options": [
+      { "id": "a", "label": "As a clear sign that the project objectives have been met." },
+      { "id": "b", "label": "As a new conflict source driven by changed incentives and reporting lines." },
+      { "id": "c", "label": "As an indication that no one understands the requirements." },
+      { "id": "d", "label": "As a sign that the WBS needs to be decomposed further." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Organizational changes can introduce new incentives and power dynamics that create conflict.",
+    "difficulty": "hard",
+    "topics": ["organizational change", "conflict source"]
+  },
+  {
+    "id": "q-people-1-1-024",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "You observe eye-rolling and side conversations whenever a particular stakeholder speaks. What does this suggest about the conflict stage?",
+    "options": [
+      { "id": "a", "label": "There is no conflict; the team is fully engaged." },
+      { "id": "b", "label": "The conflict has moved into a passive, undermining stage that damages trust." },
+      { "id": "c", "label": "The conflict is purely technical and limited to requirements." },
+      { "id": "d", "label": "The conflict has ended and requires no action." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Nonverbal cues like eye-rolling indicate an ongoing, passive conflict that affects respect and collaboration.",
+    "difficulty": "hard",
+    "topics": ["nonverbal cues", "conflict observation"]
+  },
+  {
+    "id": "q-people-1-1-025",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-1"],
+    "text": "You are asked to step into a project with open escalations between teams. To interpret conflict sources quickly, what should you do first?",
+    "options": [
+      { "id": "a", "label": "Review escalation logs and meet key parties to understand interests and history." },
+      { "id": "b", "label": "Immediately cancel all escalations to reset the environment." },
+      { "id": "c", "label": "Ignore escalations and focus only on technical issues." },
+      { "id": "d", "label": "Freeze the budget until all conflicts disappear." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Reviewing escalations and speaking with stakeholders helps you understand both the origins and current stage of conflict.",
+    "difficulty": "hard",
+    "topics": ["escalation history", "conflict diagnosis"]
+  },
+  {
+    "id": "q-people-1-2-001",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "Two team members are arguing loudly in an open workspace and other colleagues are distracted. What is the most important contextual factor for the project manager to analyze before intervening?",
+    "options": [
+      { "id": "a", "label": "The personalities of the team members involved in the argument." },
+      { "id": "b", "label": "The impact of the conflict on team focus, safety, and current work in progress." },
+      { "id": "c", "label": "The decorations on the walls in the workspace around the argument." },
+      { "id": "d", "label": "The number of meetings scheduled for the rest of the day." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because analyzing how the conflict affects focus, safety, and work in progress helps you decide how quickly and forcefully to intervene. Option a is incorrect because personality alone does not describe the situational impact of the conflict. Option c is incorrect because wall decorations are unrelated to the conflict context. Option d is incorrect because the number of meetings later in the day does not determine the urgency or type of response needed now.",
+    "difficulty": "easy",
+    "topics": ["conflict context", "team environment"]
+  },
+  {
+    "id": "q-people-1-2-002",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict between two functional managers arises over who funds a shared resource. Before facilitating a discussion, what contextual element should the project manager analyze first?",
+    "options": [
+      { "id": "a", "label": "The organizational policies and governance that define budget ownership for shared resources." },
+      { "id": "b", "label": "The color of the Gantt chart bars used in the schedule." },
+      { "id": "c", "label": "Whether both managers use the same instant messaging platform." },
+      { "id": "d", "label": "The availability of training courses that discuss budgeting techniques." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding formal policies and governance clarifies what constraints and expectations shape the conflict. Option b is incorrect because chart color has no bearing on who should fund the resource. Option c is incorrect because messaging tools are not core to the budget disagreement. Option d is incorrect because training availability does not address the immediate context of funding responsibility.",
+    "difficulty": "medium",
+    "topics": ["organizational governance", "budget authority"]
+  },
+  {
+    "id": "q-people-1-2-003",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "During a retrospective, remote team members feel that their concerns are ignored while co-located team members dominate the conversation. Which contextual factor should the project manager examine first?",
+    "options": [
+      { "id": "a", "label": "How the facilitation approach and meeting tools may favor co-located participants over remote ones." },
+      { "id": "b", "label": "Whether the retrospective is scheduled on a Monday or Friday." },
+      { "id": "c", "label": "Whether the remote team members use laptops or desktop computers." },
+      { "id": "d", "label": "The size of the conference room table in the main office." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because facilitation and tools can create unequal participation, which is a key part of the conflict context. Option b is incorrect because the day of the week is less relevant than how the session is run. Option c is incorrect because device type rarely drives this kind of conflict. Option d is incorrect because table size is not central to remote team inclusion.",
+    "difficulty": "medium",
+    "topics": ["remote teams", "meeting facilitation"]
+  },
+  {
+    "id": "q-people-1-2-004",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict surfaces between a senior architect and a junior developer during a design review in front of stakeholders. What contextual element should the project manager consider before choosing how to respond in the meeting?",
+    "options": [
+      { "id": "a", "label": "The seniority difference and the presence of key stakeholders in the discussion." },
+      { "id": "b", "label": "The office paint color in the design review room." },
+      { "id": "c", "label": "The brand of laptops used by the architect and developer." },
+      { "id": "d", "label": "The temperature setting of the meeting room thermostat." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because power dynamics and stakeholder visibility affect how feedback should be framed and whether to pause or redirect the conversation. Option b is incorrect because paint color does not materially change the conflict situation. Option c is incorrect because hardware brands do not influence the interpersonal context. Option d is incorrect because the thermostat setting is not the primary factor in selecting a conflict response.",
+    "difficulty": "easy",
+    "topics": ["power dynamics", "stakeholder presence"]
+  },
+  {
+    "id": "q-people-1-2-005",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A product owner and a technical lead disagree about whether to include a risky feature in the next release. To analyze the conflict context, what should the project manager examine first?",
+    "options": [
+      { "id": "a", "label": "The organization’s risk tolerance, release strategy, and commitments to external stakeholders." },
+      { "id": "b", "label": "The font size used in the product backlog documentation." },
+      { "id": "c", "label": "The design of the project logo on the team wiki." },
+      { "id": "d", "label": "The physical distance between the product owner’s desk and the technical lead’s desk." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because risk tolerance, release strategy, and commitments frame what is acceptable and shape the disagreement. Option b is incorrect because font size does not affect the core risk discussion. Option c is incorrect because logo design is unrelated to risk decisions. Option d is incorrect because desk distance does not directly determine the context of release risk conflict.",
+    "difficulty": "medium",
+    "topics": ["risk tolerance", "release planning"]
+  },
+  {
+    "id": "q-people-1-2-006",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict between two team members arises after a change in performance bonus criteria. What contextual factor should the project manager analyze to understand the conflict?",
+    "options": [
+      { "id": "a", "label": "How the new incentive structure may have altered perceived fairness and priorities." },
+      { "id": "b", "label": "How many years each team member has worked in the organization." },
+      { "id": "c", "label": "Which team member has the larger office chair." },
+      { "id": "d", "label": "How many printer devices are available on the floor." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because changes in incentives and fairness often drive shifts in behavior and conflict. Option b is incorrect because tenure alone does not explain the new tension. Option c is incorrect because office chair size is not central to the conflict context. Option d is incorrect because printer availability is unrelated to bonus criteria.",
+    "difficulty": "medium",
+    "topics": ["incentives", "perceived fairness"]
+  },
+  {
+    "id": "q-people-1-2-007",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict appears between two team members from different cultural backgrounds about how feedback was delivered in a meeting. To analyze the context, what should the project manager consider?",
+    "options": [
+      { "id": "a", "label": "Differences in cultural norms around directness, hierarchy, and saving face." },
+      { "id": "b", "label": "Differences in favorite local restaurants near the office." },
+      { "id": "c", "label": "Differences in parking space assignments in the company garage." },
+      { "id": "d", "label": "Differences in preferred programming languages used in past projects." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because cultural expectations for feedback style and hierarchy significantly shape how comments are perceived. Option b is incorrect because restaurant preferences are not relevant to feedback conflict. Option c is incorrect because parking assignments are not central to this issue. Option d is incorrect because historical programming language preferences do not directly explain the feedback misunderstanding.",
+    "difficulty": "medium",
+    "topics": ["cultural context", "feedback"]
+  },
+  {
+    "id": "q-people-1-2-008",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "An operations manager and a project manager disagree on the priority of a production fix versus a feature delivery. What contextual aspect should the project manager analyze first?",
+    "options": [
+      { "id": "a", "label": "Service-level agreements, business impact of downtime, and contractual obligations." },
+      { "id": "b", "label": "The number of whiteboards available in the project room." },
+      { "id": "c", "label": "The size of the project’s shared drive storage." },
+      { "id": "d", "label": "Whether the operations manager prefers early morning meetings." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because SLAs, business impact, and contracts define how urgent the production fix is relative to new features. Option b is incorrect because whiteboard count does not affect urgency. Option c is incorrect because storage size is unrelated to the conflict. Option d is incorrect because meeting-time preference is secondary to customer and contractual impact.",
+    "difficulty": "medium",
+    "topics": ["SLAs", "business impact"]
+  },
+  {
+    "id": "q-people-1-2-009",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict emerges when one team member refuses to turn on their camera during virtual meetings, while others feel disengaged. What context should the project manager analyze?",
+    "options": [
+      { "id": "a", "label": "Team norms, psychological safety, and legitimate constraints such as bandwidth or privacy." },
+      { "id": "b", "label": "The color of the team’s virtual background images." },
+      { "id": "c", "label": "The brand of headphones used by the team member." },
+      { "id": "d", "label": "The version number of the video conferencing tool." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because norms, safety, and constraints determine whether the behavior reflects resistance, discomfort, or a practical issue. Option b is incorrect because background color is cosmetic and not central to the conflict. Option c is incorrect because headphone brand does not affect engagement. Option d is incorrect because the software version is unlikely to be the main contextual driver.",
+    "difficulty": "easy",
+    "topics": ["virtual teams", "team norms"]
+  },
+  {
+    "id": "q-people-1-2-010",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "Two developers are in conflict about code review comments that one perceives as personal criticism. To analyze the context, what should the project manager focus on?",
+    "options": [
+      { "id": "a", "label": "The tone and specificity of code review comments and the team’s agreements on feedback etiquette." },
+      { "id": "b", "label": "The exact size of each developer’s monitor." },
+      { "id": "c", "label": "The number of coffee breaks each developer takes per day." },
+      { "id": "d", "label": "The software license cost of the code repository tool." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because how feedback is written and the team’s norms shape whether reviews are experienced as supportive or personal. Option b is incorrect because monitor size is irrelevant. Option c is incorrect because coffee breaks do not define the feedback context. Option d is incorrect because repository licensing does not explain the interpersonal issue.",
+    "difficulty": "easy",
+    "topics": ["code review", "feedback norms"]
+  },
+  {
+    "id": "q-people-1-2-011",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "During a planning workshop, team members from different time zones argue about meeting times. What contextual factor is most important to analyze?",
+    "options": [
+      { "id": "a", "label": "The distribution of time zones, core hours overlap, and fairness of meeting rotation." },
+      { "id": "b", "label": "The average outside temperature in each team member’s location." },
+      { "id": "c", "label": "The brand of smartphones used by each participant." },
+      { "id": "d", "label": "The color theme of the calendar invitations." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because equitable scheduling across time zones and shared core hours is central to this conflict. Option b is incorrect because outside temperature is not key to scheduling fairness. Option c is incorrect because smartphone brand is irrelevant. Option d is incorrect because calendar color does not influence time zone conflict.",
+    "difficulty": "medium",
+    "topics": ["time zones", "meeting scheduling"]
+  },
+  {
+    "id": "q-people-1-2-012",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A disagreement arises when a security architect blocks a feature due to compliance concerns. To analyze the conflict context, what should the project manager review first?",
+    "options": [
+      { "id": "a", "label": "Applicable regulatory requirements, internal security policies, and documented risk appetite." },
+      { "id": "b", "label": "The seating arrangement in the project war room." },
+      { "id": "c", "label": "The number of slides used in the last steering committee deck." },
+      { "id": "d", "label": "The background color of the security policy documents." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because regulations, policies, and risk appetite provide the context for whether blocking the feature is justified. Option b is incorrect because seating does not explain compliance constraints. Option c is incorrect because slide count is irrelevant. Option d is incorrect because document color is not meaningful in this context.",
+    "difficulty": "medium",
+    "topics": ["compliance context", "security"]
+  },
+  {
+    "id": "q-people-1-2-013",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "The sponsor is frustrated that issues are raised late, and a conflict arises between the sponsor and team leads. What aspect of the context should the project manager analyze?",
+    "options": [
+      { "id": "a", "label": "The current escalation paths, thresholds, and expectations defined in the governance model." },
+      { "id": "b", "label": "The type of snacks available in the break room." },
+      { "id": "c", "label": "The number of chairs available in the sponsor’s office." },
+      { "id": "d", "label": "The size of the font used in project status emails." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because escalation design and expectations define when and how issues should surface, which is central to this conflict. Option b is incorrect because snacks are unrelated. Option c is incorrect because chair count does not shape escalation expectations. Option d is incorrect because font size is not the primary contextual factor.",
+    "difficulty": "medium",
+    "topics": ["governance", "escalation context"]
+  },
+  {
+    "id": "q-people-1-2-014",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "There is conflict between two teams over ownership of integration defects. To analyze context, what should the project manager look at?",
+    "options": [
+      { "id": "a", "label": "The documented boundaries of each team’s responsibilities and the integration strategy." },
+      { "id": "b", "label": "The total number of lines of code in the system." },
+      { "id": "c", "label": "The brand of version control system the teams used on prior projects." },
+      { "id": "d", "label": "The colors used in the integration status dashboard." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clearly defined ownership and integration approaches determine who is expected to handle which defects. Option b is incorrect because code volume does not define responsibility. Option c is incorrect because past tooling choices are not central here. Option d is incorrect because dashboard colors do not resolve ownership ambiguity.",
+    "difficulty": "medium",
+    "topics": ["ownership boundaries", "integration context"]
+  },
+  {
+    "id": "q-people-1-2-015",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict escalates when a change request is rejected at the change control board. What context should the project manager analyze to understand the conflict?",
+    "options": [
+      { "id": "a", "label": "The change evaluation criteria, decision rationale, and who was involved in the decision." },
+      { "id": "b", "label": "The number of pages in the original project charter." },
+      { "id": "c", "label": "The name of the template used for the change request form." },
+      { "id": "d", "label": "The brand of the projector used during the board meeting." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding how the change was evaluated and by whom clarifies whether the conflict is about fairness, process, or communication. Option b is incorrect because charter length is not central to this decision. Option c is incorrect because template name does not address the perceived fairness of the decision. Option d is incorrect because projector brand is irrelevant.",
+    "difficulty": "medium",
+    "topics": ["change control", "decision context"]
+  },
+  {
+    "id": "q-people-1-2-016",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "Two team members clash over priorities because one is measured on feature throughput and the other on defect reduction. What context should the project manager analyze?",
+    "options": [
+      { "id": "a", "label": "The alignment of individual performance metrics with shared project goals." },
+      { "id": "b", "label": "The number of team-building events held last year." },
+      { "id": "c", "label": "The model of chairs used in the cafeteria." },
+      { "id": "d", "label": "The age of the building where the team works." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because misaligned individual metrics create conflicting incentives, which is a key contextual driver. Option b is incorrect because past team-building events do not directly fix the metric misalignment. Option c is incorrect because chair model is irrelevant. Option d is incorrect because building age does not shape performance measures.",
+    "difficulty": "medium",
+    "topics": ["metrics alignment", "conflict context"]
+  },
+  {
+    "id": "q-people-1-2-017",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A vendor and internal team are in conflict over late deliverables. What contextual information should the project manager analyze?",
+    "options": [
+      { "id": "a", "label": "Contract terms, service levels, and agreed acceptance criteria." },
+      { "id": "b", "label": "The vendor’s logo design on their website." },
+      { "id": "c", "label": "The internal team’s seating arrangement on the floor plan." },
+      { "id": "d", "label": "The number of holidays in the vendor’s country." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because the contract, SLAs, and acceptance criteria define obligations and shape the disagreement. Option b is incorrect because logo design has no bearing on performance expectations. Option c is incorrect because seating arrangement is not central to vendor deliverables. Option d is incorrect because total holidays alone do not define contractual context.",
+    "difficulty": "medium",
+    "topics": ["vendor contracts", "performance context"]
+  },
+  {
+    "id": "q-people-1-2-018",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict arises when project priorities are changed by senior leadership without informing the team. What context should the project manager analyze to understand the conflict?",
+    "options": [
+      { "id": "a", "label": "The communication channels and cadence used to share strategic decisions with the team." },
+      { "id": "b", "label": "The number of plants in the project workspace." },
+      { "id": "c", "label": "The font color used in leadership emails." },
+      { "id": "d", "label": "The number of chairs in the leadership meeting room." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because inadequate communication about strategic shifts often creates frustration and conflict, so understanding channels and cadence is key. Option b is incorrect because plants do not drive this issue. Option c is incorrect because font color is cosmetic. Option d is incorrect because chair count is unrelated to how decisions are communicated.",
+    "difficulty": "easy",
+    "topics": ["communication context", "strategy changes"]
+  },
+  {
+    "id": "q-people-1-2-019",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "There is tension between a business analyst and a developer about changing requirements late in the iteration. What contextual element should the project manager analyze?",
+    "options": [
+      { "id": "a", "label": "The agreed process for handling late changes and how often it has been followed." },
+      { "id": "b", "label": "The type of notepads used in requirements workshops." },
+      { "id": "c", "label": "The color of sticky notes used on the board." },
+      { "id": "d", "label": "The style of chairs in the meeting room." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because the defined process for late changes and its adherence shape expectations and perceptions of fairness. Option b is incorrect because notepad type is trivial. Option c is incorrect because sticky note color does not drive the conflict. Option d is incorrect because chair style is irrelevant.",
+    "difficulty": "medium",
+    "topics": ["change process", "iteration context"]
+  },
+  {
+    "id": "q-people-1-2-020",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict appears when some team members frequently work from home while others must be on-site. To analyze the conflict context, what should the project manager assess?",
+    "options": [
+      { "id": "a", "label": "The organization’s remote work policies, role requirements, and perceived equity of arrangements." },
+      { "id": "b", "label": "The number of parking spaces available at the office." },
+      { "id": "c", "label": "The color of the office carpet on each floor." },
+      { "id": "d", "label": "The model of keyboards used by remote workers." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because policy, role needs, and fairness perceptions define why the arrangement is viewed as acceptable or unfair. Option b is incorrect because parking capacity may not be central to the disagreement. Option c is incorrect because carpet color does not shape remote work fairness. Option d is incorrect because keyboard models are unrelated.",
+    "difficulty": "medium",
+    "topics": ["remote work policy", "fairness context"]
+  },
+  {
+    "id": "q-people-1-2-021",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict escalates when a senior leader publicly criticizes the project’s status report. To analyze context, what should the project manager consider?",
+    "options": [
+      { "id": "a", "label": "The expectations set for reporting, how data was sourced, and how feedback is usually given in that forum." },
+      { "id": "b", "label": "The number of slides allowed in the presentation template." },
+      { "id": "c", "label": "The color of the charts used in the report." },
+      { "id": "d", "label": "The seating order in the presentation room." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because expectations, data sources, and feedback norms inform whether the criticism reflects process gaps or style mismatches. Option b is incorrect because slide limits are minor compared to expectations. Option c is incorrect because chart color is not central. Option d is incorrect because seating order is secondary.",
+    "difficulty": "hard",
+    "topics": ["leadership feedback", "reporting context"]
+  },
+  {
+    "id": "q-people-1-2-022",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "Cross-functional teams are in conflict over conflicting priorities from multiple product owners. Which contextual factor should the project manager analyze first?",
+    "options": [
+      { "id": "a", "label": "The decision-making model for prioritization and who has final authority over the backlog." },
+      { "id": "b", "label": "The number of email distribution lists used by the teams." },
+      { "id": "c", "label": "The design of the office floorplan on the intranet." },
+      { "id": "d", "label": "The length of job descriptions for each product owner." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a clear decision model and single-point accountability reduce conflicting directives. Option b is incorrect because email lists are peripheral. Option c is incorrect because floorplan design does not define authority. Option d is incorrect because job description length is less important than who ultimately decides priorities.",
+    "difficulty": "hard",
+    "topics": ["prioritization model", "authority context"]
+  },
+  {
+    "id": "q-people-1-2-023",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict arises when a project spans multiple time-bound regulatory deadlines. To analyze the conflict context between compliance and delivery leads, what should the project manager focus on?",
+    "options": [
+      { "id": "a", "label": "Which regulatory deadlines are mandatory, their penalties, and how they intersect with delivery milestones." },
+      { "id": "b", "label": "Which teams have the largest office windows." },
+      { "id": "c", "label": "Which team members prefer working near the kitchen." },
+      { "id": "d", "label": "Which conference room has the best video conferencing equipment." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding mandatory deadlines and penalties frames the trade-offs in planning. Option b is incorrect because window size is irrelevant. Option c is incorrect because kitchen proximity is not central. Option d is incorrect because equipment quality is secondary to the regulatory context.",
+    "difficulty": "hard",
+    "topics": ["regulatory deadlines", "planning context"]
+  },
+  {
+    "id": "q-people-1-2-024",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "There is ongoing conflict about how defects are prioritized versus new features. What context should the project manager analyze before proposing changes?",
+    "options": [
+      { "id": "a", "label": "The product strategy, risk tolerance, and customer expectations about quality versus new functionality." },
+      { "id": "b", "label": "The default font in the defect tracking tool." },
+      { "id": "c", "label": "The number of printers on the project floor." },
+      { "id": "d", "label": "The style of chairs in the team area." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because strategic aims, risk appetite, and customer expectations define how to balance defects and features. Option b is incorrect because tool font is cosmetic. Option c is incorrect because printers do not drive prioritization. Option d is incorrect because chair style does not shape this trade-off.",
+    "difficulty": "hard",
+    "topics": ["product strategy", "prioritization context"]
+  },
+  {
+    "id": "q-people-1-2-025",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-2"],
+    "text": "A conflict develops when some stakeholders feel they were not consulted on a major decision. To analyze the conflict context, what should the project manager review?",
+    "options": [
+      { "id": "a", "label": "The stakeholder engagement plan, communication matrix, and how stakeholders were involved in prior decisions." },
+      { "id": "b", "label": "The brand of projectors used in meeting rooms." },
+      { "id": "c", "label": "The color of the markers on the whiteboard." },
+      { "id": "d", "label": "The number of chairs available in the cafeteria." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because the engagement plan and prior involvement patterns reveal whether expectations were set and met. Option b is incorrect because projector brand is irrelevant. Option c is incorrect because marker color does not affect stakeholder inclusion. Option d is incorrect because cafeteria seating is unrelated to decision participation.",
+    "difficulty": "hard",
+    "topics": ["stakeholder engagement", "decision context"]
+  },
+  {
+    "id": "q-people-1-3-001",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "Two developers disagree about an approach but remain respectful and focused on the technical issue. What conflict resolution approach should the project manager recommend first?",
+    "options": [
+      { "id": "a", "label": "Encourage collaboration to evaluate both options and choose the best solution together." },
+      { "id": "b", "label": "Impose an immediate decision without team input to save time." },
+      { "id": "c", "label": "Avoid the discussion and hope it resolves itself." },
+      { "id": "d", "label": "Separate the developers permanently into different teams." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because collaboration leverages the strengths of both ideas when the conflict is respectful and task-focused. Option b is incorrect because imposing a decision reduces ownership and may harm motivation. Option c is incorrect because avoidance can let the disagreement resurface later. Option d is incorrect because splitting the team is an extreme measure not justified by a normal technical disagreement.",
+    "difficulty": "easy",
+    "topics": ["conflict resolution", "collaboration"]
+  },
+  {
+    "id": "q-people-1-3-002",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A senior architect and a junior engineer are in conflict, and schedule pressure is high. What is the most appropriate conflict resolution technique to recommend?",
+    "options": [
+      { "id": "a", "label": "Forcing, by having the architect’s decision stand without further discussion." },
+      { "id": "b", "label": "Compromising, by choosing the midpoint between their two designs regardless of impact." },
+      { "id": "c", "label": "Collaborating, by having them jointly evaluate options based on criteria and risks." },
+      { "id": "d", "label": "Avoiding, by postponing the decision until after the schedule pressure passes." }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because collaborating to evaluate options against clear criteria yields a higher-quality, jointly owned solution even under pressure. Option a is incorrect because forcing may resolve the conflict quickly but increases resentment and may not yield the best design. Option b is incorrect because compromising by splitting the difference can lead to a suboptimal design. Option d is incorrect because avoiding delays decisions when schedule pressure demands a timely choice.",
+    "difficulty": "medium",
+    "topics": ["conflict techniques", "collaborating"]
+  },
+  {
+    "id": "q-people-1-3-003",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict about meeting times persists despite attempts to rotate schedules. What conflict resolution solution might best reconcile interests for a globally distributed team?",
+    "options": [
+      { "id": "a", "label": "Use asynchronous updates for most topics and limit live meetings to critical decisions." },
+      { "id": "b", "label": "Require every team member to attend all meetings regardless of time." },
+      { "id": "c", "label": "Cancel all team meetings permanently." },
+      { "id": "d", "label": "Let each region run separate projects with no coordination." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because combining asynchronous updates with focused live sessions reduces burden while preserving alignment. Option b is incorrect because forcing everyone into all time slots is unsustainable and unfair. Option c is incorrect because eliminating meetings altogether undermines collaboration. Option d is incorrect because splitting projects removes necessary coordination and may fragment delivery.",
+    "difficulty": "medium",
+    "topics": ["distributed teams", "resolution options"]
+  },
+  {
+    "id": "q-people-1-3-004",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A product owner and technical lead disagree strongly about including a complex feature in the next sprint. How should the project manager recommend reconciling this conflict?",
+    "options": [
+      { "id": "a", "label": "Facilitate a discussion to compare value, risk, and technical feasibility against sprint goals." },
+      { "id": "b", "label": "Ask the team to ignore both opinions and pick a random option." },
+      { "id": "c", "label": "Immediately side with the person who speaks the loudest." },
+      { "id": "d", "label": "Cancel the sprint and restart planning from scratch." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured evaluation of value, risk, and feasibility helps reach a decision that aligns with sprint goals. Option b is incorrect because random choice ignores data and undermines trust. Option c is incorrect because rewarding loudness encourages unproductive behavior. Option d is incorrect because cancelling the sprint is drastic and wastes planning effort.",
+    "difficulty": "medium",
+    "topics": ["value vs risk", "resolution facilitation"]
+  },
+  {
+    "id": "q-people-1-3-005",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "Two senior stakeholders are in conflict about scope, and the disagreement blocks a key decision. What conflict resolution approach should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Facilitate a negotiation that focuses on shared objectives and trade-offs rather than personal preferences." },
+      { "id": "b", "label": "Ask the team to ignore both stakeholders and continue without direction." },
+      { "id": "c", "label": "Adopt whichever stakeholder has the higher organizational title without discussion." },
+      { "id": "d", "label": "Delay all decisions until the next fiscal year." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because negotiating around shared objectives and trade-offs helps align competing stakeholder interests. Option b is incorrect because proceeding without guidance risks misalignment. Option c is incorrect because defaulting to hierarchy may solve the conflict superficially but can damage relationships. Option d is incorrect because delaying decisions so long harms project momentum and value.",
+    "difficulty": "hard",
+    "topics": ["stakeholder negotiation", "resolution strategy"]
+  },
+  {
+    "id": "q-people-1-3-006",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "Two team members are in conflict about testing responsibilities, and emotions are high. What is the best immediate conflict resolution action to recommend?",
+    "options": [
+      { "id": "a", "label": "Pause the discussion, meet with them privately, and work through responsibilities and expectations calmly." },
+      { "id": "b", "label": "Force one person to accept the other’s view without discussion." },
+      { "id": "c", "label": "Ignore the conflict and hope the team resolves it without support." },
+      { "id": "d", "label": "Announce a permanent reorganization of the testing process in the middle of the argument." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because de-escalating and addressing responsibilities in a calmer setting supports a sustainable resolution. Option b is incorrect because forcing acceptance deepens resentment. Option c is incorrect because ignoring a heated conflict risks further damage to relationships and quality. Option d is incorrect because making sudden structural changes during an argument is reactive and may not be well thought out.",
+    "difficulty": "easy",
+    "topics": ["de-escalation", "role clarity"]
+  },
+  {
+    "id": "q-people-1-3-007",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict continues between two teams about ownership of integration testing. What resolution should the project manager recommend to reconcile this?",
+    "options": [
+      { "id": "a", "label": "Clarify shared ownership and establish a joint integration testing plan with agreed responsibilities." },
+      { "id": "b", "label": "Assign all integration testing to whichever team complains least." },
+      { "id": "c", "label": "Stop integration testing until the conflict fades." },
+      { "id": "d", "label": "Rotate ownership randomly each day without regard to skills." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a joint plan with explicit responsibilities reduces ambiguity and spreads ownership appropriately. Option b is incorrect because rewarding silence may overload one team unfairly. Option c is incorrect because halting integration testing increases project risk. Option d is incorrect because random rotation disregards capability and continuity.",
+    "difficulty": "medium",
+    "topics": ["integration responsibilities", "joint plans"]
+  },
+  {
+    "id": "q-people-1-3-008",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A team member feels disrespected by how feedback was delivered in a retro. What conflict resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Facilitate a conversation to agree on feedback guidelines and repair the relationship." },
+      { "id": "b", "label": "Ask the offended team member to simply ignore the situation." },
+      { "id": "c", "label": "Publicly criticize the person who gave the feedback." },
+      { "id": "d", "label": "Eliminate retrospectives entirely to avoid feedback." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because agreeing on guidelines and repairing trust addresses both process and relationship. Option b is incorrect because ignoring hurt feelings can erode psychological safety. Option c is incorrect because public criticism can create a new conflict and increase defensiveness. Option d is incorrect because removing retros prevents learning and improvement.",
+    "difficulty": "easy",
+    "topics": ["feedback agreements", "relationship repair"]
+  },
+  {
+    "id": "q-people-1-3-009",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A long-running conflict between two senior engineers is affecting delivery. What resolution approach should the project manager recommend after earlier attempts failed?",
+    "options": [
+      { "id": "a", "label": "Bring in a neutral facilitator or mediator to help them reach an agreement." },
+      { "id": "b", "label": "Force both engineers to work extended hours until they resolve it." },
+      { "id": "c", "label": "Avoid the topic entirely and focus only on technical status." },
+      { "id": "d", "label": "Assign all critical work to other team members to bypass them indefinitely." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because an impartial mediator can help break impasses and create a workable agreement. Option b is incorrect because extra hours can increase stress and worsen conflict. Option c is incorrect because avoidance has already failed and will not resolve underlying issues. Option d is incorrect because bypassing them permanently wastes expertise and leaves conflict unresolved.",
+    "difficulty": "hard",
+    "topics": ["mediation", "escalated conflict"]
+  },
+  {
+    "id": "q-people-1-3-010",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict arises over allocation of a scarce specialist across two projects. What conflict resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Facilitate a prioritization discussion with stakeholders to allocate the specialist based on value and urgency." },
+      { "id": "b", "label": "Assign the specialist randomly without involving stakeholders." },
+      { "id": "c", "label": "Let the specialist decide independently without context." },
+      { "id": "d", "label": "Refuse to allocate the specialist to any project." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because stakeholder negotiation around value and urgency provides a transparent basis for allocation. Option b is incorrect because random allocation ignores strategic priorities. Option c is incorrect because the specialist may not have full visibility into portfolio priorities. Option d is incorrect because not allocating the specialist stalls both projects.",
+    "difficulty": "medium",
+    "topics": ["resource conflicts", "prioritization"]
+  },
+  {
+    "id": "q-people-1-3-011",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict over quality standards develops between testing and development. What resolution technique should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Collaborate to define shared quality criteria, acceptance tests, and clear exit conditions." },
+      { "id": "b", "label": "Ask one side to silently accept the other’s view." },
+      { "id": "c", "label": "Avoid discussing quality to prevent further disagreements." },
+      { "id": "d", "label": "Rotate responsibility for defining standards with no input from the other group." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because jointly defining standards creates a common reference and shared accountability. Option b is incorrect because forced acceptance can breed resentment. Option c is incorrect because not discussing quality undermines outcomes. Option d is incorrect because unilateral control reduces collaboration and buy-in.",
+    "difficulty": "medium",
+    "topics": ["quality agreements", "collaborative standards"]
+  },
+  {
+    "id": "q-people-1-3-012",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict arises when a key decision is repeatedly revisited after being agreed. What conflict resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Clarify the decision, document rationale and constraints, and agree on when it can be revisited." },
+      { "id": "b", "label": "Allow the decision to be reopened at any time without structure." },
+      { "id": "c", "label": "Ignore the repeated discussions and let the team argue." },
+      { "id": "d", "label": "Remove decision-making authority from the team entirely." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because documenting rationale and revisit conditions stabilizes decisions while leaving room for change when warranted. Option b is incorrect because constant reopening erodes progress. Option c is incorrect because ignoring cycles wastes time and energy. Option d is incorrect because stripping authority reduces engagement and ownership.",
+    "difficulty": "medium",
+    "topics": ["decision stability", "conflict over decisions"]
+  },
+  {
+    "id": "q-people-1-3-013",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "After a heated disagreement, two team members avoid each other and collaboration suffers. What resolution approach should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Hold a facilitated conversation to address concerns, acknowledge impacts, and agree on future working agreements." },
+      { "id": "b", "label": "Keep them apart permanently and redesign the team structure around the conflict." },
+      { "id": "c", "label": "Tell them to \"move on\" without providing support." },
+      { "id": "d", "label": "Reassign all meaningful work to other team members indefinitely." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because facilitated dialogue and agreements help repair trust and restore collaboration. Option b is incorrect because restructuring around conflict can reward avoidance. Option c is incorrect because telling people to move on without support ignores emotional impacts. Option d is incorrect because reassigning all work sidelines them and wastes capacity.",
+    "difficulty": "hard",
+    "topics": ["relationship repair", "working agreements"]
+  },
+  {
+    "id": "q-people-1-3-014",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict between two departments over reporting lines is blocking progress. Which resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Escalate to the appropriate governance body to make a structural decision based on organizational priorities." },
+      { "id": "b", "label": "Ask the departments to ignore the issue and continue as before." },
+      { "id": "c", "label": "Decide unilaterally without informing leadership." },
+      { "id": "d", "label": "Assign reporting lines randomly and hope for acceptance." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structural conflicts often require governance-level decisions aligned with organizational design. Option b is incorrect because ignoring structural issues leaves confusion unresolved. Option c is incorrect because unilateral changes without leadership buy-in may be reversed. Option d is incorrect because random assignments lack rationale and legitimacy.",
+    "difficulty": "hard",
+    "topics": ["structural conflict", "governance resolution"]
+  },
+  {
+    "id": "q-people-1-3-015",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict emerges over whether to use a predictive or agile approach. What conflict resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Evaluate project characteristics and recommend a hybrid or single approach that best fits risk, complexity, and stakeholder needs." },
+      { "id": "b", "label": "Select whichever approach is more popular on social media." },
+      { "id": "c", "label": "Avoid the topic and let teams adopt any approach independently." },
+      { "id": "d", "label": "Change the approach weekly to satisfy everyone." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tailoring based on project needs reconciles preferences with suitability. Option b is incorrect because popularity does not determine fit. Option c is incorrect because uncoordinated methods create chaos. Option d is incorrect because constant changes undermine stability and learning.",
+    "difficulty": "medium",
+    "topics": ["method tailoring", "approach conflicts"]
+  },
+  {
+    "id": "q-people-1-3-016",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "Two teams conflict over whose features should be delivered first. What resolution approach should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Use a transparent prioritization framework such as WSJF or MoSCoW with stakeholders." },
+      { "id": "b", "label": "Flip a coin to choose the sequence." },
+      { "id": "c", "label": "Select the team that complains the most to go first." },
+      { "id": "d", "label": "Deliver features alphabetically by name." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured prioritization aligns delivery with value and risk. Option b is incorrect because random choice does not consider impact. Option c is incorrect because rewarding complaints encourages negative behavior. Option d is incorrect because alphabetical order is arbitrary.",
+    "difficulty": "medium",
+    "topics": ["prioritization frameworks", "conflict resolution"]
+  },
+  {
+    "id": "q-people-1-3-017",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict arises when one team member consistently interrupts others. Which resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Establish facilitation rules such as speaking turns and reinforce them with the team member privately." },
+      { "id": "b", "label": "Ignore the behavior and hope others adapt." },
+      { "id": "c", "label": "Publicly shame the team member during meetings." },
+      { "id": "d", "label": "Remove the team member from all future meetings immediately." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clear meeting rules and private coaching address behavior while preserving dignity. Option b is incorrect because ignoring interruptions erodes respect and participation. Option c is incorrect because public shaming damages trust. Option d is incorrect because exclusion is extreme without prior attempts to correct behavior.",
+    "difficulty": "easy",
+    "topics": ["meeting norms", "behavioral conflict"]
+  },
+  {
+    "id": "q-people-1-3-018",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict between a vendor and internal QA over defect acceptance has stalled UAT. What resolution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Agree on objective acceptance criteria and severity thresholds, then re-evaluate defects together." },
+      { "id": "b", "label": "Ask QA to accept all defects to avoid delay." },
+      { "id": "c", "label": "Ask the vendor to fix everything regardless of severity immediately." },
+      { "id": "d", "label": "Postpone UAT indefinitely until the conflict fades." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shared criteria allow consistent, fair decisions. Option b is incorrect because accepting all defects compromises quality. Option c is incorrect because demanding all fixes immediately may be unrealistic and not risk-based. Option d is incorrect because delaying UAT indefinitely harms delivery.",
+    "difficulty": "hard",
+    "topics": ["acceptance criteria", "vendor conflicts"]
+  },
+  {
+    "id": "q-people-1-3-019",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict surfaces about who should communicate a major issue to the customer. What resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Clarify ownership in the communication plan and, for this case, decide based on relationship and role." },
+      { "id": "b", "label": "Ask no one to communicate and hope the issue is not noticed." },
+      { "id": "c", "label": "Have everyone contact the customer separately with their own message." },
+      { "id": "d", "label": "Assign the newest team member without support." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clear communication ownership and a deliberate choice for this situation ensure consistent messaging. Option b is incorrect because hiding issues damages trust. Option c is incorrect because multiple uncoordinated messages confuse the customer. Option d is incorrect because assigning a new person without support risks miscommunication.",
+    "difficulty": "medium",
+    "topics": ["communication ownership", "issue handling"]
+  },
+  {
+    "id": "q-people-1-3-020",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "After analyzing a conflict, the project manager sees both sides have valid concerns about workload. What resolution should be recommended?",
+    "options": [
+      { "id": "a", "label": "Rebalance tasks collaboratively and adjust WIP limits to make workloads sustainable." },
+      { "id": "b", "label": "Tell everyone that high workloads are normal and must be accepted." },
+      { "id": "c", "label": "Assign all extra work to one person permanently." },
+      { "id": "d", "label": "Avoid changing workloads to prevent setting a precedent." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because collaboratively rebalancing work and adjusting WIP addresses root causes and is sustainable. Option b is incorrect because normalizing overload risks burnout. Option c is incorrect because overloading one person is unfair and unsustainable. Option d is incorrect because refusing to adjust ignores legitimate concerns.",
+    "difficulty": "medium",
+    "topics": ["workload balance", "conflict resolution"]
+  },
+  {
+    "id": "q-people-1-3-021",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict arises because some team members feel decisions are made without their input. Which resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Define which decisions require team input and establish a simple, inclusive decision-making process." },
+      { "id": "b", "label": "Keep the decision process opaque to avoid slowing it down." },
+      { "id": "c", "label": "Allow only managers to make all decisions without consultation." },
+      { "id": "d", "label": "Stop making decisions until everyone agrees on everything." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clear, inclusive decision rules reconcile the need for input with the need for speed. Option b is incorrect because opacity fuels further conflict. Option c is incorrect because excluding the team undermines engagement. Option d is incorrect because insisting on unanimous agreement can paralyze progress.",
+    "difficulty": "hard",
+    "topics": ["decision processes", "inclusion"]
+  },
+  {
+    "id": "q-people-1-3-022",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A senior stakeholder disagrees with the team’s risk response and conflict ensues. What resolution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Revisit the risk assessment with the stakeholder, compare options, and agree on a response that balance risk and value." },
+      { "id": "b", "label": "Ignore the stakeholder’s concerns and proceed." },
+      { "id": "c", "label": "Ask the team to abandon risk management to avoid conflict." },
+      { "id": "d", "label": "Automatically adopt the riskiest option to demonstrate confidence." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because jointly reviewing analysis and options can reconcile perspectives and secure agreement. Option b is incorrect because dismissing concerns damages trust. Option c is incorrect because abandoning risk management exposes the project. Option d is incorrect because selecting the riskiest option without agreement is irresponsible.",
+    "difficulty": "hard",
+    "topics": ["risk response", "stakeholder conflict"]
+  },
+  {
+    "id": "q-people-1-3-023",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict appears when some team members are reluctant to share bad news. What resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Reinforce a \"no blame\" culture, model transparent reporting, and protect those who escalate issues." },
+      { "id": "b", "label": "Penalize anyone who brings up problems." },
+      { "id": "c", "label": "Stop status reporting so that no bad news is shared." },
+      { "id": "d", "label": "Require that only anonymous surveys can mention issues." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because psychological safety and modeling transparency encourage honest communication and reduce fear. Option b is incorrect because punishment increases fear and concealment. Option c is incorrect because eliminating reporting hides risk. Option d is incorrect because relying only on anonymous surveys limits timely, actionable dialogue.",
+    "difficulty": "medium",
+    "topics": ["psychological safety", "escalation culture"]
+  },
+  {
+    "id": "q-people-1-3-024",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "A conflict results from misunderstandings around ground rules that were never written down. What resolution solution should the project manager recommend?",
+    "options": [
+      { "id": "a", "label": "Co-create and document clear team ground rules and review them with everyone." },
+      { "id": "b", "label": "Assume everyone understands unwritten rules and move on." },
+      { "id": "c", "label": "Let each person follow their own rules without alignment." },
+      { "id": "d", "label": "Ask leadership to impose rules without team input." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because collaboratively documenting ground rules reduces ambiguity and provides a reference for behavior. Option b is incorrect because relying on unwritten rules invites further misunderstandings. Option c is incorrect because unaligned rules create chaos. Option d is incorrect because top-down rules without input can reduce buy-in.",
+    "difficulty": "easy",
+    "topics": ["ground rules", "team agreements"]
+  },
+  {
+    "id": "q-people-1-3-025",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": ["e-people-1-3"],
+    "text": "After a conflict is resolved, the project manager wants to prevent similar issues. What should be recommended as a follow-up conflict resolution step?",
+    "options": [
+      { "id": "a", "label": "Capture lessons learned and adjust team agreements, processes, or artifacts accordingly." },
+      { "id": "b", "label": "Treat the resolution as a one-time event and make no changes." },
+      { "id": "c", "label": "Avoid discussing the conflict in retrospectives to keep the mood positive." },
+      { "id": "d", "label": "Remove all documentation about the conflict to erase the record." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because institutionalizing learning through updated agreements and processes reduces recurrence. Option b is incorrect because not adjusting anything wastes the opportunity to improve. Option c is incorrect because avoiding reflection limits growth. Option d is incorrect because erasing records prevents future teams from understanding what worked.",
+    "difficulty": "medium",
+    "topics": ["lessons learned", "preventive actions"]
+  },
+  {
+    "id": "q-people-2-1-001",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-1"],
+    "text": "A new cross-functional team is unsure how their work contributes to the bigger picture. What should the project manager do first to set a clear vision and mission?",
+    "options": [
+      { "id": "a", "label": "Share a concise vision statement that links the project to organizational strategy and expected outcomes." },
+      { "id": "b", "label": "Ask each team member to create their own separate vision and follow it." },
+      { "id": "c", "label": "Focus only on detailed task lists and avoid discussing strategy." },
+      { "id": "d", "label": "Tell the team that vision is the sponsor’s concern and not relevant to daily work." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a shared, concise vision that connects the project to strategy helps everyone understand purpose and direction. Option b is incorrect because separate visions fragment alignment. Option c is incorrect because only focusing on tasks misses why the work matters. Option d is incorrect because dismissing vision undermines engagement and ownership.",
+    "difficulty": "easy",
+    "topics": ["vision setting", "strategy alignment"]
+  },
+  {
+    "id": "q-people-2-1-002",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-1"],
+    "text": "A project is approved, but different stakeholders describe the project purpose differently. How should the project manager lead the team to a shared mission?",
+    "options": [
+      { "id": "a", "label": "Facilitate a workshop to refine a mission statement that reconciles stakeholder objectives and constraints." },
+      { "id": "b", "label": "Let each stakeholder communicate their own version of the mission to the team." },
+      { "id": "c", "label": "Avoid discussing mission and focus only on the schedule." },
+      { "id": "d", "label": "Ask the team to guess the mission based on initial tasks." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a facilitated mission workshop aligns stakeholders and gives the team a coherent purpose. Option b is incorrect because multiple versions confuse the team. Option c is incorrect because ignoring mission fails to resolve misalignment. Option d is incorrect because guessing mission risks divergent assumptions.",
+    "difficulty": "medium",
+    "topics": ["mission statement", "stakeholder alignment"]
+  },
+  {
+    "id": "q-people-2-1-003",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-1"],
+    "text": "The team’s work feels like a series of unconnected tasks. What should the project manager do to reinforce the vision?",
+    "options": [
+      { "id": "a", "label": "Regularly restate how sprint goals and deliverables advance the project vision and benefits." },
+      { "id": "b", "label": "Tell the team the vision is documented and does not need to be repeated." },
+      { "id": "c", "label": "Stop discussing goals to avoid taking time away from execution." },
+      { "id": "d", "label": "Ask the sponsor to keep the vision confidential." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because continuously linking work to vision keeps purpose visible and motivates the team. Option b is incorrect because a one-time statement is not enough. Option c is incorrect because dropping goal discussions makes work feel transactional. Option d is incorrect because secrecy about vision undermines transparency and engagement.",
+    "difficulty": "easy",
+    "topics": ["vision communication", "motivation"]
+  },
+  {
+    "id": "q-people-2-1-004",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-1"],
+    "text": "New stakeholders join mid-project and question why the current scope matters. How can the project manager reinforce the mission for both team and stakeholders?",
+    "options": [
+      { "id": "a", "label": "Update and share a brief mission narrative that connects current scope to strategic outcomes." },
+      { "id": "b", "label": "Ask stakeholders to review old emails to infer the mission." },
+      { "id": "c", "label": "Avoid revisiting mission to prevent reopening prior decisions." },
+      { "id": "d", "label": "Focus only on budget details and skip mission discussion." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a refreshed mission narrative helps new and existing participants understand why current work matters. Option b is incorrect because expecting stakeholders to infer mission from old messages is inefficient and error-prone. Option c is incorrect because not revisiting mission with new stakeholders prolongs confusion. Option d is incorrect because budget explanation alone does not answer purpose.",
+    "difficulty": "medium",
+    "topics": ["onboarding", "mission reinforcement"]
+  },
+  {
+    "id": "q-people-2-1-005",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-1"],
+    "text": "The organization’s strategy changes, and the project’s original mission is partially outdated. What should the project manager do to lead the team effectively?",
+    "options": [
+      { "id": "a", "label": "Work with sponsors to refresh the mission, then clearly communicate the revised direction and impacts to the team." },
+      { "id": "b", "label": "Continue using the original mission to avoid rework." },
+      { "id": "c", "label": "Let each team lead interpret the new strategy independently." },
+      { "id": "d", "label": "Pause all communication until the strategy stabilizes completely." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning mission with new strategy and communicating changes allows the team to adjust correctly. Option b is incorrect because an outdated mission misdirects effort. Option c is incorrect because fragmented interpretations cause inconsistency. Option d is incorrect because going silent increases uncertainty and anxiety.",
+    "difficulty": "hard",
+    "topics": ["strategy changes", "mission update"]
+  },
+  {
+    "id": "q-people-2-2-001",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-2"],
+    "text": "A team member with a different communication style is often interrupted in meetings. What should the project manager do to support diversity and inclusion?",
+    "options": [
+      { "id": "a", "label": "Establish meeting norms that ensure equal speaking opportunities and actively invite quieter voices." },
+      { "id": "b", "label": "Ask the team member to adapt completely to the dominant style." },
+      { "id": "c", "label": "Ignore the behavior and assume it will improve." },
+      { "id": "d", "label": "Stop inviting the team member to meetings." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because inclusive norms and facilitation techniques help different styles contribute fully. Option b is incorrect because forcing full conformity devalues diversity. Option c is incorrect because ignoring interruptions normalizes exclusion. Option d is incorrect because excluding the person removes their perspective entirely.",
+    "difficulty": "easy",
+    "topics": ["inclusion", "meeting facilitation"]
+  },
+  {
+    "id": "q-people-2-2-002",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-2"],
+    "text": "Team members from different backgrounds disagree about how decisions should be made. How can the project manager demonstrate inclusive leadership?",
+    "options": [
+      { "id": "a", "label": "Co-create a decision-making approach that balances participation with clear accountability." },
+      { "id": "b", "label": "Impose a decision style without seeking input to save time." },
+      { "id": "c", "label": "Let each subgroup follow its own decision rules without alignment." },
+      { "id": "d", "label": "Defer all decisions to the sponsor to avoid conflict." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because co-designing decision rules respects diverse expectations while providing clarity. Option b is incorrect because unilateral imposition reduces inclusion. Option c is incorrect because inconsistent rules create confusion. Option d is incorrect because delegating everything upward reduces empowerment and slows decisions.",
+    "difficulty": "medium",
+    "topics": ["inclusive leadership", "decision norms"]
+  },
+  {
+    "id": "q-people-2-2-003",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-2"],
+    "text": "A stakeholder makes a comment that some team members experience as biased. What is the best action for the project manager to support an inclusive environment?",
+    "options": [
+      { "id": "a", "label": "Address the comment respectfully, reinforce team values, and follow up with impacted individuals." },
+      { "id": "b", "label": "Ignore the comment to avoid discomfort." },
+      { "id": "c", "label": "Publicly shame the stakeholder without explanation." },
+      { "id": "d", "label": "Tell the team to be less sensitive and move on." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because directly addressing bias while supporting those affected demonstrates inclusive leadership. Option b is incorrect because silence signals acceptance. Option c is incorrect because public shaming can escalate conflict and limit constructive dialogue. Option d is incorrect because dismissing concerns undermines psychological safety.",
+    "difficulty": "hard",
+    "topics": ["bias", "psychological safety"]
+  },
+  {
+    "id": "q-people-2-2-004",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-2"],
+    "text": "Some team members feel their ideas are overlooked because they work in a different location than headquarters. How should the project manager respond?",
+    "options": [
+      { "id": "a", "label": "Intentionally rotate who presents work, include remote contributions in showcases, and highlight diverse wins." },
+      { "id": "b", "label": "Ask remote members to accept that visibility is lower by default." },
+      { "id": "c", "label": "Stop inviting headquarters staff to demos." },
+      { "id": "d", "label": "Require that all decisions be made only by headquarters staff." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because creating fair visibility and recognition across locations supports inclusion. Option b is incorrect because accepting lower visibility institutionalizes inequity. Option c is incorrect because excluding headquarters harms collaboration. Option d is incorrect because centralizing power increases imbalance.",
+    "difficulty": "medium",
+    "topics": ["distributed inclusion", "recognition"]
+  },
+  {
+    "id": "q-people-2-2-005",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-2"],
+    "text": "The team composition is becoming more diverse, and some norms are outdated. How can the project manager proactively support diversity and inclusion?",
+    "options": [
+      { "id": "a", "label": "Review ground rules with the team, invite feedback from different perspectives, and update norms together." },
+      { "id": "b", "label": "Keep the original norms because change may cause confusion." },
+      { "id": "c", "label": "Let each subgroup create separate norms without coordination." },
+      { "id": "d", "label": "Avoid discussing norms to keep meetings shorter." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because revisiting norms with input from everyone ensures they reflect current team diversity. Option b is incorrect because outdated norms may exclude new members. Option c is incorrect because separate norms fragment the team. Option d is incorrect because avoiding the topic misses an opportunity to improve inclusion.",
+    "difficulty": "easy",
+    "topics": ["team norms", "diversity"]
+  },
+  {
+    "id": "q-people-2-3-001",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-3"],
+    "text": "The team is experiencing low morale and feels unsupported. How can the project manager demonstrate servant leadership?",
+    "options": [
+      { "id": "a", "label": "Ask what is blocking the team, remove impediments, and provide resources they identify as needed." },
+      { "id": "b", "label": "Increase oversight and micromanage daily tasks." },
+      { "id": "c", "label": "Tell the team to \"just work harder\" without changes." },
+      { "id": "d", "label": "Delegate all leadership responsibilities to the sponsor." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because servant leaders focus on enabling the team by removing obstacles and providing support. Option b is incorrect because micromanagement reduces autonomy and motivation. Option c is incorrect because demanding more effort without support ignores root causes. Option d is incorrect because abdicating leadership removes local support.",
+    "difficulty": "easy",
+    "topics": ["servant leadership", "impediment removal"]
+  },
+  {
+    "id": "q-people-2-3-002",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-3"],
+    "text": "Team members are hesitant to raise impediments. What servant leadership behavior should the project manager show?",
+    "options": [
+      { "id": "a", "label": "Model vulnerability by sharing their own challenges and inviting open discussion of issues." },
+      { "id": "b", "label": "Criticize anyone who mentions problems in public." },
+      { "id": "c", "label": "Tell the team that impediments are a sign of weakness." },
+      { "id": "d", "label": "Ignore impediments and rely on escalation only through formal channels." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because modeling openness and vulnerability encourages others to speak up. Option b is incorrect because criticism discourages transparency. Option c is incorrect because equating impediments with weakness reduces learning. Option d is incorrect because relying only on formal escalations delays action.",
+    "difficulty": "medium",
+    "topics": ["servant leadership", "psychological safety"]
+  },
+  {
+    "id": "q-people-2-3-003",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-3"],
+    "text": "A senior leader suggests taking credit for the team’s success without mentioning them. How should a servant leader respond?",
+    "options": [
+      { "id": "a", "label": "Highlight the team’s contributions and insist on sharing credit with them." },
+      { "id": "b", "label": "Agree to take credit alone to improve personal visibility." },
+      { "id": "c", "label": "Avoid mentioning the team to keep reports simple." },
+      { "id": "d", "label": "Ignore the suggestion and submit reports without acknowledging anyone." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because servant leaders elevate the team and recognize their contributions. Option b is incorrect because taking sole credit undermines trust. Option c is incorrect because omitting the team hides their effort. Option d is incorrect because ignoring recognition misses an opportunity to motivate.",
+    "difficulty": "hard",
+    "topics": ["recognition", "servant leadership"]
+  },
+  {
+    "id": "q-people-2-3-004",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-3"],
+    "text": "The team is struggling with a blocker that requires cross-functional coordination. What is a servant leadership response?",
+    "options": [
+      { "id": "a", "label": "Use your network to connect the right people and stay engaged until the blocker is removed." },
+      { "id": "b", "label": "Tell the team to handle it alone without support." },
+      { "id": "c", "label": "Wait for someone else in the organization to notice the issue." },
+      { "id": "d", "label": "Document the blocker but take no action." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because servant leaders actively help remove cross-team obstacles. Option b is incorrect because abandoning the team contradicts servant leadership. Option c is incorrect because waiting passively delays resolution. Option d is incorrect because documentation alone does not clear the blocker.",
+    "difficulty": "medium",
+    "topics": ["impediments", "cross-functional support"]
+  },
+  {
+    "id": "q-people-2-3-005",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-3"],
+    "text": "Several team members ask for clearer growth opportunities. What should a servant leader project manager do?",
+    "options": [
+      { "id": "a", "label": "Discuss development goals individually and look for ways to align work assignments with growth." },
+      { "id": "b", "label": "Explain that growth is outside the scope of project leadership." },
+      { "id": "c", "label": "Discourage discussions about development to keep focus on tasks." },
+      { "id": "d", "label": "Assign extra work without considering development goals." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because serving the team includes supporting their development when possible. Option b is incorrect because leadership influences growth even if HR owns formal paths. Option c is incorrect because avoiding development discussions limits engagement. Option d is incorrect because extra work without purpose can demotivate.",
+    "difficulty": "medium",
+    "topics": ["servant leadership", "development"]
+  },
+  {
+    "id": "q-people-2-4-001",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-4"],
+    "text": "The team is new and uncertain about the work. Which leadership style is most appropriate at this stage?",
+    "options": [
+      { "id": "a", "label": "Directive, with more guidance and structure while the team builds confidence." },
+      { "id": "b", "label": "Hands-off, providing no guidance to encourage experimentation." },
+      { "id": "c", "label": "Avoidant, minimizing interaction to let the team self-organize immediately." },
+      { "id": "d", "label": "Punitive, focusing on errors to accelerate learning." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a more directive style helps a new team understand expectations and workflows. Option b is incorrect because no guidance can cause confusion. Option c is incorrect because avoidance leaves the team unsupported. Option d is incorrect because punishment damages trust and learning.",
+    "difficulty": "easy",
+    "topics": ["situational leadership", "directive style"]
+  },
+  {
+    "id": "q-people-2-4-002",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-4"],
+    "text": "An experienced, high-performing team is consistently delivering. What leadership style should the project manager favor?",
+    "options": [
+      { "id": "a", "label": "Collaborative, involving the team in decisions and giving more autonomy." },
+      { "id": "b", "label": "Highly directive, specifying every step even for routine work." },
+      { "id": "c", "label": "Authoritarian, making decisions without input to show control." },
+      { "id": "d", "label": "Random, changing style daily to keep the team alert." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because experienced teams benefit from autonomy and shared decision making. Option b is incorrect because over-directing can demotivate. Option c is incorrect because authoritarian behavior suppresses ownership. Option d is incorrect because inconsistency creates confusion.",
+    "difficulty": "medium",
+    "topics": ["situational leadership", "collaborative style"]
+  },
+  {
+    "id": "q-people-2-4-003",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-4"],
+    "text": "The team is facing a crisis that requires quick action. Which leadership style is most appropriate in this situation?",
+    "options": [
+      { "id": "a", "label": "Directive, clearly assigning actions and decisions to stabilize the situation." },
+      { "id": "b", "label": "Only consensus-based, waiting until everyone fully agrees." },
+      { "id": "c", "label": "Passive, letting the team act without coordination." },
+      { "id": "d", "label": "Avoidant, delaying involvement until after the crisis passes." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because in crises clear direction and coordination are needed to respond quickly. Option b is incorrect because full consensus may be too slow. Option c is incorrect because uncoordinated action can worsen the crisis. Option d is incorrect because avoidance abdicates responsibility.",
+    "difficulty": "medium",
+    "topics": ["crisis leadership", "directive style"]
+  },
+  {
+    "id": "q-people-2-4-004",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-4"],
+    "text": "Team members with different experience levels are working together. How should the project manager adapt leadership style?",
+    "options": [
+      { "id": "a", "label": "Provide more guidance to less experienced members while empowering experienced members with greater autonomy." },
+      { "id": "b", "label": "Apply the same level of control to everyone regardless of experience." },
+      { "id": "c", "label": "Let only senior members make all decisions without involving juniors." },
+      { "id": "d", "label": "Avoid providing any feedback to prevent misunderstandings." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tailoring support to experience levels balances development and efficiency. Option b is incorrect because identical control ignores individual needs. Option c is incorrect because excluding juniors slows their growth. Option d is incorrect because no feedback hinders improvement.",
+    "difficulty": "medium",
+    "topics": ["situational leadership", "tailoring style"]
+  },
+  {
+    "id": "q-people-2-4-005",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-4"],
+    "text": "Feedback suggests that the team feels micromanaged. What leadership adjustment should the project manager consider?",
+    "options": [
+      { "id": "a", "label": "Shift toward a more coaching and collaborative style, focusing on outcomes rather than detailing every task." },
+      { "id": "b", "label": "Increase task-level checks even further to ensure quality." },
+      { "id": "c", "label": "Stop communicating with the team to appear hands-off." },
+      { "id": "d", "label": "Ignore the feedback because performance looks acceptable." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because reducing micromanagement and coaching around outcomes increases ownership. Option b is incorrect because more checks intensify the problem. Option c is incorrect because silence is not healthy empowerment. Option d is incorrect because disregarding feedback undermines trust.",
+    "difficulty": "hard",
+    "topics": ["leadership adaptation", "coaching"]
+  },
+  {
+    "id": "q-people-2-5-001",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-5"],
+    "text": "The team is facing a tight deadline and morale is dropping. How can the project manager inspire and motivate the team?",
+    "options": [
+      { "id": "a", "label": "Acknowledge the challenge, connect the work to meaningful outcomes, and celebrate small wins along the way." },
+      { "id": "b", "label": "Ignore morale and focus only on reminding them of the deadline." },
+      { "id": "c", "label": "Threaten penalties if the deadline is missed." },
+      { "id": "d", "label": "Avoid communicating to reduce pressure on the team." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because recognizing effort, reinforcing purpose, and celebrating progress boost intrinsic motivation. Option b is incorrect because ignoring morale can lead to burnout. Option c is incorrect because threats create fear rather than engagement. Option d is incorrect because silence increases uncertainty.",
+    "difficulty": "easy",
+    "topics": ["motivation", "recognition"]
+  },
+  {
+    "id": "q-people-2-5-002",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-5"],
+    "text": "A high-performing team member feels their contributions are not visible. What should the project manager do to influence and motivate effectively?",
+    "options": [
+      { "id": "a", "label": "Publicly recognize their contributions while also acknowledging the team, and discuss growth opportunities." },
+      { "id": "b", "label": "Tell them that recognition is not important as long as work is done." },
+      { "id": "c", "label": "Ask them to stop seeking feedback about their impact." },
+      { "id": "d", "label": "Give them additional tasks without discussing recognition." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visible recognition and development discussions support motivation and retention. Option b is incorrect because dismissing recognition needs is demotivating. Option c is incorrect because discouraging feedback closes communication. Option d is incorrect because more tasks without recognition can feel like exploitation.",
+    "difficulty": "medium",
+    "topics": ["recognition", "influence"]
+  },
+  {
+    "id": "q-people-2-5-003",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-5"],
+    "text": "Some stakeholders are skeptical about the project’s value. How can the project manager influence them positively?",
+    "options": [
+      { "id": "a", "label": "Share evidence of benefits, listen to concerns, and adjust messaging to address their priorities." },
+      { "id": "b", "label": "Ignore the stakeholders and hope they will see value later." },
+      { "id": "c", "label": "Confront them publicly and label them as blockers." },
+      { "id": "d", "label": "Avoid discussing benefits to prevent debate." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because influencing involves understanding concerns and tailoring messages to stakeholder interests. Option b is incorrect because ignoring skeptics can lead to resistance later. Option c is incorrect because public confrontation can damage relationships. Option d is incorrect because avoiding benefit discussions misses an opportunity to build support.",
+    "difficulty": "medium",
+    "topics": ["stakeholder influence", "benefits communication"]
+  },
+  {
+    "id": "q-people-2-5-004",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-5"],
+    "text": "The team appears disengaged during sprint reviews. What should the project manager do to re-energize them?",
+    "options": [
+      { "id": "a", "label": "Invite the team to showcase their work, share user feedback, and involve them in discussing impact." },
+      { "id": "b", "label": "Run the reviews alone and present on behalf of the team." },
+      { "id": "c", "label": "Shorten reviews to remove all discussion and only show metrics." },
+      { "id": "d", "label": "Stop sprint reviews entirely to free up time." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because giving the team ownership in demonstrating value and hearing user reactions increases engagement. Option b is incorrect because sidelining the team reduces visibility and pride. Option c is incorrect because removing discussion reduces connection to outcomes. Option d is incorrect because cancelling reviews removes an important feedback loop.",
+    "difficulty": "easy",
+    "topics": ["engagement", "sprint review"]
+  },
+  {
+    "id": "q-people-2-5-005",
+    "domainId": "people",
+    "taskId": "people-2",
+    "enablerIds": ["e-people-2-5"],
+    "text": "After several setbacks, the team doubts they can still succeed. How should the project manager influence and motivate them?",
+    "options": [
+      { "id": "a", "label": "Acknowledge the setbacks, highlight past successes, and co-create a realistic plan that restores confidence." },
+      { "id": "b", "label": "Deny the setbacks and insist everything is fine." },
+      { "id": "c", "label": "Blame the team for the setbacks in front of stakeholders." },
+      { "id": "d", "label": "Avoid discussing performance to keep conversations comfortable." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because honest acknowledgement, recognition of strengths, and a credible plan help rebuild belief. Option b is incorrect because denial erodes trust. Option c is incorrect because public blame damages morale and relationships. Option d is incorrect because avoiding performance discussions prevents learning and improvement.",
+    "difficulty": "hard",
+    "topics": ["resilience", "motivation"]
   }
 ]

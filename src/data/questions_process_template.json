@@ -1,0 +1,19 @@
+[
+  {
+    "id": "q-001-process-template",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": ["enabler-process-1"],
+    "text": "What is the primary purpose of a project management plan?",
+    "options": [
+      { "id": "a", "label": "To document project risks and mitigation strategies." },
+      { "id": "b", "label": "To provide a comprehensive roadmap for project execution and control." },
+      { "id": "c", "label": "To outline the communication strategy for stakeholders." },
+      { "id": "d", "label": "To define the project's scope and deliverables." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The project management plan integrates all subsidiary plans and baselines, serving as a comprehensive guide for how the project will be executed, monitored, controlled, and closed.",
+    "difficulty": "medium",
+    "topics": ["project management plan", "integration"]
+  }
+]

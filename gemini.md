@@ -1,0 +1,1 @@
+Refer to agents.md for all instructions and only update that file if needed.

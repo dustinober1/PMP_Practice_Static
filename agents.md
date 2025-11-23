@@ -35,3 +35,16 @@
 - Data utility/hook exists and is used by Home to render JSON.
 - Settings page wired to actual zustand stores with export/import buttons functioning.
 - Build passes (`npm run build`) and static deploy configs remain valid.
+
+## Standards for questions
+- Follow PMP Exam Content Outline rigorously.
+- Use clear, concise language; avoid ambiguity.
+- Ensure all questions have one correct answer and plausible distractors.
+- Ensure questions are all tagged with domain, task, process, knowledge area, and enabler IDs.
+- Ensure that all questions are scenario based  
+    - Avoid simple recall questions; focus on application and analysis.
+- Ensure that questions vary in difficulty level (easy, medium, hard) to reflect the exam's range.
+- Ensure that questions are free from bias and culturally sensitive.
+- Ensure that question distractors are the same length as the correct answer.
+- Ensure that each explanation clearly states why the correct option is best and why each incorrect option is not appropriate.
+- Ensure that for every enabler ID in `src/data/enablers.json`, exactly 25 questions are authored that reference that enabler in `enablerIds` (per-question coverage target is 25 per enabler).
