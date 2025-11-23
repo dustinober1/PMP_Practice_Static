@@ -1,0 +1,728 @@
+[
+  {
+    "id": "q-people-4-1-001",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "A new project requires both regulatory knowledge and cloud expertise. The team currently has strong regulatory skills but limited cloud experience. What is the best first step for the project manager to organize around team strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assign regulatory tasks to the experienced members and pair them with those who have emerging cloud skills to design the solution together."
+      },
+      {
+        "id": "b",
+        "label": "Randomly allocate all tasks so everyone gets an equal share regardless of expertise."
+      },
+      {
+        "id": "c",
+        "label": "Ask only the project manager to handle all complex tasks personally."
+      },
+      {
+        "id": "d",
+        "label": "Delay task assignments until the entire team completes advanced cloud training."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because using existing strengths while creating opportunities for shared learning organizes work effectively. Option b is incorrect because random allocation ignores strengths and risks quality. Option c is incorrect because centralizing complex work on the manager is unsustainable. Option d is incorrect because waiting for full training may delay progress unnecessarily.",
+    "difficulty": "easy",
+    "topics": ["strength-based assignment", "pairing"]
+  },
+  {
+    "id": "q-people-4-1-002",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "A blended team includes members strong in analysis, design, testing, and stakeholder engagement. The project is struggling with ambiguous requirements. How should the project manager organize around strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Form a small discovery group led by the strongest analysts and stakeholder-focused members to clarify requirements before detailed design."
+      },
+      {
+        "id": "b",
+        "label": "Assign the most junior developers to lead stakeholder workshops to give them exposure."
+      },
+      {
+        "id": "c",
+        "label": "Have the testers define requirements alone since they are good at finding issues."
+      },
+      {
+        "id": "d",
+        "label": "Leave requirements clarification to the sponsor and wait for them to provide detailed specifications."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because focusing analysts and stakeholder-oriented members on discovery leverages their strengths to resolve ambiguity. Option b is incorrect because leading workshops without skills may reduce quality. Option c is incorrect because testers alone may not have full context. Option d is incorrect because waiting passively delays resolution.",
+    "difficulty": "medium",
+    "topics": ["requirements discovery", "role strengths"]
+  },
+  {
+    "id": "q-people-4-1-003",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The project has both detail-oriented team members and big-picture thinkers. A complex integration requires careful planning and overall coordination. How should the project manager organize the work?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Have big-picture thinkers focus on overall architecture and sequencing while detail-oriented members handle interface specifications and dependencies."
+      },
+      {
+        "id": "b",
+        "label": "Assign all planning and execution tasks to one person to simplify communication."
+      },
+      {
+        "id": "c",
+        "label": "Rotate tasks daily so everyone alternates between high-level and detailed work regardless of preference."
+      },
+      {
+        "id": "d",
+        "label": "Let team members choose tasks randomly whenever they have free time."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning roles with cognitive strengths improves quality and engagement. Option b is incorrect because overloading one person is risky. Option c is incorrect because frequent switching may reduce effectiveness. Option d is incorrect because random selection ignores strengths.",
+    "difficulty": "easy",
+    "topics": ["cognitive strengths", "role alignment"]
+  },
+  {
+    "id": "q-people-4-1-004",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "A team member with strong facilitation skills is currently assigned only to technical documentation tasks. Meetings often lack structure and run over time. How should the project manager reorganize around strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask the team member to facilitate key ceremonies and workshops while balancing their documentation responsibilities."
+      },
+      {
+        "id": "b",
+        "label": "Keep the team member on documentation because it is already assigned."
+      },
+      {
+        "id": "c",
+        "label": "Assign facilitation duties to whoever has free time without considering skills."
+      },
+      {
+        "id": "d",
+        "label": "Outsource facilitation to an external consultant and leave internal strengths unused."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because using facilitation strengths can improve meeting effectiveness while still managing documentation. Option b is incorrect because ignoring strengths wastes potential. Option c is incorrect because effective facilitation requires specific skills. Option d is incorrect because outsourcing may be costly and unnecessary.",
+    "difficulty": "medium",
+    "topics": ["facilitation", "reassigning work"]
+  },
+  {
+    "id": "q-people-4-1-005",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "Several team members are strong mentors but are overloaded with individual contributor work. New hires struggle to ramp up. What should the project manager do to organize around strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Designate mentoring time as part of the mentors' responsibilities and adjust their task load accordingly."
+      },
+      {
+        "id": "b",
+        "label": "Expect mentors to support new hires only during their personal time."
+      },
+      {
+        "id": "c",
+        "label": "Assign mentoring exclusively to the least experienced team members so mentors can focus on tasks."
+      },
+      {
+        "id": "d",
+        "label": "Ignore mentoring strengths and rely solely on formal training materials."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because acknowledging mentoring as real work and adjusting load ensures strengths are used sustainably. Option b is incorrect because expecting unpaid extra work may cause burnout. Option c is incorrect because inexperienced team members may not be effective mentors. Option d is incorrect because formal materials alone may not be sufficient.",
+    "difficulty": "medium",
+    "topics": ["mentoring capacity", "workload adjustment"]
+  },
+  {
+    "id": "q-people-4-1-006",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The team includes members who excel at rapid prototyping and others who prefer detailed, stable implementations. A high-uncertainty feature needs exploration before committing to design. How should the project manager organize the work?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assign rapid prototyping to those who excel at experimentation and involve implementation-focused members once the direction is clearer."
+      },
+      {
+        "id": "b",
+        "label": "Assign the entire feature to the most senior engineer regardless of strengths."
+      },
+      {
+        "id": "c",
+        "label": "Ask only the detailed implementers to create prototypes, even if they dislike experimentation."
+      },
+      {
+        "id": "d",
+        "label": "Delay work until everyone reaches the same level of prototyping skill."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because using experimentation strengths early and bringing in stability-focused members later leverages complementary skills. Option b is incorrect because seniority alone is not the main factor. Option c is incorrect because forcing people into mismatched work reduces effectiveness. Option d is incorrect because waiting for uniform skills delays learning.",
+    "difficulty": "hard",
+    "topics": ["uncertainty", "prototyping strengths"]
+  },
+  {
+    "id": "q-people-4-1-007",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The sponsor wants a visible liaison who can explain technical topics in business terms. One team member already demonstrates this strength in informal discussions. How should the project manager respond?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Formally assign the liaison role to that team member, adjust their other tasks, and support them with necessary context."
+      },
+      {
+        "id": "b",
+        "label": "Assign the liaison role to the most senior developer regardless of communication skills."
+      },
+      {
+        "id": "c",
+        "label": "Ask the sponsor to fulfill the liaison role themselves."
+      },
+      {
+        "id": "d",
+        "label": "Rotate the liaison role randomly each week among all team members."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning the liaison role with demonstrated strengths and adjusting workload supports both communication quality and sustainability. Option b is incorrect because technical seniority does not guarantee communication skill. Option c is incorrect because the sponsor may not have detailed technical insight. Option d is incorrect because random rotation may reduce consistency and quality.",
+    "difficulty": "easy",
+    "topics": ["liaison role", "business communication"]
+  },
+  {
+    "id": "q-people-4-1-008",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "You are planning a risk workshop. The team has members who are analytical, creative, and experienced in operations. How can you organize around these strengths to make the workshop effective?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask creative thinkers to brainstorm risks, analytical members to structure and evaluate them, and operations experts to focus on practical mitigations."
+      },
+      {
+        "id": "b",
+        "label": "Have only the project manager identify risks without team involvement."
+      },
+      {
+        "id": "c",
+        "label": "Assign risk identification to the newest team member to give them exposure."
+      },
+      {
+        "id": "d",
+        "label": "Use a generic risk checklist and ignore individual strengths."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because distributing workshop activities according to strengths improves risk coverage and quality of mitigation. Option b is incorrect because excluding the team misses diverse perspectives. Option c is incorrect because relying only on a new member may be inefficient. Option d is incorrect because ignoring strengths underuses available capability.",
+    "difficulty": "medium",
+    "topics": ["risk workshop", "role specialization"]
+  },
+  {
+    "id": "q-people-4-1-009",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The team charter emphasizes leveraging strengths, but task allocation still happens ad hoc. What practical step should the project manager take to better organize around strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Maintain a simple skills and interests matrix and use it during planning to align tasks with strengths."
+      },
+      {
+        "id": "b",
+        "label": "Assign work solely based on who has the least current workload."
+      },
+      {
+        "id": "c",
+        "label": "Let functional managers assign tasks without input from the project team."
+      },
+      {
+        "id": "d",
+        "label": "Avoid documenting strengths to keep the process informal."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a simple, visible matrix helps make strengths-based decisions during planning. Option b is incorrect because workload alone ignores skill fit. Option c is incorrect because external assignment may overlook project-specific context. Option d is incorrect because lack of documentation makes it harder to use strengths deliberately.",
+    "difficulty": "easy",
+    "topics": ["skills matrix", "planning"]
+  },
+  {
+    "id": "q-people-4-1-010",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The project uses both predictive and agile components. Some team members are strong in detailed planning while others excel in adaptive delivery. How should the project manager organize around these strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assign predictive planning tasks to those comfortable with detailed schedules and agile backlog management to those experienced in iterative delivery, while fostering cross-learning."
+      },
+      {
+        "id": "b",
+        "label": "Allocate predictive work only to agile specialists to broaden their experience, regardless of timelines."
+      },
+      {
+        "id": "c",
+        "label": "Keep everyone focused only on their existing specialties and prevent any cross-training."
+      },
+      {
+        "id": "d",
+        "label": "Rotate all members randomly between predictive and agile work every few days."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning tasks with strengths in each mode while allowing some cross-learning supports both performance and development. Option b is incorrect because assigning critical predictive tasks to those without strength can increase risk. Option c is incorrect because prohibiting cross-learning limits adaptability. Option d is incorrect because frequent random rotation reduces efficiency.",
+    "difficulty": "hard",
+    "topics": ["hybrid delivery", "strength alignment"]
+  },
+  {
+    "id": "q-people-4-1-011",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "A team member is highly organized and excels at tracking dependencies. Currently, no one is explicitly managing cross-team dependencies. What should the project manager do to use this strength?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask the team member to take ownership of dependency tracking and coordination, adjusting other duties as needed."
+      },
+      {
+        "id": "b",
+        "label": "Leave dependency management informal and expect everyone to track their own items."
+      },
+      {
+        "id": "c",
+        "label": "Assign dependency tracking to the least busy person regardless of skills."
+      },
+      {
+        "id": "d",
+        "label": "Ask the PMO to manage dependencies without leveraging internal team strengths."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because formally using organizational strengths enhances coordination and clarifies accountability. Option b is incorrect because informal tracking risks missed dependencies. Option c is incorrect because availability alone is not sufficient. Option d is incorrect because offloading to PMO may limit responsiveness.",
+    "difficulty": "medium",
+    "topics": ["dependency management", "role assignment"]
+  },
+  {
+    "id": "q-people-4-1-012",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "During a skills review, you discover that one developer has strong UX design skills not used in their current tasks. The product has usability issues. What should you do?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Reassign some UX-related tasks to this developer and involve them in usability reviews."
+      },
+      {
+        "id": "b",
+        "label": "Keep them focused only on backend work because it was in the original plan."
+      },
+      {
+        "id": "c",
+        "label": "Hire an external UX specialist and leave the internal skill unused."
+      },
+      {
+        "id": "d",
+        "label": "Ask the developer to contribute UX improvements only during their personal time."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because leveraging hidden strengths addresses project needs efficiently. Option b is incorrect because rigid roles can hurt outcomes. Option c is incorrect because external hiring may be unnecessary. Option d is incorrect because requiring off-hours contributions is unfair.",
+    "difficulty": "easy",
+    "topics": ["hidden strengths", "UX issues"]
+  },
+  {
+    "id": "q-people-4-1-013",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "Some team members are energized by customer interactions, while others prefer deep technical work. A series of customer demos is planned. How should the project manager organize roles?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask customer-oriented members to lead demos with support from technical experts who prepare and handle complex questions."
+      },
+      {
+        "id": "b",
+        "label": "Assign demo presentations randomly to ensure equal exposure, regardless of comfort."
+      },
+      {
+        "id": "c",
+        "label": "Require only the project manager to conduct all demos."
+      },
+      {
+        "id": "d",
+        "label": "Ask only the most junior member to lead demos to give them experience."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because combining customer-focused and technical strengths ensures effective demos. Option b is incorrect because ignoring comfort and skills may reduce quality. Option c is incorrect because centralizing demos reduces scalability and team development. Option d is incorrect because solo junior leadership may be risky.",
+    "difficulty": "medium",
+    "topics": ["customer demos", "role complementarity"]
+  },
+  {
+    "id": "q-people-4-1-014",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "A retrospective shows that some team members are best at troubleshooting production issues, while others excel at new feature development. Production incidents are frequent. How should the project manager organize the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Create a rotating on-call group built around strong troubleshooters and protect feature developers from frequent interruptions where possible."
+      },
+      {
+        "id": "b",
+        "label": "Ask everyone to handle incidents and features simultaneously without regard for strengths."
+      },
+      {
+        "id": "c",
+        "label": "Assign all incident work only to the least experienced members."
+      },
+      {
+        "id": "d",
+        "label": "Let production issues queue until feature work is finished."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structuring incident response around strengths while protecting focus balances stability and new work. Option b is incorrect because context switching may harm both tasks. Option c is incorrect because incident handling requires strong skills. Option d is incorrect because ignoring incidents risks service quality.",
+    "difficulty": "hard",
+    "topics": ["incident response", "role rotation"]
+  },
+  {
+    "id": "q-people-4-1-015",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The project has a tight deadline. Some team members are highly efficient at routine tasks, while others are best at handling complexity. How should the project manager organize around strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assign routine work to those who process it quickly and reserve complex problem-solving for those skilled at it, while avoiding overload."
+      },
+      {
+        "id": "b",
+        "label": "Distribute all tasks evenly, ignoring differences in strengths to avoid perceived favoritism."
+      },
+      {
+        "id": "c",
+        "label": "Have everyone work only on complex tasks to maximize learning."
+      },
+      {
+        "id": "d",
+        "label": "Give routine tasks only to the newest team members without guidance."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligning task complexity with strengths increases throughput and quality. Option b is incorrect because equal distribution is not always effective. Option c is incorrect because ignoring routine work may delay delivery. Option d is incorrect because routine tasks still require oversight.",
+    "difficulty": "easy",
+    "topics": ["task complexity", "deadline management"]
+  },
+  {
+    "id": "q-people-4-1-016",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "A team member with strong data visualization skills is underutilized because reports are currently text-based. Stakeholders struggle to understand status. What should the project manager do?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Engage this team member to redesign key status reports using visuals and dashboards tailored to stakeholder needs."
+      },
+      {
+        "id": "b",
+        "label": "Keep reports text-based to maintain consistency with past projects."
+      },
+      {
+        "id": "c",
+        "label": "Ask the team member to create visualizations only when they have spare time after all other tasks."
+      },
+      {
+        "id": "d",
+        "label": "Hire an external consultant for visualization instead of using internal strengths."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because leveraging in-house visualization strengths can directly improve stakeholder understanding. Option b is incorrect because tradition should not override effectiveness. Option c is incorrect because treating this strength as secondary may limit impact. Option d is incorrect because external hiring may be unnecessary.",
+    "difficulty": "medium",
+    "topics": ["status reporting", "visualization"]
+  },
+  {
+    "id": "q-people-4-1-017",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The project manager wants to formalize knowledge of team strengths. What is the most effective step to support organizing around those strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Hold a workshop where team members share strengths, interests, and previous experiences, and capture them in a shared document."
+      },
+      {
+        "id": "b",
+        "label": "Infer strengths based only on job titles and skip conversations."
+      },
+      {
+        "id": "c",
+        "label": "Ask functional managers to define strengths without input from the team."
+      },
+      {
+        "id": "d",
+        "label": "Rely on the project manager's personal impressions without validation."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because collaborative identification of strengths increases accuracy and buy-in. Option b is incorrect because titles do not show full capabilities. Option c is incorrect because managers may not know project-specific strengths. Option d is incorrect because unvalidated impressions can be biased.",
+    "difficulty": "easy",
+    "topics": ["strengths identification", "team workshop"]
+  },
+  {
+    "id": "q-people-4-1-018",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "Some team members are energized by experimenting with new tools, while others prefer stable environments. The project needs to evaluate a new testing framework. How should the project manager organize this evaluation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Form a small evaluation group of experimenters to test the framework and involve stability-focused members in assessing risks and rollout plans."
+      },
+      {
+        "id": "b",
+        "label": "Assign the evaluation only to those who dislike change to improve their skills."
+      },
+      {
+        "id": "c",
+        "label": "Require the entire team to adopt the tool immediately without evaluation."
+      },
+      {
+        "id": "d",
+        "label": "Postpone evaluation indefinitely to avoid discomfort with change."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because leveraging experimentation strengths while incorporating risk-aware perspectives leads to better tool decisions. Option b is incorrect because misaligned assignments may reduce quality. Option c is incorrect because skipping evaluation may introduce unexpected problems. Option d is incorrect because avoiding change entirely can limit improvement.",
+    "difficulty": "hard",
+    "topics": ["tool evaluation", "change readiness"]
+  },
+  {
+    "id": "q-people-4-1-019",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "You inherit a project where tasks were assigned mostly based on who volunteered first. Strengths are unclear, and performance is uneven. What should you do to reorganize around team strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assess skills and strengths through conversations and performance data, then realign key responsibilities accordingly."
+      },
+      {
+        "id": "b",
+        "label": "Continue the volunteer-based system to avoid disrupting the team."
+      },
+      {
+        "id": "c",
+        "label": "Assign tasks randomly to be fair, without considering strengths."
+      },
+      {
+        "id": "d",
+        "label": "Let the previous project manager continue assigning tasks remotely."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding and using strengths enables thoughtful reorganization and improved outcomes. Option b is incorrect because existing issues will persist. Option c is incorrect because randomness does not solve misalignment. Option d is incorrect because it avoids accountability in the new role.",
+    "difficulty": "medium",
+    "topics": ["project takeover", "realignment"]
+  },
+  {
+    "id": "q-people-4-1-020",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The project requires strong documentation for compliance. Only a few team members enjoy documentation work, while others find it tedious but necessary. How should the project manager organize tasks around strengths while maintaining fairness?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assign more documentation to those who enjoy it, balance their load with reduced other tasks, and ensure others contribute portions aligned with their work."
+      },
+      {
+        "id": "b",
+        "label": "Assign all documentation only to those who enjoy it without adjusting their other responsibilities."
+      },
+      {
+        "id": "c",
+        "label": "Distribute documentation evenly regardless of preference or skill, ignoring strengths."
+      },
+      {
+        "id": "d",
+        "label": "Assign documentation only to the newest team members because it is less visible work."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it uses strengths while controlling workload and ensuring shared responsibility. Option b is incorrect because overloading a few people can cause burnout. Option c is incorrect because ignoring strengths can lower quality. Option d is incorrect because giving all low-visibility work to new members may feel unfair.",
+    "difficulty": "hard",
+    "topics": ["compliance documentation", "fairness"]
+  },
+  {
+    "id": "q-people-4-1-021",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "Team members have expressed interest in using their strengths more often. What metric or indicator would best show that the project manager is organizing around team strengths?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Increased alignment between self-reported strengths and actual tasks, along with improved satisfaction and performance metrics."
+      },
+      {
+        "id": "b",
+        "label": "A reduction in the number of tasks overall, regardless of who performs them."
+      },
+      {
+        "id": "c",
+        "label": "The number of hours the project manager spends assigning tasks."
+      },
+      {
+        "id": "d",
+        "label": "A complete absence of any task changes during the project."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because strength utilization can be observed in how closely tasks match strengths and in outcomes. Option b is incorrect because fewer tasks do not imply strengths-based work. Option c is incorrect because the manager's time is not a direct indicator. Option d is incorrect because static assignments may ignore evolving understanding.",
+    "difficulty": "medium",
+    "topics": ["measurement", "strength utilization"]
+  },
+  {
+    "id": "q-people-4-1-022",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "A cross-functional project requires coordination with multiple external teams. One team member has a strong network and relationship-building skills. How can the project manager organize around this strength?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assign them to lead cross-team coordination activities and leverage their relationships to resolve dependencies quickly."
+      },
+      {
+        "id": "b",
+        "label": "Keep them focused only on internal technical work and handle coordination alone."
+      },
+      {
+        "id": "c",
+        "label": "Assign coordination tasks randomly among all team members to be fair."
+      },
+      {
+        "id": "d",
+        "label": "Ask external teams to coordinate among themselves without project representation."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because using strong networking skills can accelerate dependency resolution. Option b is incorrect because it underuses a key strength. Option c is incorrect because random allocation may reduce effectiveness. Option d is incorrect because lack of project representation can lead to misalignment.",
+    "difficulty": "medium",
+    "topics": ["cross-team coordination", "networking"]
+  },
+  {
+    "id": "q-people-4-1-023",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The team is facing morale issues. Some members enjoy recognition and public praise, while others prefer quiet acknowledgment. How should the project manager organize recognition activities around these strengths and preferences?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Discuss recognition preferences, tailor approaches to individuals, and ensure all strengths are acknowledged in ways that feel comfortable."
+      },
+      {
+        "id": "b",
+        "label": "Use only public praise for everyone to maintain a consistent style."
+      },
+      {
+        "id": "c",
+        "label": "Avoid recognition entirely to prevent making anyone uncomfortable."
+      },
+      {
+        "id": "d",
+        "label": "Recognize only those who explicitly ask for praise."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tailoring recognition respects individual preferences and reinforces strengths. Option b is incorrect because a single style may not suit everyone. Option c is incorrect because lack of recognition harms motivation. Option d is incorrect because many contributions may go unmentioned.",
+    "difficulty": "easy",
+    "topics": ["recognition preferences", "morale"]
+  },
+  {
+    "id": "q-people-4-1-024",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "The project manager wants to ensure strengths-based organization does not create silos. What is the best strategy to balance specialization with flexibility?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assign core responsibilities aligned to strengths while planning periodic cross-training and rotation on selected tasks."
+      },
+      {
+        "id": "b",
+        "label": "Lock each person into one role for the entire project with no changes."
+      },
+      {
+        "id": "c",
+        "label": "Rotate everyone constantly regardless of strengths to avoid silos."
+      },
+      {
+        "id": "d",
+        "label": "Discourage cross-training because it may slow short-term delivery."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because combining strengths-based assignments with planned cross-training maintains both depth and resilience. Option b is incorrect because static roles can create risk. Option c is incorrect because excessive rotation can reduce expertise. Option d is incorrect because avoiding cross-training reduces flexibility.",
+    "difficulty": "hard",
+    "topics": ["specialization", "cross-training balance"]
+  },
+  {
+    "id": "q-people-4-1-025",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-1"],
+    "text": "At the end of a release, the project manager wants to review how well the team was organized around strengths. What should be the focus of this review?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assess how strengths were used, gather feedback on task fit, and identify adjustments to improve future assignments."
+      },
+      {
+        "id": "b",
+        "label": "Review only schedule variance and ignore how tasks were assigned."
+      },
+      {
+        "id": "c",
+        "label": "Ask only functional managers if they are satisfied with team utilization."
+      },
+      {
+        "id": "d",
+        "label": "Avoid reviewing strengths utilization to save time."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because reflecting on strengths usage and making adjustments helps improve future team organization. Option b is incorrect because schedule alone does not show how well strengths were utilized. Option c is incorrect because team perspectives are also vital. Option d is incorrect because skipping review misses learning opportunities.",
+    "difficulty": "medium",
+    "topics": ["post-release review", "strengths reflection"]
+  }
+]
+

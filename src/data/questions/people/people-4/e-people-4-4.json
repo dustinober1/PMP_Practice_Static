@@ -1,0 +1,728 @@
+[
+  {
+    "id": "q-people-4-4-001",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The team is experienced and has delivered similar projects before. The project manager wants to empower them while keeping oversight. What is the most appropriate level of decision-making authority to bestow for day-to-day technical decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Allow the team to make day-to-day technical decisions within agreed constraints and escalate only when scope, schedule, or budget are significantly affected."
+      },
+      {
+        "id": "b",
+        "label": "Require the sponsor to approve every technical decision regardless of impact."
+      },
+      {
+        "id": "c",
+        "label": "Centralize all technical decisions with the project manager to ensure control."
+      },
+      {
+        "id": "d",
+        "label": "Let each individual make any decision without alignment or constraints."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because granting authority within boundaries empowers the team and maintains appropriate escalation for major impacts. Option b is incorrect because involving the sponsor in every technical decision slows progress. Option c is incorrect because over-centralization reduces team ownership. Option d is incorrect because unconstrained decisions can cause misalignment.",
+    "difficulty": "easy",
+    "topics": ["decision boundaries", "empowerment"]
+  },
+  {
+    "id": "q-people-4-4-002",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The organization has strict regulatory requirements. Changes to compliance-related processes must be approved centrally. How should the project manager determine the level of decision-making authority to give the team in this area?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Allow the team to propose improvements but require formal review and approval by compliance experts for any changes."
+      },
+      {
+        "id": "b",
+        "label": "Give the team full authority to modify compliance processes to move faster."
+      },
+      {
+        "id": "c",
+        "label": "Prohibit the team from discussing compliance improvements to avoid errors."
+      },
+      {
+        "id": "d",
+        "label": "Let individual developers implement compliance changes directly in production when they see fit."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because separating proposal and approval respects regulatory constraints while engaging the team. Option b is incorrect because unrestricted changes could breach compliance. Option c is incorrect because discouraging improvement discussions wastes expertise. Option d is incorrect because uncontrolled production changes are risky.",
+    "difficulty": "hard",
+    "topics": ["regulatory control", "approval authority"]
+  },
+  {
+    "id": "q-people-4-4-003",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "A junior team is new to agile practices. Decisions about scope trade-offs during sprints have high impact. What is the most appropriate approach to bestow decision-making authority initially?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Involve the team in discussions but have the product owner and project manager make final trade-off decisions while the team gains experience."
+      },
+      {
+        "id": "b",
+        "label": "Give the team full authority to make scope trade-offs without guidance from the product owner."
+      },
+      {
+        "id": "c",
+        "label": "Exclude the team from trade-off discussions entirely and decide in isolation."
+      },
+      {
+        "id": "d",
+        "label": "Let only the most junior member decide scope changes to give them exposure."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shared decision-making with clear accountability builds capability while protecting critical outcomes. Option b is incorrect because scope decisions must reflect product priorities. Option c is incorrect because excluding the team reduces buy-in. Option d is incorrect because delegating high-impact decisions solely to a junior member is inappropriate.",
+    "difficulty": "medium",
+    "topics": ["agile maturity", "scope authority"]
+  },
+  {
+    "id": "q-people-4-4-004",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The sponsor wants quick responses to priority changes. The project manager considers allowing the team to re-sequence tasks in the sprint when small changes arise. What should be the boundary of their decision-making authority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Allow the team to re-sequence tasks that do not affect committed scope or external dependencies and escalate larger changes to product and sponsor."
+      },
+      {
+        "id": "b",
+        "label": "Allow the team to change scope and deadlines freely without informing stakeholders."
+      },
+      {
+        "id": "c",
+        "label": "Require sponsor approval for any re-sequencing, regardless of size."
+      },
+      {
+        "id": "d",
+        "label": "Prohibit any re-sequencing during sprints to avoid confusion."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it delegates decisions for low-impact adjustments while reserving significant changes for higher-level approval. Option b is incorrect because major changes without communication harm trust. Option c is incorrect because requiring sponsor approval for minor adjustments slows progress. Option d is incorrect because rigid sequencing can limit responsiveness.",
+    "difficulty": "hard",
+    "topics": ["task sequencing", "decision thresholds"]
+  },
+  {
+    "id": "q-people-4-4-005",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The project manager wants to empower team members to approve small expenditures for tools and licenses up to a limit. How should they determine the appropriate level of decision-making authority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Set a monetary threshold and categories where team members can approve purchases, with reporting back to the project manager."
+      },
+      {
+        "id": "b",
+        "label": "Permit unlimited spending by team members on any tools they prefer."
+      },
+      {
+        "id": "c",
+        "label": "Require the CFO to approve every small purchase directly."
+      },
+      {
+        "id": "d",
+        "label": "Prohibit any team input on tools and licenses."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because thresholds and reporting combine empowerment with budget control. Option b is incorrect because unlimited spending risks overruns. Option c is incorrect because involving the CFO in minor decisions is inefficient. Option d is incorrect because excluding team input may reduce effectiveness.",
+    "difficulty": "easy",
+    "topics": ["spending authority", "guardrails"]
+  },
+  {
+    "id": "q-people-4-4-006",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The team often raises small process improvement ideas. Decisions are currently made only in monthly steering meetings, causing delays. How can the project manager bestow appropriate decision-making authority for such improvements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Authorize the team to implement low-risk process changes within agreed boundaries and review higher-impact proposals in steering meetings."
+      },
+      {
+        "id": "b",
+        "label": "Continue requiring all suggestions to be approved at monthly steering meetings only."
+      },
+      {
+        "id": "c",
+        "label": "Allow any team member to change major governance processes on their own authority."
+      },
+      {
+        "id": "d",
+        "label": "Discourage process improvement discussions to avoid extra decisions."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because allowing the team to decide on low-risk improvements speeds learning while keeping governance for major changes. Option b is incorrect because centralizing every decision slows progress. Option c is incorrect because major governance changes require broader oversight. Option d is incorrect because discouraging improvements reduces agility.",
+    "difficulty": "medium",
+    "topics": ["process improvements", "risk-based authority"]
+  },
+  {
+    "id": "q-people-4-4-007",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "There is confusion over who can approve changes to user interface designs. Designers propose changes, developers implement them, and the sponsor has strong opinions. How should the project manager bestow decision-making authority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Define a decision model where the product owner is accountable for final UI decisions, designers recommend, and developers implement within those decisions."
+      },
+      {
+        "id": "b",
+        "label": "Let any developer change the UI based on personal preferences without review."
+      },
+      {
+        "id": "c",
+        "label": "Require sponsor approval for every minor UI change regardless of impact."
+      },
+      {
+        "id": "d",
+        "label": "Assign final UI decisions solely to the project manager without input from designers or product owner."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clarifying accountable and recommending roles ensures that UI decisions reflect product priorities and expertise. Option b is incorrect because unmanaged changes can harm usability. Option c is incorrect because involving the sponsor in every detail is inefficient. Option d is incorrect because excluding key roles reduces quality.",
+    "difficulty": "hard",
+    "topics": ["UI decisions", "decision model"]
+  },
+  {
+    "id": "q-people-4-4-008",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The project manager wants to increase team engagement by allowing them more control over how they organize their work. What is an appropriate level of decision-making authority to bestow regarding task allocation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Allow the team to self-organize task allocation within sprint goals and capacity constraints, while the project manager monitors outcomes."
+      },
+      {
+        "id": "b",
+        "label": "Allow the team to redefine project scope and deadlines independently."
+      },
+      {
+        "id": "c",
+        "label": "Maintain full central control and assign every task personally to each team member."
+      },
+      {
+        "id": "d",
+        "label": "Delegate all project management tasks, including sponsor communication, to the team without support."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because self-organization of task allocation within clear goals increases ownership without giving away project-level commitments. Option b is incorrect because scope and deadlines need sponsor input. Option c is incorrect because over-control reduces engagement. Option d is incorrect because external communication responsibilities require coordination.",
+    "difficulty": "easy",
+    "topics": ["self-organization", "task allocation authority"]
+  },
+  {
+    "id": "q-people-4-4-009",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The team wants to introduce a new open-source library. This could affect security and licensing. What level of decision-making authority should the project manager bestow on the team for this decision?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Allow the team to evaluate the library technically but require security and legal approval before adoption."
+      },
+      {
+        "id": "b",
+        "label": "Give the team full authority to adopt any open-source library without constraints."
+      },
+      {
+        "id": "c",
+        "label": "Prohibit the team from proposing any new tools to avoid risk."
+      },
+      {
+        "id": "d",
+        "label": "Let external auditors choose libraries with no team input."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it balances team initiative with necessary oversight for security and compliance. Option b is incorrect because unrestricted adoption may create vulnerabilities. Option c is incorrect because banning proposals limits innovation. Option d is incorrect because excluding the team from technical evaluation may reduce suitability.",
+    "difficulty": "hard",
+    "topics": ["tool selection", "risk governance"]
+  },
+  {
+    "id": "q-people-4-4-010",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "Some decisions are repeatedly escalated to the sponsor, even when they fall within the team's expertise and budget. What should the project manager do when determining and bestowing decision-making authority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Clarify decision categories and thresholds, communicate which decisions the team can make independently, and encourage them to use this authority."
+      },
+      {
+        "id": "b",
+        "label": "Continue escalating all decisions to the sponsor to keep them involved."
+      },
+      {
+        "id": "c",
+        "label": "Allow the team to make all decisions, including major budget shifts, without limits."
+      },
+      {
+        "id": "d",
+        "label": "Stop making decisions and wait for sponsor direction on every topic."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clear delegation reduces unnecessary escalations and builds confidence. Option b is incorrect because over-escalation slows progress. Option c is incorrect because some decisions require sponsor approval. Option d is incorrect because passivity is ineffective.",
+    "difficulty": "medium",
+    "topics": ["delegation", "decision catalog"]
+  },
+  {
+    "id": "q-people-4-4-011",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "On a hybrid project, some decisions must align with program-level architecture. The team wants autonomy over technical choices. How should the project manager balance decision-making authority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Allow the team to choose technical options within program architecture standards and escalate exceptions for review."
+      },
+      {
+        "id": "b",
+        "label": "Allow the team to diverge from architecture standards at will for speed."
+      },
+      {
+        "id": "c",
+        "label": "Require program architects to approve every design detail, no matter how small."
+      },
+      {
+        "id": "d",
+        "label": "Give the team full authority over architecture, ignoring program constraints."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it respects architectural guardrails while giving autonomy within those boundaries. Option b and d are incorrect because ignoring standards can harm integration. Option c is incorrect because micromanaged approvals slow work.",
+    "difficulty": "hard",
+    "topics": ["architecture governance", "autonomy within standards"]
+  },
+  {
+    "id": "q-people-4-4-012",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The project manager wants team members to handle routine stakeholder communication without constant involvement. What is an appropriate level of decision-making authority regarding these interactions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Empower designated team members to manage routine updates within an agreed communication plan and involve the project manager for escalations."
+      },
+      {
+        "id": "b",
+        "label": "Allow any team member to commit to new scope and dates during stakeholder conversations."
+      },
+      {
+        "id": "c",
+        "label": "Restrict all stakeholder interactions to the project manager, regardless of topic."
+      },
+      {
+        "id": "d",
+        "label": "Let stakeholders contact any team member with requests and expect the team to manage commitments informally."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because delegating routine communication within a plan maintains consistency while freeing the project manager for higher-level issues. Option b is incorrect because individual commitments may conflict with project constraints. Option c is incorrect because centralizing all communication may create bottlenecks. Option d is incorrect because unmanaged commitments are risky.",
+    "difficulty": "medium",
+    "topics": ["communication authority", "escalation paths"]
+  },
+  {
+    "id": "q-people-4-4-013",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The team is piloting a new working agreement. The project manager wants to let the team evolve the agreement. What level of decision-making authority should be granted?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Give the team authority to adjust working agreements by consensus, as long as they do not violate organizational policies."
+      },
+      {
+        "id": "b",
+        "label": "Require executive approval for any change to the working agreement."
+      },
+      {
+        "id": "c",
+        "label": "Prohibit any changes to the initial agreement once documented."
+      },
+      {
+        "id": "d",
+        "label": "Allow individual members to change agreements unilaterally without informing others."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because team-owned agreements within policy encourage ownership and adaptability. Option b is incorrect because executive approvals for minor adjustments are slow. Option c is incorrect because fixed agreements ignore learning. Option d is incorrect because unilateral changes can create confusion.",
+    "difficulty": "easy",
+    "topics": ["team agreements", "consensus authority"]
+  },
+  {
+    "id": "q-people-4-4-014",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "There is a risk that giving too much decision authority to the team could lead to scope creep. How should the project manager address this while still bestowing decision-making authority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Define clear guardrails for scope decisions, such as limits on added effort, and require product owner approval beyond those limits."
+      },
+      {
+        "id": "b",
+        "label": "Withhold any authority over scope decisions from the team."
+      },
+      {
+        "id": "c",
+        "label": "Allow the team to adjust scope freely as long as they believe it adds value."
+      },
+      {
+        "id": "d",
+        "label": "Ask the sponsor to review every task-level change request."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because guardrails permit limited team decisions while preventing uncontrolled expansion. Option b is incorrect because no authority reduces agility. Option c is incorrect because unchecked scope changes can harm constraints. Option d is incorrect because involving sponsors in every small change is inefficient.",
+    "difficulty": "hard",
+    "topics": ["scope guardrails", "shared authority"]
+  },
+  {
+    "id": "q-people-4-4-015",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The project manager wants to improve decision speed but is concerned about inconsistent decisions across subteams. What is a suitable way to bestow decision-making authority while maintaining consistency?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Establish decision principles and playbooks, then delegate authority to subteams to decide within those guidelines."
+      },
+      {
+        "id": "b",
+        "label": "Allow each subteam to create completely independent rules for all decisions."
+      },
+      {
+        "id": "c",
+        "label": "Keep all decisions centralized to guarantee consistency."
+      },
+      {
+        "id": "d",
+        "label": "Provide no guidance and trust that decisions will align naturally."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because principles and playbooks support aligned local decisions. Option b is incorrect because uncoordinated rules can conflict. Option c is incorrect because centralization slows decisions. Option d is incorrect because alignment rarely emerges without guidance.",
+    "difficulty": "medium",
+    "topics": ["decision playbooks", "subteam autonomy"]
+  },
+  {
+    "id": "q-people-4-4-016",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The team asks for authority to adjust their own working hours as long as commitments are met. What should the project manager consider in bestowing this decision-making authority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Allow flexible hours with clear rules about availability for collaboration, stakeholder expectations, and handoffs."
+      },
+      {
+        "id": "b",
+        "label": "Allow complete flexibility with no expectations about overlap or communication."
+      },
+      {
+        "id": "c",
+        "label": "Refuse any flexibility and require strict identical hours for everyone."
+      },
+      {
+        "id": "d",
+        "label": "Delegate working hours decisions entirely to HR without project input."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because flexible hours within shared expectations support both autonomy and coordination. Option b is incorrect because lack of overlap may harm teamwork. Option c is incorrect because unnecessary rigidity can reduce morale. Option d is incorrect because project needs should inform working patterns.",
+    "difficulty": "easy",
+    "topics": ["flexible work", "availability rules"]
+  },
+  {
+    "id": "q-people-4-4-017",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "On a safety-critical system, certain decisions (such as disabling alarms) must always go through formal review. How should the project manager bestow decision-making authority for less critical operational tweaks?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Clearly separate safety-critical decisions from minor operational tweaks and delegate authority for the latter to the team under documented procedures."
+      },
+      {
+        "id": "b",
+        "label": "Allow the team to alter safety-critical settings without formal review."
+      },
+      {
+        "id": "c",
+        "label": "Require formal review for every small operational tweak, regardless of impact."
+      },
+      {
+        "id": "d",
+        "label": "Give no authority to the team, requiring executive approval for all changes."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because delegating low-risk tweaks while retaining formal control on safety-critical decisions balances risk and agility. Option b is incorrect because it endangers safety. Option c is incorrect because over-control slows operations. Option d is incorrect because excessive escalation is impractical.",
+    "difficulty": "hard",
+    "topics": ["safety-critical decisions", "risk tiers"]
+  },
+  {
+    "id": "q-people-4-4-018",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The project manager wants to ensure that bestowed decision-making authority is understood. What is the best way to communicate levels of authority to the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Document decision domains, thresholds, and owners in a simple matrix and review it with the team, inviting questions."
+      },
+      {
+        "id": "b",
+        "label": "Communicate authority informally and rely on word of mouth."
+      },
+      {
+        "id": "c",
+        "label": "Share authority details only with senior members and expect them to inform others."
+      },
+      {
+        "id": "d",
+        "label": "Assume the team understands authority by observing past examples without explanation."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clear documentation and discussion help everyone understand where they can decide. Option b is incorrect because informal communication leads to confusion. Option c is incorrect because partial communication may create power imbalances. Option d is incorrect because assumptions can be wrong.",
+    "difficulty": "easy",
+    "topics": ["decision matrix", "communication"]
+  },
+  {
+    "id": "q-people-4-4-019",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The team has been given authority to adjust their internal processes. After several changes, performance improved but documentation lagged behind. What should the project manager do regarding decision-making authority and controls?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Keep process decision authority with the team but require them to update minimal documentation when they change processes."
+      },
+      {
+        "id": "b",
+        "label": "Revoke all decision authority because documentation was delayed."
+      },
+      {
+        "id": "c",
+        "label": "Ignore missing documentation as long as metrics look good."
+      },
+      {
+        "id": "d",
+        "label": "Take over all process decisions and stop team-led changes."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because adding lightweight documentation requirements preserves autonomy while ensuring traceability. Option b is incorrect because revoking authority over a solvable issue may demotivate the team. Option c is incorrect because documentation is needed for continuity. Option d is incorrect because centralization reduces engagement.",
+    "difficulty": "medium",
+    "topics": ["process authority", "documentation control"]
+  },
+  {
+    "id": "q-people-4-4-020",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "Leadership wants assurance that decisions made by the team align with strategic objectives. How should the project manager structure decision-making authority to address this concern?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Align team decision authority with strategic objectives by defining decision criteria and requiring escalation when decisions would deviate from those criteria."
+      },
+      {
+        "id": "b",
+        "label": "Give the team unlimited authority and trust that they will naturally align with strategy."
+      },
+      {
+        "id": "c",
+        "label": "Require leadership approval for every decision, regardless of impact."
+      },
+      {
+        "id": "d",
+        "label": "Avoid discussing strategic alignment with the team when giving authority."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because decisions guided by explicit alignment criteria allow autonomy while respecting strategy. Option b is incorrect because unbounded authority risks drift. Option c is incorrect because micro-approval is inefficient. Option d is incorrect because ignoring strategy can cause misalignment.",
+    "difficulty": "hard",
+    "topics": ["strategic alignment", "decision criteria"]
+  },
+  {
+    "id": "q-people-4-4-021",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "New graduates joined the project. The project manager wants to give them decision-making opportunities without risking key outcomes. What is an appropriate way to bestow authority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Give them authority over low-risk tasks and decisions with coaching, increasing responsibility as they gain experience."
+      },
+      {
+        "id": "b",
+        "label": "Give them full authority over critical architectural decisions immediately."
+      },
+      {
+        "id": "c",
+        "label": "Exclude them from all decision-making until they have several years of experience."
+      },
+      {
+        "id": "d",
+        "label": "Let them decide only on their own work environment preferences, not on project tasks."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because progressive delegation builds capability while managing risk. Option b is incorrect because high-stakes decisions require more experience. Option c is incorrect because delaying decision practice slows growth. Option d is incorrect because limiting decisions to personal preferences misses development opportunities.",
+    "difficulty": "medium",
+    "topics": ["junior empowerment", "progressive delegation"]
+  },
+  {
+    "id": "q-people-4-4-022",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "During a crisis, the team needs to make quick technical decisions. The usual approval chain is too slow. How should the project manager adjust decision-making authority for the crisis period?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Temporarily delegate more decision authority to on-call technical leaders with clear boundaries and require post-crisis review of decisions."
+      },
+      {
+        "id": "b",
+        "label": "Maintain the usual approval chain even if it delays critical responses."
+      },
+      {
+        "id": "c",
+        "label": "Allow any team member to make any change in production without coordination."
+      },
+      {
+        "id": "d",
+        "label": "Pause all decisions until leadership can meet, regardless of urgency."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because crisis authority with boundaries and later review balances speed and control. Option b is incorrect because slow approvals can worsen impacts. Option c is incorrect because uncontrolled changes are risky. Option d is incorrect because waiting may be unacceptable.",
+    "difficulty": "hard",
+    "topics": ["crisis management", "temporary authority"]
+  },
+  {
+    "id": "q-people-4-4-023",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "The project manager has defined decision-making authority, but some team members still escalate small decisions. What should the project manager do to reinforce the bestowed authority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Coach team members to make decisions within their authority and support them when they do, reinforcing trust."
+      },
+      {
+        "id": "b",
+        "label": "Take back decision authority and handle all decisions personally."
+      },
+      {
+        "id": "c",
+        "label": "Ignore the escalations and make ad hoc decisions without explanation."
+      },
+      {
+        "id": "d",
+        "label": "Ask leadership to reprimand team members for escalating small decisions."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because coaching and positive reinforcement encourage use of delegated authority. Option b is incorrect because centralizing decisions reduces empowerment. Option c is incorrect because unaddressed behavior persists. Option d is incorrect because punishment may discourage collaboration.",
+    "difficulty": "medium",
+    "topics": ["reinforcing delegation", "coaching"]
+  },
+  {
+    "id": "q-people-4-4-024",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "At project closeout, the project manager wants to evaluate whether decision-making authority levels were appropriate. What should be reviewed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Frequency and impact of escalations, decision delays, quality of outcomes, and feedback from team and stakeholders."
+      },
+      {
+        "id": "b",
+        "label": "Only the number of decisions made, regardless of who made them."
+      },
+      {
+        "id": "c",
+        "label": "Only budget variance, ignoring how decisions were made."
+      },
+      {
+        "id": "d",
+        "label": "Only schedule adherence, without considering decision processes."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a comprehensive review of decision patterns and impacts indicates whether authority levels were effective. Option b is incorrect because counts alone are not insightful. Option c and d are incorrect because schedule or budget alone do not capture decision dynamics.",
+    "difficulty": "easy",
+    "topics": ["post-project review", "decision evaluation"]
+  },
+  {
+    "id": "q-people-4-4-025",
+    "domainId": "people",
+    "taskId": "people-4",
+    "enablerIds": ["e-people-4-4"],
+    "text": "To prepare for future projects, the organization wants examples of effective decision authority structures. What should the project manager document from this project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Decision categories, thresholds, who had authority, how escalations worked, and lessons about what levels were most effective."
+      },
+      {
+        "id": "b",
+        "label": "Only the names of team members without roles or authorities."
+      },
+      {
+        "id": "c",
+        "label": "Only the final project outcomes with no description of decision structures."
+      },
+      {
+        "id": "d",
+        "label": "Only formal governance charts, without any practical examples."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because detailed documentation of how authority was structured and performed supports reuse and improvement. Option b is incorrect because names alone are not instructive. Option c is incorrect because outcomes without context teach little. Option d is incorrect because charts alone may miss practical insights.",
+    "difficulty": "medium",
+    "topics": ["organizational learning", "authority patterns"]
+  }
+]
+
