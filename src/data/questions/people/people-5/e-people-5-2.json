@@ -1,2 +1,427 @@
 [
+  {
+    "id": "q-people-5-2-001",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project team is geographically dispersed across four different time zones. A skills gap analysis reveals a need for training on a new cloud-based collaboration platform. The budget is limited, and the team cannot stop working for a full day. Which training option is most suitable?",
+    "options": [
+      { "id": "a", "label": "Schedule a mandatory full-day live virtual workshop for all team members simultaneously." },
+      { "id": "b", "label": "Provide access to self-paced modular video tutorials with a discussion forum for Q&A." },
+      { "id": "c", "label": "Fly all team members to a central location for an intensive two-day training camp." },
+      { "id": "d", "label": "Hire a specialized consultant to conduct one-on-one coaching sessions with each member." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because self-paced modular training accommodates different time zones and limited budget while preventing work stoppage. Option a is incorrect because a simultaneous live workshop is difficult to schedule across four time zones and disrupts work. Option c is incorrect because travel is cost-prohibitive and pauses work. Option d is incorrect because one-on-one coaching is expensive and time-consuming.",
+    "difficulty": "medium",
+    "topics": ["virtual training", "asynchronous learning"]
+  },
+  {
+    "id": "q-people-5-2-002",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "An agile team identifies a lack of knowledge in automated testing during a retrospective. The team prefers collaborative learning, and there is a senior developer with extensive automation experience on the team. Which training approach should the project manager suggest?",
+    "options": [
+      { "id": "a", "label": "Send the senior developer to an advanced external course to further refine their skills." },
+      { "id": "b", "label": "Implement a pair programming schedule where the senior developer pairs with others." },
+      { "id": "c", "label": "Purchase individual licenses for an online automated testing course for every member." },
+      { "id": "d", "label": "Organize a formal lecture where the senior developer presents slides for eight hours." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because pair programming facilitates collaborative, hands-on knowledge transfer from the senior developer to the team. Option a is incorrect because it trains the person who already has the skill. Option c is incorrect because it isolates learners, ignoring the preference for collaboration. Option d is incorrect because formal lectures are less effective than hands-on pairing for coding skills.",
+    "difficulty": "medium",
+    "topics": ["knowledge transfer", "pair programming"]
+  },
+  {
+    "id": "q-people-5-2-003",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project manager identifies that several team members struggle with conflict resolution. The HR department offers a standard online seminar, but the project manager feels the team needs practical experience handling heated situations. What is the best training option?",
+    "options": [
+      { "id": "a", "label": "Enroll the team in the standard HR online seminar to ensure policy compliance." },
+      { "id": "b", "label": "Distribute a reading list of best-selling books regarding conflict resolution." },
+      { "id": "c", "label": "Arrange an instructor-led workshop featuring role-playing and simulation exercises." },
+      { "id": "d", "label": "Ask the team to resolve conflicts on their own to build character and resilience." }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because role-playing provides the practical, experiential learning needed to change behavior in conflict situations. Option a is incorrect because a standard online seminar often lacks practical application. Option b is incorrect because reading is passive and may not translate to skill. Option d is incorrect because it ignores the identified need for training support.",
+    "difficulty": "hard",
+    "topics": ["soft skills", "role-playing"]
+  },
+  {
+    "id": "q-people-5-2-004",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A construction project introduces a new safety regulation requiring certification. The deadline is in two weeks, and failure to comply halts the project. The budget is healthy, but time is critical. Which training option is most appropriate?",
+    "options": [
+      { "id": "a", "label": "Develop a custom internal training program to cover the specific project needs." },
+      { "id": "b", "label": "Hire an accredited external vendor to conduct immediate on-site certification." },
+      { "id": "c", "label": "Ask team members to research the regulations and study in their free time." },
+      { "id": "d", "label": "Schedule a training session for next month when the schedule is less busy." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because hiring an accredited vendor ensures immediate compliance and certification within the tight deadline. Option a is incorrect because developing a new program takes too long. Option c is incorrect because self-study may not lead to recognized certification. Option d is incorrect because the deadline is in two weeks, so waiting a month stops the project.",
+    "difficulty": "easy",
+    "topics": ["compliance", "vendor training"]
+  },
+  {
+    "id": "q-people-5-2-005",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project manager notices that a junior stakeholder is hesitant to approve requirements due to a lack of understanding of the technical domain. The stakeholder is busy and cannot attend formal classes. What is the most effective training option?",
+    "options": [
+      { "id": "a", "label": "Assign a technical subject matter expert to provide reverse shadowing and mentoring." },
+      { "id": "b", "label": "Send the stakeholder a comprehensive technical manual to read during weekends." },
+      { "id": "c", "label": "Require the stakeholder to attend a week-long technical bootcamp off-site." },
+      { "id": "d", "label": "Ignore the training need and ask a senior stakeholder to override the approvals." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because mentoring and reverse shadowing allow for targeted, time-efficient knowledge transfer suitable for a busy executive. Option b is incorrect because it is unrealistic to expect a busy stakeholder to study manuals on weekends. Option c is incorrect because the stakeholder cannot attend formal classes. Option d is incorrect because it bypasses the stakeholder rather than enabling them.",
+    "difficulty": "medium",
+    "topics": ["mentoring", "stakeholder engagement"]
+  },
+  {
+    "id": "q-people-5-2-006",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "During a project using a hybrid approach, the predictive team members are struggling to understand agile ceremonies. The project has zero budget for external training. What is the best course of action?",
+    "options": [
+      { "id": "a", "label": "Request additional funds from the sponsor to hire an agile coach for the team." },
+      { "id": "b", "label": "Organize internal 'brown bag' lunch sessions led by the agile team members." },
+      { "id": "c", "label": "Switch the entire project to a predictive approach to accommodate the team." },
+      { "id": "d", "label": "Advise the predictive team members to watch free videos online at home." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because 'brown bag' sessions are a zero-cost, internal knowledge-sharing method effective for peer learning. Option a is incorrect because there is no budget. Option c is incorrect because it changes the project methodology rather than addressing the skill gap. Option d is incorrect because it lacks structure and relies on personal time.",
+    "difficulty": "medium",
+    "topics": ["internal training", "zero budget"]
+  },
+  {
+    "id": "q-people-5-2-007",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A highly specialized technical team needs to learn a proprietary software that only the vendor can teach. The vendor offers expensive on-site training or cheaper webinars. The team agrees that hands-on practice with immediate feedback is critical. What should the project manager choose?",
+    "options": [
+      { "id": "a", "label": "Purchase the cheaper webinars to save the project budget for other risks." },
+      { "id": "b", "label": "Select the on-site training to ensure the learning objectives are met effectively." },
+      { "id": "c", "label": "Ask the vendor to provide the training manuals so the team can teach themselves." },
+      { "id": "d", "label": "Delay the training until the software is fully installed and learn by doing." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because the team's need for hands-on practice and immediate feedback justifies the cost of on-site instructor-led training. Option a is incorrect because webinars often lack the depth of hands-on interaction required. Option c is incorrect because self-study lacks the required expert feedback. Option d is incorrect because learning by doing on a live system is high risk.",
+    "difficulty": "medium",
+    "topics": ["cost-benefit analysis", "specialized training"]
+  },
+  {
+    "id": "q-people-5-2-008",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project team needs to learn a new coding language. Half the team prefers visual learning, while the other half prefers reading documentation. The timeline is flexible. How should the project manager proceed?",
+    "options": [
+      { "id": "a", "label": "Mandate a visual video course for everyone to maintain consistency." },
+      { "id": "b", "label": "Provide a subscription to a platform offering mixed-media learning paths." },
+      { "id": "c", "label": "Force the text-based learners to use videos to encourage adaptability." },
+      { "id": "d", "label": "Wait for the team to reach a consensus on a single training method." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because providing mixed-media options respects diverse learning styles and ensures all team members can learn effectively. Option a is incorrect because it ignores the needs of half the team. Option c is incorrect because forcing a learning style reduces effectiveness. Option d is incorrect because waiting causes unnecessary delays.",
+    "difficulty": "easy",
+    "topics": ["learning styles", "flexible training"]
+  },
+  {
+    "id": "q-people-5-2-009",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A team member has been promoted to a team lead role but lacks leadership skills. The project manager wants to ensure long-term growth rather than a quick fix. Which option is best?",
+    "options": [
+      { "id": "a", "label": "Send the new lead to a one-day intensive leadership seminar." },
+      { "id": "b", "label": "Establish a long-term coaching relationship with a senior leader." },
+      { "id": "c", "label": "Give the lead a book on management and ask for a book report." },
+      { "id": "d", "label": "Assume the lead will learn from mistakes naturally over time." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because coaching is a long-term development strategy suitable for building leadership skills over time. Option a is incorrect because a one-day seminar is a short-term fix, not long-term growth. Option c is incorrect because it is passive and lacks feedback. Option d is incorrect because it provides no support and risks project failure.",
+    "difficulty": "medium",
+    "topics": ["leadership development", "coaching"]
+  },
+  {
+    "id": "q-people-5-2-010",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project involves sensitive data privacy regulations. The organization requires all staff to pass a compliance test annually. The project manager must ensure the new team is compliant. What is the most efficient method?",
+    "options": [
+      { "id": "a", "label": "Utilize the organization's existing Learning Management System (LMS) modules." },
+      { "id": "b", "label": "Create a new slide deck about data privacy specific to this project." },
+      { "id": "c", "label": "Hold a daily standup meeting dedicated to reading privacy laws aloud." },
+      { "id": "d", "label": "Hire an external legal expert to draft a new curriculum for the team." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because using existing organizational resources is the most efficient and ensures alignment with standard compliance requirements. Option b is incorrect because it duplicates effort. Option c is incorrect because it is an inefficient use of meeting time. Option d is incorrect because it incurs unnecessary cost when internal resources exist.",
+    "difficulty": "easy",
+    "topics": ["organizational assets", "compliance"]
+  },
+  {
+    "id": "q-people-5-2-011",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project team needs to understand the customer's business processes to build a better product. The customer is willing to help but has limited availability for formal training. What is the best approach?",
+    "options": [
+      { "id": "a", "label": "Job shadowing where developers observe customer staff during their workday." },
+      { "id": "b", "label": "Request the customer to write a detailed textbook on their processes." },
+      { "id": "c", "label": "Schedule a week-long workshop requiring the customer's full attention." },
+      { "id": "d", "label": "Hire a business analyst to guess the processes and teach the team." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because job shadowing allows the team to learn in real-time without requiring the customer to prepare training materials. Option b is incorrect because it places a heavy burden on the customer. Option c is incorrect because the customer has limited availability. Option d is incorrect because guessing leads to requirements errors.",
+    "difficulty": "medium",
+    "topics": ["shadowing", "customer engagement"]
+  },
+  {
+    "id": "q-people-5-2-012",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "During a retrospective, the team requests training on a new technology. The project manager checks the budget and finds it is fully depleted. What is a viable zero-cost training option?",
+    "options": [
+      { "id": "a", "label": "Pay for the training using the management reserve fund." },
+      { "id": "b", "label": "Organize a 'hackathon' where the team learns by experimenting together." },
+      { "id": "c", "label": "Ask the team to pay for their own training and reimburse them later." },
+      { "id": "d", "label": "Cancel the training request since the budget is depleted." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because a hackathon is an internal, collaborative event that fosters learning without external costs. Option a is incorrect because management reserves are for unforeseen risks, not planned training. Option c is incorrect because it violates budget constraints and trust. Option d is incorrect because it ignores the team's need for improvement.",
+    "difficulty": "medium",
+    "topics": ["creative learning", "budget constraints"]
+  },
+  {
+    "id": "q-people-5-2-013",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A team needs to learn a new complex tool. The vendor offers a 'Train the Trainer' model or direct training for all 50 staff. The 'Train the Trainer' model is 20% of the cost of direct training. The team includes three experienced natural teachers. What is the best choice?",
+    "options": [
+      { "id": "a", "label": "Choose direct training for all 50 staff to ensure everyone hears from the expert." },
+      { "id": "b", "label": "Adopt the 'Train the Trainer' model and utilize the internal natural teachers." },
+      { "id": "c", "label": "Decline both options and have the team figure it out using the help files." },
+      { "id": "d", "label": "Select the direct training but only send the 25 least experienced members." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because it leverages internal talent and significantly reduces costs while ensuring the knowledge is disseminated. Option a is incorrect because it is much more expensive and ignores internal capabilities. Option c is incorrect because complex tools usually require formal instruction. Option d is incorrect because it leaves half the team untrained.",
+    "difficulty": "medium",
+    "topics": ["train the trainer", "scalability"]
+  },
+  {
+    "id": "q-people-5-2-014",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project manager oversees a team of contract workers who will only be on the project for three months. They need to learn a specific internal protocol. Which training method maximizes ROI?",
+    "options": [
+      { "id": "a", "label": "Send them to a comprehensive three-day off-site certification course." },
+      { "id": "b", "label": "Provide a concise cheat-sheet and a one-hour briefing on the protocol." },
+      { "id": "c", "label": "Enroll them in a semester-long university course on the subject." },
+      { "id": "d", "label": "Conduct a week-long deep-dive workshop into company history." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because short-term contractors need just-in-time, specific knowledge, not broad certification. Option a is incorrect because the cost and time are not justified for a 3-month tenure. Option c is incorrect because the course takes longer than their contract. Option d is incorrect because company history is irrelevant to the specific protocol.",
+    "difficulty": "easy",
+    "topics": ["contractors", "just-in-time training"]
+  },
+  {
+    "id": "q-people-5-2-015",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A team is transitioning from Waterfall to Agile. The team members are anxious and skeptical. The project manager wants a training option that addresses the mindset shift, not just the mechanics. What is the best option?",
+    "options": [
+      { "id": "a", "label": "Provide a textbook on Scrum mechanics and hold a quiz." },
+      { "id": "b", "label": "Hire an Agile Coach to work with the team daily for the first few Sprints." },
+      { "id": "c", "label": "Send the team to a one-day seminar on Agile terminology." },
+      { "id": "d", "label": "Mandate that all status reports be written in an Agile format." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because an Agile Coach can address cultural and mindset shifts through daily interaction and guidance. Option a is incorrect because reading about mechanics does not change mindset. Option c is incorrect because a one-day seminar is too short to shift culture. Option d is incorrect because changing report formats is administrative, not transformational.",
+    "difficulty": "hard",
+    "topics": ["agile transformation", "coaching"]
+  },
+  {
+    "id": "q-people-5-2-016",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A global team needs training on cultural sensitivity. The team finds standard PowerPoint presentations boring and disengaging. What innovative training option should the project manager propose?",
+    "options": [
+      { "id": "a", "label": "Gamified learning modules with interactive scenarios and rewards." },
+      { "id": "b", "label": "A longer PowerPoint presentation with more detailed text." },
+      { "id": "c", "label": "A series of mandatory emails describing cultural facts." },
+      { "id": "d", "label": "A lecture from the CEO about the importance of culture." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because gamification increases engagement and interactivity, addressing the team's boredom with standard presentations. Option b is incorrect because it offers more of what the team dislikes. Option c is incorrect because emails are passive and easily ignored. Option d is incorrect because a lecture does not provide the interactive practice needed.",
+    "difficulty": "medium",
+    "topics": ["gamification", "engagement"]
+  },
+  {
+    "id": "q-people-5-2-017",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project manager needs to train a team on a new risk management tool. The team is comprised of very senior experts who dislike being 'taught' in a classroom setting. How should the training be delivered?",
+    "options": [
+      { "id": "a", "label": "Force them into a classroom setting to assert authority." },
+      { "id": "b", "label": "Facilitate a workshop where they explore the tool and define usage standards together." },
+      { "id": "c", "label": "Send them a link to a basic 'Introduction to Risk' video series." },
+      { "id": "d", "label": "Assign a junior trainer to lecture them on the basics of the tool." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because facilitating a workshop respects their expertise and engages them in defining the process, which increases buy-in. Option a is incorrect because it creates resistance. Option c is incorrect because basic videos may be insulting to experts. Option d is incorrect because senior experts typically respond poorly to being lectured by juniors.",
+    "difficulty": "hard",
+    "topics": ["adult learning", "facilitation"]
+  },
+  {
+    "id": "q-people-5-2-018",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "Two team members need to learn a specific niche skill that is only used in one phase of the project. The skill is complex. What is the most cost-effective and appropriate training?",
+    "options": [
+      { "id": "a", "label": "Train the entire team to ensure redundancy across all roles." },
+      { "id": "b", "label": "Send the two members to specialized training just before the phase begins." },
+      { "id": "c", "label": "Have the two members learn the skill six months in advance." },
+      { "id": "d", "label": "Hire a permanent full-time specialist to join the team indefinitely." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because targeted training delivered 'just-in-time' prevents knowledge decay and minimizes cost. Option a is incorrect because training the whole team is a waste of budget. Option c is incorrect because learning too early leads to forgetting (knowledge decay). Option d is incorrect because a permanent hire is unnecessary for a single phase.",
+    "difficulty": "medium",
+    "topics": ["just-in-time training", "knowledge decay"]
+  },
+  {
+    "id": "q-people-5-2-019",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project team is failing to adhere to the defined change control process. The process is documented, but no one reads it. The project manager wants a training intervention that forces interaction with the process steps. What is the best option?",
+    "options": [
+      { "id": "a", "label": "Resend the document via email with a high-priority flag." },
+      { "id": "b", "label": "Conduct a process simulation where the team must route a mock change request." },
+      { "id": "c", "label": "Post the process map on the wall in the break room." },
+      { "id": "d", "label": "Ask the sponsor to mention the process in the next newsletter." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because a simulation requires active participation and application of the process, ensuring understanding. Option a is incorrect because the team already ignores the document. Option c is incorrect because it is passive. Option d is incorrect because it is too distant from the daily work.",
+    "difficulty": "medium",
+    "topics": ["simulation", "process adherence"]
+  },
+  {
+    "id": "q-people-5-2-020",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A new project manager takes over a team that has high turnover. New members join every month. Scheduling monthly formal training sessions is becoming too expensive and logistically difficult. What is the best sustainable solution?",
+    "options": [
+      { "id": "a", "label": "Create a library of on-demand onboarding videos and documentation." },
+      { "id": "b", "label": "Stop training new members and hope they learn from peers." },
+      { "id": "c", "label": "Continue the expensive monthly sessions regardless of cost." },
+      { "id": "d", "label": "Only hire new members who already know the project specifics." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because on-demand assets can be reused indefinitely with zero incremental cost, making it ideal for high-turnover environments. Option b is incorrect because it leads to poor performance. Option c is incorrect because it ignores the logistical and cost issues. Option d is incorrect because it is unrealistic to find candidates who know specific internal project details.",
+    "difficulty": "medium",
+    "topics": ["onboarding", "scalability"]
+  },
+  {
+    "id": "q-people-5-2-021",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A team needs to learn about a new market regulation. The regulation is dry and complex. The team is young and tech-savvy. Which format would likely yield the best retention?",
+    "options": [
+      { "id": "a", "label": "A 300-page printed binder with all legal texts." },
+      { "id": "b", "label": "Micro-learning apps pushing daily short quizzes to their phones." },
+      { "id": "c", "label": "A continuous 4-hour lecture by a legal compliance officer." },
+      { "id": "d", "label": "A dedicated reading room with silence enforced." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because micro-learning matches the habits of a tech-savvy audience and aids retention through spaced repetition. Option a is incorrect because it is overwhelming and engaging. Option c is incorrect because cognitive load in a 4-hour lecture on dry topics reduces retention. Option d is incorrect because it doesn't actively teach the material.",
+    "difficulty": "medium",
+    "topics": ["micro-learning", "generational traits"]
+  },
+  {
+    "id": "q-people-5-2-022",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project manager identifies that the team lacks presentation skills needed for the final review. The review is next week. There is no budget for a trainer. What is a practical internal option?",
+    "options": [
+      { "id": "a", "label": "Organize 'lunch and learn' dry-runs where the team critiques each other." },
+      { "id": "b", "label": "Cancel the final review to avoid embarrassment." },
+      { "id": "c", "label": "Ask the team to watch TED talks in their spare time." },
+      { "id": "d", "label": "Submit a budget request that will take two weeks to approve." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because peer critiques and dry-runs provide immediate, practical practice at no cost. Option b is incorrect because it avoids the responsibility. Option c is incorrect because watching videos is passive and doesn't provide feedback. Option d is incorrect because the approval will come too late.",
+    "difficulty": "easy",
+    "topics": ["peer review", "practice"]
+  },
+  {
+    "id": "q-people-5-2-023",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project requires the use of a dangerous piece of machinery. The manufacturer offers a virtual reality (VR) simulation training or a classroom theory course. Why might the project manager choose the VR simulation?",
+    "options": [
+      { "id": "a", "label": "Because VR is a trendy technology that looks good to stakeholders." },
+      { "id": "b", "label": "Because it allows safe practice of dangerous scenarios without physical risk." },
+      { "id": "c", "label": "Because it is always cheaper than classroom theory courses." },
+      { "id": "d", "label": "Because it requires less time than reading a manual." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because the primary advantage of simulation in hazardous environments is safety during the learning process. Option a is incorrect because training decisions should be based on effectiveness, not trends. Option c is incorrect because VR development can be expensive. Option d is incorrect because time savings are not the primary driver for safety training.",
+    "difficulty": "medium",
+    "topics": ["safety training", "simulation"]
+  },
+  {
+    "id": "q-people-5-2-024",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "An organization is moving to a remote-first model. The project manager needs to train the team on maintaining work-life balance. Which approach promotes open discussion and shared experiences?",
+    "options": [
+      { "id": "a", "label": "Facilitated virtual roundtables where team members share strategies." },
+      { "id": "b", "label": "A strict policy document defining working hours." },
+      { "id": "c", "label": "Anonymous surveys asking about stress levels." },
+      { "id": "d", "label": "One-way webinars from HR about the dangers of burnout." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because roundtables facilitate peer-to-peer sharing and open discussion, which is essential for soft topics like work-life balance. Option b is incorrect because a policy is not training. Option c is incorrect because surveys gather data but don't teach skills. Option d is incorrect because it lacks the interactive discussion element requested.",
+    "difficulty": "medium",
+    "topics": ["soft skills", "remote work"]
+  },
+  {
+    "id": "q-people-5-2-025",
+    "domainId": "people",
+    "taskId": "people-5",
+    "enablerIds": ["e-people-5-2"],
+    "text": "A project team needs certification in a specific methodology to bid for a future contract. The certification exam is known to be very difficult. The project manager wants to ensure a high pass rate. What combination of training options is best?",
+    "options": [
+      { "id": "a", "label": "Self-study using a textbook followed by the exam immediately." },
+      { "id": "b", "label": "A comprehensive bootcamp course followed by practice exams and study groups." },
+      { "id": "c", "label": "Watching a few YouTube videos and hoping for the best." },
+      { "id": "d", "label": "Asking a team member who passed years ago to give a one-hour summary." }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because a multi-faceted approach (bootcamp, practice, study groups) reinforces learning and addresses the high difficulty of the exam. Option a is incorrect because self-study alone may not be sufficient for a 'very difficult' exam. Option c is incorrect because it is negligent. Option d is incorrect because a one-hour summary is insufficient for certification.",
+    "difficulty": "hard",
+    "topics": ["certification", "blended learning"]
+  }
 ]
