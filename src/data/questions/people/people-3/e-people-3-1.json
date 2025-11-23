@@ -1,0 +1,428 @@
+[
+  {
+    "id": "q-people-3-1-001",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A team member consistently completes user stories on time, but defect rates for their work are higher than the team average. The sponsor is impressed with their throughput. What should the project manager do first when appraising this team member's performance against key performance indicators (KPIs)?",
+    "options": [
+      { "id": "a", "label": "Review both throughput and quality KPIs with the team member to discuss balanced performance." },
+      { "id": "b", "label": "Recognize the team member publicly for high throughput and ignore the defect rate for now." },
+      { "id": "c", "label": "Reduce the team member's workload without explaining why to avoid conflict." },
+      { "id": "d", "label": "Ask the sponsor to decide how to rate the team member's performance." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because appraising performance against KPIs requires looking at both productivity and quality, then having a transparent conversation. Option b is incorrect because ignoring quality undermines the integrity of KPIs. Option c is incorrect because changing workload without feedback does not help the team member improve. Option d is incorrect because the project manager, not the sponsor, should lead performance appraisals using agreed KPIs.",
+    "difficulty": "easy",
+    "topics": ["performance appraisal", "balanced KPIs"]
+  },
+  {
+    "id": "q-people-3-1-002",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "The project uses KPIs such as cycle time, defect density, and customer satisfaction. One analyst disputes the latest appraisal, arguing that only cycle time matters. How should the project manager respond when appraising performance?",
+    "options": [
+      { "id": "a", "label": "Explain that all agreed KPIs must be considered together to provide a complete view of performance." },
+      { "id": "b", "label": "Agree to use only cycle time for this analyst to keep them motivated." },
+      { "id": "c", "label": "Remove cycle time from the KPI set because it causes disagreements." },
+      { "id": "d", "label": "Ask the analyst to propose a new set of KPIs and apply it only to themselves." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because KPIs are defined up front and should be applied consistently to enable fair appraisal. Option b is incorrect because using different standards for one person creates inequity. Option c is incorrect because dropping a useful KPI avoids the conversation instead of improving understanding. Option d is incorrect because letting individuals choose their own KPIs undermines comparability and team alignment.",
+    "difficulty": "medium",
+    "topics": ["KPI definition", "fairness"]
+  },
+  {
+    "id": "q-people-3-1-003",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "During a midyear review, a team member argues that they handled many urgent production issues that are not reflected in the formal KPIs. What should the project manager do to appraise performance effectively?",
+    "options": [
+      { "id": "a", "label": "Incorporate qualitative evidence and incident metrics alongside formal KPIs to capture the full contribution." },
+      { "id": "b", "label": "Ignore untracked work and rely only on the original KPIs for the appraisal." },
+      { "id": "c", "label": "Ask the team member to stop handling production issues in the future." },
+      { "id": "d", "label": "Delay the appraisal until new KPIs can be approved next year." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because effective appraisal uses KPIs plus relevant supporting data to recognize invisible work. Option b is incorrect because ignoring critical but untracked work demotivates the team member. Option c is incorrect because stopping needed support work harms project outcomes. Option d is incorrect because delaying feedback wastes an opportunity to recognize contributions and adjust metrics.",
+    "difficulty": "medium",
+    "topics": ["invisible work", "qualitative evidence"]
+  },
+  {
+    "id": "q-people-3-1-004",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A project dashboard shows that one tester consistently exceeds agreed KPIs. However, peers complain that the tester refuses to help others. What should the project manager emphasize when appraising the tester's performance?",
+    "options": [
+      { "id": "a", "label": "Include collaboration and team-based KPIs in the appraisal discussion, not just individual throughput." },
+      { "id": "b", "label": "Focus only on individual KPIs because peer feedback is subjective." },
+      { "id": "c", "label": "Ignore the KPIs and base the appraisal entirely on peer complaints." },
+      { "id": "d", "label": "Let the team informally decide the tester's rating without using KPIs." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because performance appraisal should integrate both quantitative KPIs and qualitative input on collaboration. Option b is incorrect because excluding collaboration ignores critical aspects of team performance. Option c is incorrect because discarding measurable results is unbalanced. Option d is incorrect because delegating appraisal to the team without structure risks bias and inconsistency.",
+    "difficulty": "medium",
+    "topics": ["collaboration KPIs", "team feedback"]
+  },
+  {
+    "id": "q-people-3-1-005",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A developer meets all KPIs but expresses frustration that the goals were set without their input and feel unrealistic in the long term. What is the best action when appraising their performance?",
+    "options": [
+      { "id": "a", "label": "Discuss how the KPIs were set, invite feedback on their achievability, and agree on any needed adjustments going forward." },
+      { "id": "b", "label": "Explain that KPIs are fixed and cannot be changed once the project starts." },
+      { "id": "c", "label": "Tell the developer that only the sponsor can question KPI design." },
+      { "id": "d", "label": "Avoid discussing KPIs during the appraisal to keep the conversation positive." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because performance appraisal is an opportunity to review KPI relevance and involve the team member in refining goals. Option b is incorrect because inflexible KPIs may stop reflecting reality as the project evolves. Option c is incorrect because excluding the team member from the discussion undermines ownership. Option d is incorrect because avoiding KPI topics prevents necessary alignment.",
+    "difficulty": "easy",
+    "topics": ["KPI negotiation", "engagement"]
+  },
+  {
+    "id": "q-people-3-1-006",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "The project uses a team-level KPI for defect escape rate, but one team member asks how their individual contribution will be appraised. What should the project manager do?",
+    "options": [
+      { "id": "a", "label": "Explain how team-level KPIs and individual responsibilities combine in the appraisal and clarify expectations for each person." },
+      { "id": "b", "label": "Create a special individual KPI for this person only to satisfy their request." },
+      { "id": "c", "label": "Tell them that only team-level KPIs matter and individual behavior is irrelevant." },
+      { "id": "d", "label": "Postpone the response until the end of the project to avoid complexity." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because appraising performance requires explaining how shared KPIs translate into individual expectations. Option b is incorrect because designing ad hoc KPIs for one person creates inequity. Option c is incorrect because individual behavior clearly influences team KPIs. Option d is incorrect because delaying clarity increases anxiety and confusion.",
+    "difficulty": "easy",
+    "topics": ["team KPIs", "expectations"]
+  },
+  {
+    "id": "q-people-3-1-007",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "You are preparing quarterly appraisals and notice that several team members do not understand how KPIs are calculated. What should you do before finalizing performance appraisals?",
+    "options": [
+      { "id": "a", "label": "Hold a brief session to explain KPI definitions, data sources, and calculation methods to the whole team." },
+      { "id": "b", "label": "Proceed with appraisals using your own understanding and ignore their confusion." },
+      { "id": "c", "label": "Ask each team member to research KPI calculations on their own time." },
+      { "id": "d", "label": "Remove all KPIs from the appraisal process to avoid misinterpretation." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because transparent KPI definitions are necessary for fair and trusted appraisals. Option b is incorrect because appraising against misunderstood metrics undermines trust. Option c is incorrect because leaving each person to interpret KPIs alone leads to inconsistent understanding. Option d is incorrect because abandoning KPIs removes a structured basis for performance assessment.",
+    "difficulty": "medium",
+    "topics": ["KPI transparency", "team understanding"]
+  },
+  {
+    "id": "q-people-3-1-008",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A new performance dashboard has been introduced mid-project with additional KPIs. Some team members worry that their past work will be judged using the new measures. How should the project manager handle this during appraisal?",
+    "options": [
+      { "id": "a", "label": "Clarify which time periods each KPI applies to and appraise past work only against the metrics that were in effect at the time." },
+      { "id": "b", "label": "Apply the new KPIs retroactively to all completed work to keep reporting simple." },
+      { "id": "c", "label": "Exclude the new KPIs from appraisals entirely to avoid any change." },
+      { "id": "d", "label": "Let each team member choose whether to be evaluated using old or new KPIs." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because fairness requires aligning KPIs with the expectations that were communicated during each period. Option b is incorrect because retroactive standards can feel punitive. Option c is incorrect because ignoring improved KPIs wastes an opportunity to guide current behavior. Option d is incorrect because letting individuals choose their own standard introduces bias and inconsistency.",
+    "difficulty": "medium",
+    "topics": ["KPI changes", "fair appraisal"]
+  },
+  {
+    "id": "q-people-3-1-009",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "Your organization values both delivery speed and knowledge sharing. A senior engineer meets all delivery KPIs but rarely documents solutions or mentors others. How should this affect their performance appraisal?",
+    "options": [
+      { "id": "a", "label": "Weight both delivery and knowledge sharing KPIs in the appraisal and discuss the gap in knowledge sharing expectations." },
+      { "id": "b", "label": "Rate the engineer as top performer based only on delivery speed." },
+      { "id": "c", "label": "Give the engineer a low rating based only on lack of documentation." },
+      { "id": "d", "label": "Ignore organizational values and base the appraisal only on budget performance." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because appraising performance against KPIs includes both output and behavior aligned with organizational values. Option b is incorrect because overlooking knowledge sharing sends the wrong message to the team. Option c is incorrect because ignoring strong delivery results is unbalanced. Option d is incorrect because budget alone does not reflect individual contribution to team health.",
+    "difficulty": "hard",
+    "topics": ["knowledge sharing", "organizational values"]
+  },
+  {
+    "id": "q-people-3-1-010",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A developer says their KPI for defect rate is unfair because they often work on the riskiest, most complex stories. What is the most appropriate response when appraising performance?",
+    "options": [
+      { "id": "a", "label": "Review the mix of assigned work, compare KPIs to similar complexity levels, and adjust expectations if needed." },
+      { "id": "b", "label": "Tell the developer that KPIs apply equally regardless of task complexity." },
+      { "id": "c", "label": "Reassign the simplest tasks to the developer so their KPI improves without discussion." },
+      { "id": "d", "label": "Inform the developer that defect KPIs are optional and will not be used." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a fair appraisal considers task complexity and workload distribution when interpreting KPIs. Option b is incorrect because identical targets for different complexity levels may not be realistic. Option c is incorrect because silently changing assignments avoids the fairness discussion. Option d is incorrect because dropping important KPIs weakens quality focus.",
+    "difficulty": "hard",
+    "topics": ["complexity adjustment", "fairness"]
+  },
+  {
+    "id": "q-people-3-1-011",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "Before annual reviews, leadership adds a KPI for customer satisfaction surveys. The team has not seen these survey results yet. What should the project manager do when appraising performance?",
+    "options": [
+      { "id": "a", "label": "Share the survey results with the team, explain how they map to KPIs, and discuss what they mean for performance." },
+      { "id": "b", "label": "Use the survey scores for appraisals but keep the detailed feedback confidential." },
+      { "id": "c", "label": "Ignore the survey scores completely because they are new." },
+      { "id": "d", "label": "Allow only management to see surveys and summarize them as generic comments in appraisals." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because using customer satisfaction as a KPI requires transparency so the team can understand and act on feedback. Option b is incorrect because hidden criteria undermine trust. Option c is incorrect because dismissing customer feedback removes a valuable performance indicator. Option d is incorrect because generic summaries do not enable specific improvement.",
+    "difficulty": "medium",
+    "topics": ["customer satisfaction", "feedback transparency"]
+  },
+  {
+    "id": "q-people-3-1-012",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A junior team member's KPIs show modest output but consistent improvement over the last three months. How should the project manager reflect this trend in the appraisal?",
+    "options": [
+      { "id": "a", "label": "Highlight the positive trend, recognize growth, and set next-step targets that build on the improvement." },
+      { "id": "b", "label": "Rate the team member as underperforming because they are still below senior peers." },
+      { "id": "c", "label": "Ignore the KPIs and rate everyone the same to avoid discouraging juniors." },
+      { "id": "d", "label": "Delay any appraisal until the junior reaches senior-level KPIs." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because appraising performance against KPIs should consider trajectory and potential, not just absolute comparison to seniors. Option b is incorrect because it fails to recognize meaningful growth. Option c is incorrect because uniform ratings ignore actual data. Option d is incorrect because postponing feedback slows development.",
+    "difficulty": "easy",
+    "topics": ["growth trend", "junior development"]
+  },
+  {
+    "id": "q-people-3-1-013",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "During appraisal, a team member claims that some KPIs are based on data from tools that are not always updated on time. What should the project manager do?",
+    "options": [
+      { "id": "a", "label": "Verify data accuracy, correct any issues, and adjust the appraisal if the underlying KPI data were incomplete." },
+      { "id": "b", "label": "Proceed with the appraisal as planned because data problems are not the team's concern." },
+      { "id": "c", "label": "Lower all KPIs for the entire team without checking the data." },
+      { "id": "d", "label": "Remove tool-based KPIs from all future appraisals permanently." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because fair appraisal requires reliable data and correction of known data issues. Option b is incorrect because ignoring data quality concerns damages trust. Option c is incorrect because lowering all KPIs without analysis is arbitrary. Option d is incorrect because discarding tool-based KPIs instead of fixing data flows reduces measurement capability.",
+    "difficulty": "medium",
+    "topics": ["data quality", "KPI integrity"]
+  },
+  {
+    "id": "q-people-3-1-014",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A project operates in both predictive and agile components with different KPI sets. A team member splits time across both. How should the project manager appraise their performance?",
+    "options": [
+      { "id": "a", "label": "Use KPIs from both components, weighted by the effort spent in each, and explain the combined view to the team member." },
+      { "id": "b", "label": "Use only the predictive KPIs because they are more familiar to management." },
+      { "id": "c", "label": "Use only the agile KPIs because they are more current." },
+      { "id": "d", "label": "Exclude the team member from KPI-based appraisal because their work spans methods." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because performance appraisal should reflect the full workload using the relevant KPIs from each delivery approach. Option b is incorrect because ignoring agile KPIs hides part of the contribution. Option c is incorrect because ignoring predictive KPIs does the same. Option d is incorrect because hybrid work still needs structured performance assessment.",
+    "difficulty": "hard",
+    "topics": ["hybrid delivery", "KPI weighting"]
+  },
+  {
+    "id": "q-people-3-1-015",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "Organizational policy requires that KPIs be linked to development plans. During appraisal, you see that one team member repeatedly meets KPIs but has no documented development goals. What should you do?",
+    "options": [
+      { "id": "a", "label": "Discuss how current KPIs connect to long-term growth and co-create a development plan aligned with strengths and gaps." },
+      { "id": "b", "label": "Record the appraisal as complete without mentioning development, since performance is strong." },
+      { "id": "c", "label": "Assign a generic development goal without involving the team member." },
+      { "id": "d", "label": "Wait until the next review cycle to consider development topics." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because appraisal against KPIs should feed directly into individualized development planning. Option b is incorrect because strong current performance still requires forward-looking growth planning. Option c is incorrect because imposing goals reduces ownership. Option d is incorrect because delaying development planning wastes momentum.",
+    "difficulty": "medium",
+    "topics": ["development planning", "growth alignment"]
+  },
+  {
+    "id": "q-people-3-1-016",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A cross-functional team shares common KPIs, but different roles contribute in different ways. A designer asks how visual design work is reflected in KPIs like cycle time and defect rate. How should the project manager respond during appraisal?",
+    "options": [
+      { "id": "a", "label": "Explain how design quality and collaboration influence those KPIs and agree on role-specific indicators that support the shared metrics." },
+      { "id": "b", "label": "State that designers are not covered by KPIs and will be appraised informally." },
+      { "id": "c", "label": "Move designers to a different team so they are not affected by KPIs." },
+      { "id": "d", "label": "Tell the designer that only developers have measurable performance." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clarifying role contributions to shared KPIs and defining supporting indicators makes appraisal meaningful for all roles. Option b is incorrect because excluding a role from KPIs creates inequity. Option c is incorrect because reassigning roles to avoid measurement is not a solution. Option d is incorrect because dismissing design work undermines team cohesion.",
+    "difficulty": "medium",
+    "topics": ["role clarity", "shared KPIs"]
+  },
+  {
+    "id": "q-people-3-1-017",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "You observe that some KPIs incentivize individual heroics rather than sustainable team performance. For example, on-call response time rewards a few people who respond to every alert. How should this insight influence performance appraisal?",
+    "options": [
+      { "id": "a", "label": "Acknowledge the contributions, but discuss the risks of hero-based KPIs and adjust expectations toward shared, sustainable performance." },
+      { "id": "b", "label": "Reward only the heroes and ignore the sustainability concern." },
+      { "id": "c", "label": "Penalize the heroes for responding too often to discourage them." },
+      { "id": "d", "label": "Avoid adjusting KPIs because change might be unpopular." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because appraisal should recognize contributions while steering KPIs toward sustainable, team-based performance. Option b is incorrect because rewarding only heroics encourages burnout. Option c is incorrect because punishing high contributors without changing KPIs is unfair. Option d is incorrect because keeping misaligned KPIs harms long-term performance.",
+    "difficulty": "hard",
+    "topics": ["sustainability", "behavioral effects"]
+  },
+  {
+    "id": "q-people-3-1-018",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "Several team members say they do not receive regular feedback about how they are tracking against KPIs, only an annual rating. What should the project manager change about the appraisal approach?",
+    "options": [
+      { "id": "a", "label": "Introduce periodic check-ins to review KPI progress and adjust actions before the formal appraisal." },
+      { "id": "b", "label": "Keep the annual appraisal as the only feedback to reduce effort." },
+      { "id": "c", "label": "Ask team members to monitor KPIs themselves without involving the project manager." },
+      { "id": "d", "label": "Share KPI results only with senior management to avoid difficult conversations." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because ongoing appraisal against KPIs supports timely improvement and avoids surprises at review time. Option b is incorrect because infrequent feedback limits growth. Option c is incorrect because leaving monitoring entirely to individuals reduces alignment. Option d is incorrect because hiding performance data damages trust.",
+    "difficulty": "easy",
+    "topics": ["continuous feedback", "KPI reviews"]
+  },
+  {
+    "id": "q-people-3-1-019",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A distributed team has different data quality across locations, causing KPI comparisons to look unfair. How should the project manager handle performance appraisal in this situation?",
+    "options": [
+      { "id": "a", "label": "Normalize or segment KPIs by location and explain the method so comparisons are fair and transparent." },
+      { "id": "b", "label": "Use the raw KPIs for all locations even if they are not comparable." },
+      { "id": "c", "label": "Exclude all locations with weaker data from the appraisal process." },
+      { "id": "d", "label": "Base appraisals only on informal opinions to avoid dealing with the data." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because adjusting or segmenting KPIs ensures that performance appraisal reflects real differences rather than data artifacts. Option b is incorrect because unfair comparisons demotivate teams. Option c is incorrect because excluding some locations removes accountability. Option d is incorrect because relying only on opinions removes the discipline of measurement.",
+    "difficulty": "hard",
+    "topics": ["distributed teams", "KPI normalization"]
+  },
+  {
+    "id": "q-people-3-1-020",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "Leadership is pressuring you to rank team members strictly from best to worst based on a single composite KPI score. You believe this oversimplifies performance. How should you approach the appraisal?",
+    "options": [
+      { "id": "a", "label": "Use the composite KPI as one input while also considering qualitative factors and discussing the limitations with leadership." },
+      { "id": "b", "label": "Follow the ranking request exactly and ignore other aspects of performance." },
+      { "id": "c", "label": "Refuse to use any KPIs and rely only on your personal judgment." },
+      { "id": "d", "label": "Ask the team to vote anonymously on rankings instead of using KPIs." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because appraising performance should not reduce people to a single number, and the project manager can combine KPIs with context. Option b is incorrect because it hides important nuances. Option c is incorrect because abandoning KPIs loses objectivity. Option d is incorrect because popularity votes are not a sound appraisal method.",
+    "difficulty": "hard",
+    "topics": ["composite KPIs", "ranking pressure"]
+  },
+  {
+    "id": "q-people-3-1-021",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "In preparation for appraisals, you notice that some KPIs encourage local optimization, such as maximizing individual throughput at the expense of cross-team coordination. What should you do before finalizing performance reviews?",
+    "options": [
+      { "id": "a", "label": "Adjust how you interpret KPIs in the appraisal and emphasize behaviors that support end-to-end flow and collaboration." },
+      { "id": "b", "label": "Reward those who optimized their own scores, even if it hurt overall flow." },
+      { "id": "c", "label": "Ignore the KPIs and give everyone identical ratings." },
+      { "id": "d", "label": "Cancel the appraisal cycle until new KPIs are designed." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because the project manager should interpret KPIs in context and stress system-wide performance during appraisal. Option b is incorrect because rewarding local optimization undermines overall results. Option c is incorrect because ignoring performance data removes accountability. Option d is incorrect because cancelling reviews delays needed feedback.",
+    "difficulty": "medium",
+    "topics": ["systems thinking", "local optimization"]
+  },
+  {
+    "id": "q-people-3-1-022",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "A team member's KPIs dropped after they took on mentoring responsibilities for new hires. How should this be considered in the appraisal?",
+    "options": [
+      { "id": "a", "label": "Recognize mentoring as an expected contribution, discuss trade-offs, and adjust performance expectations to reflect the broader role." },
+      { "id": "b", "label": "Rate the team member as underperforming because their output decreased." },
+      { "id": "c", "label": "Ignore the mentoring work and focus only on original KPIs." },
+      { "id": "d", "label": "Discourage the team member from mentoring so KPI scores return to previous levels." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because performance appraisal should acknowledge expanded responsibilities and adjust expectations accordingly. Option b is incorrect because it punishes someone for taking on valued work. Option c is incorrect because ignoring mentoring contributions misrepresents performance. Option d is incorrect because discouraging mentoring harms team capability.",
+    "difficulty": "medium",
+    "topics": ["mentoring impact", "role expansion"]
+  },
+  {
+    "id": "q-people-3-1-023",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "An experienced team member has stable, high KPI scores but appears disengaged and contributes little in retrospectives. What should the project manager do during the appraisal?",
+    "options": [
+      { "id": "a", "label": "Acknowledge strong KPI results while exploring engagement concerns and agreeing on actions to increase participation and ownership." },
+      { "id": "b", "label": "Ignore engagement issues because KPIs are satisfactory." },
+      { "id": "c", "label": "Focus only on engagement and rate performance as poor despite strong KPIs." },
+      { "id": "d", "label": "Ask the team member to complete the appraisal form alone without discussion." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because performance appraisal should cover both quantitative KPIs and qualitative engagement, addressing concerns constructively. Option b is incorrect because disengagement can threaten future performance. Option c is incorrect because it dismisses strong results. Option d is incorrect because skipping dialogue removes an opportunity to understand root causes.",
+    "difficulty": "medium",
+    "topics": ["engagement", "balanced appraisal"]
+  },
+  {
+    "id": "q-people-3-1-024",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "Your organization introduces a KPI tying part of bonuses to team OKR achievement. Some team members worry that individual contributions will no longer be visible. How should the project manager integrate this into appraisals?",
+    "options": [
+      { "id": "a", "label": "Explain how team OKR KPIs and individual contributions will both be discussed and documented in the appraisal." },
+      { "id": "b", "label": "Use only the team OKR KPI for all appraisals to simplify ratings." },
+      { "id": "c", "label": "Use only individual KPIs and ignore the new OKR measure." },
+      { "id": "d", "label": "Ask team members to negotiate among themselves how to split OKR credit." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because appraisals should show how individual efforts contribute to team-level KPIs such as OKRs. Option b is incorrect because it hides individual impact. Option c is incorrect because ignoring OKRs conflicts with organizational expectations. Option d is incorrect because informal negotiation can create conflict and unfairness.",
+    "difficulty": "easy",
+    "topics": ["OKRs", "team vs individual KPIs"]
+  },
+  {
+    "id": "q-people-3-1-025",
+    "domainId": "people",
+    "taskId": "people-3",
+    "enablerIds": ["e-people-3-1"],
+    "text": "After reviewing KPIs, you notice that some team members consistently excel in areas that are not currently measured, such as cross-team coordination. What is the best way to handle this in performance appraisals?",
+    "options": [
+      { "id": "a", "label": "Recognize these contributions explicitly, consider updating future KPIs, and reflect the behavior in the appraisal narrative." },
+      { "id": "b", "label": "Ignore unmeasured contributions and base ratings strictly on existing KPIs." },
+      { "id": "c", "label": "Reduce the ratings of team members who focus on unmeasured work." },
+      { "id": "d", "label": "Ask those team members to stop unmeasured activities so KPIs remain simple." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because appraisal should capture high-value behaviors even when KPIs lag behind, and it can inform future metric design. Option b is incorrect because it discourages beneficial contributions. Option c is incorrect because lowering ratings for unmeasured positive work is unfair. Option d is incorrect because stopping helpful unmeasured work harms project outcomes.",
+    "difficulty": "medium",
+    "topics": ["unmeasured value", "metric evolution"]
+  }
+]
+
