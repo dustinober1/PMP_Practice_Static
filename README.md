@@ -14,7 +14,7 @@ Zero-cost PMP prep site built with React + Vite + Tailwind. Data lives in static
 4) Preview production build: `npm run preview`
 
 ## Structure
-- `src/pages/` – simple Home/Settings/NotFound routes
+- `src/pages/` – Home/Settings/Quiz/NotFound routes
 - `src/data/` – static JSON scaffolding to mirror the high-level plan
 - `src/stores/` – zustand stores for user prefs + progress with persistence
 - `netlify.toml` / `vercel.json` – deploy config (build: `npm run build`, output: `dist`)

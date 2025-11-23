@@ -1,0 +1,262 @@
+[
+  {
+    "id": "q-001",
+    "domainId": "people",
+    "text": "A cross-functional team is forming and members are uncertain about responsibilities. What should the project manager do first?",
+    "options": [
+      { "id": "a", "label": "Assign tasks based on prior titles" },
+      { "id": "b", "label": "Facilitate a working agreement and clarify roles" },
+      { "id": "c", "label": "Escalate to the sponsor for direction" },
+      { "id": "d", "label": "Delay decisions until risks are logged" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Early clarity on roles and norms reduces friction and accelerates team formation."
+  },
+  {
+    "id": "q-002",
+    "domainId": "people",
+    "text": "A stakeholder frequently interrupts sprint reviews with new requests. How should the project manager respond?",
+    "options": [
+      { "id": "a", "label": "Redirect them to backlog refinement and priorities" },
+      { "id": "b", "label": "Extend the meeting to cover all requests" },
+      { "id": "c", "label": "Remove the stakeholder from reviews" },
+      { "id": "d", "label": "Raise a change control for every suggestion immediately" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Use the backlog and refinement to capture requests and keep review cadence focused."
+  },
+  {
+    "id": "q-003",
+    "domainId": "people",
+    "text": "Team members report conflicting priorities from functional managers. What is the best action?",
+    "options": [
+      { "id": "a", "label": "Document the conflict and continue as planned" },
+      { "id": "b", "label": "Facilitate a priority alignment session with stakeholders" },
+      { "id": "c", "label": "Ask the team to work overtime" },
+      { "id": "d", "label": "Escalate to HR for resolution" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Engage stakeholders to align priorities and reduce conflicting directives."
+  },
+  {
+    "id": "q-004",
+    "domainId": "process",
+    "text": "A deliverable fails quality checks late in the iteration. What should the project manager have done to prevent this?",
+    "options": [
+      { "id": "a", "label": "Shorten the sprint duration" },
+      { "id": "b", "label": "Add in-line quality gates and acceptance criteria" },
+      { "id": "c", "label": "Increase buffer time for rework" },
+      { "id": "d", "label": "Assign a dedicated tester after development" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Define acceptance criteria and integrate quality gates earlier to catch issues sooner."
+  },
+  {
+    "id": "q-005",
+    "domainId": "process",
+    "text": "The team is planning a release with multiple dependencies. What tool is most appropriate to visualize and manage them?",
+    "options": [
+      { "id": "a", "label": "Burnup chart" },
+      { "id": "b", "label": "Gantt chart or dependency board" },
+      { "id": "c", "label": "Risk probability matrix" },
+      { "id": "d", "label": "RACI matrix" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A dependency-focused view (Gantt/board) helps sequence and track interrelated work."
+  },
+  {
+    "id": "q-006",
+    "domainId": "process",
+    "text": "Scope changes are requested mid-iteration. What should the project manager do?",
+    "options": [
+      { "id": "a", "label": "Reject all changes to protect schedule" },
+      { "id": "b", "label": "Evaluate impact and route through change control/backlog" },
+      { "id": "c", "label": "Absorb changes if effort seems small" },
+      { "id": "d", "label": "Pause work until a new charter is signed" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Assess scope, cost, and schedule impact, then process changes through the agreed mechanism."
+  },
+  {
+    "id": "q-007",
+    "domainId": "business",
+    "text": "Midway through delivery, benefits metrics show declining value. What is the best next step?",
+    "options": [
+      { "id": "a", "label": "Continue the plan to avoid sunk cost" },
+      { "id": "b", "label": "Engage stakeholders to pivot scope or approach" },
+      { "id": "c", "label": "Freeze spending until after go-live" },
+      { "id": "d", "label": "Replace the team lead" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Reassess with stakeholders and adjust to restore value delivery."
+  },
+  {
+    "id": "q-008",
+    "domainId": "business",
+    "text": "A regulatory update affects part of the solution. What should the project manager do first?",
+    "options": [
+      { "id": "a", "label": "Ignore it until testing" },
+      { "id": "b", "label": "Log it as a risk and inform the compliance SME" },
+      { "id": "c", "label": "Delay releases until full compliance is guaranteed" },
+      { "id": "d", "label": "Assign extra documentation tasks to the team" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Capture the risk, engage SMEs early, and plan updates to remain compliant."
+  },
+  {
+    "id": "q-009",
+    "domainId": "business",
+    "text": "A sponsor wants to cut training to save costs. What is the best response?",
+    "options": [
+      { "id": "a", "label": "Agree to show partnership" },
+      { "id": "b", "label": "Explain the impact on adoption and propose alternatives" },
+      { "id": "c", "label": "Escalate to portfolio management immediately" },
+      { "id": "d", "label": "Hide training costs in another budget line" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Clarify value loss and negotiate options that protect benefits realization."
+  },
+  {
+    "id": "q-010",
+    "domainId": "people",
+    "text": "A team member is consistently late to daily standups. What is the best action?",
+    "options": [
+      { "id": "a", "label": "Remove them from the team" },
+      { "id": "b", "label": "Address privately to understand and adjust norms" },
+      { "id": "c", "label": "Extend the standup duration" },
+      { "id": "d", "label": "File a formal HR complaint immediately" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Private conversation to understand blockers and reinforce team agreements is the right first step."
+  },
+  {
+    "id": "q-011",
+    "domainId": "process",
+    "text": "Velocity has slowed over the last three sprints. What should the project manager do?",
+    "options": [
+      { "id": "a", "label": "Set a higher target velocity" },
+      { "id": "b", "label": "Inspect root causes with the team and adjust WIP/estimates" },
+      { "id": "c", "label": "Add more scope to create urgency" },
+      { "id": "d", "label": "Shorten standups" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Use retrospectives and WIP/estimate adjustments to address underlying causes."
+  },
+  {
+    "id": "q-012",
+    "domainId": "process",
+    "text": "Which action best supports continuous delivery of value?",
+    "options": [
+      { "id": "a", "label": "Batch releases quarterly" },
+      { "id": "b", "label": "Automate build, test, and deploy pipelines" },
+      { "id": "c", "label": "Assign manual testers for all changes" },
+      { "id": "d", "label": "Freeze the backlog" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Automation enables smaller, frequent releases and faster feedback."
+  },
+  {
+    "id": "q-013",
+    "domainId": "business",
+    "text": "A key assumption proves false, reducing expected ROI. What is the first thing to do?",
+    "options": [
+      { "id": "a", "label": "Update the benefits register and reassess options" },
+      { "id": "b", "label": "Ignore the change until after deployment" },
+      { "id": "c", "label": "Cancel the project immediately" },
+      { "id": "d", "label": "Increase scope to compensate" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Revisit the benefits case and evaluate pivot/continue options with stakeholders."
+  },
+  {
+    "id": "q-014",
+    "domainId": "people",
+    "text": "How can psychological safety be increased during retrospectives?",
+    "options": [
+      { "id": "a", "label": "Anonymous blame boards" },
+      { "id": "b", "label": "Set working agreements and focus on process, not people" },
+      { "id": "c", "label": "Invite only managers" },
+      { "id": "d", "label": "Hold retros once per quarter" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Agreements and process focus encourage candid, blame-free discussion."
+  },
+  {
+    "id": "q-015",
+    "domainId": "process",
+    "text": "A risk is realized and impacts the critical path. What should the project manager do first?",
+    "options": [
+      { "id": "a", "label": "Update the issue log and execute the response plan" },
+      { "id": "b", "label": "Re-plan after the next status meeting" },
+      { "id": "c", "label": "Ignore it if the team can work overtime" },
+      { "id": "d", "label": "Notify audit immediately" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Move the risk to the issue log and execute the predefined response."
+  },
+  {
+    "id": "q-016",
+    "domainId": "business",
+    "text": "The product owner wants to prioritize features with the highest Net Present Value (NPV). What is the best approach?",
+    "options": [
+      { "id": "a", "label": "Sequence by lowest cost first" },
+      { "id": "b", "label": "Order backlog using relative NPV and dependencies" },
+      { "id": "c", "label": "Deliver all low-value items to build trust" },
+      { "id": "d", "label": "Ignore NPV and focus on risk items only" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Use NPV as a prioritization factor while considering dependencies."
+  },
+  {
+    "id": "q-017",
+    "domainId": "people",
+    "text": "A new team member joins mid-project. What should the project manager do to integrate them effectively?",
+    "options": [
+      { "id": "a", "label": "Assign the toughest task immediately" },
+      { "id": "b", "label": "Provide onboarding, clarify roles, and pair them with a buddy" },
+      { "id": "c", "label": "Let them self-orient with documentation only" },
+      { "id": "d", "label": "Delay their involvement until the next phase" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Structured onboarding and pairing accelerates integration and reduces friction."
+  },
+  {
+    "id": "q-018",
+    "domainId": "process",
+    "text": "Which metric best indicates flow efficiency in a Kanban system?",
+    "options": [
+      { "id": "a", "label": "Number of defects" },
+      { "id": "b", "label": "Cycle time and work-in-progress (WIP)" },
+      { "id": "c", "label": "Team size" },
+      { "id": "d", "label": "Budget variance" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Cycle time and WIP show how smoothly work moves through the system."
+  },
+  {
+    "id": "q-019",
+    "domainId": "business",
+    "text": "Which artifact helps connect project outputs to strategic objectives?",
+    "options": [
+      { "id": "a", "label": "Communications plan" },
+      { "id": "b", "label": "Benefits management plan" },
+      { "id": "c", "label": "Issue log" },
+      { "id": "d", "label": "Team charter" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Benefits management plan ties outputs to expected outcomes and strategic goals."
+  },
+  {
+    "id": "q-020",
+    "domainId": "process",
+    "text": "A sponsor asks for a status summary focused on value delivery. Which artifact is most appropriate?",
+    "options": [
+      { "id": "a", "label": "Detailed work breakdown structure" },
+      { "id": "b", "label": "Incremental value roadmap or benefits dashboard" },
+      { "id": "c", "label": "Risk register only" },
+      { "id": "d", "label": "Team velocity chart" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Summaries that connect increments to value/benefits best answer value-focused status requests."
+  }
+]

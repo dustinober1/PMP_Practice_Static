@@ -47,16 +47,16 @@
 *Goal: Run quizzes entirely in the browser.*
 
 **Week 4: Question Data & UI**
-* [ ] Create `questions.json`. Structure: `{ id, text, options, correctOptionId, explanation, domainId }`.
-* [ ] Populate 20 sample questions.
-* [ ] Build `QuizCard` component.
-* [ ] Build `QuizFeedback` component (shows explanation immediately after answering).
+* [x] Create `questions.json`. Structure: `{ id, text, options, correctOptionId, explanation, domainId }`.
+* [x] Populate 20 sample questions.
+* [x] Build `QuizCard` component.
+* [x] Build `QuizFeedback` component (shows explanation immediately after answering).
 
 **Week 5: Quiz Logic (Client-Side)**
-* [ ] Build logic to filter `questions.json` based on user selection (e.g., "Give me all Process Domain questions").
-* [ ] Implement "Randomizer" function in JavaScript (shuffle questions).
-* [ ] Implement "Scoring" logic (State: `currentScore`, `streak`).
-* [ ] Update `useProgressStore` when a question is answered.
+* [x] Build logic to filter `questions.json` based on user selection (e.g., "Give me all Process Domain questions").
+* [x] Implement "Randomizer" function in JavaScript (shuffle questions).
+* [x] Implement "Scoring" logic (State: `currentScore`, `streak`).
+* [x] Update `useProgressStore` when a question is answered.
 
 **Week 6: Results & Analytics**
 * [ ] Build `QuizResults` page (displayed at end of session).

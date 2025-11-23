@@ -2,6 +2,7 @@ import { NavLink, Route, Routes } from 'react-router-dom'
 import './App.css'
 import Home from './pages/Home'
 import NotFound from './pages/NotFound'
+import Quiz from './pages/Quiz'
 import Settings from './pages/Settings'
 import siteConfig from './site-config'
 
@@ -29,6 +30,9 @@ function App() {
             <NavLink to="/" end className={navLinkClass}>
               Home
             </NavLink>
+            <NavLink to="/quiz" className={navLinkClass}>
+              Quiz
+            </NavLink>
             <NavLink to="/settings" className={navLinkClass}>
               Settings
             </NavLink>
@@ -38,6 +42,7 @@ function App() {
         <main className="py-6">
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/quiz" element={<Quiz />} />
             <Route path="/settings" element={<Settings />} />
             <Route path="*" element={<NotFound />} />
           </Routes>

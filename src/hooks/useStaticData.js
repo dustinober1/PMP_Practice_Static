@@ -5,7 +5,8 @@ const loaders = {
   tasks: () => import('../data/tasks.json'),
   enablers: () => import('../data/enablers.json'),
   processes: () => import('../data/processes.json'),
-  knowledgeAreas: () => import('../data/knowledge_areas.json')
+  knowledgeAreas: () => import('../data/knowledge_areas.json'),
+  questions: () => import('../data/questions.json')
 }
 
 const cache = {}
