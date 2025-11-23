@@ -1,0 +1,852 @@
+[
+  {
+    "id": "q-people-1-2-001",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "Two team members are arguing loudly in an open workspace and other colleagues are distracted. What is the most important contextual factor for the project manager to analyze before intervening?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The personalities of the team members involved in the argument."
+      },
+      {
+        "id": "b",
+        "label": "The impact of the conflict on team focus, safety, and current work in progress."
+      },
+      {
+        "id": "c",
+        "label": "The decorations on the walls in the workspace around the argument."
+      },
+      {
+        "id": "d",
+        "label": "The number of meetings scheduled for the rest of the day."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because analyzing how the conflict affects focus, safety, and work in progress helps you decide how quickly and forcefully to intervene. Option a is incorrect because personality alone does not describe the situational impact of the conflict. Option c is incorrect because wall decorations are unrelated to the conflict context. Option d is incorrect because the number of meetings later in the day does not determine the urgency or type of response needed now.",
+    "difficulty": "easy",
+    "topics": [
+      "conflict context",
+      "team environment"
+    ]
+  },
+  {
+    "id": "q-people-1-2-002",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict between two functional managers arises over who funds a shared resource. Before facilitating a discussion, what contextual element should the project manager analyze first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The organizational policies and governance that define budget ownership for shared resources."
+      },
+      {
+        "id": "b",
+        "label": "The color of the Gantt chart bars used in the schedule."
+      },
+      {
+        "id": "c",
+        "label": "Whether both managers use the same instant messaging platform."
+      },
+      {
+        "id": "d",
+        "label": "The availability of training courses that discuss budgeting techniques."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding formal policies and governance clarifies what constraints and expectations shape the conflict. Option b is incorrect because chart color has no bearing on who should fund the resource. Option c is incorrect because messaging tools are not core to the budget disagreement. Option d is incorrect because training availability does not address the immediate context of funding responsibility.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational governance",
+      "budget authority"
+    ]
+  },
+  {
+    "id": "q-people-1-2-003",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "During a retrospective, remote team members feel that their concerns are ignored while co-located team members dominate the conversation. Which contextual factor should the project manager examine first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "How the facilitation approach and meeting tools may favor co-located participants over remote ones."
+      },
+      {
+        "id": "b",
+        "label": "Whether the retrospective is scheduled on a Monday or Friday."
+      },
+      {
+        "id": "c",
+        "label": "Whether the remote team members use laptops or desktop computers."
+      },
+      {
+        "id": "d",
+        "label": "The size of the conference room table in the main office."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because facilitation and tools can create unequal participation, which is a key part of the conflict context. Option b is incorrect because the day of the week is less relevant than how the session is run. Option c is incorrect because device type rarely drives this kind of conflict. Option d is incorrect because table size is not central to remote team inclusion.",
+    "difficulty": "medium",
+    "topics": [
+      "remote teams",
+      "meeting facilitation"
+    ]
+  },
+  {
+    "id": "q-people-1-2-004",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict surfaces between a senior architect and a junior developer during a design review in front of stakeholders. What contextual element should the project manager consider before choosing how to respond in the meeting?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The seniority difference and the presence of key stakeholders in the discussion."
+      },
+      {
+        "id": "b",
+        "label": "The office paint color in the design review room."
+      },
+      {
+        "id": "c",
+        "label": "The brand of laptops used by the architect and developer."
+      },
+      {
+        "id": "d",
+        "label": "The temperature setting of the meeting room thermostat."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because power dynamics and stakeholder visibility affect how feedback should be framed and whether to pause or redirect the conversation. Option b is incorrect because paint color does not materially change the conflict situation. Option c is incorrect because hardware brands do not influence the interpersonal context. Option d is incorrect because the thermostat setting is not the primary factor in selecting a conflict response.",
+    "difficulty": "easy",
+    "topics": [
+      "power dynamics",
+      "stakeholder presence"
+    ]
+  },
+  {
+    "id": "q-people-1-2-005",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A product owner and a technical lead disagree about whether to include a risky feature in the next release. To analyze the conflict context, what should the project manager examine first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The organization’s risk tolerance, release strategy, and commitments to external stakeholders."
+      },
+      {
+        "id": "b",
+        "label": "The font size used in the product backlog documentation."
+      },
+      {
+        "id": "c",
+        "label": "The design of the project logo on the team wiki."
+      },
+      {
+        "id": "d",
+        "label": "The physical distance between the product owner’s desk and the technical lead’s desk."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because risk tolerance, release strategy, and commitments frame what is acceptable and shape the disagreement. Option b is incorrect because font size does not affect the core risk discussion. Option c is incorrect because logo design is unrelated to risk decisions. Option d is incorrect because desk distance does not directly determine the context of release risk conflict.",
+    "difficulty": "medium",
+    "topics": [
+      "risk tolerance",
+      "release planning"
+    ]
+  },
+  {
+    "id": "q-people-1-2-006",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict between two team members arises after a change in performance bonus criteria. What contextual factor should the project manager analyze to understand the conflict?",
+    "options": [
+      {
+        "id": "a",
+        "label": "How the new incentive structure may have altered perceived fairness and priorities."
+      },
+      {
+        "id": "b",
+        "label": "How many years each team member has worked in the organization."
+      },
+      {
+        "id": "c",
+        "label": "Which team member has the larger office chair."
+      },
+      {
+        "id": "d",
+        "label": "How many printer devices are available on the floor."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because changes in incentives and fairness often drive shifts in behavior and conflict. Option b is incorrect because tenure alone does not explain the new tension. Option c is incorrect because office chair size is not central to the conflict context. Option d is incorrect because printer availability is unrelated to bonus criteria.",
+    "difficulty": "medium",
+    "topics": [
+      "incentives",
+      "perceived fairness"
+    ]
+  },
+  {
+    "id": "q-people-1-2-007",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict appears between two team members from different cultural backgrounds about how feedback was delivered in a meeting. To analyze the context, what should the project manager consider?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Differences in cultural norms around directness, hierarchy, and saving face."
+      },
+      {
+        "id": "b",
+        "label": "Differences in favorite local restaurants near the office."
+      },
+      {
+        "id": "c",
+        "label": "Differences in parking space assignments in the company garage."
+      },
+      {
+        "id": "d",
+        "label": "Differences in preferred programming languages used in past projects."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because cultural expectations for feedback style and hierarchy significantly shape how comments are perceived. Option b is incorrect because restaurant preferences are not relevant to feedback conflict. Option c is incorrect because parking assignments are not central to this issue. Option d is incorrect because historical programming language preferences do not directly explain the feedback misunderstanding.",
+    "difficulty": "medium",
+    "topics": [
+      "cultural context",
+      "feedback"
+    ]
+  },
+  {
+    "id": "q-people-1-2-008",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "An operations manager and a project manager disagree on the priority of a production fix versus a feature delivery. What contextual aspect should the project manager analyze first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Service-level agreements, business impact of downtime, and contractual obligations."
+      },
+      {
+        "id": "b",
+        "label": "The number of whiteboards available in the project room."
+      },
+      {
+        "id": "c",
+        "label": "The size of the project’s shared drive storage."
+      },
+      {
+        "id": "d",
+        "label": "Whether the operations manager prefers early morning meetings."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because SLAs, business impact, and contracts define how urgent the production fix is relative to new features. Option b is incorrect because whiteboard count does not affect urgency. Option c is incorrect because storage size is unrelated to the conflict. Option d is incorrect because meeting-time preference is secondary to customer and contractual impact.",
+    "difficulty": "medium",
+    "topics": [
+      "SLAs",
+      "business impact"
+    ]
+  },
+  {
+    "id": "q-people-1-2-009",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict emerges when one team member refuses to turn on their camera during virtual meetings, while others feel disengaged. What context should the project manager analyze?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Team norms, psychological safety, and legitimate constraints such as bandwidth or privacy."
+      },
+      {
+        "id": "b",
+        "label": "The color of the team’s virtual background images."
+      },
+      {
+        "id": "c",
+        "label": "The brand of headphones used by the team member."
+      },
+      {
+        "id": "d",
+        "label": "The version number of the video conferencing tool."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because norms, safety, and constraints determine whether the behavior reflects resistance, discomfort, or a practical issue. Option b is incorrect because background color is cosmetic and not central to the conflict. Option c is incorrect because headphone brand does not affect engagement. Option d is incorrect because the software version is unlikely to be the main contextual driver.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual teams",
+      "team norms"
+    ]
+  },
+  {
+    "id": "q-people-1-2-010",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "Two developers are in conflict about code review comments that one perceives as personal criticism. To analyze the context, what should the project manager focus on?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The tone and specificity of code review comments and the team’s agreements on feedback etiquette."
+      },
+      {
+        "id": "b",
+        "label": "The exact size of each developer’s monitor."
+      },
+      {
+        "id": "c",
+        "label": "The number of coffee breaks each developer takes per day."
+      },
+      {
+        "id": "d",
+        "label": "The software license cost of the code repository tool."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because how feedback is written and the team’s norms shape whether reviews are experienced as supportive or personal. Option b is incorrect because monitor size is irrelevant. Option c is incorrect because coffee breaks do not define the feedback context. Option d is incorrect because repository licensing does not explain the interpersonal issue.",
+    "difficulty": "easy",
+    "topics": [
+      "code review",
+      "feedback norms"
+    ]
+  },
+  {
+    "id": "q-people-1-2-011",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "During a planning workshop, team members from different time zones argue about meeting times. What contextual factor is most important to analyze?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The distribution of time zones, core hours overlap, and fairness of meeting rotation."
+      },
+      {
+        "id": "b",
+        "label": "The average outside temperature in each team member’s location."
+      },
+      {
+        "id": "c",
+        "label": "The brand of smartphones used by each participant."
+      },
+      {
+        "id": "d",
+        "label": "The color theme of the calendar invitations."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because equitable scheduling across time zones and shared core hours is central to this conflict. Option b is incorrect because outside temperature is not key to scheduling fairness. Option c is incorrect because smartphone brand is irrelevant. Option d is incorrect because calendar color does not influence time zone conflict.",
+    "difficulty": "medium",
+    "topics": [
+      "time zones",
+      "meeting scheduling"
+    ]
+  },
+  {
+    "id": "q-people-1-2-012",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A disagreement arises when a security architect blocks a feature due to compliance concerns. To analyze the conflict context, what should the project manager review first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Applicable regulatory requirements, internal security policies, and documented risk appetite."
+      },
+      {
+        "id": "b",
+        "label": "The seating arrangement in the project war room."
+      },
+      {
+        "id": "c",
+        "label": "The number of slides used in the last steering committee deck."
+      },
+      {
+        "id": "d",
+        "label": "The background color of the security policy documents."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because regulations, policies, and risk appetite provide the context for whether blocking the feature is justified. Option b is incorrect because seating does not explain compliance constraints. Option c is incorrect because slide count is irrelevant. Option d is incorrect because document color is not meaningful in this context.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance context",
+      "security"
+    ]
+  },
+  {
+    "id": "q-people-1-2-013",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "The sponsor is frustrated that issues are raised late, and a conflict arises between the sponsor and team leads. What aspect of the context should the project manager analyze?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The current escalation paths, thresholds, and expectations defined in the governance model."
+      },
+      {
+        "id": "b",
+        "label": "The type of snacks available in the break room."
+      },
+      {
+        "id": "c",
+        "label": "The number of chairs available in the sponsor’s office."
+      },
+      {
+        "id": "d",
+        "label": "The size of the font used in project status emails."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because escalation design and expectations define when and how issues should surface, which is central to this conflict. Option b is incorrect because snacks are unrelated. Option c is incorrect because chair count does not shape escalation expectations. Option d is incorrect because font size is not the primary contextual factor.",
+    "difficulty": "medium",
+    "topics": [
+      "governance",
+      "escalation context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-014",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "There is conflict between two teams over ownership of integration defects. To analyze context, what should the project manager look at?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The documented boundaries of each team’s responsibilities and the integration strategy."
+      },
+      {
+        "id": "b",
+        "label": "The total number of lines of code in the system."
+      },
+      {
+        "id": "c",
+        "label": "The brand of version control system the teams used on prior projects."
+      },
+      {
+        "id": "d",
+        "label": "The colors used in the integration status dashboard."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clearly defined ownership and integration approaches determine who is expected to handle which defects. Option b is incorrect because code volume does not define responsibility. Option c is incorrect because past tooling choices are not central here. Option d is incorrect because dashboard colors do not resolve ownership ambiguity.",
+    "difficulty": "medium",
+    "topics": [
+      "ownership boundaries",
+      "integration context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-015",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict escalates when a change request is rejected at the change control board. What context should the project manager analyze to understand the conflict?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The change evaluation criteria, decision rationale, and who was involved in the decision."
+      },
+      {
+        "id": "b",
+        "label": "The number of pages in the original project charter."
+      },
+      {
+        "id": "c",
+        "label": "The name of the template used for the change request form."
+      },
+      {
+        "id": "d",
+        "label": "The brand of the projector used during the board meeting."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding how the change was evaluated and by whom clarifies whether the conflict is about fairness, process, or communication. Option b is incorrect because charter length is not central to this decision. Option c is incorrect because template name does not address the perceived fairness of the decision. Option d is incorrect because projector brand is irrelevant.",
+    "difficulty": "medium",
+    "topics": [
+      "change control",
+      "decision context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-016",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "Two team members clash over priorities because one is measured on feature throughput and the other on defect reduction. What context should the project manager analyze?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The alignment of individual performance metrics with shared project goals."
+      },
+      {
+        "id": "b",
+        "label": "The number of team-building events held last year."
+      },
+      {
+        "id": "c",
+        "label": "The model of chairs used in the cafeteria."
+      },
+      {
+        "id": "d",
+        "label": "The age of the building where the team works."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because misaligned individual metrics create conflicting incentives, which is a key contextual driver. Option b is incorrect because past team-building events do not directly fix the metric misalignment. Option c is incorrect because chair model is irrelevant. Option d is incorrect because building age does not shape performance measures.",
+    "difficulty": "medium",
+    "topics": [
+      "metrics alignment",
+      "conflict context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-017",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A vendor and internal team are in conflict over late deliverables. What contextual information should the project manager analyze?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Contract terms, service levels, and agreed acceptance criteria."
+      },
+      {
+        "id": "b",
+        "label": "The vendor’s logo design on their website."
+      },
+      {
+        "id": "c",
+        "label": "The internal team’s seating arrangement on the floor plan."
+      },
+      {
+        "id": "d",
+        "label": "The number of holidays in the vendor’s country."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because the contract, SLAs, and acceptance criteria define obligations and shape the disagreement. Option b is incorrect because logo design has no bearing on performance expectations. Option c is incorrect because seating arrangement is not central to vendor deliverables. Option d is incorrect because total holidays alone do not define contractual context.",
+    "difficulty": "medium",
+    "topics": [
+      "vendor contracts",
+      "performance context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-018",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict arises when project priorities are changed by senior leadership without informing the team. What context should the project manager analyze to understand the conflict?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The communication channels and cadence used to share strategic decisions with the team."
+      },
+      {
+        "id": "b",
+        "label": "The number of plants in the project workspace."
+      },
+      {
+        "id": "c",
+        "label": "The font color used in leadership emails."
+      },
+      {
+        "id": "d",
+        "label": "The number of chairs in the leadership meeting room."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because inadequate communication about strategic shifts often creates frustration and conflict, so understanding channels and cadence is key. Option b is incorrect because plants do not drive this issue. Option c is incorrect because font color is cosmetic. Option d is incorrect because chair count is unrelated to how decisions are communicated.",
+    "difficulty": "easy",
+    "topics": [
+      "communication context",
+      "strategy changes"
+    ]
+  },
+  {
+    "id": "q-people-1-2-019",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "There is tension between a business analyst and a developer about changing requirements late in the iteration. What contextual element should the project manager analyze?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The agreed process for handling late changes and how often it has been followed."
+      },
+      {
+        "id": "b",
+        "label": "The type of notepads used in requirements workshops."
+      },
+      {
+        "id": "c",
+        "label": "The color of sticky notes used on the board."
+      },
+      {
+        "id": "d",
+        "label": "The style of chairs in the meeting room."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because the defined process for late changes and its adherence shape expectations and perceptions of fairness. Option b is incorrect because notepad type is trivial. Option c is incorrect because sticky note color does not drive the conflict. Option d is incorrect because chair style is irrelevant.",
+    "difficulty": "medium",
+    "topics": [
+      "change process",
+      "iteration context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-020",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict appears when some team members frequently work from home while others must be on-site. To analyze the conflict context, what should the project manager assess?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The organization’s remote work policies, role requirements, and perceived equity of arrangements."
+      },
+      {
+        "id": "b",
+        "label": "The number of parking spaces available at the office."
+      },
+      {
+        "id": "c",
+        "label": "The color of the office carpet on each floor."
+      },
+      {
+        "id": "d",
+        "label": "The model of keyboards used by remote workers."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because policy, role needs, and fairness perceptions define why the arrangement is viewed as acceptable or unfair. Option b is incorrect because parking capacity may not be central to the disagreement. Option c is incorrect because carpet color does not shape remote work fairness. Option d is incorrect because keyboard models are unrelated.",
+    "difficulty": "medium",
+    "topics": [
+      "remote work policy",
+      "fairness context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-021",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict escalates when a senior leader publicly criticizes the project’s status report. To analyze context, what should the project manager consider?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The expectations set for reporting, how data was sourced, and how feedback is usually given in that forum."
+      },
+      {
+        "id": "b",
+        "label": "The number of slides allowed in the presentation template."
+      },
+      {
+        "id": "c",
+        "label": "The color of the charts used in the report."
+      },
+      {
+        "id": "d",
+        "label": "The seating order in the presentation room."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because expectations, data sources, and feedback norms inform whether the criticism reflects process gaps or style mismatches. Option b is incorrect because slide limits are minor compared to expectations. Option c is incorrect because chart color is not central. Option d is incorrect because seating order is secondary.",
+    "difficulty": "hard",
+    "topics": [
+      "leadership feedback",
+      "reporting context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-022",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "Cross-functional teams are in conflict over conflicting priorities from multiple product owners. Which contextual factor should the project manager analyze first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The decision-making model for prioritization and who has final authority over the backlog."
+      },
+      {
+        "id": "b",
+        "label": "The number of email distribution lists used by the teams."
+      },
+      {
+        "id": "c",
+        "label": "The design of the office floorplan on the intranet."
+      },
+      {
+        "id": "d",
+        "label": "The length of job descriptions for each product owner."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because a clear decision model and single-point accountability reduce conflicting directives. Option b is incorrect because email lists are peripheral. Option c is incorrect because floorplan design does not define authority. Option d is incorrect because job description length is less important than who ultimately decides priorities.",
+    "difficulty": "hard",
+    "topics": [
+      "prioritization model",
+      "authority context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-023",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict arises when a project spans multiple time-bound regulatory deadlines. To analyze the conflict context between compliance and delivery leads, what should the project manager focus on?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Which regulatory deadlines are mandatory, their penalties, and how they intersect with delivery milestones."
+      },
+      {
+        "id": "b",
+        "label": "Which teams have the largest office windows."
+      },
+      {
+        "id": "c",
+        "label": "Which team members prefer working near the kitchen."
+      },
+      {
+        "id": "d",
+        "label": "Which conference room has the best video conferencing equipment."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding mandatory deadlines and penalties frames the trade-offs in planning. Option b is incorrect because window size is irrelevant. Option c is incorrect because kitchen proximity is not central. Option d is incorrect because equipment quality is secondary to the regulatory context.",
+    "difficulty": "hard",
+    "topics": [
+      "regulatory deadlines",
+      "planning context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-024",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "There is ongoing conflict about how defects are prioritized versus new features. What context should the project manager analyze before proposing changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The product strategy, risk tolerance, and customer expectations about quality versus new functionality."
+      },
+      {
+        "id": "b",
+        "label": "The default font in the defect tracking tool."
+      },
+      {
+        "id": "c",
+        "label": "The number of printers on the project floor."
+      },
+      {
+        "id": "d",
+        "label": "The style of chairs in the team area."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because strategic aims, risk appetite, and customer expectations define how to balance defects and features. Option b is incorrect because tool font is cosmetic. Option c is incorrect because printers do not drive prioritization. Option d is incorrect because chair style does not shape this trade-off.",
+    "difficulty": "hard",
+    "topics": [
+      "product strategy",
+      "prioritization context"
+    ]
+  },
+  {
+    "id": "q-people-1-2-025",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-2"
+    ],
+    "text": "A conflict develops when some stakeholders feel they were not consulted on a major decision. To analyze the conflict context, what should the project manager review?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The stakeholder engagement plan, communication matrix, and how stakeholders were involved in prior decisions."
+      },
+      {
+        "id": "b",
+        "label": "The brand of projectors used in meeting rooms."
+      },
+      {
+        "id": "c",
+        "label": "The color of the markers on the whiteboard."
+      },
+      {
+        "id": "d",
+        "label": "The number of chairs available in the cafeteria."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because the engagement plan and prior involvement patterns reveal whether expectations were set and met. Option b is incorrect because projector brand is irrelevant. Option c is incorrect because marker color does not affect stakeholder inclusion. Option d is incorrect because cafeteria seating is unrelated to decision participation.",
+    "difficulty": "hard",
+    "topics": [
+      "stakeholder engagement",
+      "decision context"
+    ]
+  }
+]

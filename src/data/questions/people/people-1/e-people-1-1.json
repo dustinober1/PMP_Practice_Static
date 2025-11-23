@@ -1,0 +1,852 @@
+[
+  {
+    "id": "q-people-1-1-001",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "Two team members are arguing about who owns a defect. What should the project manager do first to interpret the source and stage of this conflict?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assign blame based on the defect log entry."
+      },
+      {
+        "id": "b",
+        "label": "Meet with each person separately to understand perspectives and triggers."
+      },
+      {
+        "id": "c",
+        "label": "Escalate the issue to the functional manager immediately."
+      },
+      {
+        "id": "d",
+        "label": "Move the team members to different workstreams without discussion."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Private conversations help you understand interests, triggers, and history before choosing a resolution strategy.",
+    "difficulty": "easy",
+    "topics": [
+      "conflict management",
+      "source of conflict"
+    ]
+  },
+  {
+    "id": "q-people-1-1-002",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A developer and a tester are disagreeing during a retrospective about whether a story was truly done. How can the project manager best interpret the source of this conflict?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask the product owner to declare a winner so the meeting can move on."
+      },
+      {
+        "id": "b",
+        "label": "Review the Definition of Done and clarify how each person interpreted it."
+      },
+      {
+        "id": "c",
+        "label": "Extend the meeting until both parties agree entirely."
+      },
+      {
+        "id": "d",
+        "label": "Remove the story from the sprint and cancel the retrospective."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Comparing each person’s interpretation of shared agreements reveals whether the conflict stems from unclear expectations.",
+    "difficulty": "medium",
+    "topics": [
+      "definition of done",
+      "conflict source"
+    ]
+  },
+  {
+    "id": "q-people-1-1-003",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "Repeated disagreements over priorities suggest a deeper conflict between two senior team members. What should the project manager analyze first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Whether the team members are following the issue escalation process."
+      },
+      {
+        "id": "b",
+        "label": "Whether the conflict is about resources, recognition, or decision authority."
+      },
+      {
+        "id": "c",
+        "label": "Whether both team members attended the last town hall meeting."
+      },
+      {
+        "id": "d",
+        "label": "Whether the project communications plan was approved by the sponsor."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Understanding if the conflict is about resources, recognition, or authority helps determine the appropriate conflict resolution technique.",
+    "difficulty": "medium",
+    "topics": [
+      "conflict source",
+      "team dynamics"
+    ]
+  },
+  {
+    "id": "q-people-1-1-004",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A conflict between a senior architect and a junior developer appears suddenly during a design review. To interpret the stage of this conflict, what should the project manager do?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask the architect to stop the discussion until after the meeting."
+      },
+      {
+        "id": "b",
+        "label": "Observe whether the disagreement is still about the problem or has shifted to personal attacks."
+      },
+      {
+        "id": "c",
+        "label": "Immediately reassign the developer to a different project."
+      },
+      {
+        "id": "d",
+        "label": "Send an email to HR requesting mediation."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Determining whether the conflict is still task-focused or has escalated to personal conflict indicates the stage and urgency.",
+    "difficulty": "medium",
+    "topics": [
+      "conflict stages",
+      "observation"
+    ]
+  },
+  {
+    "id": "q-people-1-1-005",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "During sprint planning, team members disagree about story estimates. The discussion is lively but still respectful. How should the project manager interpret this conflict?",
+    "options": [
+      {
+        "id": "a",
+        "label": "As a healthy difference of opinion that can improve estimates."
+      },
+      {
+        "id": "b",
+        "label": "As a serious interpersonal conflict that requires HR intervention."
+      },
+      {
+        "id": "c",
+        "label": "As evidence that the team is not capable of self-organization."
+      },
+      {
+        "id": "d",
+        "label": "As a reason to cancel the sprint planning meeting immediately."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Respectful debate about estimates is a normal, early-stage task conflict that can improve planning.",
+    "difficulty": "easy",
+    "topics": [
+      "healthy conflict",
+      "estimation"
+    ]
+  },
+  {
+    "id": "q-people-1-1-006",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A conflict over resource allocation has existed for several weeks and now includes personal remarks in emails. What does this suggest about the stage of the conflict?",
+    "options": [
+      {
+        "id": "a",
+        "label": "It is at an early stage and can be ignored."
+      },
+      {
+        "id": "b",
+        "label": "It has escalated beyond task disagreement and needs active intervention."
+      },
+      {
+        "id": "c",
+        "label": "It indicates the project charter is incomplete."
+      },
+      {
+        "id": "d",
+        "label": "It is a normal part of forming a team and will resolve itself."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Personal attacks and long duration indicate a later, escalated conflict stage that requires intentional resolution.",
+    "difficulty": "medium",
+    "topics": [
+      "conflict stages",
+      "escalation"
+    ]
+  },
+  {
+    "id": "q-people-1-1-007",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A sponsor notices tension in meetings and asks you what is driving it. What is the best way to interpret the conflict source before responding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Review recent decision logs and talk with key participants to identify themes."
+      },
+      {
+        "id": "b",
+        "label": "Assume the tension is due to schedule pressure and assure the sponsor it is normal."
+      },
+      {
+        "id": "c",
+        "label": "Ask the sponsor for their opinion and adopt it as the explanation."
+      },
+      {
+        "id": "d",
+        "label": "Immediately re-baseline the schedule without further analysis."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Examining decisions and speaking with participants helps you infer whether the tension comes from scope, roles, or priorities.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder communication",
+      "conflict source"
+    ]
+  },
+  {
+    "id": "q-people-1-1-008",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "Team members disagree about whether a risk response was authorized. To interpret the conflict source, which document should you review first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The stakeholder engagement plan to see who attended meetings."
+      },
+      {
+        "id": "b",
+        "label": "The risk register and decision log that record approved responses."
+      },
+      {
+        "id": "c",
+        "label": "The project schedule to see when tasks were planned."
+      },
+      {
+        "id": "d",
+        "label": "The procurement management plan for vendor responsibilities."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Risk and decision logs clarify what was agreed, helping you see if the conflict stems from misunderstanding or missing approvals.",
+    "difficulty": "medium",
+    "topics": [
+      "risk register",
+      "decision log"
+    ]
+  },
+  {
+    "id": "q-people-1-1-009",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A new team member feels excluded from design decisions and voices frustration. What is the best first step to interpret this conflict?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Remind them that decisions are made by senior team members only."
+      },
+      {
+        "id": "b",
+        "label": "Ask open-ended questions to understand how often they were invited and how they perceived interactions."
+      },
+      {
+        "id": "c",
+        "label": "Immediately rotate them off the project to avoid further disruption."
+      },
+      {
+        "id": "d",
+        "label": "Ask them to document all complaints in a formal risk log."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Exploring their experiences helps identify whether the issue is about inclusion, communication, or role clarity.",
+    "difficulty": "easy",
+    "topics": [
+      "inclusion",
+      "conflict source"
+    ]
+  },
+  {
+    "id": "q-people-1-1-010",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "You notice that conflict arises only when technical debt stories are discussed. What does this pattern suggest?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The conflict is driven by personal dislike between team members."
+      },
+      {
+        "id": "b",
+        "label": "The conflict source is disagreement over the value of paying down technical debt."
+      },
+      {
+        "id": "c",
+        "label": "The conflict is unrelated to project work and can be ignored."
+      },
+      {
+        "id": "d",
+        "label": "The conflict indicates a need to change the project sponsor."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A recurring trigger tied to a specific topic points to a task-level disagreement about value and priorities.",
+    "difficulty": "medium",
+    "topics": [
+      "patterns",
+      "technical debt"
+    ]
+  },
+  {
+    "id": "q-people-1-1-011",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "Several quiet team members start withdrawing from discussions after a heated conflict last week. How should the project manager interpret this change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "As a sign that all conflicts have been resolved successfully."
+      },
+      {
+        "id": "b",
+        "label": "As an indicator that unresolved conflict is affecting psychological safety."
+      },
+      {
+        "id": "c",
+        "label": "As a normal phase of team development that requires no action."
+      },
+      {
+        "id": "d",
+        "label": "As evidence that the project scope is too complex."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Withdrawal after conflict often signals reduced safety and unresolved tension, which you must recognize and address.",
+    "difficulty": "medium",
+    "topics": [
+      "psychological safety",
+      "conflict impact"
+    ]
+  },
+  {
+    "id": "q-people-1-1-012",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "When a conflict arises between business analysts and developers about requirements, what should the project manager focus on first to interpret the source?",
+    "options": [
+      {
+        "id": "a",
+        "label": "How each group understood the acceptance criteria and business value."
+      },
+      {
+        "id": "b",
+        "label": "Which group has a higher charge-out rate to the project."
+      },
+      {
+        "id": "c",
+        "label": "Whether requirements were typed in a specific document template."
+      },
+      {
+        "id": "d",
+        "label": "If the conflict can be hidden from the sponsor."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Differences in understanding of requirements often drive conflict and should be examined first.",
+    "difficulty": "easy",
+    "topics": [
+      "requirements clarity",
+      "conflict source"
+    ]
+  },
+  {
+    "id": "q-people-1-1-013",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A vendor and internal architect disagree sharply about a design approach. To interpret the stage of conflict, what should you observe?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Whether discussions are still fact-based or have shifted to questioning competence."
+      },
+      {
+        "id": "b",
+        "label": "Whether the vendor has submitted the latest invoice on time."
+      },
+      {
+        "id": "c",
+        "label": "Whether the architect has updated the architecture diagrams."
+      },
+      {
+        "id": "d",
+        "label": "Whether the contract end date is approaching."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Conflict that moves from facts to personal attacks indicates escalation that must be recognized.",
+    "difficulty": "medium",
+    "topics": [
+      "vendor management",
+      "conflict stages"
+    ]
+  },
+  {
+    "id": "q-people-1-1-014",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A conflict about test coverage arises close to a major release. What does the timing suggest about the conflict stage?",
+    "options": [
+      {
+        "id": "a",
+        "label": "It is likely minor because it appears late in the schedule."
+      },
+      {
+        "id": "b",
+        "label": "It may be more intense because pressure is high near release."
+      },
+      {
+        "id": "c",
+        "label": "It is irrelevant because test coverage is a technical concern."
+      },
+      {
+        "id": "d",
+        "label": "It means the original requirements were not approved."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Conflicts close to deadlines often involve higher emotion and urgency and need careful handling.",
+    "difficulty": "medium",
+    "topics": [
+      "schedule pressure",
+      "conflict intensity"
+    ]
+  },
+  {
+    "id": "q-people-1-1-015",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "You suspect that a conflict between two leads is rooted in different interpretations of their roles. What should you review first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The resource calendars for each lead."
+      },
+      {
+        "id": "b",
+        "label": "The RACI or role descriptions to see how responsibilities are defined."
+      },
+      {
+        "id": "c",
+        "label": "The procurement contracts with external vendors."
+      },
+      {
+        "id": "d",
+        "label": "The organization-wide vacation policy."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Examining role definitions helps you confirm whether the conflict source is overlapping responsibilities.",
+    "difficulty": "easy",
+    "topics": [
+      "roles and responsibilities",
+      "RACI"
+    ]
+  },
+  {
+    "id": "q-people-1-1-016",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A conflict emerges every time overtime is requested. What is the most likely conflict source to explore?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Differences in compensation expectations, workload, and work-life balance."
+      },
+      {
+        "id": "b",
+        "label": "Differences in preferred project management software tools."
+      },
+      {
+        "id": "c",
+        "label": "Differences in office seating arrangements."
+      },
+      {
+        "id": "d",
+        "label": "Differences in understanding of corporate branding guidelines."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Repeated conflict around overtime often points to concerns about fairness, workload, and personal time.",
+    "difficulty": "medium",
+    "topics": [
+      "workload",
+      "work-life balance"
+    ]
+  },
+  {
+    "id": "q-people-1-1-017",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "You notice private chat messages becoming sarcastic after a failed deployment. What does this behavior suggest?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The team has high psychological safety."
+      },
+      {
+        "id": "b",
+        "label": "Frustration is present and the conflict may be moving from issue-focused to person-focused."
+      },
+      {
+        "id": "c",
+        "label": "The team has fully accepted the failure and moved on."
+      },
+      {
+        "id": "d",
+        "label": "The team is ready for immediate celebrations."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Sarcasm and side comments can signal brewing interpersonal conflict that you need to recognize.",
+    "difficulty": "medium",
+    "topics": [
+      "team behavior",
+      "conflict signals"
+    ]
+  },
+  {
+    "id": "q-people-1-1-018",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "Two senior engineers disagree about architecture and avoid speaking directly, instead using you as a go-between. How should you interpret this behavior?",
+    "options": [
+      {
+        "id": "a",
+        "label": "As a sign that the conflict is resolved."
+      },
+      {
+        "id": "b",
+        "label": "As a sign of avoidance and an escalating stage of conflict."
+      },
+      {
+        "id": "c",
+        "label": "As a sign that they are collaborating effectively."
+      },
+      {
+        "id": "d",
+        "label": "As a sign that the project schedule is too aggressive."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Using the project manager as a go-between can indicate avoidance and a deeper conflict stage.",
+    "difficulty": "medium",
+    "topics": [
+      "avoidance",
+      "conflict stages"
+    ]
+  },
+  {
+    "id": "q-people-1-1-019",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "You are new to a project and sense underlying tension in meetings. What is the best first step to interpret both source and stage of conflicts?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask each person to submit written complaints immediately."
+      },
+      {
+        "id": "b",
+        "label": "Conduct one-on-one conversations and review historical decisions and escalations."
+      },
+      {
+        "id": "c",
+        "label": "Cancel all meetings until tension disappears."
+      },
+      {
+        "id": "d",
+        "label": "Replace the entire team with new members."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Individual discussions and review of prior decisions provide context on how long conflicts have existed and what drives them.",
+    "difficulty": "hard",
+    "topics": [
+      "transition",
+      "conflict diagnosis"
+    ]
+  },
+  {
+    "id": "q-people-1-1-020",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A conflict between two departments appears during budgeting. What should you analyze to interpret the source most effectively?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Historical budget allocations, incentives, and perceived fairness between departments."
+      },
+      {
+        "id": "b",
+        "label": "The color scheme of the budgeting spreadsheet."
+      },
+      {
+        "id": "c",
+        "label": "The office location of each department."
+      },
+      {
+        "id": "d",
+        "label": "The number of meetings scheduled for the year."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Conflicts over budget often reflect underlying concerns about fairness and incentives that must be understood.",
+    "difficulty": "hard",
+    "topics": [
+      "budget",
+      "organizational politics"
+    ]
+  },
+  {
+    "id": "q-people-1-1-021",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A long-standing personal rivalry between two leaders surfaces during steering committee meetings. What does this history tell you about the conflict?",
+    "options": [
+      {
+        "id": "a",
+        "label": "It is a new task-related conflict that will be easy to resolve."
+      },
+      {
+        "id": "b",
+        "label": "It is an entrenched interpersonal conflict that may require escalation or formal mediation."
+      },
+      {
+        "id": "c",
+        "label": "It is unrelated to the project and can be ignored safely."
+      },
+      {
+        "id": "d",
+        "label": "It indicates the project charter must be completely rewritten."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A long history of rivalry suggests an entrenched conflict that may need structured resolution beyond the project manager.",
+    "difficulty": "hard",
+    "topics": [
+      "interpersonal conflict",
+      "mediation"
+    ]
+  },
+  {
+    "id": "q-people-1-1-022",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "Conflicts appear only when prioritizing regulatory work against new features. What is the most likely conflict source?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Differing views on the relative value of compliance work versus new features."
+      },
+      {
+        "id": "b",
+        "label": "Different preferences for meeting room locations."
+      },
+      {
+        "id": "c",
+        "label": "Different choices of instant messaging tools."
+      },
+      {
+        "id": "d",
+        "label": "Different attitudes toward office dress code."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The specific trigger suggests a value conflict between compliance and innovation that must be acknowledged.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "value conflict"
+    ]
+  },
+  {
+    "id": "q-people-1-1-023",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "A previously collaborative team suddenly starts competing for visibility after a reorganization. How should you interpret this shift?",
+    "options": [
+      {
+        "id": "a",
+        "label": "As a clear sign that the project objectives have been met."
+      },
+      {
+        "id": "b",
+        "label": "As a new conflict source driven by changed incentives and reporting lines."
+      },
+      {
+        "id": "c",
+        "label": "As an indication that no one understands the requirements."
+      },
+      {
+        "id": "d",
+        "label": "As a sign that the WBS needs to be decomposed further."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Organizational changes can introduce new incentives and power dynamics that create conflict.",
+    "difficulty": "hard",
+    "topics": [
+      "organizational change",
+      "conflict source"
+    ]
+  },
+  {
+    "id": "q-people-1-1-024",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "You observe eye-rolling and side conversations whenever a particular stakeholder speaks. What does this suggest about the conflict stage?",
+    "options": [
+      {
+        "id": "a",
+        "label": "There is no conflict; the team is fully engaged."
+      },
+      {
+        "id": "b",
+        "label": "The conflict has moved into a passive, undermining stage that damages trust."
+      },
+      {
+        "id": "c",
+        "label": "The conflict is purely technical and limited to requirements."
+      },
+      {
+        "id": "d",
+        "label": "The conflict has ended and requires no action."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Nonverbal cues like eye-rolling indicate an ongoing, passive conflict that affects respect and collaboration.",
+    "difficulty": "hard",
+    "topics": [
+      "nonverbal cues",
+      "conflict observation"
+    ]
+  },
+  {
+    "id": "q-people-1-1-025",
+    "domainId": "people",
+    "taskId": "people-1",
+    "enablerIds": [
+      "e-people-1-1"
+    ],
+    "text": "You are asked to step into a project with open escalations between teams. To interpret conflict sources quickly, what should you do first?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Review escalation logs and meet key parties to understand interests and history."
+      },
+      {
+        "id": "b",
+        "label": "Immediately cancel all escalations to reset the environment."
+      },
+      {
+        "id": "c",
+        "label": "Ignore escalations and focus only on technical issues."
+      },
+      {
+        "id": "d",
+        "label": "Freeze the budget until all conflicts disappear."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Reviewing escalations and speaking with stakeholders helps you understand both the origins and current stage of conflict.",
+    "difficulty": "hard",
+    "topics": [
+      "escalation history",
+      "conflict diagnosis"
+    ]
+  }
+]

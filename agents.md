@@ -28,8 +28,14 @@
 ## Files to Know
 - `src/pages/Home.jsx` — surfaces domain/task/process data for verification.
 - `src/pages/Settings.jsx` — placeholder for preferences and data export/import.
-- `src/data/*.json` — current static data scaffold.
+- `src/data/*.json` — core static data scaffold.
+- `src/data/questions/people/**` — per-enabler question banks for People domain (one JSON file per enabler).
 - `src/site-config.js` — site copy and donation link placeholders.
+
+## Question Generation Workflow
+- Author and edit questions per enabler in `src/data/questions/<domain>/<taskId>/<enablerId>.json`.
+- Keep `src/data/questions.json` as the merged view used by the app; do not hand-edit it for People-domain enabler questions.
+- Run `npm run generate:questions` to merge per-enabler files back into `src/data/questions.json` after editing.
 
 ## Definition of Done (current phase)
 - Data utility/hook exists and is used by Home to render JSON.
@@ -48,3 +54,4 @@
 - Ensure that question distractors are the same length as the correct answer.
 - Ensure that each explanation clearly states why the correct option is best and why each incorrect option is not appropriate.
 - Ensure that for every enabler ID in `src/data/enablers.json`, exactly 25 questions are authored that reference that enabler in `enablerIds` (per-question coverage target is 25 per enabler).
+- Commit and push to github frequently with clear, descriptive messages.

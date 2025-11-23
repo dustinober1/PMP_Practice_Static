@@ -1,0 +1,20 @@
+[
+  {
+    "id": "q-template-example",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": ["e-process-1-1"],
+    "text": "Template example question text.",
+    "options": [
+      { "id": "a", "label": "Correct example answer." },
+      { "id": "b", "label": "Plausible but incorrect answer." },
+      { "id": "c", "label": "Another plausible distractor." },
+      { "id": "d", "label": "Another plausible distractor." }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Explain why option a is correct and why b, c, and d are not appropriate.",
+    "difficulty": "medium",
+    "topics": ["template", "example"]
+  }
+]
+
