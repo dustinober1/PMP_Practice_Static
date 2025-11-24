@@ -125,7 +125,7 @@
         "label": "No budget challenges expected with properly contracted vendors."
       },
       {
-        "c",
+        "id": "c",
         "label": "Budget challenges only related to initial vendor selection and contracting."
       },
       {
@@ -133,8 +133,8 @@
         "label": "Reduced costs due to vendor efficiency and expertise."
       }
     ],
-    "correctOptionId": "b",
-    "explanation": "For projects with external vendors, scope creep and cost overruns are common budget challenges to anticipate. The correct answer is option A, not B. Option B incorrectly suggests no budget challenges with external vendors.",
+    "correctOptionId": "a",
+    "explanation": "Scope creep and cost overruns from vendors are common budget risks that must be anticipated and managed, so option a is correct. Option b is incorrect because assuming no budget challenges is unrealistic. Option c is incorrect because risks extend beyond initial contracting. Option d is incorrect because efficiency is not guaranteed and does not replace risk planning.",
     "difficulty": "medium",
     "topics": [
       "vendor costs",

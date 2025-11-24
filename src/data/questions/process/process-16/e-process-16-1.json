@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-16-1-001",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "In a agile clinical system in retail where new members are onboarding and support teams must be enabled, what should the project manager do to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hold a roles and responsibilities session using a RACI or similar"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "c",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "d",
+        "label": "avoid clarifying roles to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured discussion clarifies ownership. Option b is incorrect because assumptions cause gaps and duplication. Option c is incorrect because hidden assignments reduce buy-in. Option d is incorrect because lack of clarity slows delivery later.",
+    "difficulty": "easy",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-002",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "Given a hybrid policy implementation in retail where teams are cross-functional and remote and several partners collaborate, which action best supports discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "b",
+        "label": "confirm understanding and resolve overlaps"
+      },
+      {
+        "id": "c",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone knows their role"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because shared understanding prevents conflict. Option a is incorrect because reactive clarity costs time. Option c is incorrect because titles do not capture project duties. Option d is incorrect because assumptions cause gaps and duplication.",
+    "difficulty": "easy",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-003",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "While facing a vendor-led clinical system in pharma where teams are cross-functional and remote and several partners collaborate, what is the most effective next step to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "b",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "c",
+        "label": "document and share the responsibility map"
+      },
+      {
+        "id": "d",
+        "label": "wait for conflict before defining responsibilities"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility helps alignment. Option a is incorrect because hidden assignments reduce buy-in. Option b is incorrect because lack of clarity slows delivery later. Option d is incorrect because reactive clarity costs time.",
+    "difficulty": "easy",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-004",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "For a federated POS refresh in fintech where handoffs across time zones are rough and delivery pressure is high, what should the project manager do first to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "c",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "d",
+        "label": "update roles as the project evolves"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because dynamic projects need refreshed clarity. Option a is incorrect because titles do not capture project duties. Option b is incorrect because assumptions cause gaps and duplication. Option c is incorrect because hidden assignments reduce buy-in.",
+    "difficulty": "easy",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-005",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "In a matrixed POS refresh in fintech where teams are cross-functional and remote and delivery pressure is high, what should the project manager do to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align responsibilities with skills and capacity"
+      },
+      {
+        "id": "b",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "c",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "d",
+        "label": "rely solely on job titles for role clarity"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because fit drives effectiveness. Option b is incorrect because lack of clarity slows delivery later. Option c is incorrect because reactive clarity costs time. Option d is incorrect because titles do not capture project duties.",
+    "difficulty": "easy",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-006",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "Given a matrixed POS refresh in fintech where handoffs across time zones are rough and support teams must be enabled, which action best supports discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "b",
+        "label": "hold a roles and responsibilities session using a RACI or similar"
+      },
+      {
+        "id": "c",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "d",
+        "label": "avoid clarifying roles to save time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because structured discussion clarifies ownership. Option a is incorrect because assumptions cause gaps and duplication. Option c is incorrect because hidden assignments reduce buy-in. Option d is incorrect because lack of clarity slows delivery later.",
+    "difficulty": "easy",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-007",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "While facing a matrixed policy implementation in retail where knowledge lives with few experts and several partners collaborate, what is the most effective next step to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "b",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "c",
+        "label": "confirm understanding and resolve overlaps"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone knows their role"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because shared understanding prevents conflict. Option a is incorrect because reactive clarity costs time. Option b is incorrect because titles do not capture project duties. Option d is incorrect because assumptions cause gaps and duplication.",
+    "difficulty": "easy",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-008",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "For a vendor-led clinical system in pharma where handoffs across time zones are rough and several partners collaborate, what should the project manager do first to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "b",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "c",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "d",
+        "label": "document and share the responsibility map"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility helps alignment. Option a is incorrect because hidden assignments reduce buy-in. Option b is incorrect because lack of clarity slows delivery later. Option c is incorrect because reactive clarity costs time.",
+    "difficulty": "easy",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-009",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "In a agile analytics program in global services where new members are onboarding and delivery pressure is high, what should the project manager do to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update roles as the project evolves"
+      },
+      {
+        "id": "b",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "c",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "d",
+        "label": "assign roles privately without discussion"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because dynamic projects need refreshed clarity. Option b is incorrect because titles do not capture project duties. Option c is incorrect because assumptions cause gaps and duplication. Option d is incorrect because hidden assignments reduce buy-in.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-010",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "Given a federated platform rollout in public sector where new members are onboarding and delivery pressure is high, which action best supports discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "b",
+        "label": "align responsibilities with skills and capacity"
+      },
+      {
+        "id": "c",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "d",
+        "label": "rely solely on job titles for role clarity"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because fit drives effectiveness. Option a is incorrect because lack of clarity slows delivery later. Option c is incorrect because reactive clarity costs time. Option d is incorrect because titles do not capture project duties.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-011",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "While facing a hybrid clinical system in fintech where teams are cross-functional and remote and leadership wants clarity on roles, what is the most effective next step to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "b",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "c",
+        "label": "hold a roles and responsibilities session using a RACI or similar"
+      },
+      {
+        "id": "d",
+        "label": "avoid clarifying roles to save time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because structured discussion clarifies ownership. Option a is incorrect because assumptions cause gaps and duplication. Option b is incorrect because hidden assignments reduce buy-in. Option d is incorrect because lack of clarity slows delivery later.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-012",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "For a vendor-led clinical system in pharma where teams are cross-functional and remote and delivery pressure is high, what should the project manager do first to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "b",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "c",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "d",
+        "label": "confirm understanding and resolve overlaps"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because shared understanding prevents conflict. Option a is incorrect because reactive clarity costs time. Option b is incorrect because titles do not capture project duties. Option c is incorrect because assumptions cause gaps and duplication.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-013",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "In a vendor-led policy implementation in global services where teams are cross-functional and remote and leadership wants clarity on roles, what should the project manager do to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document and share the responsibility map"
+      },
+      {
+        "id": "b",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "c",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "d",
+        "label": "wait for conflict before defining responsibilities"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility helps alignment. Option b is incorrect because hidden assignments reduce buy-in. Option c is incorrect because lack of clarity slows delivery later. Option d is incorrect because reactive clarity costs time.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-014",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "Given a agile analytics program in public sector where knowledge lives with few experts and support teams must be enabled, which action best supports discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "b",
+        "label": "update roles as the project evolves"
+      },
+      {
+        "id": "c",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "d",
+        "label": "assign roles privately without discussion"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because dynamic projects need refreshed clarity. Option a is incorrect because titles do not capture project duties. Option c is incorrect because assumptions cause gaps and duplication. Option d is incorrect because hidden assignments reduce buy-in.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-015",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "While facing a vendor-led platform rollout in pharma where teams are cross-functional and remote and support teams must be enabled, what is the most effective next step to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "b",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "c",
+        "label": "align responsibilities with skills and capacity"
+      },
+      {
+        "id": "d",
+        "label": "rely solely on job titles for role clarity"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because fit drives effectiveness. Option a is incorrect because lack of clarity slows delivery later. Option b is incorrect because reactive clarity costs time. Option d is incorrect because titles do not capture project duties.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-016",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "For a agile policy implementation in fintech where decision rights are unclear and a big handover is coming, what should the project manager do first to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "b",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "c",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "d",
+        "label": "hold a roles and responsibilities session using a RACI or similar"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because structured discussion clarifies ownership. Option a is incorrect because assumptions cause gaps and duplication. Option b is incorrect because hidden assignments reduce buy-in. Option c is incorrect because lack of clarity slows delivery later.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-017",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "In a matrixed clinical system in pharma where decision rights are unclear and a big handover is coming, what should the project manager do to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "confirm understanding and resolve overlaps"
+      },
+      {
+        "id": "b",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "c",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone knows their role"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shared understanding prevents conflict. Option b is incorrect because reactive clarity costs time. Option c is incorrect because titles do not capture project duties. Option d is incorrect because assumptions cause gaps and duplication.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-018",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "Given a hybrid analytics program in pharma where knowledge lives with few experts and a big handover is coming, which action best supports discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "b",
+        "label": "document and share the responsibility map"
+      },
+      {
+        "id": "c",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "d",
+        "label": "wait for conflict before defining responsibilities"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility helps alignment. Option a is incorrect because hidden assignments reduce buy-in. Option c is incorrect because lack of clarity slows delivery later. Option d is incorrect because reactive clarity costs time.",
+    "difficulty": "medium",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-019",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "While facing a matrixed POS refresh in global services where teams are cross-functional and remote and support teams must be enabled, what is the most effective next step to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "c",
+        "label": "update roles as the project evolves"
+      },
+      {
+        "id": "d",
+        "label": "assign roles privately without discussion"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because dynamic projects need refreshed clarity. Option a is incorrect because titles do not capture project duties. Option b is incorrect because assumptions cause gaps and duplication. Option d is incorrect because hidden assignments reduce buy-in.",
+    "difficulty": "hard",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-020",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "For a matrixed policy implementation in global services where handoffs across time zones are rough and leadership wants clarity on roles, what should the project manager do first to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "b",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "c",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "d",
+        "label": "align responsibilities with skills and capacity"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because fit drives effectiveness. Option a is incorrect because lack of clarity slows delivery later. Option b is incorrect because reactive clarity costs time. Option c is incorrect because titles do not capture project duties.",
+    "difficulty": "hard",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-021",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "In a matrixed policy implementation in pharma where teams are cross-functional and remote and delivery pressure is high, what should the project manager do to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hold a roles and responsibilities session using a RACI or similar"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "c",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "d",
+        "label": "avoid clarifying roles to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured discussion clarifies ownership. Option b is incorrect because assumptions cause gaps and duplication. Option c is incorrect because hidden assignments reduce buy-in. Option d is incorrect because lack of clarity slows delivery later.",
+    "difficulty": "hard",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-022",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "Given a hybrid clinical system in global services where decision rights are unclear and a big handover is coming, which action best supports discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "b",
+        "label": "confirm understanding and resolve overlaps"
+      },
+      {
+        "id": "c",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone knows their role"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because shared understanding prevents conflict. Option a is incorrect because reactive clarity costs time. Option c is incorrect because titles do not capture project duties. Option d is incorrect because assumptions cause gaps and duplication.",
+    "difficulty": "hard",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-023",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "While facing a vendor-led analytics program in pharma where new members are onboarding and delivery pressure is high, what is the most effective next step to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "b",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "c",
+        "label": "document and share the responsibility map"
+      },
+      {
+        "id": "d",
+        "label": "wait for conflict before defining responsibilities"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility helps alignment. Option a is incorrect because hidden assignments reduce buy-in. Option b is incorrect because lack of clarity slows delivery later. Option d is incorrect because reactive clarity costs time.",
+    "difficulty": "hard",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-024",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "For a matrixed platform rollout in public sector where decision rights are unclear and several partners collaborate, what should the project manager do first to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely solely on job titles for role clarity"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows their role"
+      },
+      {
+        "id": "c",
+        "label": "assign roles privately without discussion"
+      },
+      {
+        "id": "d",
+        "label": "update roles as the project evolves"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because dynamic projects need refreshed clarity. Option a is incorrect because titles do not capture project duties. Option b is incorrect because assumptions cause gaps and duplication. Option c is incorrect because hidden assignments reduce buy-in.",
+    "difficulty": "hard",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-1-025",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-1"
+    ],
+    "text": "In a agile clinical system in retail where teams are cross-functional and remote and support teams must be enabled, what should the project manager do to discuss project responsibilities within the team?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align responsibilities with skills and capacity"
+      },
+      {
+        "id": "b",
+        "label": "avoid clarifying roles to save time"
+      },
+      {
+        "id": "c",
+        "label": "wait for conflict before defining responsibilities"
+      },
+      {
+        "id": "d",
+        "label": "rely solely on job titles for role clarity"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because fit drives effectiveness. Option b is incorrect because lack of clarity slows delivery later. Option c is incorrect because reactive clarity costs time. Option d is incorrect because titles do not capture project duties.",
+    "difficulty": "hard",
+    "topics": [
+      "roles",
+      "clarity"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  }
+]

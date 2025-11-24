@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-7-3-001",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "In a hybrid compliance uplift in medical devices where automation coverage is low and an audit is scheduled, what should the project manager do to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run regular inspections or demos to validate deliverables"
+      },
+      {
+        "id": "b",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "c",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "d",
+        "label": "assume quality if the schedule is on track"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because frequent checks surface issues early. Option b is incorrect because late assessment delays fixes. Option c is incorrect because quality requires ongoing monitoring. Option d is incorrect because timeliness does not guarantee quality.",
+    "difficulty": "easy",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-002",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "Given a outsourced data platform in ecommerce where customers reported usability issues and a release cutover is near, which action best supports continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "b",
+        "label": "track defect trends and adjust plans"
+      },
+      {
+        "id": "c",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "d",
+        "label": "wait for final acceptance testing to assess quality"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because trend data informs quality actions. Option a is incorrect because automation alone may miss issues. Option c is incorrect because delayed feedback risks misalignment. Option d is incorrect because late assessment delays fixes.",
+    "difficulty": "easy",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-003",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "While facing a agile mobile app in pharma where automation coverage is low and lead testers are new to the domain, what is the most effective next step to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "b",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "c",
+        "label": "embed definition of done checks in each iteration"
+      },
+      {
+        "id": "d",
+        "label": "rely only on automated tests without review"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because consistent criteria keeps quality steady. Option a is incorrect because quality requires ongoing monitoring. Option b is incorrect because timeliness does not guarantee quality. Option d is incorrect because automation alone may miss issues.",
+    "difficulty": "easy",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-004",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "For a agile billing system in defense where customers reported usability issues and lead testers are new to the domain, what should the project manager do first to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "b",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "c",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "d",
+        "label": "sample high-risk outputs for extra testing"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because targeted sampling reduces critical defects. Option a is incorrect because delayed feedback risks misalignment. Option b is incorrect because late assessment delays fixes. Option c is incorrect because quality requires ongoing monitoring.",
+    "difficulty": "easy",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-005",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "In a vendor-led analytics product in defense where regulators expect evidence and production defects are escalating, what should the project manager do to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect feedback from users and operations"
+      },
+      {
+        "id": "b",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "c",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "d",
+        "label": "avoid customer feedback until launch"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because feedback validates real-world quality. Option b is incorrect because timeliness does not guarantee quality. Option c is incorrect because automation alone may miss issues. Option d is incorrect because delayed feedback risks misalignment.",
+    "difficulty": "easy",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-006",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "Given a hybrid compliance uplift in medical devices where upstream data quality is inconsistent and an audit is scheduled, which action best supports continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "b",
+        "label": "run regular inspections or demos to validate deliverables"
+      },
+      {
+        "id": "c",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "d",
+        "label": "assume quality if the schedule is on track"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because frequent checks surface issues early. Option a is incorrect because late assessment delays fixes. Option c is incorrect because quality requires ongoing monitoring. Option d is incorrect because timeliness does not guarantee quality.",
+    "difficulty": "easy",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-007",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "While facing a hybrid data platform in defense where regulators expect evidence and production defects are escalating, what is the most effective next step to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "b",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "c",
+        "label": "track defect trends and adjust plans"
+      },
+      {
+        "id": "d",
+        "label": "wait for final acceptance testing to assess quality"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because trend data informs quality actions. Option a is incorrect because automation alone may miss issues. Option b is incorrect because delayed feedback risks misalignment. Option d is incorrect because late assessment delays fixes.",
+    "difficulty": "easy",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-008",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "For a hybrid analytics product in pharma where defect trends are rising and a pilot launch is imminent, what should the project manager do first to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "b",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "c",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "d",
+        "label": "embed definition of done checks in each iteration"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because consistent criteria keeps quality steady. Option a is incorrect because quality requires ongoing monitoring. Option b is incorrect because timeliness does not guarantee quality. Option c is incorrect because automation alone may miss issues.",
+    "difficulty": "easy",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-009",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "In a predictive compliance uplift in medical devices where regulators expect evidence and production defects are escalating, what should the project manager do to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "sample high-risk outputs for extra testing"
+      },
+      {
+        "id": "b",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "c",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "d",
+        "label": "stop inspecting once the first build passes"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because targeted sampling reduces critical defects. Option b is incorrect because delayed feedback risks misalignment. Option c is incorrect because late assessment delays fixes. Option d is incorrect because quality requires ongoing monitoring.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-010",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "Given a hybrid analytics product in medical devices where automation coverage is low and production defects are escalating, which action best supports continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "b",
+        "label": "collect feedback from users and operations"
+      },
+      {
+        "id": "c",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "d",
+        "label": "avoid customer feedback until launch"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because feedback validates real-world quality. Option a is incorrect because timeliness does not guarantee quality. Option c is incorrect because automation alone may miss issues. Option d is incorrect because delayed feedback risks misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-011",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "While facing a hybrid analytics product in medical devices where upstream data quality is inconsistent and a release cutover is near, what is the most effective next step to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "b",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "c",
+        "label": "run regular inspections or demos to validate deliverables"
+      },
+      {
+        "id": "d",
+        "label": "assume quality if the schedule is on track"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because frequent checks surface issues early. Option a is incorrect because late assessment delays fixes. Option b is incorrect because quality requires ongoing monitoring. Option d is incorrect because timeliness does not guarantee quality.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-012",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "For a predictive compliance uplift in medical devices where defect trends are rising and a release cutover is near, what should the project manager do first to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "b",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "c",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "d",
+        "label": "track defect trends and adjust plans"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because trend data informs quality actions. Option a is incorrect because automation alone may miss issues. Option b is incorrect because delayed feedback risks misalignment. Option c is incorrect because late assessment delays fixes.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-013",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "In a outsourced mobile app in ecommerce where defect trends are rising and an audit is scheduled, what should the project manager do to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "embed definition of done checks in each iteration"
+      },
+      {
+        "id": "b",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "c",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "d",
+        "label": "rely only on automated tests without review"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because consistent criteria keeps quality steady. Option b is incorrect because quality requires ongoing monitoring. Option c is incorrect because timeliness does not guarantee quality. Option d is incorrect because automation alone may miss issues.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-014",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "Given a hybrid compliance uplift in defense where defect trends are rising and lead testers are new to the domain, which action best supports continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "b",
+        "label": "sample high-risk outputs for extra testing"
+      },
+      {
+        "id": "c",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "d",
+        "label": "stop inspecting once the first build passes"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because targeted sampling reduces critical defects. Option a is incorrect because delayed feedback risks misalignment. Option c is incorrect because late assessment delays fixes. Option d is incorrect because quality requires ongoing monitoring.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-015",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "While facing a hybrid data platform in ecommerce where customers reported usability issues and production defects are escalating, what is the most effective next step to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "b",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "c",
+        "label": "collect feedback from users and operations"
+      },
+      {
+        "id": "d",
+        "label": "avoid customer feedback until launch"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because feedback validates real-world quality. Option a is incorrect because timeliness does not guarantee quality. Option b is incorrect because automation alone may miss issues. Option d is incorrect because delayed feedback risks misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-016",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "For a hybrid data platform in pharma where customers reported usability issues and a release cutover is near, what should the project manager do first to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "b",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "c",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "d",
+        "label": "run regular inspections or demos to validate deliverables"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because frequent checks surface issues early. Option a is incorrect because late assessment delays fixes. Option b is incorrect because quality requires ongoing monitoring. Option c is incorrect because timeliness does not guarantee quality.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-017",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "In a predictive mobile app in ecommerce where defect trends are rising and an audit is scheduled, what should the project manager do to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track defect trends and adjust plans"
+      },
+      {
+        "id": "b",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "c",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "d",
+        "label": "wait for final acceptance testing to assess quality"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because trend data informs quality actions. Option b is incorrect because automation alone may miss issues. Option c is incorrect because delayed feedback risks misalignment. Option d is incorrect because late assessment delays fixes.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-018",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "Given a vendor-led compliance uplift in defense where regulators expect evidence and a pilot launch is imminent, which action best supports continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "b",
+        "label": "embed definition of done checks in each iteration"
+      },
+      {
+        "id": "c",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "d",
+        "label": "rely only on automated tests without review"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because consistent criteria keeps quality steady. Option a is incorrect because quality requires ongoing monitoring. Option c is incorrect because timeliness does not guarantee quality. Option d is incorrect because automation alone may miss issues.",
+    "difficulty": "medium",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-019",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "While facing a outsourced mobile app in defense where upstream data quality is inconsistent and a release cutover is near, what is the most effective next step to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "b",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "c",
+        "label": "sample high-risk outputs for extra testing"
+      },
+      {
+        "id": "d",
+        "label": "stop inspecting once the first build passes"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because targeted sampling reduces critical defects. Option a is incorrect because delayed feedback risks misalignment. Option b is incorrect because late assessment delays fixes. Option d is incorrect because quality requires ongoing monitoring.",
+    "difficulty": "hard",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-020",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "For a outsourced analytics product in ecommerce where upstream data quality is inconsistent and a release cutover is near, what should the project manager do first to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "b",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "c",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "d",
+        "label": "collect feedback from users and operations"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because feedback validates real-world quality. Option a is incorrect because timeliness does not guarantee quality. Option b is incorrect because automation alone may miss issues. Option c is incorrect because delayed feedback risks misalignment.",
+    "difficulty": "hard",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-021",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "In a vendor-led billing system in ecommerce where customers reported usability issues and an audit is scheduled, what should the project manager do to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run regular inspections or demos to validate deliverables"
+      },
+      {
+        "id": "b",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "c",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "d",
+        "label": "assume quality if the schedule is on track"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because frequent checks surface issues early. Option b is incorrect because late assessment delays fixes. Option c is incorrect because quality requires ongoing monitoring. Option d is incorrect because timeliness does not guarantee quality.",
+    "difficulty": "hard",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-022",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "Given a hybrid data platform in ecommerce where upstream data quality is inconsistent and an audit is scheduled, which action best supports continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "b",
+        "label": "track defect trends and adjust plans"
+      },
+      {
+        "id": "c",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "d",
+        "label": "wait for final acceptance testing to assess quality"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because trend data informs quality actions. Option a is incorrect because automation alone may miss issues. Option c is incorrect because delayed feedback risks misalignment. Option d is incorrect because late assessment delays fixes.",
+    "difficulty": "hard",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-023",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "While facing a outsourced billing system in defense where defect trends are rising and lead testers are new to the domain, what is the most effective next step to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "b",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "c",
+        "label": "embed definition of done checks in each iteration"
+      },
+      {
+        "id": "d",
+        "label": "rely only on automated tests without review"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because consistent criteria keeps quality steady. Option a is incorrect because quality requires ongoing monitoring. Option b is incorrect because timeliness does not guarantee quality. Option d is incorrect because automation alone may miss issues.",
+    "difficulty": "hard",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-024",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "For a predictive mobile app in ecommerce where upstream data quality is inconsistent and production defects are escalating, what should the project manager do first to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid customer feedback until launch"
+      },
+      {
+        "id": "b",
+        "label": "wait for final acceptance testing to assess quality"
+      },
+      {
+        "id": "c",
+        "label": "stop inspecting once the first build passes"
+      },
+      {
+        "id": "d",
+        "label": "sample high-risk outputs for extra testing"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because targeted sampling reduces critical defects. Option a is incorrect because delayed feedback risks misalignment. Option b is incorrect because late assessment delays fixes. Option c is incorrect because quality requires ongoing monitoring.",
+    "difficulty": "hard",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-3-025",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-3"
+    ],
+    "text": "In a agile compliance uplift in medical devices where defect trends are rising and a pilot launch is imminent, what should the project manager do to continually survey deliverable quality?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect feedback from users and operations"
+      },
+      {
+        "id": "b",
+        "label": "assume quality if the schedule is on track"
+      },
+      {
+        "id": "c",
+        "label": "rely only on automated tests without review"
+      },
+      {
+        "id": "d",
+        "label": "avoid customer feedback until launch"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because feedback validates real-world quality. Option b is incorrect because timeliness does not guarantee quality. Option c is incorrect because automation alone may miss issues. Option d is incorrect because delayed feedback risks misalignment.",
+    "difficulty": "hard",
+    "topics": [
+      "quality assurance",
+      "monitoring"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  }
+]

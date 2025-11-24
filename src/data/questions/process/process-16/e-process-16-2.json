@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-16-2-001",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "In a agile clinical system in retail where new members are onboarding and support teams must be enabled, what should the project manager do to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "co-create team norms on tools, cadence, and decision making"
+      },
+      {
+        "id": "b",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "c",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "d",
+        "label": "ignore remote or flexible needs"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because joint norms build buy-in and clarity. Option b is incorrect because unstructured norms can conflict. Option c is incorrect because top-down rules reduce commitment. Option d is incorrect because ignoring needs harms collaboration.",
+    "difficulty": "easy",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-002",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "Given a hybrid policy implementation in retail where teams are cross-functional and remote and several partners collaborate, which action best supports outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "b",
+        "label": "address time zones, availability, and collaboration expectations"
+      },
+      {
+        "id": "c",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "d",
+        "label": "let norms emerge without guidance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because environment expectations must be explicit. Option a is incorrect because teams evolve and norms should too. Option c is incorrect because undocumented norms are easily forgotten. Option d is incorrect because unstructured norms can conflict.",
+    "difficulty": "easy",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-003",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "While facing a vendor-led clinical system in pharma where teams are cross-functional and remote and several partners collaborate, what is the most effective next step to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "b",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "c",
+        "label": "make norms visible and revisit regularly"
+      },
+      {
+        "id": "d",
+        "label": "set norms once and never revisit"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility and review sustain adoption. Option a is incorrect because top-down rules reduce commitment. Option b is incorrect because ignoring needs harms collaboration. Option d is incorrect because teams evolve and norms should too.",
+    "difficulty": "easy",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-004",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "For a federated POS refresh in fintech where handoffs across time zones are rough and delivery pressure is high, what should the project manager do first to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "b",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "c",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "d",
+        "label": "model the behaviors expected"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because leaders set tone for the environment. Option a is incorrect because undocumented norms are easily forgotten. Option b is incorrect because unstructured norms can conflict. Option c is incorrect because top-down rules reduce commitment.",
+    "difficulty": "easy",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-005",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "In a matrixed POS refresh in fintech where teams are cross-functional and remote and delivery pressure is high, what should the project manager do to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "include partners and vendors in the norms"
+      },
+      {
+        "id": "b",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "c",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "d",
+        "label": "keep expectations undocumented"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because all contributors need shared expectations. Option b is incorrect because ignoring needs harms collaboration. Option c is incorrect because teams evolve and norms should too. Option d is incorrect because undocumented norms are easily forgotten.",
+    "difficulty": "easy",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-006",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "Given a matrixed POS refresh in fintech where handoffs across time zones are rough and support teams must be enabled, which action best supports outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "b",
+        "label": "co-create team norms on tools, cadence, and decision making"
+      },
+      {
+        "id": "c",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "d",
+        "label": "ignore remote or flexible needs"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because joint norms build buy-in and clarity. Option a is incorrect because unstructured norms can conflict. Option c is incorrect because top-down rules reduce commitment. Option d is incorrect because ignoring needs harms collaboration.",
+    "difficulty": "easy",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-007",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "While facing a matrixed policy implementation in retail where knowledge lives with few experts and several partners collaborate, what is the most effective next step to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "b",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "c",
+        "label": "address time zones, availability, and collaboration expectations"
+      },
+      {
+        "id": "d",
+        "label": "let norms emerge without guidance"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because environment expectations must be explicit. Option a is incorrect because teams evolve and norms should too. Option b is incorrect because undocumented norms are easily forgotten. Option d is incorrect because unstructured norms can conflict.",
+    "difficulty": "easy",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-008",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "For a vendor-led clinical system in pharma where handoffs across time zones are rough and several partners collaborate, what should the project manager do first to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "b",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "c",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "d",
+        "label": "make norms visible and revisit regularly"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility and review sustain adoption. Option a is incorrect because top-down rules reduce commitment. Option b is incorrect because ignoring needs harms collaboration. Option c is incorrect because teams evolve and norms should too.",
+    "difficulty": "easy",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-009",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "In a agile analytics program in global services where new members are onboarding and delivery pressure is high, what should the project manager do to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "model the behaviors expected"
+      },
+      {
+        "id": "b",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "c",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "d",
+        "label": "impose rules without team input"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because leaders set tone for the environment. Option b is incorrect because undocumented norms are easily forgotten. Option c is incorrect because unstructured norms can conflict. Option d is incorrect because top-down rules reduce commitment.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-010",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "Given a federated platform rollout in public sector where new members are onboarding and delivery pressure is high, which action best supports outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "b",
+        "label": "include partners and vendors in the norms"
+      },
+      {
+        "id": "c",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "d",
+        "label": "keep expectations undocumented"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because all contributors need shared expectations. Option a is incorrect because ignoring needs harms collaboration. Option c is incorrect because teams evolve and norms should too. Option d is incorrect because undocumented norms are easily forgotten.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-011",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "While facing a hybrid clinical system in fintech where teams are cross-functional and remote and leadership wants clarity on roles, what is the most effective next step to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "b",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "c",
+        "label": "co-create team norms on tools, cadence, and decision making"
+      },
+      {
+        "id": "d",
+        "label": "ignore remote or flexible needs"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because joint norms build buy-in and clarity. Option a is incorrect because unstructured norms can conflict. Option b is incorrect because top-down rules reduce commitment. Option d is incorrect because ignoring needs harms collaboration.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-012",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "For a vendor-led clinical system in pharma where teams are cross-functional and remote and delivery pressure is high, what should the project manager do first to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "b",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "c",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "d",
+        "label": "address time zones, availability, and collaboration expectations"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because environment expectations must be explicit. Option a is incorrect because teams evolve and norms should too. Option b is incorrect because undocumented norms are easily forgotten. Option c is incorrect because unstructured norms can conflict.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-013",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "In a vendor-led policy implementation in global services where teams are cross-functional and remote and leadership wants clarity on roles, what should the project manager do to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "make norms visible and revisit regularly"
+      },
+      {
+        "id": "b",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "c",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "d",
+        "label": "set norms once and never revisit"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility and review sustain adoption. Option b is incorrect because top-down rules reduce commitment. Option c is incorrect because ignoring needs harms collaboration. Option d is incorrect because teams evolve and norms should too.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-014",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "Given a agile analytics program in public sector where knowledge lives with few experts and support teams must be enabled, which action best supports outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "b",
+        "label": "model the behaviors expected"
+      },
+      {
+        "id": "c",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "d",
+        "label": "impose rules without team input"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because leaders set tone for the environment. Option a is incorrect because undocumented norms are easily forgotten. Option c is incorrect because unstructured norms can conflict. Option d is incorrect because top-down rules reduce commitment.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-015",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "While facing a vendor-led platform rollout in pharma where teams are cross-functional and remote and support teams must be enabled, what is the most effective next step to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "b",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "c",
+        "label": "include partners and vendors in the norms"
+      },
+      {
+        "id": "d",
+        "label": "keep expectations undocumented"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because all contributors need shared expectations. Option a is incorrect because ignoring needs harms collaboration. Option b is incorrect because teams evolve and norms should too. Option d is incorrect because undocumented norms are easily forgotten.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-016",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "For a agile policy implementation in fintech where decision rights are unclear and a big handover is coming, what should the project manager do first to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "b",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "c",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "d",
+        "label": "co-create team norms on tools, cadence, and decision making"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because joint norms build buy-in and clarity. Option a is incorrect because unstructured norms can conflict. Option b is incorrect because top-down rules reduce commitment. Option c is incorrect because ignoring needs harms collaboration.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-017",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "In a matrixed clinical system in pharma where decision rights are unclear and a big handover is coming, what should the project manager do to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "address time zones, availability, and collaboration expectations"
+      },
+      {
+        "id": "b",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "c",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "d",
+        "label": "let norms emerge without guidance"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because environment expectations must be explicit. Option b is incorrect because teams evolve and norms should too. Option c is incorrect because undocumented norms are easily forgotten. Option d is incorrect because unstructured norms can conflict.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-018",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "Given a hybrid analytics program in pharma where knowledge lives with few experts and a big handover is coming, which action best supports outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "b",
+        "label": "make norms visible and revisit regularly"
+      },
+      {
+        "id": "c",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "d",
+        "label": "set norms once and never revisit"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility and review sustain adoption. Option a is incorrect because top-down rules reduce commitment. Option c is incorrect because ignoring needs harms collaboration. Option d is incorrect because teams evolve and norms should too.",
+    "difficulty": "medium",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-019",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "While facing a matrixed POS refresh in global services where teams are cross-functional and remote and support teams must be enabled, what is the most effective next step to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "b",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "c",
+        "label": "model the behaviors expected"
+      },
+      {
+        "id": "d",
+        "label": "impose rules without team input"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because leaders set tone for the environment. Option a is incorrect because undocumented norms are easily forgotten. Option b is incorrect because unstructured norms can conflict. Option d is incorrect because top-down rules reduce commitment.",
+    "difficulty": "hard",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-020",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "For a matrixed policy implementation in global services where handoffs across time zones are rough and leadership wants clarity on roles, what should the project manager do first to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "b",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "c",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "d",
+        "label": "include partners and vendors in the norms"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because all contributors need shared expectations. Option a is incorrect because ignoring needs harms collaboration. Option b is incorrect because teams evolve and norms should too. Option c is incorrect because undocumented norms are easily forgotten.",
+    "difficulty": "hard",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-021",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "In a matrixed policy implementation in pharma where teams are cross-functional and remote and delivery pressure is high, what should the project manager do to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "co-create team norms on tools, cadence, and decision making"
+      },
+      {
+        "id": "b",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "c",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "d",
+        "label": "ignore remote or flexible needs"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because joint norms build buy-in and clarity. Option b is incorrect because unstructured norms can conflict. Option c is incorrect because top-down rules reduce commitment. Option d is incorrect because ignoring needs harms collaboration.",
+    "difficulty": "hard",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-022",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "Given a hybrid clinical system in global services where decision rights are unclear and a big handover is coming, which action best supports outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "b",
+        "label": "address time zones, availability, and collaboration expectations"
+      },
+      {
+        "id": "c",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "d",
+        "label": "let norms emerge without guidance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because environment expectations must be explicit. Option a is incorrect because teams evolve and norms should too. Option c is incorrect because undocumented norms are easily forgotten. Option d is incorrect because unstructured norms can conflict.",
+    "difficulty": "hard",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-023",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "While facing a vendor-led analytics program in pharma where new members are onboarding and delivery pressure is high, what is the most effective next step to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "b",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "c",
+        "label": "make norms visible and revisit regularly"
+      },
+      {
+        "id": "d",
+        "label": "set norms once and never revisit"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility and review sustain adoption. Option a is incorrect because top-down rules reduce commitment. Option b is incorrect because ignoring needs harms collaboration. Option d is incorrect because teams evolve and norms should too.",
+    "difficulty": "hard",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-024",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "For a matrixed platform rollout in public sector where decision rights are unclear and several partners collaborate, what should the project manager do first to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep expectations undocumented"
+      },
+      {
+        "id": "b",
+        "label": "let norms emerge without guidance"
+      },
+      {
+        "id": "c",
+        "label": "impose rules without team input"
+      },
+      {
+        "id": "d",
+        "label": "model the behaviors expected"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because leaders set tone for the environment. Option a is incorrect because undocumented norms are easily forgotten. Option b is incorrect because unstructured norms can conflict. Option c is incorrect because top-down rules reduce commitment.",
+    "difficulty": "hard",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-2-025",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-2"
+    ],
+    "text": "In a agile clinical system in retail where teams are cross-functional and remote and support teams must be enabled, what should the project manager do to outline expectations for the working environment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "include partners and vendors in the norms"
+      },
+      {
+        "id": "b",
+        "label": "ignore remote or flexible needs"
+      },
+      {
+        "id": "c",
+        "label": "set norms once and never revisit"
+      },
+      {
+        "id": "d",
+        "label": "keep expectations undocumented"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because all contributors need shared expectations. Option b is incorrect because ignoring needs harms collaboration. Option c is incorrect because teams evolve and norms should too. Option d is incorrect because undocumented norms are easily forgotten.",
+    "difficulty": "hard",
+    "topics": [
+      "team norms",
+      "environment"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  }
+]

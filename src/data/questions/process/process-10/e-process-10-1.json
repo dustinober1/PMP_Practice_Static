@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-10-1-001",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "In a phased plant automation in manufacturing where new regulations are emerging and lead time for approvals is long, what should the project manager do to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "establish a change process and communicate it early"
+      },
+      {
+        "id": "b",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "c",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "d",
+        "label": "hide potential changes to look on track"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because readiness requires a known process. Option b is incorrect because projects must adapt to remain viable. Option c is incorrect because late response increases impact. Option d is incorrect because concealment erodes trust and control.",
+    "difficulty": "easy",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-002",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "Given a agile network resiliency in telecom where vendors propose scope changes and lead time for approvals is long, which action best supports anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "b",
+        "label": "reserve buffer for expected change requests"
+      },
+      {
+        "id": "c",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "d",
+        "label": "declare that no changes will be accepted"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because planning for change protects delivery. Option a is incorrect because some changes are necessary to deliver value. Option c is incorrect because change control needs project oversight. Option d is incorrect because projects must adapt to remain viable.",
+    "difficulty": "easy",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-003",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "While facing a phased payment modernization in manufacturing where a sponsor changed mid-project and budget is tight, what is the most effective next step to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "b",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "c",
+        "label": "scan for triggers such as new regulations or risks"
+      },
+      {
+        "id": "d",
+        "label": "treat every new idea as scope creep automatically"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because early detection enables timely response. Option a is incorrect because late response increases impact. Option b is incorrect because concealment erodes trust and control. Option d is incorrect because some changes are necessary to deliver value.",
+    "difficulty": "easy",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-004",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "For a vendor-led payment modernization in public safety where users request new capabilities and quality gates cannot move, what should the project manager do first to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "b",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "c",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "d",
+        "label": "encourage stakeholders to raise changes promptly"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because openness surfaces needed adjustments. Option a is incorrect because change control needs project oversight. Option b is incorrect because projects must adapt to remain viable. Option c is incorrect because late response increases impact.",
+    "difficulty": "easy",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-005",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "In a hybrid network resiliency in public safety where technical spikes reveal new risks and quality gates cannot move, what should the project manager do to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep a change log aligned to governance"
+      },
+      {
+        "id": "b",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "c",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "d",
+        "label": "assume vendors will manage change without project involvement"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tracking enables control and learning. Option b is incorrect because concealment erodes trust and control. Option c is incorrect because some changes are necessary to deliver value. Option d is incorrect because change control needs project oversight.",
+    "difficulty": "easy",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-006",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "Given a predictive platform migration in healthcare where new regulations are emerging and lead time for approvals is long, which action best supports anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "b",
+        "label": "establish a change process and communicate it early"
+      },
+      {
+        "id": "c",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "d",
+        "label": "hide potential changes to look on track"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because readiness requires a known process. Option a is incorrect because projects must adapt to remain viable. Option c is incorrect because late response increases impact. Option d is incorrect because concealment erodes trust and control.",
+    "difficulty": "easy",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-007",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "While facing a hybrid payment modernization in banking where a sponsor changed mid-project and lead time for approvals is long, what is the most effective next step to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "b",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "c",
+        "label": "reserve buffer for expected change requests"
+      },
+      {
+        "id": "d",
+        "label": "declare that no changes will be accepted"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because planning for change protects delivery. Option a is incorrect because some changes are necessary to deliver value. Option b is incorrect because change control needs project oversight. Option d is incorrect because projects must adapt to remain viable.",
+    "difficulty": "easy",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-008",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "For a hybrid network resiliency in banking where a sponsor changed mid-project and stakeholders expect transparency, what should the project manager do first to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "b",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "c",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "d",
+        "label": "scan for triggers such as new regulations or risks"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because early detection enables timely response. Option a is incorrect because late response increases impact. Option b is incorrect because concealment erodes trust and control. Option c is incorrect because some changes are necessary to deliver value.",
+    "difficulty": "easy",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-009",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "In a phased network resiliency in telecom where new regulations are emerging and a release window is fixed, what should the project manager do to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "encourage stakeholders to raise changes promptly"
+      },
+      {
+        "id": "b",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "c",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "d",
+        "label": "wait for crisis before considering change"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because openness surfaces needed adjustments. Option b is incorrect because change control needs project oversight. Option c is incorrect because projects must adapt to remain viable. Option d is incorrect because late response increases impact.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-010",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "Given a vendor-led payment modernization in telecom where technical spikes reveal new risks and stakeholders expect transparency, which action best supports anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "b",
+        "label": "keep a change log aligned to governance"
+      },
+      {
+        "id": "c",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "d",
+        "label": "assume vendors will manage change without project involvement"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because tracking enables control and learning. Option a is incorrect because concealment erodes trust and control. Option c is incorrect because some changes are necessary to deliver value. Option d is incorrect because change control needs project oversight.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-011",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "While facing a agile case management in healthcare where a sponsor changed mid-project and quality gates cannot move, what is the most effective next step to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "b",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "c",
+        "label": "establish a change process and communicate it early"
+      },
+      {
+        "id": "d",
+        "label": "hide potential changes to look on track"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because readiness requires a known process. Option a is incorrect because projects must adapt to remain viable. Option b is incorrect because late response increases impact. Option d is incorrect because concealment erodes trust and control.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-012",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "For a agile platform migration in telecom where technical spikes reveal new risks and a release window is fixed, what should the project manager do first to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "b",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "c",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "d",
+        "label": "reserve buffer for expected change requests"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because planning for change protects delivery. Option a is incorrect because some changes are necessary to deliver value. Option b is incorrect because change control needs project oversight. Option c is incorrect because projects must adapt to remain viable.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-013",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "In a phased payment modernization in healthcare where users request new capabilities and quality gates cannot move, what should the project manager do to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "scan for triggers such as new regulations or risks"
+      },
+      {
+        "id": "b",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "c",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "d",
+        "label": "treat every new idea as scope creep automatically"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because early detection enables timely response. Option b is incorrect because late response increases impact. Option c is incorrect because concealment erodes trust and control. Option d is incorrect because some changes are necessary to deliver value.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-014",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "Given a hybrid case management in manufacturing where new regulations are emerging and stakeholders expect transparency, which action best supports anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "b",
+        "label": "encourage stakeholders to raise changes promptly"
+      },
+      {
+        "id": "c",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "d",
+        "label": "wait for crisis before considering change"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because openness surfaces needed adjustments. Option a is incorrect because change control needs project oversight. Option c is incorrect because projects must adapt to remain viable. Option d is incorrect because late response increases impact.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-015",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "While facing a hybrid plant automation in public safety where users request new capabilities and budget is tight, what is the most effective next step to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "b",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "c",
+        "label": "keep a change log aligned to governance"
+      },
+      {
+        "id": "d",
+        "label": "assume vendors will manage change without project involvement"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because tracking enables control and learning. Option a is incorrect because concealment erodes trust and control. Option b is incorrect because some changes are necessary to deliver value. Option d is incorrect because change control needs project oversight.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-016",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "For a hybrid network resiliency in healthcare where a sponsor changed mid-project and quality gates cannot move, what should the project manager do first to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "b",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "c",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "d",
+        "label": "establish a change process and communicate it early"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because readiness requires a known process. Option a is incorrect because projects must adapt to remain viable. Option b is incorrect because late response increases impact. Option c is incorrect because concealment erodes trust and control.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-017",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "In a predictive case management in telecom where new regulations are emerging and budget is tight, what should the project manager do to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "reserve buffer for expected change requests"
+      },
+      {
+        "id": "b",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "c",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "d",
+        "label": "declare that no changes will be accepted"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because planning for change protects delivery. Option b is incorrect because some changes are necessary to deliver value. Option c is incorrect because change control needs project oversight. Option d is incorrect because projects must adapt to remain viable.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-018",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "Given a vendor-led network resiliency in healthcare where vendors propose scope changes and stakeholders expect transparency, which action best supports anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "b",
+        "label": "scan for triggers such as new regulations or risks"
+      },
+      {
+        "id": "c",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "d",
+        "label": "treat every new idea as scope creep automatically"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because early detection enables timely response. Option a is incorrect because late response increases impact. Option c is incorrect because concealment erodes trust and control. Option d is incorrect because some changes are necessary to deliver value.",
+    "difficulty": "medium",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-019",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "While facing a predictive platform migration in telecom where vendors propose scope changes and quality gates cannot move, what is the most effective next step to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "b",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "c",
+        "label": "encourage stakeholders to raise changes promptly"
+      },
+      {
+        "id": "d",
+        "label": "wait for crisis before considering change"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because openness surfaces needed adjustments. Option a is incorrect because change control needs project oversight. Option b is incorrect because projects must adapt to remain viable. Option d is incorrect because late response increases impact.",
+    "difficulty": "hard",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-020",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "For a agile payment modernization in healthcare where technical spikes reveal new risks and stakeholders expect transparency, what should the project manager do first to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "b",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "c",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "d",
+        "label": "keep a change log aligned to governance"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because tracking enables control and learning. Option a is incorrect because concealment erodes trust and control. Option b is incorrect because some changes are necessary to deliver value. Option c is incorrect because change control needs project oversight.",
+    "difficulty": "hard",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-021",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "In a phased payment modernization in banking where a sponsor changed mid-project and quality gates cannot move, what should the project manager do to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "establish a change process and communicate it early"
+      },
+      {
+        "id": "b",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "c",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "d",
+        "label": "hide potential changes to look on track"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because readiness requires a known process. Option b is incorrect because projects must adapt to remain viable. Option c is incorrect because late response increases impact. Option d is incorrect because concealment erodes trust and control.",
+    "difficulty": "hard",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-022",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "Given a vendor-led network resiliency in manufacturing where users request new capabilities and budget is tight, which action best supports anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "b",
+        "label": "reserve buffer for expected change requests"
+      },
+      {
+        "id": "c",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "d",
+        "label": "declare that no changes will be accepted"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because planning for change protects delivery. Option a is incorrect because some changes are necessary to deliver value. Option c is incorrect because change control needs project oversight. Option d is incorrect because projects must adapt to remain viable.",
+    "difficulty": "hard",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-023",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "While facing a hybrid case management in telecom where vendors propose scope changes and lead time for approvals is long, what is the most effective next step to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "b",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "c",
+        "label": "scan for triggers such as new regulations or risks"
+      },
+      {
+        "id": "d",
+        "label": "treat every new idea as scope creep automatically"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because early detection enables timely response. Option a is incorrect because late response increases impact. Option b is incorrect because concealment erodes trust and control. Option d is incorrect because some changes are necessary to deliver value.",
+    "difficulty": "hard",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-024",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "For a agile platform migration in public safety where technical spikes reveal new risks and stakeholders expect transparency, what should the project manager do first to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume vendors will manage change without project involvement"
+      },
+      {
+        "id": "b",
+        "label": "declare that no changes will be accepted"
+      },
+      {
+        "id": "c",
+        "label": "wait for crisis before considering change"
+      },
+      {
+        "id": "d",
+        "label": "encourage stakeholders to raise changes promptly"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because openness surfaces needed adjustments. Option a is incorrect because change control needs project oversight. Option b is incorrect because projects must adapt to remain viable. Option c is incorrect because late response increases impact.",
+    "difficulty": "hard",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-1-025",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-1"
+    ],
+    "text": "In a predictive payment modernization in public safety where vendors propose scope changes and stakeholders expect transparency, what should the project manager do to anticipate and embrace the need for change?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep a change log aligned to governance"
+      },
+      {
+        "id": "b",
+        "label": "hide potential changes to look on track"
+      },
+      {
+        "id": "c",
+        "label": "treat every new idea as scope creep automatically"
+      },
+      {
+        "id": "d",
+        "label": "assume vendors will manage change without project involvement"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tracking enables control and learning. Option b is incorrect because concealment erodes trust and control. Option c is incorrect because some changes are necessary to deliver value. Option d is incorrect because change control needs project oversight.",
+    "difficulty": "hard",
+    "topics": [
+      "change readiness",
+      "proactive scanning"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  }
+]

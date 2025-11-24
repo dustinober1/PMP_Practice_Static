@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-16-3-001",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "In a agile clinical system in retail where new members are onboarding and support teams must be enabled, what should the project manager do to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "plan handoffs with checklists and responsible owners"
+      },
+      {
+        "id": "b",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "c",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "d",
+        "label": "skip documentation because pairing is faster"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured transfers reduce loss. Option b is incorrect because unplanned transfer often fails. Option c is incorrect because late transfer risks outages. Option d is incorrect because no records hinder future support.",
+    "difficulty": "easy",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-002",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "Given a hybrid policy implementation in retail where teams are cross-functional and remote and several partners collaborate, which action best supports confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "b",
+        "label": "schedule shadowing or pairing for critical skills"
+      },
+      {
+        "id": "c",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "d",
+        "label": "assume people will learn by osmosis"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because pairing supports knowledge sharing. Option a is incorrect because single points of failure are risky. Option c is incorrect because unscheduled transfer gets deprioritized. Option d is incorrect because unplanned transfer often fails.",
+    "difficulty": "easy",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-003",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "While facing a vendor-led clinical system in pharma where teams are cross-functional and remote and several partners collaborate, what is the most effective next step to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "b",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "c",
+        "label": "store key artifacts in a shared repository"
+      },
+      {
+        "id": "d",
+        "label": "leave knowledge with one expert only"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because centralized information supports transfer. Option a is incorrect because late transfer risks outages. Option b is incorrect because no records hinder future support. Option d is incorrect because single points of failure are risky.",
+    "difficulty": "easy",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-004",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "For a federated POS refresh in fintech where handoffs across time zones are rough and delivery pressure is high, what should the project manager do first to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "b",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "c",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "d",
+        "label": "validate receipt of knowledge with the receiving team"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because confirmation ensures transfer occurred. Option a is incorrect because unscheduled transfer gets deprioritized. Option b is incorrect because unplanned transfer often fails. Option c is incorrect because late transfer risks outages.",
+    "difficulty": "easy",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-005",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "In a matrixed POS refresh in fintech where teams are cross-functional and remote and delivery pressure is high, what should the project manager do to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "plan for turnover and backfill"
+      },
+      {
+        "id": "b",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "c",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "d",
+        "label": "avoid scheduling handover time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because proactive planning reduces risk of loss. Option b is incorrect because no records hinder future support. Option c is incorrect because single points of failure are risky. Option d is incorrect because unscheduled transfer gets deprioritized.",
+    "difficulty": "easy",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-006",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "Given a matrixed POS refresh in fintech where handoffs across time zones are rough and support teams must be enabled, which action best supports confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "b",
+        "label": "plan handoffs with checklists and responsible owners"
+      },
+      {
+        "id": "c",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "d",
+        "label": "skip documentation because pairing is faster"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because structured transfers reduce loss. Option a is incorrect because unplanned transfer often fails. Option c is incorrect because late transfer risks outages. Option d is incorrect because no records hinder future support.",
+    "difficulty": "easy",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-007",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "While facing a matrixed policy implementation in retail where knowledge lives with few experts and several partners collaborate, what is the most effective next step to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "b",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "c",
+        "label": "schedule shadowing or pairing for critical skills"
+      },
+      {
+        "id": "d",
+        "label": "assume people will learn by osmosis"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because pairing supports knowledge sharing. Option a is incorrect because single points of failure are risky. Option b is incorrect because unscheduled transfer gets deprioritized. Option d is incorrect because unplanned transfer often fails.",
+    "difficulty": "easy",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-008",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "For a vendor-led clinical system in pharma where handoffs across time zones are rough and several partners collaborate, what should the project manager do first to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "b",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "c",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "d",
+        "label": "store key artifacts in a shared repository"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because centralized information supports transfer. Option a is incorrect because late transfer risks outages. Option b is incorrect because no records hinder future support. Option c is incorrect because single points of failure are risky.",
+    "difficulty": "easy",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-009",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "In a agile analytics program in global services where new members are onboarding and delivery pressure is high, what should the project manager do to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "validate receipt of knowledge with the receiving team"
+      },
+      {
+        "id": "b",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "c",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "d",
+        "label": "wait until project end to share knowledge"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because confirmation ensures transfer occurred. Option b is incorrect because unscheduled transfer gets deprioritized. Option c is incorrect because unplanned transfer often fails. Option d is incorrect because late transfer risks outages.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-010",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "Given a federated platform rollout in public sector where new members are onboarding and delivery pressure is high, which action best supports confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "b",
+        "label": "plan for turnover and backfill"
+      },
+      {
+        "id": "c",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "d",
+        "label": "avoid scheduling handover time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because proactive planning reduces risk of loss. Option a is incorrect because no records hinder future support. Option c is incorrect because single points of failure are risky. Option d is incorrect because unscheduled transfer gets deprioritized.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-011",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "While facing a hybrid clinical system in fintech where teams are cross-functional and remote and leadership wants clarity on roles, what is the most effective next step to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "b",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "c",
+        "label": "plan handoffs with checklists and responsible owners"
+      },
+      {
+        "id": "d",
+        "label": "skip documentation because pairing is faster"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because structured transfers reduce loss. Option a is incorrect because unplanned transfer often fails. Option b is incorrect because late transfer risks outages. Option d is incorrect because no records hinder future support.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-012",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "For a vendor-led clinical system in pharma where teams are cross-functional and remote and delivery pressure is high, what should the project manager do first to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "b",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "c",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "d",
+        "label": "schedule shadowing or pairing for critical skills"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because pairing supports knowledge sharing. Option a is incorrect because single points of failure are risky. Option b is incorrect because unscheduled transfer gets deprioritized. Option c is incorrect because unplanned transfer often fails.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-013",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "In a vendor-led policy implementation in global services where teams are cross-functional and remote and leadership wants clarity on roles, what should the project manager do to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "store key artifacts in a shared repository"
+      },
+      {
+        "id": "b",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "c",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "d",
+        "label": "leave knowledge with one expert only"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because centralized information supports transfer. Option b is incorrect because late transfer risks outages. Option c is incorrect because no records hinder future support. Option d is incorrect because single points of failure are risky.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-014",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "Given a agile analytics program in public sector where knowledge lives with few experts and support teams must be enabled, which action best supports confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "b",
+        "label": "validate receipt of knowledge with the receiving team"
+      },
+      {
+        "id": "c",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "d",
+        "label": "wait until project end to share knowledge"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because confirmation ensures transfer occurred. Option a is incorrect because unscheduled transfer gets deprioritized. Option c is incorrect because unplanned transfer often fails. Option d is incorrect because late transfer risks outages.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-015",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "While facing a vendor-led platform rollout in pharma where teams are cross-functional and remote and support teams must be enabled, what is the most effective next step to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "b",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "c",
+        "label": "plan for turnover and backfill"
+      },
+      {
+        "id": "d",
+        "label": "avoid scheduling handover time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because proactive planning reduces risk of loss. Option a is incorrect because no records hinder future support. Option b is incorrect because single points of failure are risky. Option d is incorrect because unscheduled transfer gets deprioritized.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-016",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "For a agile policy implementation in fintech where decision rights are unclear and a big handover is coming, what should the project manager do first to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "b",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "c",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "d",
+        "label": "plan handoffs with checklists and responsible owners"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because structured transfers reduce loss. Option a is incorrect because unplanned transfer often fails. Option b is incorrect because late transfer risks outages. Option c is incorrect because no records hinder future support.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-017",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "In a matrixed clinical system in pharma where decision rights are unclear and a big handover is coming, what should the project manager do to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "schedule shadowing or pairing for critical skills"
+      },
+      {
+        "id": "b",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "c",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "d",
+        "label": "assume people will learn by osmosis"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because pairing supports knowledge sharing. Option b is incorrect because single points of failure are risky. Option c is incorrect because unscheduled transfer gets deprioritized. Option d is incorrect because unplanned transfer often fails.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-018",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "Given a hybrid analytics program in pharma where knowledge lives with few experts and a big handover is coming, which action best supports confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "b",
+        "label": "store key artifacts in a shared repository"
+      },
+      {
+        "id": "c",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "d",
+        "label": "leave knowledge with one expert only"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because centralized information supports transfer. Option a is incorrect because late transfer risks outages. Option c is incorrect because no records hinder future support. Option d is incorrect because single points of failure are risky.",
+    "difficulty": "medium",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-019",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "While facing a matrixed POS refresh in global services where teams are cross-functional and remote and support teams must be enabled, what is the most effective next step to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "b",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "c",
+        "label": "validate receipt of knowledge with the receiving team"
+      },
+      {
+        "id": "d",
+        "label": "wait until project end to share knowledge"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because confirmation ensures transfer occurred. Option a is incorrect because unscheduled transfer gets deprioritized. Option b is incorrect because unplanned transfer often fails. Option d is incorrect because late transfer risks outages.",
+    "difficulty": "hard",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-020",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "For a matrixed policy implementation in global services where handoffs across time zones are rough and leadership wants clarity on roles, what should the project manager do first to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "b",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "c",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "d",
+        "label": "plan for turnover and backfill"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because proactive planning reduces risk of loss. Option a is incorrect because no records hinder future support. Option b is incorrect because single points of failure are risky. Option c is incorrect because unscheduled transfer gets deprioritized.",
+    "difficulty": "hard",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-021",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "In a matrixed policy implementation in pharma where teams are cross-functional and remote and delivery pressure is high, what should the project manager do to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "plan handoffs with checklists and responsible owners"
+      },
+      {
+        "id": "b",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "c",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "d",
+        "label": "skip documentation because pairing is faster"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured transfers reduce loss. Option b is incorrect because unplanned transfer often fails. Option c is incorrect because late transfer risks outages. Option d is incorrect because no records hinder future support.",
+    "difficulty": "hard",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-022",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "Given a hybrid clinical system in global services where decision rights are unclear and a big handover is coming, which action best supports confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "b",
+        "label": "schedule shadowing or pairing for critical skills"
+      },
+      {
+        "id": "c",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "d",
+        "label": "assume people will learn by osmosis"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because pairing supports knowledge sharing. Option a is incorrect because single points of failure are risky. Option c is incorrect because unscheduled transfer gets deprioritized. Option d is incorrect because unplanned transfer often fails.",
+    "difficulty": "hard",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-023",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "While facing a vendor-led analytics program in pharma where new members are onboarding and delivery pressure is high, what is the most effective next step to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "b",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "c",
+        "label": "store key artifacts in a shared repository"
+      },
+      {
+        "id": "d",
+        "label": "leave knowledge with one expert only"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because centralized information supports transfer. Option a is incorrect because late transfer risks outages. Option b is incorrect because no records hinder future support. Option d is incorrect because single points of failure are risky.",
+    "difficulty": "hard",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-024",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "For a matrixed platform rollout in public sector where decision rights are unclear and several partners collaborate, what should the project manager do first to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid scheduling handover time"
+      },
+      {
+        "id": "b",
+        "label": "assume people will learn by osmosis"
+      },
+      {
+        "id": "c",
+        "label": "wait until project end to share knowledge"
+      },
+      {
+        "id": "d",
+        "label": "validate receipt of knowledge with the receiving team"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because confirmation ensures transfer occurred. Option a is incorrect because unscheduled transfer gets deprioritized. Option b is incorrect because unplanned transfer often fails. Option c is incorrect because late transfer risks outages.",
+    "difficulty": "hard",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-16-3-025",
+    "domainId": "process",
+    "taskId": "process-16",
+    "enablerIds": [
+      "e-process-16-3"
+    ],
+    "text": "In a agile clinical system in retail where teams are cross-functional and remote and support teams must be enabled, what should the project manager do to confirm the approach for knowledge transfers?",
+    "options": [
+      {
+        "id": "a",
+        "label": "plan for turnover and backfill"
+      },
+      {
+        "id": "b",
+        "label": "skip documentation because pairing is faster"
+      },
+      {
+        "id": "c",
+        "label": "leave knowledge with one expert only"
+      },
+      {
+        "id": "d",
+        "label": "avoid scheduling handover time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because proactive planning reduces risk of loss. Option b is incorrect because no records hinder future support. Option c is incorrect because single points of failure are risky. Option d is incorrect because unscheduled transfer gets deprioritized.",
+    "difficulty": "hard",
+    "topics": [
+      "knowledge transfer",
+      "handoff"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "resource"
+  }
+]

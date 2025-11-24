@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-12-3-001",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "In a vendor-led ticketing upgrade in transport where audit trails are required and compliance reviews are frequent, what should the project manager do to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "gather feedback on how easily people find information"
+      },
+      {
+        "id": "b",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "c",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "d",
+        "label": "add new tools without process updates"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because user input reveals effectiveness. Option b is incorrect because stagnant systems may stop working. Option c is incorrect because ignoring issues leaves them unsolved. Option d is incorrect because tool sprawl can worsen management.",
+    "difficulty": "easy",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-002",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "Given a predictive ticketing upgrade in fintech where teams use multiple tools and security requires access control, which action best supports continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "b",
+        "label": "measure usage and retrieval times"
+      },
+      {
+        "id": "c",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "d",
+        "label": "keep the structure unchanged regardless of feedback"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because metrics show whether management is working. Option a is incorrect because lack of transparency hides issues. Option c is incorrect because infrequent checks miss problems. Option d is incorrect because stagnant systems may stop working.",
+    "difficulty": "easy",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-003",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "While facing a agile patient portal in public sector where documentation is scattered and compliance reviews are frequent, what is the most effective next step to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "b",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "c",
+        "label": "adjust structure and taxonomy based on lessons learned"
+      },
+      {
+        "id": "d",
+        "label": "limit access to avoid hearing about problems"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because iteration improves usability. Option a is incorrect because ignoring issues leaves them unsolved. Option b is incorrect because tool sprawl can worsen management. Option d is incorrect because lack of transparency hides issues.",
+    "difficulty": "easy",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-004",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "For a hybrid patient portal in education where teams use multiple tools and sponsors want clear traceability, what should the project manager do first to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "b",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "c",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "d",
+        "label": "simplify tools or processes if they slow the team"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because effective management should enable work. Option a is incorrect because infrequent checks miss problems. Option b is incorrect because stagnant systems may stop working. Option c is incorrect because ignoring issues leaves them unsolved.",
+    "difficulty": "easy",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-005",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "In a agile digital campus in transport where teams use multiple tools and knowledge must persist after go-live, what should the project manager do to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "train and onboard people on artifact practices"
+      },
+      {
+        "id": "b",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "c",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "d",
+        "label": "assess effectiveness only at annual reviews"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because education sustains effectiveness. Option b is incorrect because tool sprawl can worsen management. Option c is incorrect because lack of transparency hides issues. Option d is incorrect because infrequent checks miss problems.",
+    "difficulty": "easy",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-006",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "Given a predictive risk analytics in education where new team members onboard often and handoffs happen monthly, which action best supports continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "b",
+        "label": "gather feedback on how easily people find information"
+      },
+      {
+        "id": "c",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "d",
+        "label": "add new tools without process updates"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because user input reveals effectiveness. Option a is incorrect because stagnant systems may stop working. Option c is incorrect because ignoring issues leaves them unsolved. Option d is incorrect because tool sprawl can worsen management.",
+    "difficulty": "easy",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-007",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "While facing a vendor-led patient portal in transport where version control is inconsistent and compliance reviews are frequent, what is the most effective next step to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "b",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "c",
+        "label": "measure usage and retrieval times"
+      },
+      {
+        "id": "d",
+        "label": "keep the structure unchanged regardless of feedback"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because metrics show whether management is working. Option a is incorrect because lack of transparency hides issues. Option b is incorrect because infrequent checks miss problems. Option d is incorrect because stagnant systems may stop working.",
+    "difficulty": "easy",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-008",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "For a predictive policy rollout in healthcare where audit trails are required and security requires access control, what should the project manager do first to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "b",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "c",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "d",
+        "label": "adjust structure and taxonomy based on lessons learned"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because iteration improves usability. Option a is incorrect because ignoring issues leaves them unsolved. Option b is incorrect because tool sprawl can worsen management. Option c is incorrect because lack of transparency hides issues.",
+    "difficulty": "easy",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-009",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "In a federated patient portal in healthcare where version control is inconsistent and security requires access control, what should the project manager do to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "simplify tools or processes if they slow the team"
+      },
+      {
+        "id": "b",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "c",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "d",
+        "label": "ignore complaints about findability"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because effective management should enable work. Option b is incorrect because infrequent checks miss problems. Option c is incorrect because stagnant systems may stop working. Option d is incorrect because ignoring issues leaves them unsolved.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-010",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "Given a predictive risk analytics in transport where teams use multiple tools and sponsors want clear traceability, which action best supports continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "b",
+        "label": "train and onboard people on artifact practices"
+      },
+      {
+        "id": "c",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "d",
+        "label": "assess effectiveness only at annual reviews"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because education sustains effectiveness. Option a is incorrect because tool sprawl can worsen management. Option c is incorrect because lack of transparency hides issues. Option d is incorrect because infrequent checks miss problems.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-011",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "While facing a federated digital campus in transport where documentation is scattered and handoffs happen monthly, what is the most effective next step to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "b",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "c",
+        "label": "gather feedback on how easily people find information"
+      },
+      {
+        "id": "d",
+        "label": "add new tools without process updates"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because user input reveals effectiveness. Option a is incorrect because stagnant systems may stop working. Option b is incorrect because ignoring issues leaves them unsolved. Option d is incorrect because tool sprawl can worsen management.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-012",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "For a predictive ticketing upgrade in public sector where documentation is scattered and handoffs happen monthly, what should the project manager do first to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "b",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "c",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "d",
+        "label": "measure usage and retrieval times"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because metrics show whether management is working. Option a is incorrect because lack of transparency hides issues. Option b is incorrect because infrequent checks miss problems. Option c is incorrect because stagnant systems may stop working.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-013",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "In a predictive policy rollout in transport where audit trails are required and handoffs happen monthly, what should the project manager do to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "adjust structure and taxonomy based on lessons learned"
+      },
+      {
+        "id": "b",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "c",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "d",
+        "label": "limit access to avoid hearing about problems"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because iteration improves usability. Option b is incorrect because ignoring issues leaves them unsolved. Option c is incorrect because tool sprawl can worsen management. Option d is incorrect because lack of transparency hides issues.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-014",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "Given a hybrid patient portal in healthcare where new team members onboard often and compliance reviews are frequent, which action best supports continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "b",
+        "label": "simplify tools or processes if they slow the team"
+      },
+      {
+        "id": "c",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "d",
+        "label": "ignore complaints about findability"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because effective management should enable work. Option a is incorrect because infrequent checks miss problems. Option c is incorrect because stagnant systems may stop working. Option d is incorrect because ignoring issues leaves them unsolved.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-015",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "While facing a hybrid ticketing upgrade in healthcare where audit trails are required and knowledge must persist after go-live, what is the most effective next step to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "b",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "c",
+        "label": "train and onboard people on artifact practices"
+      },
+      {
+        "id": "d",
+        "label": "assess effectiveness only at annual reviews"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because education sustains effectiveness. Option a is incorrect because tool sprawl can worsen management. Option b is incorrect because lack of transparency hides issues. Option d is incorrect because infrequent checks miss problems.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-016",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "For a agile patient portal in transport where version control is inconsistent and sponsors want clear traceability, what should the project manager do first to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "b",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "c",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "d",
+        "label": "gather feedback on how easily people find information"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because user input reveals effectiveness. Option a is incorrect because stagnant systems may stop working. Option b is incorrect because ignoring issues leaves them unsolved. Option c is incorrect because tool sprawl can worsen management.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-017",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "In a federated patient portal in fintech where documentation is scattered and knowledge must persist after go-live, what should the project manager do to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "measure usage and retrieval times"
+      },
+      {
+        "id": "b",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "c",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "d",
+        "label": "keep the structure unchanged regardless of feedback"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because metrics show whether management is working. Option b is incorrect because lack of transparency hides issues. Option c is incorrect because infrequent checks miss problems. Option d is incorrect because stagnant systems may stop working.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-018",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "Given a agile digital campus in healthcare where new team members onboard often and sponsors want clear traceability, which action best supports continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "b",
+        "label": "adjust structure and taxonomy based on lessons learned"
+      },
+      {
+        "id": "c",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "d",
+        "label": "limit access to avoid hearing about problems"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because iteration improves usability. Option a is incorrect because ignoring issues leaves them unsolved. Option c is incorrect because tool sprawl can worsen management. Option d is incorrect because lack of transparency hides issues.",
+    "difficulty": "medium",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-019",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "While facing a federated risk analytics in transport where audit trails are required and sponsors want clear traceability, what is the most effective next step to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "b",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "c",
+        "label": "simplify tools or processes if they slow the team"
+      },
+      {
+        "id": "d",
+        "label": "ignore complaints about findability"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because effective management should enable work. Option a is incorrect because infrequent checks miss problems. Option b is incorrect because stagnant systems may stop working. Option d is incorrect because ignoring issues leaves them unsolved.",
+    "difficulty": "hard",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-020",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "For a vendor-led digital campus in healthcare where teams use multiple tools and compliance reviews are frequent, what should the project manager do first to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "b",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "c",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "d",
+        "label": "train and onboard people on artifact practices"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because education sustains effectiveness. Option a is incorrect because tool sprawl can worsen management. Option b is incorrect because lack of transparency hides issues. Option c is incorrect because infrequent checks miss problems.",
+    "difficulty": "hard",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-021",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "In a hybrid patient portal in healthcare where new team members onboard often and sponsors want clear traceability, what should the project manager do to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "gather feedback on how easily people find information"
+      },
+      {
+        "id": "b",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "c",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "d",
+        "label": "add new tools without process updates"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because user input reveals effectiveness. Option b is incorrect because stagnant systems may stop working. Option c is incorrect because ignoring issues leaves them unsolved. Option d is incorrect because tool sprawl can worsen management.",
+    "difficulty": "hard",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-022",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "Given a vendor-led risk analytics in fintech where version control is inconsistent and sponsors want clear traceability, which action best supports continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "b",
+        "label": "measure usage and retrieval times"
+      },
+      {
+        "id": "c",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "d",
+        "label": "keep the structure unchanged regardless of feedback"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because metrics show whether management is working. Option a is incorrect because lack of transparency hides issues. Option c is incorrect because infrequent checks miss problems. Option d is incorrect because stagnant systems may stop working.",
+    "difficulty": "hard",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-023",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "While facing a vendor-led risk analytics in healthcare where audit trails are required and handoffs happen monthly, what is the most effective next step to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "b",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "c",
+        "label": "adjust structure and taxonomy based on lessons learned"
+      },
+      {
+        "id": "d",
+        "label": "limit access to avoid hearing about problems"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because iteration improves usability. Option a is incorrect because ignoring issues leaves them unsolved. Option b is incorrect because tool sprawl can worsen management. Option d is incorrect because lack of transparency hides issues.",
+    "difficulty": "hard",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-024",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "For a federated policy rollout in fintech where audit trails are required and sponsors want clear traceability, what should the project manager do first to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assess effectiveness only at annual reviews"
+      },
+      {
+        "id": "b",
+        "label": "keep the structure unchanged regardless of feedback"
+      },
+      {
+        "id": "c",
+        "label": "ignore complaints about findability"
+      },
+      {
+        "id": "d",
+        "label": "simplify tools or processes if they slow the team"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because effective management should enable work. Option a is incorrect because infrequent checks miss problems. Option b is incorrect because stagnant systems may stop working. Option c is incorrect because ignoring issues leaves them unsolved.",
+    "difficulty": "hard",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-12-3-025",
+    "domainId": "process",
+    "taskId": "process-12",
+    "enablerIds": [
+      "e-process-12-3"
+    ],
+    "text": "In a vendor-led ticketing upgrade in public sector where teams use multiple tools and security requires access control, what should the project manager do to continually assess effectiveness of artifact management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "train and onboard people on artifact practices"
+      },
+      {
+        "id": "b",
+        "label": "add new tools without process updates"
+      },
+      {
+        "id": "c",
+        "label": "limit access to avoid hearing about problems"
+      },
+      {
+        "id": "d",
+        "label": "assess effectiveness only at annual reviews"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because education sustains effectiveness. Option b is incorrect because tool sprawl can worsen management. Option c is incorrect because lack of transparency hides issues. Option d is incorrect because infrequent checks miss problems.",
+    "difficulty": "hard",
+    "topics": [
+      "continuous improvement",
+      "knowledge"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  }
+]

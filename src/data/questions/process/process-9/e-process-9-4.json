@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-9-4-001",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "In a agile release train data modernization in higher education where multiple teams have separate plans and shared resources create dependencies, what should the project manager do to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "define decision-driven metrics and how they will be collected"
+      },
+      {
+        "id": "b",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "c",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "d",
+        "label": "change metrics frequently to show better results"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because decisions require targeted data. Option b is incorrect because data without purpose wastes effort. Option c is incorrect because uninformed choices risk failure. Option d is incorrect because metric churn erodes credibility.",
+    "difficulty": "easy",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-002",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "Given a agile release train CRM consolidation in higher education where reporting requirements are strict and there is active benefits tracking, which action best supports collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "b",
+        "label": "automate or schedule data collection to ensure timeliness"
+      },
+      {
+        "id": "c",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "d",
+        "label": "collect data without a defined use"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because fresh data supports timely choices. Option a is incorrect because perfection delays necessary action. Option c is incorrect because withholding information skews decisions. Option d is incorrect because data without purpose wastes effort.",
+    "difficulty": "easy",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-003",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "While facing a predictive MES upgrade in media where reporting requirements are strict and shared resources create dependencies, what is the most effective next step to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "b",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "c",
+        "label": "validate data and analyze trends before choosing a response"
+      },
+      {
+        "id": "d",
+        "label": "delay decisions while waiting for perfect data"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because analysis should precede decisions. Option a is incorrect because uninformed choices risk failure. Option b is incorrect because metric churn erodes credibility. Option d is incorrect because perfection delays necessary action.",
+    "difficulty": "easy",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-004",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "For a program-based CRM consolidation in manufacturing where benefits must be demonstrated and shared resources create dependencies, what should the project manager do first to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "b",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "c",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "d",
+        "label": "engage decision makers with clear findings and options"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because stakeholder involvement leads to better decisions. Option a is incorrect because withholding information skews decisions. Option b is incorrect because data without purpose wastes effort. Option c is incorrect because uninformed choices risk failure.",
+    "difficulty": "easy",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-005",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "In a predictive MES upgrade in fintech where baseline versions differ by team and governance boards meet monthly, what should the project manager do to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "adjust metrics when objectives change"
+      },
+      {
+        "id": "b",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "c",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "d",
+        "label": "hide data that suggests a different course"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because data should match current needs. Option b is incorrect because metric churn erodes credibility. Option c is incorrect because perfection delays necessary action. Option d is incorrect because withholding information skews decisions.",
+    "difficulty": "easy",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-006",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "Given a agile release train CRM consolidation in higher education where reporting requirements are strict and funding hinges on a plan review, which action best supports collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "b",
+        "label": "define decision-driven metrics and how they will be collected"
+      },
+      {
+        "id": "c",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "d",
+        "label": "change metrics frequently to show better results"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because decisions require targeted data. Option a is incorrect because data without purpose wastes effort. Option c is incorrect because uninformed choices risk failure. Option d is incorrect because metric churn erodes credibility.",
+    "difficulty": "easy",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-007",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "While facing a hybrid streaming platform in higher education where multiple teams have separate plans and there is active benefits tracking, what is the most effective next step to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "b",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "c",
+        "label": "automate or schedule data collection to ensure timeliness"
+      },
+      {
+        "id": "d",
+        "label": "collect data without a defined use"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because fresh data supports timely choices. Option a is incorrect because perfection delays necessary action. Option b is incorrect because withholding information skews decisions. Option d is incorrect because data without purpose wastes effort.",
+    "difficulty": "easy",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-008",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "For a portfolio-aligned streaming platform in higher education where risk data needs consolidation and governance boards meet monthly, what should the project manager do first to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "b",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "c",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "d",
+        "label": "validate data and analyze trends before choosing a response"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because analysis should precede decisions. Option a is incorrect because uninformed choices risk failure. Option b is incorrect because metric churn erodes credibility. Option c is incorrect because perfection delays necessary action.",
+    "difficulty": "easy",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-009",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "In a portfolio-aligned streaming platform in higher education where multiple teams have separate plans and governance boards meet monthly, what should the project manager do to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "engage decision makers with clear findings and options"
+      },
+      {
+        "id": "b",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "c",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "d",
+        "label": "make decisions before any data review"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because stakeholder involvement leads to better decisions. Option b is incorrect because withholding information skews decisions. Option c is incorrect because data without purpose wastes effort. Option d is incorrect because uninformed choices risk failure.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-010",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "Given a predictive shared services rollout in manufacturing where reporting requirements are strict and shared resources create dependencies, which action best supports collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "b",
+        "label": "adjust metrics when objectives change"
+      },
+      {
+        "id": "c",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "d",
+        "label": "hide data that suggests a different course"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because data should match current needs. Option a is incorrect because metric churn erodes credibility. Option c is incorrect because perfection delays necessary action. Option d is incorrect because withholding information skews decisions.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-011",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "While facing a program-based shared services rollout in fintech where reporting requirements are strict and funding hinges on a plan review, what is the most effective next step to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "b",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "c",
+        "label": "define decision-driven metrics and how they will be collected"
+      },
+      {
+        "id": "d",
+        "label": "change metrics frequently to show better results"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because decisions require targeted data. Option a is incorrect because data without purpose wastes effort. Option b is incorrect because uninformed choices risk failure. Option d is incorrect because metric churn erodes credibility.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-012",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "For a hybrid streaming platform in fintech where baseline versions differ by team and shared resources create dependencies, what should the project manager do first to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "b",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "c",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "d",
+        "label": "automate or schedule data collection to ensure timeliness"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because fresh data supports timely choices. Option a is incorrect because perfection delays necessary action. Option b is incorrect because withholding information skews decisions. Option c is incorrect because data without purpose wastes effort.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-013",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "In a program-based MES upgrade in manufacturing where baseline versions differ by team and there is active benefits tracking, what should the project manager do to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "validate data and analyze trends before choosing a response"
+      },
+      {
+        "id": "b",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "c",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "d",
+        "label": "delay decisions while waiting for perfect data"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because analysis should precede decisions. Option b is incorrect because uninformed choices risk failure. Option c is incorrect because metric churn erodes credibility. Option d is incorrect because perfection delays necessary action.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-014",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "Given a portfolio-aligned data modernization in media where risk data needs consolidation and governance boards meet monthly, which action best supports collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "b",
+        "label": "engage decision makers with clear findings and options"
+      },
+      {
+        "id": "c",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "d",
+        "label": "make decisions before any data review"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because stakeholder involvement leads to better decisions. Option a is incorrect because withholding information skews decisions. Option c is incorrect because data without purpose wastes effort. Option d is incorrect because uninformed choices risk failure.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-015",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "While facing a portfolio-aligned CRM consolidation in fintech where baseline versions differ by team and funding hinges on a plan review, what is the most effective next step to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "b",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "c",
+        "label": "adjust metrics when objectives change"
+      },
+      {
+        "id": "d",
+        "label": "hide data that suggests a different course"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because data should match current needs. Option a is incorrect because metric churn erodes credibility. Option b is incorrect because perfection delays necessary action. Option d is incorrect because withholding information skews decisions.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-016",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "For a program-based data modernization in energy where baseline versions differ by team and funding hinges on a plan review, what should the project manager do first to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "b",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "c",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "d",
+        "label": "define decision-driven metrics and how they will be collected"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because decisions require targeted data. Option a is incorrect because data without purpose wastes effort. Option b is incorrect because uninformed choices risk failure. Option c is incorrect because metric churn erodes credibility.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-017",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "In a agile release train shared services rollout in manufacturing where reporting requirements are strict and funding hinges on a plan review, what should the project manager do to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "automate or schedule data collection to ensure timeliness"
+      },
+      {
+        "id": "b",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "c",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "d",
+        "label": "collect data without a defined use"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because fresh data supports timely choices. Option b is incorrect because perfection delays necessary action. Option c is incorrect because withholding information skews decisions. Option d is incorrect because data without purpose wastes effort.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-018",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "Given a hybrid MES upgrade in energy where reporting requirements are strict and shared resources create dependencies, which action best supports collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "b",
+        "label": "validate data and analyze trends before choosing a response"
+      },
+      {
+        "id": "c",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "d",
+        "label": "delay decisions while waiting for perfect data"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because analysis should precede decisions. Option a is incorrect because uninformed choices risk failure. Option c is incorrect because metric churn erodes credibility. Option d is incorrect because perfection delays necessary action.",
+    "difficulty": "medium",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-019",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "While facing a portfolio-aligned streaming platform in media where multiple teams have separate plans and shared resources create dependencies, what is the most effective next step to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "b",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "c",
+        "label": "engage decision makers with clear findings and options"
+      },
+      {
+        "id": "d",
+        "label": "make decisions before any data review"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because stakeholder involvement leads to better decisions. Option a is incorrect because withholding information skews decisions. Option b is incorrect because data without purpose wastes effort. Option d is incorrect because uninformed choices risk failure.",
+    "difficulty": "hard",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-020",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "For a hybrid CRM consolidation in media where reporting requirements are strict and executives want a single view, what should the project manager do first to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "b",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "c",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "d",
+        "label": "adjust metrics when objectives change"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because data should match current needs. Option a is incorrect because metric churn erodes credibility. Option b is incorrect because perfection delays necessary action. Option c is incorrect because withholding information skews decisions.",
+    "difficulty": "hard",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-021",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "In a predictive shared services rollout in media where benefits must be demonstrated and executives want a single view, what should the project manager do to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "define decision-driven metrics and how they will be collected"
+      },
+      {
+        "id": "b",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "c",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "d",
+        "label": "change metrics frequently to show better results"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because decisions require targeted data. Option b is incorrect because data without purpose wastes effort. Option c is incorrect because uninformed choices risk failure. Option d is incorrect because metric churn erodes credibility.",
+    "difficulty": "hard",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-022",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "Given a program-based CRM consolidation in fintech where reporting requirements are strict and funding hinges on a plan review, which action best supports collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "b",
+        "label": "automate or schedule data collection to ensure timeliness"
+      },
+      {
+        "id": "c",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "d",
+        "label": "collect data without a defined use"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because fresh data supports timely choices. Option a is incorrect because perfection delays necessary action. Option c is incorrect because withholding information skews decisions. Option d is incorrect because data without purpose wastes effort.",
+    "difficulty": "hard",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-023",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "While facing a agile release train data modernization in fintech where baseline versions differ by team and executives want a single view, what is the most effective next step to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "b",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "c",
+        "label": "validate data and analyze trends before choosing a response"
+      },
+      {
+        "id": "d",
+        "label": "delay decisions while waiting for perfect data"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because analysis should precede decisions. Option a is incorrect because uninformed choices risk failure. Option b is incorrect because metric churn erodes credibility. Option d is incorrect because perfection delays necessary action.",
+    "difficulty": "hard",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-024",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "For a agile release train data modernization in manufacturing where reporting requirements are strict and governance boards meet monthly, what should the project manager do first to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide data that suggests a different course"
+      },
+      {
+        "id": "b",
+        "label": "collect data without a defined use"
+      },
+      {
+        "id": "c",
+        "label": "make decisions before any data review"
+      },
+      {
+        "id": "d",
+        "label": "engage decision makers with clear findings and options"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because stakeholder involvement leads to better decisions. Option a is incorrect because withholding information skews decisions. Option b is incorrect because data without purpose wastes effort. Option c is incorrect because uninformed choices risk failure.",
+    "difficulty": "hard",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-4-025",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-4"
+    ],
+    "text": "In a predictive data modernization in fintech where risk data needs consolidation and shared resources create dependencies, what should the project manager do to collect and analyze data for informed decisions?",
+    "options": [
+      {
+        "id": "a",
+        "label": "adjust metrics when objectives change"
+      },
+      {
+        "id": "b",
+        "label": "change metrics frequently to show better results"
+      },
+      {
+        "id": "c",
+        "label": "delay decisions while waiting for perfect data"
+      },
+      {
+        "id": "d",
+        "label": "hide data that suggests a different course"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because data should match current needs. Option b is incorrect because metric churn erodes credibility. Option c is incorrect because perfection delays necessary action. Option d is incorrect because withholding information skews decisions.",
+    "difficulty": "hard",
+    "topics": [
+      "data collection",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  }
+]

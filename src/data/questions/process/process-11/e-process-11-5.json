@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-11-5-001",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "In a managed services data center relocation in utilities where hardware lead times are long and a tender deadline is approaching, what should the project manager do to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "co-design the delivery approach with technical and business leads"
+      },
+      {
+        "id": "b",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "c",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "d",
+        "label": "ignore operational support needs"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because collaboration creates a viable solution. Option b is incorrect because tool-first choices can misalign the solution. Option c is incorrect because lack of engagement risks rejection. Option d is incorrect because unsupported solutions fail after delivery.",
+    "difficulty": "easy",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-002",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "Given a design-bid-build grid upgrade in construction where vendors control key components and operations must support handover, which action best supports develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "b",
+        "label": "consider architecture, support model, and constraints together"
+      },
+      {
+        "id": "c",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "d",
+        "label": "select tools without understanding requirements"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because holistic design supports delivery and operations. Option a is incorrect because preferences may not fit needs. Option c is incorrect because late design causes churn and rework. Option d is incorrect because tool-first choices can misalign the solution.",
+    "difficulty": "easy",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-003",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "While facing a turnkey grid upgrade in utilities where specialized skills are scarce and budget approval is pending, what is the most effective next step to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "b",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "c",
+        "label": "prototype or validate the solution approach before scaling"
+      },
+      {
+        "id": "d",
+        "label": "choose a solution based solely on vendor preference"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because validation reduces rework risk. Option a is incorrect because lack of engagement risks rejection. Option b is incorrect because unsupported solutions fail after delivery. Option d is incorrect because preferences may not fit needs.",
+    "difficulty": "easy",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-004",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "For a managed services grid upgrade in biotech where supplier performance is uneven and compliance terms are strict, what should the project manager do first to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "b",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "c",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "d",
+        "label": "align required resources, vendors, and tooling"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because resourcing must match the chosen solution. Option a is incorrect because late design causes churn and rework. Option b is incorrect because tool-first choices can misalign the solution. Option c is incorrect because lack of engagement risks rejection.",
+    "difficulty": "easy",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-005",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "In a turnkey data center relocation in logistics where contracts are in negotiation and budget approval is pending, what should the project manager do to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document and communicate the delivery blueprint"
+      },
+      {
+        "id": "b",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "c",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "d",
+        "label": "delay solution design until build is underway"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shared understanding guides execution. Option b is incorrect because unsupported solutions fail after delivery. Option c is incorrect because preferences may not fit needs. Option d is incorrect because late design causes churn and rework.",
+    "difficulty": "easy",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-006",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "Given a design-bid-build lab system in construction where vendors control key components and budget approval is pending, which action best supports develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "b",
+        "label": "co-design the delivery approach with technical and business leads"
+      },
+      {
+        "id": "c",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "d",
+        "label": "ignore operational support needs"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because collaboration creates a viable solution. Option a is incorrect because tool-first choices can misalign the solution. Option c is incorrect because lack of engagement risks rejection. Option d is incorrect because unsupported solutions fail after delivery.",
+    "difficulty": "easy",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-007",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "While facing a managed services lab system in IT services where vendors control key components and procurement board meets monthly, what is the most effective next step to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "b",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "c",
+        "label": "consider architecture, support model, and constraints together"
+      },
+      {
+        "id": "d",
+        "label": "select tools without understanding requirements"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because holistic design supports delivery and operations. Option a is incorrect because preferences may not fit needs. Option b is incorrect because late design causes churn and rework. Option d is incorrect because tool-first choices can misalign the solution.",
+    "difficulty": "easy",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-008",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "For a turnkey grid upgrade in construction where specialized skills are scarce and procurement board meets monthly, what should the project manager do first to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "b",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "c",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "d",
+        "label": "prototype or validate the solution approach before scaling"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because validation reduces rework risk. Option a is incorrect because lack of engagement risks rejection. Option b is incorrect because unsupported solutions fail after delivery. Option c is incorrect because preferences may not fit needs.",
+    "difficulty": "easy",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-009",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "In a hybrid grid upgrade in utilities where hardware lead times are long and operations must support handover, what should the project manager do to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align required resources, vendors, and tooling"
+      },
+      {
+        "id": "b",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "c",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "d",
+        "label": "design in isolation and present late"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because resourcing must match the chosen solution. Option b is incorrect because late design causes churn and rework. Option c is incorrect because tool-first choices can misalign the solution. Option d is incorrect because lack of engagement risks rejection.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-010",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "Given a agile with vendors warehouse build in construction where specialized skills are scarce and budget approval is pending, which action best supports develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "b",
+        "label": "document and communicate the delivery blueprint"
+      },
+      {
+        "id": "c",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "d",
+        "label": "delay solution design until build is underway"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because shared understanding guides execution. Option a is incorrect because unsupported solutions fail after delivery. Option c is incorrect because preferences may not fit needs. Option d is incorrect because late design causes churn and rework.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-011",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "While facing a agile with vendors data center relocation in biotech where hardware lead times are long and compliance terms are strict, what is the most effective next step to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "b",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "c",
+        "label": "co-design the delivery approach with technical and business leads"
+      },
+      {
+        "id": "d",
+        "label": "ignore operational support needs"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because collaboration creates a viable solution. Option a is incorrect because tool-first choices can misalign the solution. Option b is incorrect because lack of engagement risks rejection. Option d is incorrect because unsupported solutions fail after delivery.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-012",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "For a turnkey grid upgrade in utilities where hardware lead times are long and compliance terms are strict, what should the project manager do first to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "b",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "c",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "d",
+        "label": "consider architecture, support model, and constraints together"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because holistic design supports delivery and operations. Option a is incorrect because preferences may not fit needs. Option b is incorrect because late design causes churn and rework. Option c is incorrect because tool-first choices can misalign the solution.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-013",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "In a agile with vendors SaaS rollout in construction where contracts are in negotiation and procurement board meets monthly, what should the project manager do to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "prototype or validate the solution approach before scaling"
+      },
+      {
+        "id": "b",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "c",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "d",
+        "label": "choose a solution based solely on vendor preference"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because validation reduces rework risk. Option b is incorrect because lack of engagement risks rejection. Option c is incorrect because unsupported solutions fail after delivery. Option d is incorrect because preferences may not fit needs.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-014",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "Given a turnkey grid upgrade in biotech where vendors control key components and budget approval is pending, which action best supports develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "b",
+        "label": "align required resources, vendors, and tooling"
+      },
+      {
+        "id": "c",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "d",
+        "label": "design in isolation and present late"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because resourcing must match the chosen solution. Option a is incorrect because late design causes churn and rework. Option c is incorrect because tool-first choices can misalign the solution. Option d is incorrect because lack of engagement risks rejection.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-015",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "While facing a hybrid warehouse build in IT services where hardware lead times are long and a tender deadline is approaching, what is the most effective next step to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "b",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "c",
+        "label": "document and communicate the delivery blueprint"
+      },
+      {
+        "id": "d",
+        "label": "delay solution design until build is underway"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because shared understanding guides execution. Option a is incorrect because unsupported solutions fail after delivery. Option b is incorrect because preferences may not fit needs. Option d is incorrect because late design causes churn and rework.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-016",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "For a turnkey grid upgrade in IT services where hardware lead times are long and operations must support handover, what should the project manager do first to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "b",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "c",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "d",
+        "label": "co-design the delivery approach with technical and business leads"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because collaboration creates a viable solution. Option a is incorrect because tool-first choices can misalign the solution. Option b is incorrect because lack of engagement risks rejection. Option c is incorrect because unsupported solutions fail after delivery.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-017",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "In a turnkey data center relocation in utilities where hardware lead times are long and budget approval is pending, what should the project manager do to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "consider architecture, support model, and constraints together"
+      },
+      {
+        "id": "b",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "c",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "d",
+        "label": "select tools without understanding requirements"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because holistic design supports delivery and operations. Option b is incorrect because preferences may not fit needs. Option c is incorrect because late design causes churn and rework. Option d is incorrect because tool-first choices can misalign the solution.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-018",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "Given a managed services data center relocation in IT services where vendors control key components and procurement board meets monthly, which action best supports develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "b",
+        "label": "prototype or validate the solution approach before scaling"
+      },
+      {
+        "id": "c",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "d",
+        "label": "choose a solution based solely on vendor preference"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because validation reduces rework risk. Option a is incorrect because lack of engagement risks rejection. Option c is incorrect because unsupported solutions fail after delivery. Option d is incorrect because preferences may not fit needs.",
+    "difficulty": "medium",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-019",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "While facing a managed services grid upgrade in logistics where supplier performance is uneven and operations must support handover, what is the most effective next step to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "b",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "c",
+        "label": "align required resources, vendors, and tooling"
+      },
+      {
+        "id": "d",
+        "label": "design in isolation and present late"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because resourcing must match the chosen solution. Option a is incorrect because late design causes churn and rework. Option b is incorrect because tool-first choices can misalign the solution. Option d is incorrect because lack of engagement risks rejection.",
+    "difficulty": "hard",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-020",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "For a turnkey data center relocation in IT services where specialized skills are scarce and operations must support handover, what should the project manager do first to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "b",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "c",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "d",
+        "label": "document and communicate the delivery blueprint"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because shared understanding guides execution. Option a is incorrect because unsupported solutions fail after delivery. Option b is incorrect because preferences may not fit needs. Option c is incorrect because late design causes churn and rework.",
+    "difficulty": "hard",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-021",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "In a agile with vendors grid upgrade in IT services where vendors control key components and a tender deadline is approaching, what should the project manager do to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "co-design the delivery approach with technical and business leads"
+      },
+      {
+        "id": "b",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "c",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "d",
+        "label": "ignore operational support needs"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because collaboration creates a viable solution. Option b is incorrect because tool-first choices can misalign the solution. Option c is incorrect because lack of engagement risks rejection. Option d is incorrect because unsupported solutions fail after delivery.",
+    "difficulty": "hard",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-022",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "Given a design-bid-build SaaS rollout in utilities where specialized skills are scarce and compliance terms are strict, which action best supports develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "b",
+        "label": "consider architecture, support model, and constraints together"
+      },
+      {
+        "id": "c",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "d",
+        "label": "select tools without understanding requirements"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because holistic design supports delivery and operations. Option a is incorrect because preferences may not fit needs. Option c is incorrect because late design causes churn and rework. Option d is incorrect because tool-first choices can misalign the solution.",
+    "difficulty": "hard",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-023",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "While facing a design-bid-build data center relocation in biotech where vendors control key components and compliance terms are strict, what is the most effective next step to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "b",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "c",
+        "label": "prototype or validate the solution approach before scaling"
+      },
+      {
+        "id": "d",
+        "label": "choose a solution based solely on vendor preference"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because validation reduces rework risk. Option a is incorrect because lack of engagement risks rejection. Option b is incorrect because unsupported solutions fail after delivery. Option d is incorrect because preferences may not fit needs.",
+    "difficulty": "hard",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-024",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "For a hybrid data center relocation in biotech where contracts are in negotiation and a tender deadline is approaching, what should the project manager do first to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay solution design until build is underway"
+      },
+      {
+        "id": "b",
+        "label": "select tools without understanding requirements"
+      },
+      {
+        "id": "c",
+        "label": "design in isolation and present late"
+      },
+      {
+        "id": "d",
+        "label": "align required resources, vendors, and tooling"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because resourcing must match the chosen solution. Option a is incorrect because late design causes churn and rework. Option b is incorrect because tool-first choices can misalign the solution. Option c is incorrect because lack of engagement risks rejection.",
+    "difficulty": "hard",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-11-5-025",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-5"
+    ],
+    "text": "In a design-bid-build SaaS rollout in IT services where specialized skills are scarce and procurement board meets monthly, what should the project manager do to develop a delivery solution?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document and communicate the delivery blueprint"
+      },
+      {
+        "id": "b",
+        "label": "ignore operational support needs"
+      },
+      {
+        "id": "c",
+        "label": "choose a solution based solely on vendor preference"
+      },
+      {
+        "id": "d",
+        "label": "delay solution design until build is underway"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shared understanding guides execution. Option b is incorrect because unsupported solutions fail after delivery. Option c is incorrect because preferences may not fit needs. Option d is incorrect because late design causes churn and rework.",
+    "difficulty": "hard",
+    "topics": [
+      "solutioning",
+      "delivery design"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  }
+]

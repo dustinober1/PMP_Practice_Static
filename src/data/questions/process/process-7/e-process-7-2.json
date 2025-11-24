@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-7-2-001",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "In a hybrid compliance uplift in medical devices where automation coverage is low and an audit is scheduled, what should the project manager do to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "perform root cause analysis on defects before proposing fixes"
+      },
+      {
+        "id": "b",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "c",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "d",
+        "label": "blame the team without offering corrective actions"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding causes leads to effective improvements. Option b is incorrect because tolerating gaps risks failure and rework. Option c is incorrect because concealing issues blocks real improvement. Option d is incorrect because blame alone does not resolve quality gaps.",
+    "difficulty": "easy",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-002",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "Given a outsourced data platform in ecommerce where customers reported usability issues and a release cutover is near, which action best supports recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "b",
+        "label": "add peer reviews or testing where gaps appear"
+      },
+      {
+        "id": "c",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "d",
+        "label": "accept the gaps to protect the schedule"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because targeted controls address observed gaps. Option a is incorrect because scope changes should not replace quality fixes. Option c is incorrect because late fixes cost more and risk satisfaction. Option d is incorrect because tolerating gaps risks failure and rework.",
+    "difficulty": "easy",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-003",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "While facing a agile mobile app in pharma where automation coverage is low and lead testers are new to the domain, what is the most effective next step to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "b",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "c",
+        "label": "train the team on quality standards that were missed"
+      },
+      {
+        "id": "d",
+        "label": "change scope to avoid fixing defects"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because skill gaps often drive quality issues. Option a is incorrect because concealing issues blocks real improvement. Option b is incorrect because blame alone does not resolve quality gaps. Option d is incorrect because scope changes should not replace quality fixes.",
+    "difficulty": "easy",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-004",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "For a agile billing system in defense where customers reported usability issues and lead testers are new to the domain, what should the project manager do first to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "b",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "c",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "d",
+        "label": "update processes and checklists to prevent recurrence"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because process changes sustain improvements. Option a is incorrect because late fixes cost more and risk satisfaction. Option b is incorrect because tolerating gaps risks failure and rework. Option c is incorrect because concealing issues blocks real improvement.",
+    "difficulty": "easy",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-005",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "In a vendor-led analytics product in defense where regulators expect evidence and production defects are escalating, what should the project manager do to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "prioritize improvements by risk and impact"
+      },
+      {
+        "id": "b",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "c",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "d",
+        "label": "delay improvements until after go-live"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because focus on the most critical quality gaps. Option b is incorrect because blame alone does not resolve quality gaps. Option c is incorrect because scope changes should not replace quality fixes. Option d is incorrect because late fixes cost more and risk satisfaction.",
+    "difficulty": "easy",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-006",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "Given a hybrid compliance uplift in medical devices where upstream data quality is inconsistent and an audit is scheduled, which action best supports recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "b",
+        "label": "perform root cause analysis on defects before proposing fixes"
+      },
+      {
+        "id": "c",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "d",
+        "label": "blame the team without offering corrective actions"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because understanding causes leads to effective improvements. Option a is incorrect because tolerating gaps risks failure and rework. Option c is incorrect because concealing issues blocks real improvement. Option d is incorrect because blame alone does not resolve quality gaps.",
+    "difficulty": "easy",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-007",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "While facing a hybrid data platform in defense where regulators expect evidence and production defects are escalating, what is the most effective next step to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "b",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "c",
+        "label": "add peer reviews or testing where gaps appear"
+      },
+      {
+        "id": "d",
+        "label": "accept the gaps to protect the schedule"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because targeted controls address observed gaps. Option a is incorrect because scope changes should not replace quality fixes. Option b is incorrect because late fixes cost more and risk satisfaction. Option d is incorrect because tolerating gaps risks failure and rework.",
+    "difficulty": "easy",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-008",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "For a hybrid analytics product in pharma where defect trends are rising and a pilot launch is imminent, what should the project manager do first to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "b",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "c",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "d",
+        "label": "train the team on quality standards that were missed"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because skill gaps often drive quality issues. Option a is incorrect because concealing issues blocks real improvement. Option b is incorrect because blame alone does not resolve quality gaps. Option c is incorrect because scope changes should not replace quality fixes.",
+    "difficulty": "easy",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-009",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "In a predictive compliance uplift in medical devices where regulators expect evidence and production defects are escalating, what should the project manager do to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update processes and checklists to prevent recurrence"
+      },
+      {
+        "id": "b",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "c",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "d",
+        "label": "hide defects so the team looks good"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because process changes sustain improvements. Option b is incorrect because late fixes cost more and risk satisfaction. Option c is incorrect because tolerating gaps risks failure and rework. Option d is incorrect because concealing issues blocks real improvement.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-010",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "Given a hybrid analytics product in medical devices where automation coverage is low and production defects are escalating, which action best supports recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "b",
+        "label": "prioritize improvements by risk and impact"
+      },
+      {
+        "id": "c",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "d",
+        "label": "delay improvements until after go-live"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because focus on the most critical quality gaps. Option a is incorrect because blame alone does not resolve quality gaps. Option c is incorrect because scope changes should not replace quality fixes. Option d is incorrect because late fixes cost more and risk satisfaction.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-011",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "While facing a hybrid analytics product in medical devices where upstream data quality is inconsistent and a release cutover is near, what is the most effective next step to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "b",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "c",
+        "label": "perform root cause analysis on defects before proposing fixes"
+      },
+      {
+        "id": "d",
+        "label": "blame the team without offering corrective actions"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because understanding causes leads to effective improvements. Option a is incorrect because tolerating gaps risks failure and rework. Option b is incorrect because concealing issues blocks real improvement. Option d is incorrect because blame alone does not resolve quality gaps.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-012",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "For a predictive compliance uplift in medical devices where defect trends are rising and a release cutover is near, what should the project manager do first to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "b",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "c",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "d",
+        "label": "add peer reviews or testing where gaps appear"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because targeted controls address observed gaps. Option a is incorrect because scope changes should not replace quality fixes. Option b is incorrect because late fixes cost more and risk satisfaction. Option c is incorrect because tolerating gaps risks failure and rework.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-013",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "In a outsourced mobile app in ecommerce where defect trends are rising and an audit is scheduled, what should the project manager do to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "train the team on quality standards that were missed"
+      },
+      {
+        "id": "b",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "c",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "d",
+        "label": "change scope to avoid fixing defects"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because skill gaps often drive quality issues. Option b is incorrect because concealing issues blocks real improvement. Option c is incorrect because blame alone does not resolve quality gaps. Option d is incorrect because scope changes should not replace quality fixes.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-014",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "Given a hybrid compliance uplift in defense where defect trends are rising and lead testers are new to the domain, which action best supports recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "b",
+        "label": "update processes and checklists to prevent recurrence"
+      },
+      {
+        "id": "c",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "d",
+        "label": "hide defects so the team looks good"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because process changes sustain improvements. Option a is incorrect because late fixes cost more and risk satisfaction. Option c is incorrect because tolerating gaps risks failure and rework. Option d is incorrect because concealing issues blocks real improvement.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-015",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "While facing a hybrid data platform in ecommerce where customers reported usability issues and production defects are escalating, what is the most effective next step to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "b",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "c",
+        "label": "prioritize improvements by risk and impact"
+      },
+      {
+        "id": "d",
+        "label": "delay improvements until after go-live"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because focus on the most critical quality gaps. Option a is incorrect because blame alone does not resolve quality gaps. Option b is incorrect because scope changes should not replace quality fixes. Option d is incorrect because late fixes cost more and risk satisfaction.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-016",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "For a hybrid data platform in pharma where customers reported usability issues and a release cutover is near, what should the project manager do first to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "b",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "c",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "d",
+        "label": "perform root cause analysis on defects before proposing fixes"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because understanding causes leads to effective improvements. Option a is incorrect because tolerating gaps risks failure and rework. Option b is incorrect because concealing issues blocks real improvement. Option c is incorrect because blame alone does not resolve quality gaps.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-017",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "In a predictive mobile app in ecommerce where defect trends are rising and an audit is scheduled, what should the project manager do to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "add peer reviews or testing where gaps appear"
+      },
+      {
+        "id": "b",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "c",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "d",
+        "label": "accept the gaps to protect the schedule"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because targeted controls address observed gaps. Option b is incorrect because scope changes should not replace quality fixes. Option c is incorrect because late fixes cost more and risk satisfaction. Option d is incorrect because tolerating gaps risks failure and rework.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-018",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "Given a vendor-led compliance uplift in defense where regulators expect evidence and a pilot launch is imminent, which action best supports recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "b",
+        "label": "train the team on quality standards that were missed"
+      },
+      {
+        "id": "c",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "d",
+        "label": "change scope to avoid fixing defects"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because skill gaps often drive quality issues. Option a is incorrect because concealing issues blocks real improvement. Option c is incorrect because blame alone does not resolve quality gaps. Option d is incorrect because scope changes should not replace quality fixes.",
+    "difficulty": "medium",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-019",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "While facing a outsourced mobile app in defense where upstream data quality is inconsistent and a release cutover is near, what is the most effective next step to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "b",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "c",
+        "label": "update processes and checklists to prevent recurrence"
+      },
+      {
+        "id": "d",
+        "label": "hide defects so the team looks good"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because process changes sustain improvements. Option a is incorrect because late fixes cost more and risk satisfaction. Option b is incorrect because tolerating gaps risks failure and rework. Option d is incorrect because concealing issues blocks real improvement.",
+    "difficulty": "hard",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-020",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "For a outsourced analytics product in ecommerce where upstream data quality is inconsistent and a release cutover is near, what should the project manager do first to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "b",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "c",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "d",
+        "label": "prioritize improvements by risk and impact"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because focus on the most critical quality gaps. Option a is incorrect because blame alone does not resolve quality gaps. Option b is incorrect because scope changes should not replace quality fixes. Option c is incorrect because late fixes cost more and risk satisfaction.",
+    "difficulty": "hard",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-021",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "In a vendor-led billing system in ecommerce where customers reported usability issues and an audit is scheduled, what should the project manager do to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "perform root cause analysis on defects before proposing fixes"
+      },
+      {
+        "id": "b",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "c",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "d",
+        "label": "blame the team without offering corrective actions"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because understanding causes leads to effective improvements. Option b is incorrect because tolerating gaps risks failure and rework. Option c is incorrect because concealing issues blocks real improvement. Option d is incorrect because blame alone does not resolve quality gaps.",
+    "difficulty": "hard",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-022",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "Given a hybrid data platform in ecommerce where upstream data quality is inconsistent and an audit is scheduled, which action best supports recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "b",
+        "label": "add peer reviews or testing where gaps appear"
+      },
+      {
+        "id": "c",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "d",
+        "label": "accept the gaps to protect the schedule"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because targeted controls address observed gaps. Option a is incorrect because scope changes should not replace quality fixes. Option c is incorrect because late fixes cost more and risk satisfaction. Option d is incorrect because tolerating gaps risks failure and rework.",
+    "difficulty": "hard",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-023",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "While facing a outsourced billing system in defense where defect trends are rising and lead testers are new to the domain, what is the most effective next step to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "b",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "c",
+        "label": "train the team on quality standards that were missed"
+      },
+      {
+        "id": "d",
+        "label": "change scope to avoid fixing defects"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because skill gaps often drive quality issues. Option a is incorrect because concealing issues blocks real improvement. Option b is incorrect because blame alone does not resolve quality gaps. Option d is incorrect because scope changes should not replace quality fixes.",
+    "difficulty": "hard",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-024",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "For a predictive mobile app in ecommerce where upstream data quality is inconsistent and production defects are escalating, what should the project manager do first to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay improvements until after go-live"
+      },
+      {
+        "id": "b",
+        "label": "accept the gaps to protect the schedule"
+      },
+      {
+        "id": "c",
+        "label": "hide defects so the team looks good"
+      },
+      {
+        "id": "d",
+        "label": "update processes and checklists to prevent recurrence"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because process changes sustain improvements. Option a is incorrect because late fixes cost more and risk satisfaction. Option b is incorrect because tolerating gaps risks failure and rework. Option c is incorrect because concealing issues blocks real improvement.",
+    "difficulty": "hard",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-7-2-025",
+    "domainId": "process",
+    "taskId": "process-7",
+    "enablerIds": [
+      "e-process-7-2"
+    ],
+    "text": "In a agile compliance uplift in medical devices where defect trends are rising and a pilot launch is imminent, what should the project manager do to recommend improvements based on quality gaps?",
+    "options": [
+      {
+        "id": "a",
+        "label": "prioritize improvements by risk and impact"
+      },
+      {
+        "id": "b",
+        "label": "blame the team without offering corrective actions"
+      },
+      {
+        "id": "c",
+        "label": "change scope to avoid fixing defects"
+      },
+      {
+        "id": "d",
+        "label": "delay improvements until after go-live"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because focus on the most critical quality gaps. Option b is incorrect because blame alone does not resolve quality gaps. Option c is incorrect because scope changes should not replace quality fixes. Option d is incorrect because late fixes cost more and risk satisfaction.",
+    "difficulty": "hard",
+    "topics": [
+      "quality improvement",
+      "gaps"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  }
+]

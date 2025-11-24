@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-11-2-001",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "In a managed services data center relocation in utilities where hardware lead times are long and a tender deadline is approaching, what should the project manager do to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share a clear request with quantities, timing, and skills"
+      },
+      {
+        "id": "b",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "c",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone knows the needs without telling them"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because specifics help stakeholders respond. Option b is incorrect because vagueness leads to misallocation. Option c is incorrect because unapproved resourcing causes conflicts. Option d is incorrect because assumptions cause gaps.",
+    "difficulty": "easy",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-002",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "Given a design-bid-build grid upgrade in construction where vendors control key components and operations must support handover, which action best supports communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "b",
+        "label": "tailor the message for approvers, vendors, and teams"
+      },
+      {
+        "id": "c",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "d",
+        "label": "send vague staffing requests"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because different audiences need different details. Option a is incorrect because late requests create delays. Option c is incorrect because untargeted outreach is ineffective. Option d is incorrect because vagueness leads to misallocation.",
+    "difficulty": "easy",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-003",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "While facing a turnkey grid upgrade in utilities where specialized skills are scarce and budget approval is pending, what is the most effective next step to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "c",
+        "label": "present the rationale and data supporting the request"
+      },
+      {
+        "id": "d",
+        "label": "wait until the last minute to ask for resources"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because evidence improves approval chances. Option a is incorrect because unapproved resourcing causes conflicts. Option b is incorrect because assumptions cause gaps. Option d is incorrect because late requests create delays.",
+    "difficulty": "easy",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-004",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "For a managed services grid upgrade in biotech where supplier performance is uneven and compliance terms are strict, what should the project manager do first to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "b",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "c",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "d",
+        "label": "communicate lead times and impacts of delay"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because transparency enables timely action. Option a is incorrect because untargeted outreach is ineffective. Option b is incorrect because vagueness leads to misallocation. Option c is incorrect because unapproved resourcing causes conflicts.",
+    "difficulty": "easy",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-005",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "In a turnkey data center relocation in logistics where contracts are in negotiation and budget approval is pending, what should the project manager do to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "confirm understanding and next steps with recipients"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "c",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "d",
+        "label": "communicate only through mass emails and hope for responses"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because feedback ensures the request lands. Option b is incorrect because assumptions cause gaps. Option c is incorrect because late requests create delays. Option d is incorrect because untargeted outreach is ineffective.",
+    "difficulty": "easy",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-006",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "Given a design-bid-build lab system in construction where vendors control key components and budget approval is pending, which action best supports communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "b",
+        "label": "share a clear request with quantities, timing, and skills"
+      },
+      {
+        "id": "c",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone knows the needs without telling them"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because specifics help stakeholders respond. Option a is incorrect because vagueness leads to misallocation. Option c is incorrect because unapproved resourcing causes conflicts. Option d is incorrect because assumptions cause gaps.",
+    "difficulty": "easy",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-007",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "While facing a managed services lab system in IT services where vendors control key components and procurement board meets monthly, what is the most effective next step to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "b",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "c",
+        "label": "tailor the message for approvers, vendors, and teams"
+      },
+      {
+        "id": "d",
+        "label": "send vague staffing requests"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because different audiences need different details. Option a is incorrect because late requests create delays. Option b is incorrect because untargeted outreach is ineffective. Option d is incorrect because vagueness leads to misallocation.",
+    "difficulty": "easy",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-008",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "For a turnkey grid upgrade in construction where specialized skills are scarce and procurement board meets monthly, what should the project manager do first to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "c",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "d",
+        "label": "present the rationale and data supporting the request"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because evidence improves approval chances. Option a is incorrect because unapproved resourcing causes conflicts. Option b is incorrect because assumptions cause gaps. Option c is incorrect because late requests create delays.",
+    "difficulty": "easy",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-009",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "In a hybrid grid upgrade in utilities where hardware lead times are long and operations must support handover, what should the project manager do to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "communicate lead times and impacts of delay"
+      },
+      {
+        "id": "b",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "c",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "d",
+        "label": "skip approvals to speed up staffing"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because transparency enables timely action. Option b is incorrect because untargeted outreach is ineffective. Option c is incorrect because vagueness leads to misallocation. Option d is incorrect because unapproved resourcing causes conflicts.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-010",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "Given a agile with vendors warehouse build in construction where specialized skills are scarce and budget approval is pending, which action best supports communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "b",
+        "label": "confirm understanding and next steps with recipients"
+      },
+      {
+        "id": "c",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "d",
+        "label": "communicate only through mass emails and hope for responses"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because feedback ensures the request lands. Option a is incorrect because assumptions cause gaps. Option c is incorrect because late requests create delays. Option d is incorrect because untargeted outreach is ineffective.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-011",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "While facing a agile with vendors data center relocation in biotech where hardware lead times are long and compliance terms are strict, what is the most effective next step to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "b",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "c",
+        "label": "share a clear request with quantities, timing, and skills"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone knows the needs without telling them"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because specifics help stakeholders respond. Option a is incorrect because vagueness leads to misallocation. Option b is incorrect because unapproved resourcing causes conflicts. Option d is incorrect because assumptions cause gaps.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-012",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "For a turnkey grid upgrade in utilities where hardware lead times are long and compliance terms are strict, what should the project manager do first to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "b",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "c",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "d",
+        "label": "tailor the message for approvers, vendors, and teams"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because different audiences need different details. Option a is incorrect because late requests create delays. Option b is incorrect because untargeted outreach is ineffective. Option c is incorrect because vagueness leads to misallocation.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-013",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "In a agile with vendors SaaS rollout in construction where contracts are in negotiation and procurement board meets monthly, what should the project manager do to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "present the rationale and data supporting the request"
+      },
+      {
+        "id": "b",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "c",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "d",
+        "label": "wait until the last minute to ask for resources"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because evidence improves approval chances. Option b is incorrect because unapproved resourcing causes conflicts. Option c is incorrect because assumptions cause gaps. Option d is incorrect because late requests create delays.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-014",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "Given a turnkey grid upgrade in biotech where vendors control key components and budget approval is pending, which action best supports communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "b",
+        "label": "communicate lead times and impacts of delay"
+      },
+      {
+        "id": "c",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "d",
+        "label": "skip approvals to speed up staffing"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because transparency enables timely action. Option a is incorrect because untargeted outreach is ineffective. Option c is incorrect because vagueness leads to misallocation. Option d is incorrect because unapproved resourcing causes conflicts.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-015",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "While facing a hybrid warehouse build in IT services where hardware lead times are long and a tender deadline is approaching, what is the most effective next step to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "b",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "c",
+        "label": "confirm understanding and next steps with recipients"
+      },
+      {
+        "id": "d",
+        "label": "communicate only through mass emails and hope for responses"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because feedback ensures the request lands. Option a is incorrect because assumptions cause gaps. Option b is incorrect because late requests create delays. Option d is incorrect because untargeted outreach is ineffective.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-016",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "For a turnkey grid upgrade in IT services where hardware lead times are long and operations must support handover, what should the project manager do first to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "b",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "c",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "d",
+        "label": "share a clear request with quantities, timing, and skills"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because specifics help stakeholders respond. Option a is incorrect because vagueness leads to misallocation. Option b is incorrect because unapproved resourcing causes conflicts. Option c is incorrect because assumptions cause gaps.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-017",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "In a turnkey data center relocation in utilities where hardware lead times are long and budget approval is pending, what should the project manager do to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "tailor the message for approvers, vendors, and teams"
+      },
+      {
+        "id": "b",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "c",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "d",
+        "label": "send vague staffing requests"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because different audiences need different details. Option b is incorrect because late requests create delays. Option c is incorrect because untargeted outreach is ineffective. Option d is incorrect because vagueness leads to misallocation.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-018",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "Given a managed services data center relocation in IT services where vendors control key components and procurement board meets monthly, which action best supports communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "b",
+        "label": "present the rationale and data supporting the request"
+      },
+      {
+        "id": "c",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "d",
+        "label": "wait until the last minute to ask for resources"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because evidence improves approval chances. Option a is incorrect because unapproved resourcing causes conflicts. Option c is incorrect because assumptions cause gaps. Option d is incorrect because late requests create delays.",
+    "difficulty": "medium",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-019",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "While facing a managed services grid upgrade in logistics where supplier performance is uneven and operations must support handover, what is the most effective next step to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "b",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "c",
+        "label": "communicate lead times and impacts of delay"
+      },
+      {
+        "id": "d",
+        "label": "skip approvals to speed up staffing"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because transparency enables timely action. Option a is incorrect because untargeted outreach is ineffective. Option b is incorrect because vagueness leads to misallocation. Option d is incorrect because unapproved resourcing causes conflicts.",
+    "difficulty": "hard",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-020",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "For a turnkey data center relocation in IT services where specialized skills are scarce and operations must support handover, what should the project manager do first to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "b",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "c",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "d",
+        "label": "confirm understanding and next steps with recipients"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because feedback ensures the request lands. Option a is incorrect because assumptions cause gaps. Option b is incorrect because late requests create delays. Option c is incorrect because untargeted outreach is ineffective.",
+    "difficulty": "hard",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-021",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "In a agile with vendors grid upgrade in IT services where vendors control key components and a tender deadline is approaching, what should the project manager do to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share a clear request with quantities, timing, and skills"
+      },
+      {
+        "id": "b",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "c",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone knows the needs without telling them"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because specifics help stakeholders respond. Option b is incorrect because vagueness leads to misallocation. Option c is incorrect because unapproved resourcing causes conflicts. Option d is incorrect because assumptions cause gaps.",
+    "difficulty": "hard",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-022",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "Given a design-bid-build SaaS rollout in utilities where specialized skills are scarce and compliance terms are strict, which action best supports communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "b",
+        "label": "tailor the message for approvers, vendors, and teams"
+      },
+      {
+        "id": "c",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "d",
+        "label": "send vague staffing requests"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because different audiences need different details. Option a is incorrect because late requests create delays. Option c is incorrect because untargeted outreach is ineffective. Option d is incorrect because vagueness leads to misallocation.",
+    "difficulty": "hard",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-023",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "While facing a design-bid-build data center relocation in biotech where vendors control key components and compliance terms are strict, what is the most effective next step to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "c",
+        "label": "present the rationale and data supporting the request"
+      },
+      {
+        "id": "d",
+        "label": "wait until the last minute to ask for resources"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because evidence improves approval chances. Option a is incorrect because unapproved resourcing causes conflicts. Option b is incorrect because assumptions cause gaps. Option d is incorrect because late requests create delays.",
+    "difficulty": "hard",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-024",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "For a hybrid data center relocation in biotech where contracts are in negotiation and a tender deadline is approaching, what should the project manager do first to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "communicate only through mass emails and hope for responses"
+      },
+      {
+        "id": "b",
+        "label": "send vague staffing requests"
+      },
+      {
+        "id": "c",
+        "label": "skip approvals to speed up staffing"
+      },
+      {
+        "id": "d",
+        "label": "communicate lead times and impacts of delay"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because transparency enables timely action. Option a is incorrect because untargeted outreach is ineffective. Option b is incorrect because vagueness leads to misallocation. Option c is incorrect because unapproved resourcing causes conflicts.",
+    "difficulty": "hard",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-11-2-025",
+    "domainId": "process",
+    "taskId": "process-11",
+    "enablerIds": [
+      "e-process-11-2"
+    ],
+    "text": "In a design-bid-build SaaS rollout in IT services where specialized skills are scarce and procurement board meets monthly, what should the project manager do to communicate resource requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "confirm understanding and next steps with recipients"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone knows the needs without telling them"
+      },
+      {
+        "id": "c",
+        "label": "wait until the last minute to ask for resources"
+      },
+      {
+        "id": "d",
+        "label": "communicate only through mass emails and hope for responses"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because feedback ensures the request lands. Option b is incorrect because assumptions cause gaps. Option c is incorrect because late requests create delays. Option d is incorrect because untargeted outreach is ineffective.",
+    "difficulty": "hard",
+    "topics": [
+      "resourcing",
+      "communication"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "communications"
+  }
+]

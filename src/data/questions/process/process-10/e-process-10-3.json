@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-10-3-001",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "In a phased plant automation in manufacturing where new regulations are emerging and lead time for approvals is long, what should the project manager do to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "follow the defined workflow for review and approval"
+      },
+      {
+        "id": "b",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "c",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "d",
+        "label": "skip updates to baselines to avoid paperwork"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because execution should match the strategy. Option b is incorrect because bypassing control increases risk. Option c is incorrect because surprise changes harm trust and adoption. Option d is incorrect because outdated baselines undermine control.",
+    "difficulty": "easy",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-002",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "Given a agile network resiliency in telecom where vendors propose scope changes and lead time for approvals is long, which action best supports execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "b",
+        "label": "update baselines and logs once a change is approved"
+      },
+      {
+        "id": "c",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "d",
+        "label": "implement changes without approval to move faster"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because controlled execution keeps records current. Option a is incorrect because unprepared users may fail with the change. Option c is incorrect because ignoring feedback risks failure. Option d is incorrect because bypassing control increases risk.",
+    "difficulty": "easy",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-003",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "While facing a phased payment modernization in manufacturing where a sponsor changed mid-project and budget is tight, what is the most effective next step to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "b",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "c",
+        "label": "communicate decisions and impacts to stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "ignore training and readiness"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility supports adoption and alignment. Option a is incorrect because surprise changes harm trust and adoption. Option b is incorrect because outdated baselines undermine control. Option d is incorrect because unprepared users may fail with the change.",
+    "difficulty": "easy",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-004",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "For a vendor-led payment modernization in public safety where users request new capabilities and quality gates cannot move, what should the project manager do first to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "b",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "c",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "d",
+        "label": "pilot or phase the change when appropriate"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because staged rollout reduces risk. Option a is incorrect because ignoring feedback risks failure. Option b is incorrect because bypassing control increases risk. Option c is incorrect because surprise changes harm trust and adoption.",
+    "difficulty": "easy",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-005",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "In a hybrid network resiliency in public safety where technical spikes reveal new risks and quality gates cannot move, what should the project manager do to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "monitor adoption and adjust if issues arise"
+      },
+      {
+        "id": "b",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "c",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "d",
+        "label": "treat feedback as optional and press ahead"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because feedback ensures the change sticks. Option b is incorrect because outdated baselines undermine control. Option c is incorrect because unprepared users may fail with the change. Option d is incorrect because ignoring feedback risks failure.",
+    "difficulty": "easy",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-006",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "Given a predictive platform migration in healthcare where new regulations are emerging and lead time for approvals is long, which action best supports execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "b",
+        "label": "follow the defined workflow for review and approval"
+      },
+      {
+        "id": "c",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "d",
+        "label": "skip updates to baselines to avoid paperwork"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because execution should match the strategy. Option a is incorrect because bypassing control increases risk. Option c is incorrect because surprise changes harm trust and adoption. Option d is incorrect because outdated baselines undermine control.",
+    "difficulty": "easy",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-007",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "While facing a hybrid payment modernization in banking where a sponsor changed mid-project and lead time for approvals is long, what is the most effective next step to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "b",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "c",
+        "label": "update baselines and logs once a change is approved"
+      },
+      {
+        "id": "d",
+        "label": "implement changes without approval to move faster"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because controlled execution keeps records current. Option a is incorrect because unprepared users may fail with the change. Option b is incorrect because ignoring feedback risks failure. Option d is incorrect because bypassing control increases risk.",
+    "difficulty": "easy",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-008",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "For a hybrid network resiliency in banking where a sponsor changed mid-project and stakeholders expect transparency, what should the project manager do first to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "b",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "c",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "d",
+        "label": "communicate decisions and impacts to stakeholders"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility supports adoption and alignment. Option a is incorrect because surprise changes harm trust and adoption. Option b is incorrect because outdated baselines undermine control. Option c is incorrect because unprepared users may fail with the change.",
+    "difficulty": "easy",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-009",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "In a phased network resiliency in telecom where new regulations are emerging and a release window is fixed, what should the project manager do to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "pilot or phase the change when appropriate"
+      },
+      {
+        "id": "b",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "c",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "d",
+        "label": "announce the change after it is deployed"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because staged rollout reduces risk. Option b is incorrect because ignoring feedback risks failure. Option c is incorrect because bypassing control increases risk. Option d is incorrect because surprise changes harm trust and adoption.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-010",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "Given a vendor-led payment modernization in telecom where technical spikes reveal new risks and stakeholders expect transparency, which action best supports execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "b",
+        "label": "monitor adoption and adjust if issues arise"
+      },
+      {
+        "id": "c",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "d",
+        "label": "treat feedback as optional and press ahead"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because feedback ensures the change sticks. Option a is incorrect because outdated baselines undermine control. Option c is incorrect because unprepared users may fail with the change. Option d is incorrect because ignoring feedback risks failure.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-011",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "While facing a agile case management in healthcare where a sponsor changed mid-project and quality gates cannot move, what is the most effective next step to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "b",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "c",
+        "label": "follow the defined workflow for review and approval"
+      },
+      {
+        "id": "d",
+        "label": "skip updates to baselines to avoid paperwork"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because execution should match the strategy. Option a is incorrect because bypassing control increases risk. Option b is incorrect because surprise changes harm trust and adoption. Option d is incorrect because outdated baselines undermine control.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-012",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "For a agile platform migration in telecom where technical spikes reveal new risks and a release window is fixed, what should the project manager do first to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "b",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "c",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "d",
+        "label": "update baselines and logs once a change is approved"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because controlled execution keeps records current. Option a is incorrect because unprepared users may fail with the change. Option b is incorrect because ignoring feedback risks failure. Option c is incorrect because bypassing control increases risk.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-013",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "In a phased payment modernization in healthcare where users request new capabilities and quality gates cannot move, what should the project manager do to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "communicate decisions and impacts to stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "c",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "d",
+        "label": "ignore training and readiness"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility supports adoption and alignment. Option b is incorrect because surprise changes harm trust and adoption. Option c is incorrect because outdated baselines undermine control. Option d is incorrect because unprepared users may fail with the change.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-014",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "Given a hybrid case management in manufacturing where new regulations are emerging and stakeholders expect transparency, which action best supports execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "b",
+        "label": "pilot or phase the change when appropriate"
+      },
+      {
+        "id": "c",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "d",
+        "label": "announce the change after it is deployed"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because staged rollout reduces risk. Option a is incorrect because ignoring feedback risks failure. Option c is incorrect because bypassing control increases risk. Option d is incorrect because surprise changes harm trust and adoption.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-015",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "While facing a hybrid plant automation in public safety where users request new capabilities and budget is tight, what is the most effective next step to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "b",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "c",
+        "label": "monitor adoption and adjust if issues arise"
+      },
+      {
+        "id": "d",
+        "label": "treat feedback as optional and press ahead"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because feedback ensures the change sticks. Option a is incorrect because outdated baselines undermine control. Option b is incorrect because unprepared users may fail with the change. Option d is incorrect because ignoring feedback risks failure.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-016",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "For a hybrid network resiliency in healthcare where a sponsor changed mid-project and quality gates cannot move, what should the project manager do first to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "b",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "c",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "d",
+        "label": "follow the defined workflow for review and approval"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because execution should match the strategy. Option a is incorrect because bypassing control increases risk. Option b is incorrect because surprise changes harm trust and adoption. Option c is incorrect because outdated baselines undermine control.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-017",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "In a predictive case management in telecom where new regulations are emerging and budget is tight, what should the project manager do to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update baselines and logs once a change is approved"
+      },
+      {
+        "id": "b",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "c",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "d",
+        "label": "implement changes without approval to move faster"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because controlled execution keeps records current. Option b is incorrect because unprepared users may fail with the change. Option c is incorrect because ignoring feedback risks failure. Option d is incorrect because bypassing control increases risk.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-018",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "Given a vendor-led network resiliency in healthcare where vendors propose scope changes and stakeholders expect transparency, which action best supports execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "b",
+        "label": "communicate decisions and impacts to stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "d",
+        "label": "ignore training and readiness"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility supports adoption and alignment. Option a is incorrect because surprise changes harm trust and adoption. Option c is incorrect because outdated baselines undermine control. Option d is incorrect because unprepared users may fail with the change.",
+    "difficulty": "medium",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-019",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "While facing a predictive platform migration in telecom where vendors propose scope changes and quality gates cannot move, what is the most effective next step to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "b",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "c",
+        "label": "pilot or phase the change when appropriate"
+      },
+      {
+        "id": "d",
+        "label": "announce the change after it is deployed"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because staged rollout reduces risk. Option a is incorrect because ignoring feedback risks failure. Option b is incorrect because bypassing control increases risk. Option d is incorrect because surprise changes harm trust and adoption.",
+    "difficulty": "hard",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-020",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "For a agile payment modernization in healthcare where technical spikes reveal new risks and stakeholders expect transparency, what should the project manager do first to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "b",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "c",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "d",
+        "label": "monitor adoption and adjust if issues arise"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because feedback ensures the change sticks. Option a is incorrect because outdated baselines undermine control. Option b is incorrect because unprepared users may fail with the change. Option c is incorrect because ignoring feedback risks failure.",
+    "difficulty": "hard",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-021",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "In a phased payment modernization in banking where a sponsor changed mid-project and quality gates cannot move, what should the project manager do to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "follow the defined workflow for review and approval"
+      },
+      {
+        "id": "b",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "c",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "d",
+        "label": "skip updates to baselines to avoid paperwork"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because execution should match the strategy. Option b is incorrect because bypassing control increases risk. Option c is incorrect because surprise changes harm trust and adoption. Option d is incorrect because outdated baselines undermine control.",
+    "difficulty": "hard",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-022",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "Given a vendor-led network resiliency in manufacturing where users request new capabilities and budget is tight, which action best supports execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "b",
+        "label": "update baselines and logs once a change is approved"
+      },
+      {
+        "id": "c",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "d",
+        "label": "implement changes without approval to move faster"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because controlled execution keeps records current. Option a is incorrect because unprepared users may fail with the change. Option c is incorrect because ignoring feedback risks failure. Option d is incorrect because bypassing control increases risk.",
+    "difficulty": "hard",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-023",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "While facing a hybrid case management in telecom where vendors propose scope changes and lead time for approvals is long, what is the most effective next step to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "b",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "c",
+        "label": "communicate decisions and impacts to stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "ignore training and readiness"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility supports adoption and alignment. Option a is incorrect because surprise changes harm trust and adoption. Option b is incorrect because outdated baselines undermine control. Option d is incorrect because unprepared users may fail with the change.",
+    "difficulty": "hard",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-024",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "For a agile platform migration in public safety where technical spikes reveal new risks and stakeholders expect transparency, what should the project manager do first to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat feedback as optional and press ahead"
+      },
+      {
+        "id": "b",
+        "label": "implement changes without approval to move faster"
+      },
+      {
+        "id": "c",
+        "label": "announce the change after it is deployed"
+      },
+      {
+        "id": "d",
+        "label": "pilot or phase the change when appropriate"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because staged rollout reduces risk. Option a is incorrect because ignoring feedback risks failure. Option b is incorrect because bypassing control increases risk. Option c is incorrect because surprise changes harm trust and adoption.",
+    "difficulty": "hard",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-10-3-025",
+    "domainId": "process",
+    "taskId": "process-10",
+    "enablerIds": [
+      "e-process-10-3"
+    ],
+    "text": "In a predictive payment modernization in public safety where vendors propose scope changes and stakeholders expect transparency, what should the project manager do to execute the change management strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "monitor adoption and adjust if issues arise"
+      },
+      {
+        "id": "b",
+        "label": "skip updates to baselines to avoid paperwork"
+      },
+      {
+        "id": "c",
+        "label": "ignore training and readiness"
+      },
+      {
+        "id": "d",
+        "label": "treat feedback as optional and press ahead"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because feedback ensures the change sticks. Option b is incorrect because outdated baselines undermine control. Option c is incorrect because unprepared users may fail with the change. Option d is incorrect because ignoring feedback risks failure.",
+    "difficulty": "hard",
+    "topics": [
+      "change execution",
+      "control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  }
+]

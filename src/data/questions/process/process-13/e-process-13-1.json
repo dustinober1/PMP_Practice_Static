@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-13-1-001",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "In a agile product expansion in banking where the project has high uncertainty and procurement options vary, what should the project manager do to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "evaluate uncertainty, dependencies, and stakeholder landscape"
+      },
+      {
+        "id": "b",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "c",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "d",
+        "label": "skip assessment to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because complexity assessment guides strategy. Option b is incorrect because assumptions can misfit strategy. Option c is incorrect because each project has unique factors. Option d is incorrect because lack of assessment risks misalignment.",
+    "difficulty": "easy",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-charter",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-002",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "Given a outsourced infrastructure refresh in aviation where the project has high uncertainty and procurement options vary, which action best supports assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "b",
+        "label": "size the effort and constraints to gauge magnitude"
+      },
+      {
+        "id": "c",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "d",
+        "label": "assume the project is average without analysis"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because scale influences approach and governance. Option a is incorrect because single perspectives miss key factors. Option c is incorrect because constraints shape the approach. Option d is incorrect because assumptions can misfit strategy.",
+    "difficulty": "easy",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-003",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "While facing a incremental infrastructure refresh in pharma where stakeholder groups have competing goals and executives demand a clear approach, what is the most effective next step to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "b",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "c",
+        "label": "use a structured model or checklist for complexity"
+      },
+      {
+        "id": "d",
+        "label": "rely only on sponsor opinion"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because structured assessment reduces blind spots. Option a is incorrect because each project has unique factors. Option b is incorrect because lack of assessment risks misalignment. Option d is incorrect because single perspectives miss key factors.",
+    "difficulty": "easy",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "perform-qualitative-risk-analysis",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-004",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "For a predictive product expansion in government where funding is gated and procurement options vary, what should the project manager do first to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "b",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "c",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "d",
+        "label": "document assumptions and risks from the assessment"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because recording insights informs planning. Option a is incorrect because constraints shape the approach. Option b is incorrect because assumptions can misfit strategy. Option c is incorrect because each project has unique factors.",
+    "difficulty": "easy",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-charter",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-005",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "In a hybrid infrastructure refresh in pharma where vendors and internal teams must coordinate and procurement options vary, what should the project manager do to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "engage key stakeholders to validate the assessment"
+      },
+      {
+        "id": "b",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "c",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "d",
+        "label": "ignore constraints and external factors"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because validation increases accuracy. Option b is incorrect because lack of assessment risks misalignment. Option c is incorrect because single perspectives miss key factors. Option d is incorrect because constraints shape the approach.",
+    "difficulty": "easy",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-006",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "Given a outsourced omnichannel upgrade in government where the project has high uncertainty and benefits must be justified, which action best supports assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "b",
+        "label": "evaluate uncertainty, dependencies, and stakeholder landscape"
+      },
+      {
+        "id": "c",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "d",
+        "label": "skip assessment to save time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because complexity assessment guides strategy. Option a is incorrect because assumptions can misfit strategy. Option c is incorrect because each project has unique factors. Option d is incorrect because lack of assessment risks misalignment.",
+    "difficulty": "easy",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "perform-qualitative-risk-analysis",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-007",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "While facing a agile regulatory change in government where the project has high uncertainty and executives demand a clear approach, what is the most effective next step to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "b",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "c",
+        "label": "size the effort and constraints to gauge magnitude"
+      },
+      {
+        "id": "d",
+        "label": "assume the project is average without analysis"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because scale influences approach and governance. Option a is incorrect because single perspectives miss key factors. Option b is incorrect because constraints shape the approach. Option d is incorrect because assumptions can misfit strategy.",
+    "difficulty": "easy",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-charter",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-008",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "For a hybrid infrastructure refresh in pharma where the project has high uncertainty and talent availability is limited, what should the project manager do first to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "b",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "c",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "d",
+        "label": "use a structured model or checklist for complexity"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because structured assessment reduces blind spots. Option a is incorrect because each project has unique factors. Option b is incorrect because lack of assessment risks misalignment. Option c is incorrect because single perspectives miss key factors.",
+    "difficulty": "easy",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-009",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "In a incremental omnichannel upgrade in government where the project has high uncertainty and talent availability is limited, what should the project manager do to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document assumptions and risks from the assessment"
+      },
+      {
+        "id": "b",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "c",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "d",
+        "label": "copy the last project's profile"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because recording insights informs planning. Option b is incorrect because constraints shape the approach. Option c is incorrect because assumptions can misfit strategy. Option d is incorrect because each project has unique factors.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "perform-qualitative-risk-analysis",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-010",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "Given a incremental core system replacement in aviation where the project has high uncertainty and procurement options vary, which action best supports assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "b",
+        "label": "engage key stakeholders to validate the assessment"
+      },
+      {
+        "id": "c",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "d",
+        "label": "ignore constraints and external factors"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because validation increases accuracy. Option a is incorrect because lack of assessment risks misalignment. Option c is incorrect because single perspectives miss key factors. Option d is incorrect because constraints shape the approach.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-charter",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-011",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "While facing a incremental regulatory change in aviation where stakeholder groups have competing goals and benefits must be justified, what is the most effective next step to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "b",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "c",
+        "label": "evaluate uncertainty, dependencies, and stakeholder landscape"
+      },
+      {
+        "id": "d",
+        "label": "skip assessment to save time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because complexity assessment guides strategy. Option a is incorrect because assumptions can misfit strategy. Option b is incorrect because each project has unique factors. Option d is incorrect because lack of assessment risks misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-012",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "For a incremental omnichannel upgrade in retail where funding is gated and procurement options vary, what should the project manager do first to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "b",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "c",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "d",
+        "label": "size the effort and constraints to gauge magnitude"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because scale influences approach and governance. Option a is incorrect because single perspectives miss key factors. Option b is incorrect because constraints shape the approach. Option c is incorrect because assumptions can misfit strategy.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "perform-qualitative-risk-analysis",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-013",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "In a hybrid omnichannel upgrade in pharma where funding is gated and benefits must be justified, what should the project manager do to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use a structured model or checklist for complexity"
+      },
+      {
+        "id": "b",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "c",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "d",
+        "label": "rely only on sponsor opinion"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured assessment reduces blind spots. Option b is incorrect because each project has unique factors. Option c is incorrect because lack of assessment risks misalignment. Option d is incorrect because single perspectives miss key factors.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-charter",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-014",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "Given a outsourced core system replacement in banking where time-to-value is critical and procurement options vary, which action best supports assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "b",
+        "label": "document assumptions and risks from the assessment"
+      },
+      {
+        "id": "c",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "d",
+        "label": "copy the last project's profile"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because recording insights informs planning. Option a is incorrect because constraints shape the approach. Option c is incorrect because assumptions can misfit strategy. Option d is incorrect because each project has unique factors.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-015",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "While facing a outsourced omnichannel upgrade in government where vendors and internal teams must coordinate and executives demand a clear approach, what is the most effective next step to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "b",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "c",
+        "label": "engage key stakeholders to validate the assessment"
+      },
+      {
+        "id": "d",
+        "label": "ignore constraints and external factors"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because validation increases accuracy. Option a is incorrect because lack of assessment risks misalignment. Option b is incorrect because single perspectives miss key factors. Option d is incorrect because constraints shape the approach.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "perform-qualitative-risk-analysis",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-016",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "For a hybrid core system replacement in pharma where funding is gated and procurement options vary, what should the project manager do first to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "b",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "c",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "d",
+        "label": "evaluate uncertainty, dependencies, and stakeholder landscape"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because complexity assessment guides strategy. Option a is incorrect because assumptions can misfit strategy. Option b is incorrect because each project has unique factors. Option c is incorrect because lack of assessment risks misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-charter",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-017",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "In a hybrid core system replacement in aviation where funding is gated and talent availability is limited, what should the project manager do to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "size the effort and constraints to gauge magnitude"
+      },
+      {
+        "id": "b",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "c",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "d",
+        "label": "assume the project is average without analysis"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because scale influences approach and governance. Option b is incorrect because single perspectives miss key factors. Option c is incorrect because constraints shape the approach. Option d is incorrect because assumptions can misfit strategy.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-018",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "Given a outsourced omnichannel upgrade in banking where the project has high uncertainty and talent availability is limited, which action best supports assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "b",
+        "label": "use a structured model or checklist for complexity"
+      },
+      {
+        "id": "c",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "d",
+        "label": "rely only on sponsor opinion"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because structured assessment reduces blind spots. Option a is incorrect because each project has unique factors. Option c is incorrect because lack of assessment risks misalignment. Option d is incorrect because single perspectives miss key factors.",
+    "difficulty": "medium",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "perform-qualitative-risk-analysis",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-019",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "While facing a predictive product expansion in aviation where funding is gated and talent availability is limited, what is the most effective next step to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "b",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "c",
+        "label": "document assumptions and risks from the assessment"
+      },
+      {
+        "id": "d",
+        "label": "copy the last project's profile"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because recording insights informs planning. Option a is incorrect because constraints shape the approach. Option b is incorrect because assumptions can misfit strategy. Option d is incorrect because each project has unique factors.",
+    "difficulty": "hard",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-charter",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-020",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "For a predictive product expansion in aviation where the project has high uncertainty and executives demand a clear approach, what should the project manager do first to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "b",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "c",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "d",
+        "label": "engage key stakeholders to validate the assessment"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because validation increases accuracy. Option a is incorrect because lack of assessment risks misalignment. Option b is incorrect because single perspectives miss key factors. Option c is incorrect because constraints shape the approach.",
+    "difficulty": "hard",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-021",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "In a predictive omnichannel upgrade in banking where time-to-value is critical and talent availability is limited, what should the project manager do to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "evaluate uncertainty, dependencies, and stakeholder landscape"
+      },
+      {
+        "id": "b",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "c",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "d",
+        "label": "skip assessment to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because complexity assessment guides strategy. Option b is incorrect because assumptions can misfit strategy. Option c is incorrect because each project has unique factors. Option d is incorrect because lack of assessment risks misalignment.",
+    "difficulty": "hard",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "perform-qualitative-risk-analysis",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-022",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "Given a outsourced product expansion in pharma where the project has high uncertainty and executives demand a clear approach, which action best supports assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "b",
+        "label": "size the effort and constraints to gauge magnitude"
+      },
+      {
+        "id": "c",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "d",
+        "label": "assume the project is average without analysis"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because scale influences approach and governance. Option a is incorrect because single perspectives miss key factors. Option c is incorrect because constraints shape the approach. Option d is incorrect because assumptions can misfit strategy.",
+    "difficulty": "hard",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-charter",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-023",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "While facing a incremental omnichannel upgrade in retail where the project has high uncertainty and procurement options vary, what is the most effective next step to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "b",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "c",
+        "label": "use a structured model or checklist for complexity"
+      },
+      {
+        "id": "d",
+        "label": "rely only on sponsor opinion"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because structured assessment reduces blind spots. Option a is incorrect because each project has unique factors. Option b is incorrect because lack of assessment risks misalignment. Option d is incorrect because single perspectives miss key factors.",
+    "difficulty": "hard",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-024",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "For a agile core system replacement in pharma where stakeholder groups have competing goals and benefits must be justified, what should the project manager do first to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore constraints and external factors"
+      },
+      {
+        "id": "b",
+        "label": "assume the project is average without analysis"
+      },
+      {
+        "id": "c",
+        "label": "copy the last project's profile"
+      },
+      {
+        "id": "d",
+        "label": "document assumptions and risks from the assessment"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because recording insights informs planning. Option a is incorrect because constraints shape the approach. Option b is incorrect because assumptions can misfit strategy. Option c is incorrect because each project has unique factors.",
+    "difficulty": "hard",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "perform-qualitative-risk-analysis",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-13-1-025",
+    "domainId": "process",
+    "taskId": "process-13",
+    "enablerIds": [
+      "e-process-13-1"
+    ],
+    "text": "In a agile product expansion in pharma where stakeholder groups have competing goals and benefits must be justified, what should the project manager do to assess project needs, complexity, and magnitude?",
+    "options": [
+      {
+        "id": "a",
+        "label": "engage key stakeholders to validate the assessment"
+      },
+      {
+        "id": "b",
+        "label": "skip assessment to save time"
+      },
+      {
+        "id": "c",
+        "label": "rely only on sponsor opinion"
+      },
+      {
+        "id": "d",
+        "label": "ignore constraints and external factors"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because validation increases accuracy. Option b is incorrect because lack of assessment risks misalignment. Option c is incorrect because single perspectives miss key factors. Option d is incorrect because constraints shape the approach.",
+    "difficulty": "hard",
+    "topics": [
+      "complexity",
+      "assessment"
+    ],
+    "process": "develop-project-charter",
+    "knowledgeAreaId": "integration"
+  }
+]

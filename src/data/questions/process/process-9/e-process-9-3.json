@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-9-3-001",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "In a agile release train data modernization in higher education where multiple teams have separate plans and shared resources create dependencies, what should the project manager do to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "clean and validate the data before drawing conclusions"
+      },
+      {
+        "id": "b",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "c",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "d",
+        "label": "select only data that supports a preferred story"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because quality data underpins reliable analysis. Option b is incorrect because anomalies may signal real issues. Option c is incorrect because late insights cannot guide current work. Option d is incorrect because bias undermines decision quality.",
+    "difficulty": "easy",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-002",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "Given a agile release train CRM consolidation in higher education where reporting requirements are strict and there is active benefits tracking, which action best supports analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "b",
+        "label": "compare metrics to baselines and thresholds"
+      },
+      {
+        "id": "c",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "d",
+        "label": "ignore anomalies because they are inconvenient"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because variance analysis reveals performance. Option a is incorrect because context is needed for good decisions. Option c is incorrect because unvalidated data can mislead decisions. Option d is incorrect because anomalies may signal real issues.",
+    "difficulty": "easy",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-003",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "While facing a predictive MES upgrade in media where reporting requirements are strict and shared resources create dependencies, what is the most effective next step to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "b",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "c",
+        "label": "visualize trends to explain insights"
+      },
+      {
+        "id": "d",
+        "label": "share raw data without context"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visuals make findings clear. Option a is incorrect because late insights cannot guide current work. Option b is incorrect because bias undermines decision quality. Option d is incorrect because context is needed for good decisions.",
+    "difficulty": "easy",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-004",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "For a program-based CRM consolidation in manufacturing where benefits must be demonstrated and shared resources create dependencies, what should the project manager do first to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "b",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "c",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "d",
+        "label": "share insights with stakeholders for decisions"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because analysis should inform actions. Option a is incorrect because unvalidated data can mislead decisions. Option b is incorrect because anomalies may signal real issues. Option c is incorrect because late insights cannot guide current work.",
+    "difficulty": "easy",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-005",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "In a predictive MES upgrade in fintech where baseline versions differ by team and governance boards meet monthly, what should the project manager do to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document assumptions and data sources"
+      },
+      {
+        "id": "b",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "c",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "d",
+        "label": "skip validation of data sources"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because transparency strengthens trust in the data. Option b is incorrect because bias undermines decision quality. Option c is incorrect because context is needed for good decisions. Option d is incorrect because unvalidated data can mislead decisions.",
+    "difficulty": "easy",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-006",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "Given a agile release train CRM consolidation in higher education where reporting requirements are strict and funding hinges on a plan review, which action best supports analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "b",
+        "label": "clean and validate the data before drawing conclusions"
+      },
+      {
+        "id": "c",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "d",
+        "label": "select only data that supports a preferred story"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because quality data underpins reliable analysis. Option a is incorrect because anomalies may signal real issues. Option c is incorrect because late insights cannot guide current work. Option d is incorrect because bias undermines decision quality.",
+    "difficulty": "easy",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-007",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "While facing a hybrid streaming platform in higher education where multiple teams have separate plans and there is active benefits tracking, what is the most effective next step to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "b",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "c",
+        "label": "compare metrics to baselines and thresholds"
+      },
+      {
+        "id": "d",
+        "label": "ignore anomalies because they are inconvenient"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because variance analysis reveals performance. Option a is incorrect because context is needed for good decisions. Option b is incorrect because unvalidated data can mislead decisions. Option d is incorrect because anomalies may signal real issues.",
+    "difficulty": "easy",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-008",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "For a portfolio-aligned streaming platform in higher education where risk data needs consolidation and governance boards meet monthly, what should the project manager do first to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "b",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "c",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "d",
+        "label": "visualize trends to explain insights"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visuals make findings clear. Option a is incorrect because late insights cannot guide current work. Option b is incorrect because bias undermines decision quality. Option c is incorrect because context is needed for good decisions.",
+    "difficulty": "easy",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-009",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "In a portfolio-aligned streaming platform in higher education where multiple teams have separate plans and governance boards meet monthly, what should the project manager do to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share insights with stakeholders for decisions"
+      },
+      {
+        "id": "b",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "c",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "d",
+        "label": "delay analysis until the end of the phase"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because analysis should inform actions. Option b is incorrect because unvalidated data can mislead decisions. Option c is incorrect because anomalies may signal real issues. Option d is incorrect because late insights cannot guide current work.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-010",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "Given a predictive shared services rollout in manufacturing where reporting requirements are strict and shared resources create dependencies, which action best supports analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "b",
+        "label": "document assumptions and data sources"
+      },
+      {
+        "id": "c",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "d",
+        "label": "skip validation of data sources"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because transparency strengthens trust in the data. Option a is incorrect because bias undermines decision quality. Option c is incorrect because context is needed for good decisions. Option d is incorrect because unvalidated data can mislead decisions.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-011",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "While facing a program-based shared services rollout in fintech where reporting requirements are strict and funding hinges on a plan review, what is the most effective next step to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "b",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "c",
+        "label": "clean and validate the data before drawing conclusions"
+      },
+      {
+        "id": "d",
+        "label": "select only data that supports a preferred story"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because quality data underpins reliable analysis. Option a is incorrect because anomalies may signal real issues. Option b is incorrect because late insights cannot guide current work. Option d is incorrect because bias undermines decision quality.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-012",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "For a hybrid streaming platform in fintech where baseline versions differ by team and shared resources create dependencies, what should the project manager do first to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "b",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "c",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "d",
+        "label": "compare metrics to baselines and thresholds"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because variance analysis reveals performance. Option a is incorrect because context is needed for good decisions. Option b is incorrect because unvalidated data can mislead decisions. Option c is incorrect because anomalies may signal real issues.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-013",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "In a program-based MES upgrade in manufacturing where baseline versions differ by team and there is active benefits tracking, what should the project manager do to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "visualize trends to explain insights"
+      },
+      {
+        "id": "b",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "c",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "d",
+        "label": "share raw data without context"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visuals make findings clear. Option b is incorrect because late insights cannot guide current work. Option c is incorrect because bias undermines decision quality. Option d is incorrect because context is needed for good decisions.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-014",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "Given a portfolio-aligned data modernization in media where risk data needs consolidation and governance boards meet monthly, which action best supports analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "b",
+        "label": "share insights with stakeholders for decisions"
+      },
+      {
+        "id": "c",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "d",
+        "label": "delay analysis until the end of the phase"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because analysis should inform actions. Option a is incorrect because unvalidated data can mislead decisions. Option c is incorrect because anomalies may signal real issues. Option d is incorrect because late insights cannot guide current work.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-015",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "While facing a portfolio-aligned CRM consolidation in fintech where baseline versions differ by team and funding hinges on a plan review, what is the most effective next step to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "b",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "c",
+        "label": "document assumptions and data sources"
+      },
+      {
+        "id": "d",
+        "label": "skip validation of data sources"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because transparency strengthens trust in the data. Option a is incorrect because bias undermines decision quality. Option b is incorrect because context is needed for good decisions. Option d is incorrect because unvalidated data can mislead decisions.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-016",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "For a program-based data modernization in energy where baseline versions differ by team and funding hinges on a plan review, what should the project manager do first to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "b",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "c",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "d",
+        "label": "clean and validate the data before drawing conclusions"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because quality data underpins reliable analysis. Option a is incorrect because anomalies may signal real issues. Option b is incorrect because late insights cannot guide current work. Option c is incorrect because bias undermines decision quality.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-017",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "In a agile release train shared services rollout in manufacturing where reporting requirements are strict and funding hinges on a plan review, what should the project manager do to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "compare metrics to baselines and thresholds"
+      },
+      {
+        "id": "b",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "c",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "d",
+        "label": "ignore anomalies because they are inconvenient"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because variance analysis reveals performance. Option b is incorrect because context is needed for good decisions. Option c is incorrect because unvalidated data can mislead decisions. Option d is incorrect because anomalies may signal real issues.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-018",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "Given a hybrid MES upgrade in energy where reporting requirements are strict and shared resources create dependencies, which action best supports analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "b",
+        "label": "visualize trends to explain insights"
+      },
+      {
+        "id": "c",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "d",
+        "label": "share raw data without context"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visuals make findings clear. Option a is incorrect because late insights cannot guide current work. Option c is incorrect because bias undermines decision quality. Option d is incorrect because context is needed for good decisions.",
+    "difficulty": "medium",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-019",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "While facing a portfolio-aligned streaming platform in media where multiple teams have separate plans and shared resources create dependencies, what is the most effective next step to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "b",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "c",
+        "label": "share insights with stakeholders for decisions"
+      },
+      {
+        "id": "d",
+        "label": "delay analysis until the end of the phase"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because analysis should inform actions. Option a is incorrect because unvalidated data can mislead decisions. Option b is incorrect because anomalies may signal real issues. Option d is incorrect because late insights cannot guide current work.",
+    "difficulty": "hard",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-020",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "For a hybrid CRM consolidation in media where reporting requirements are strict and executives want a single view, what should the project manager do first to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "b",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "c",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "d",
+        "label": "document assumptions and data sources"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because transparency strengthens trust in the data. Option a is incorrect because bias undermines decision quality. Option b is incorrect because context is needed for good decisions. Option c is incorrect because unvalidated data can mislead decisions.",
+    "difficulty": "hard",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-021",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "In a predictive shared services rollout in media where benefits must be demonstrated and executives want a single view, what should the project manager do to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "clean and validate the data before drawing conclusions"
+      },
+      {
+        "id": "b",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "c",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "d",
+        "label": "select only data that supports a preferred story"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because quality data underpins reliable analysis. Option b is incorrect because anomalies may signal real issues. Option c is incorrect because late insights cannot guide current work. Option d is incorrect because bias undermines decision quality.",
+    "difficulty": "hard",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-022",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "Given a program-based CRM consolidation in fintech where reporting requirements are strict and funding hinges on a plan review, which action best supports analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "b",
+        "label": "compare metrics to baselines and thresholds"
+      },
+      {
+        "id": "c",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "d",
+        "label": "ignore anomalies because they are inconvenient"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because variance analysis reveals performance. Option a is incorrect because context is needed for good decisions. Option c is incorrect because unvalidated data can mislead decisions. Option d is incorrect because anomalies may signal real issues.",
+    "difficulty": "hard",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-023",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "While facing a agile release train data modernization in fintech where baseline versions differ by team and executives want a single view, what is the most effective next step to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "b",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "c",
+        "label": "visualize trends to explain insights"
+      },
+      {
+        "id": "d",
+        "label": "share raw data without context"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visuals make findings clear. Option a is incorrect because late insights cannot guide current work. Option b is incorrect because bias undermines decision quality. Option d is incorrect because context is needed for good decisions.",
+    "difficulty": "hard",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-024",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "For a agile release train data modernization in manufacturing where reporting requirements are strict and governance boards meet monthly, what should the project manager do first to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip validation of data sources"
+      },
+      {
+        "id": "b",
+        "label": "ignore anomalies because they are inconvenient"
+      },
+      {
+        "id": "c",
+        "label": "delay analysis until the end of the phase"
+      },
+      {
+        "id": "d",
+        "label": "share insights with stakeholders for decisions"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because analysis should inform actions. Option a is incorrect because unvalidated data can mislead decisions. Option b is incorrect because anomalies may signal real issues. Option c is incorrect because late insights cannot guide current work.",
+    "difficulty": "hard",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-3-025",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-3"
+    ],
+    "text": "In a predictive data modernization in fintech where risk data needs consolidation and shared resources create dependencies, what should the project manager do to analyze collected data?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document assumptions and data sources"
+      },
+      {
+        "id": "b",
+        "label": "select only data that supports a preferred story"
+      },
+      {
+        "id": "c",
+        "label": "share raw data without context"
+      },
+      {
+        "id": "d",
+        "label": "skip validation of data sources"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because transparency strengthens trust in the data. Option b is incorrect because bias undermines decision quality. Option c is incorrect because context is needed for good decisions. Option d is incorrect because unvalidated data can mislead decisions.",
+    "difficulty": "hard",
+    "topics": [
+      "analytics",
+      "performance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  }
+]

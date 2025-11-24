@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-8-1-001",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "In a hybrid warehouse automation in retail where stakeholders keep adding requests and governance requires scope control, what should the project manager do to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "facilitate discovery with stakeholders to capture requirements and priorities"
+      },
+      {
+        "id": "b",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "c",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "d",
+        "label": "delay prioritization until build starts"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured discovery surfaces needs and priorities. Option b is incorrect because unprioritized scope leads to overload. Option c is incorrect because limited perspectives miss real needs. Option d is incorrect because late prioritization causes churn.",
+    "difficulty": "easy",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-002",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "Given a predictive warehouse automation in insurance where dependencies to other programs exist and a demo to regulators is pending, which action best supports determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "b",
+        "label": "rank requirements using agreed criteria such as MoSCoW or value-risk"
+      },
+      {
+        "id": "c",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "d",
+        "label": "accept every request without ranking"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because shared criteria make prioritization transparent. Option a is incorrect because lack of priority impedes trade-offs. Option c is incorrect because unvalidated scope risks misalignment. Option d is incorrect because unprioritized scope leads to overload.",
+    "difficulty": "easy",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "define-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-003",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "While facing a hybrid omnichannel launch in insurance where dependencies to other programs exist and a demo to regulators is pending, what is the most effective next step to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "b",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "c",
+        "label": "link requirements to objectives and acceptance criteria"
+      },
+      {
+        "id": "d",
+        "label": "treat all requirements as equal to avoid conflict"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because traceability keeps scope aligned to goals. Option a is incorrect because limited perspectives miss real needs. Option b is incorrect because late prioritization causes churn. Option d is incorrect because lack of priority impedes trade-offs.",
+    "difficulty": "easy",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "plan-scope-management",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-004",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "For a product-led omnichannel launch in logistics where stakeholders keep adding requests and budget pressure is high, what should the project manager do first to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "b",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "c",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "d",
+        "label": "engage end users to validate and refine priorities"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because user input strengthens requirement relevance. Option a is incorrect because unvalidated scope risks misalignment. Option b is incorrect because unprioritized scope leads to overload. Option c is incorrect because limited perspectives miss real needs.",
+    "difficulty": "easy",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "validate-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-005",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "In a agile customer portal in retail where acceptance criteria are vague and a public launch date is fixed, what should the project manager do to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document and socialize the prioritized backlog or list"
+      },
+      {
+        "id": "b",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "c",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "d",
+        "label": "freeze scope without validating alignment"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility reduces later disputes. Option b is incorrect because late prioritization causes churn. Option c is incorrect because lack of priority impedes trade-offs. Option d is incorrect because unvalidated scope risks misalignment.",
+    "difficulty": "easy",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-006",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "Given a agile omnichannel launch in logistics where acceptance criteria are vague and two sponsors disagree on priorities, which action best supports determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "b",
+        "label": "facilitate discovery with stakeholders to capture requirements and priorities"
+      },
+      {
+        "id": "c",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "d",
+        "label": "delay prioritization until build starts"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because structured discovery surfaces needs and priorities. Option a is incorrect because unprioritized scope leads to overload. Option c is incorrect because limited perspectives miss real needs. Option d is incorrect because late prioritization causes churn.",
+    "difficulty": "easy",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "define-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-007",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "While facing a hybrid omnichannel launch in insurance where requirements are conflicting and a demo to regulators is pending, what is the most effective next step to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "b",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "c",
+        "label": "rank requirements using agreed criteria such as MoSCoW or value-risk"
+      },
+      {
+        "id": "d",
+        "label": "accept every request without ranking"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because shared criteria make prioritization transparent. Option a is incorrect because lack of priority impedes trade-offs. Option b is incorrect because unvalidated scope risks misalignment. Option d is incorrect because unprioritized scope leads to overload.",
+    "difficulty": "easy",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "plan-scope-management",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-008",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "For a vendor-led omnichannel launch in public sector where dependencies to other programs exist and governance requires scope control, what should the project manager do first to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "b",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "c",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "d",
+        "label": "link requirements to objectives and acceptance criteria"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because traceability keeps scope aligned to goals. Option a is incorrect because limited perspectives miss real needs. Option b is incorrect because late prioritization causes churn. Option c is incorrect because lack of priority impedes trade-offs.",
+    "difficulty": "easy",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "validate-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-009",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "In a vendor-led omnichannel launch in logistics where requirements are conflicting and a demo to regulators is pending, what should the project manager do to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "engage end users to validate and refine priorities"
+      },
+      {
+        "id": "b",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "c",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "d",
+        "label": "ignore users and rely only on sponsor opinions"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because user input strengthens requirement relevance. Option b is incorrect because unvalidated scope risks misalignment. Option c is incorrect because unprioritized scope leads to overload. Option d is incorrect because limited perspectives miss real needs.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-010",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "Given a vendor-led policy engine in telecom where requirements are conflicting and two sponsors disagree on priorities, which action best supports determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "b",
+        "label": "document and socialize the prioritized backlog or list"
+      },
+      {
+        "id": "c",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "d",
+        "label": "freeze scope without validating alignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility reduces later disputes. Option a is incorrect because late prioritization causes churn. Option c is incorrect because lack of priority impedes trade-offs. Option d is incorrect because unvalidated scope risks misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "define-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-011",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "While facing a agile warehouse automation in insurance where acceptance criteria are vague and budget pressure is high, what is the most effective next step to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "b",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "c",
+        "label": "facilitate discovery with stakeholders to capture requirements and priorities"
+      },
+      {
+        "id": "d",
+        "label": "delay prioritization until build starts"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because structured discovery surfaces needs and priorities. Option a is incorrect because unprioritized scope leads to overload. Option b is incorrect because limited perspectives miss real needs. Option d is incorrect because late prioritization causes churn.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "plan-scope-management",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-012",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "For a vendor-led omnichannel launch in public sector where requirements are conflicting and budget pressure is high, what should the project manager do first to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "b",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "c",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "d",
+        "label": "rank requirements using agreed criteria such as MoSCoW or value-risk"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because shared criteria make prioritization transparent. Option a is incorrect because lack of priority impedes trade-offs. Option b is incorrect because unvalidated scope risks misalignment. Option c is incorrect because unprioritized scope leads to overload.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "validate-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-013",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "In a predictive network upgrade in public sector where dependencies to other programs exist and two sponsors disagree on priorities, what should the project manager do to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "link requirements to objectives and acceptance criteria"
+      },
+      {
+        "id": "b",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "c",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "d",
+        "label": "treat all requirements as equal to avoid conflict"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because traceability keeps scope aligned to goals. Option b is incorrect because limited perspectives miss real needs. Option c is incorrect because late prioritization causes churn. Option d is incorrect because lack of priority impedes trade-offs.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-014",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "Given a vendor-led warehouse automation in public sector where requirements are conflicting and a demo to regulators is pending, which action best supports determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "b",
+        "label": "engage end users to validate and refine priorities"
+      },
+      {
+        "id": "c",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "d",
+        "label": "ignore users and rely only on sponsor opinions"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because user input strengthens requirement relevance. Option a is incorrect because unvalidated scope risks misalignment. Option c is incorrect because unprioritized scope leads to overload. Option d is incorrect because limited perspectives miss real needs.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "define-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-015",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "While facing a predictive omnichannel launch in telecom where stakeholders keep adding requests and a public launch date is fixed, what is the most effective next step to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "b",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "c",
+        "label": "document and socialize the prioritized backlog or list"
+      },
+      {
+        "id": "d",
+        "label": "freeze scope without validating alignment"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility reduces later disputes. Option a is incorrect because late prioritization causes churn. Option b is incorrect because lack of priority impedes trade-offs. Option d is incorrect because unvalidated scope risks misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "plan-scope-management",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-016",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "For a agile customer portal in insurance where change requests arrive weekly and a demo to regulators is pending, what should the project manager do first to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "b",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "c",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "d",
+        "label": "facilitate discovery with stakeholders to capture requirements and priorities"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because structured discovery surfaces needs and priorities. Option a is incorrect because unprioritized scope leads to overload. Option b is incorrect because limited perspectives miss real needs. Option c is incorrect because late prioritization causes churn.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "validate-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-017",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "In a predictive network upgrade in telecom where requirements are conflicting and budget pressure is high, what should the project manager do to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rank requirements using agreed criteria such as MoSCoW or value-risk"
+      },
+      {
+        "id": "b",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "c",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "d",
+        "label": "accept every request without ranking"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shared criteria make prioritization transparent. Option b is incorrect because lack of priority impedes trade-offs. Option c is incorrect because unvalidated scope risks misalignment. Option d is incorrect because unprioritized scope leads to overload.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-018",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "Given a predictive customer portal in public sector where requirements are conflicting and a demo to regulators is pending, which action best supports determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "b",
+        "label": "link requirements to objectives and acceptance criteria"
+      },
+      {
+        "id": "c",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "d",
+        "label": "treat all requirements as equal to avoid conflict"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because traceability keeps scope aligned to goals. Option a is incorrect because limited perspectives miss real needs. Option c is incorrect because late prioritization causes churn. Option d is incorrect because lack of priority impedes trade-offs.",
+    "difficulty": "medium",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "define-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-019",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "While facing a predictive warehouse automation in logistics where stakeholders keep adding requests and budget pressure is high, what is the most effective next step to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "b",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "c",
+        "label": "engage end users to validate and refine priorities"
+      },
+      {
+        "id": "d",
+        "label": "ignore users and rely only on sponsor opinions"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because user input strengthens requirement relevance. Option a is incorrect because unvalidated scope risks misalignment. Option b is incorrect because unprioritized scope leads to overload. Option d is incorrect because limited perspectives miss real needs.",
+    "difficulty": "hard",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "plan-scope-management",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-020",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "For a vendor-led omnichannel launch in retail where acceptance criteria are vague and governance requires scope control, what should the project manager do first to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "b",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "c",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "d",
+        "label": "document and socialize the prioritized backlog or list"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility reduces later disputes. Option a is incorrect because late prioritization causes churn. Option b is incorrect because lack of priority impedes trade-offs. Option c is incorrect because unvalidated scope risks misalignment.",
+    "difficulty": "hard",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "validate-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-021",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "In a agile warehouse automation in telecom where stakeholders keep adding requests and budget pressure is high, what should the project manager do to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "facilitate discovery with stakeholders to capture requirements and priorities"
+      },
+      {
+        "id": "b",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "c",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "d",
+        "label": "delay prioritization until build starts"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured discovery surfaces needs and priorities. Option b is incorrect because unprioritized scope leads to overload. Option c is incorrect because limited perspectives miss real needs. Option d is incorrect because late prioritization causes churn.",
+    "difficulty": "hard",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-022",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "Given a predictive policy engine in insurance where acceptance criteria are vague and two sponsors disagree on priorities, which action best supports determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "b",
+        "label": "rank requirements using agreed criteria such as MoSCoW or value-risk"
+      },
+      {
+        "id": "c",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "d",
+        "label": "accept every request without ranking"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because shared criteria make prioritization transparent. Option a is incorrect because lack of priority impedes trade-offs. Option c is incorrect because unvalidated scope risks misalignment. Option d is incorrect because unprioritized scope leads to overload.",
+    "difficulty": "hard",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "define-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-023",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "While facing a product-led omnichannel launch in retail where acceptance criteria are vague and governance requires scope control, what is the most effective next step to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "b",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "c",
+        "label": "link requirements to objectives and acceptance criteria"
+      },
+      {
+        "id": "d",
+        "label": "treat all requirements as equal to avoid conflict"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because traceability keeps scope aligned to goals. Option a is incorrect because limited perspectives miss real needs. Option b is incorrect because late prioritization causes churn. Option d is incorrect because lack of priority impedes trade-offs.",
+    "difficulty": "hard",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "plan-scope-management",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-024",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "For a hybrid customer portal in telecom where requirements are conflicting and budget pressure is high, what should the project manager do first to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "freeze scope without validating alignment"
+      },
+      {
+        "id": "b",
+        "label": "accept every request without ranking"
+      },
+      {
+        "id": "c",
+        "label": "ignore users and rely only on sponsor opinions"
+      },
+      {
+        "id": "d",
+        "label": "engage end users to validate and refine priorities"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because user input strengthens requirement relevance. Option a is incorrect because unvalidated scope risks misalignment. Option b is incorrect because unprioritized scope leads to overload. Option c is incorrect because limited perspectives miss real needs.",
+    "difficulty": "hard",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "validate-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-8-1-025",
+    "domainId": "process",
+    "taskId": "process-8",
+    "enablerIds": [
+      "e-process-8-1"
+    ],
+    "text": "In a hybrid warehouse automation in logistics where requirements are conflicting and a demo to regulators is pending, what should the project manager do to determine and prioritize requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document and socialize the prioritized backlog or list"
+      },
+      {
+        "id": "b",
+        "label": "delay prioritization until build starts"
+      },
+      {
+        "id": "c",
+        "label": "treat all requirements as equal to avoid conflict"
+      },
+      {
+        "id": "d",
+        "label": "freeze scope without validating alignment"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility reduces later disputes. Option b is incorrect because late prioritization causes churn. Option c is incorrect because lack of priority impedes trade-offs. Option d is incorrect because unvalidated scope risks misalignment.",
+    "difficulty": "hard",
+    "topics": [
+      "requirements",
+      "prioritization"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  }
+]

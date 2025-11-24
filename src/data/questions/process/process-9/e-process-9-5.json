@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-9-5-001",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "In a agile release train data modernization in higher education where multiple teams have separate plans and shared resources create dependencies, what should the project manager do to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "identify key decisions and define the data needed for them"
+      },
+      {
+        "id": "b",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "c",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "d",
+        "label": "use only data that is easiest to capture"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because information must support decisions. Option b is incorrect because excess data creates noise and waste. Option c is incorrect because proactive definition prevents gaps. Option d is incorrect because ease does not equal importance.",
+    "difficulty": "easy",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-002",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "Given a agile release train CRM consolidation in higher education where reporting requirements are strict and there is active benefits tracking, which action best supports determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "b",
+        "label": "assign owners, sources, and refresh cycles for critical data"
+      },
+      {
+        "id": "c",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "d",
+        "label": "collect every possible metric just in case"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because clear ownership keeps information reliable. Option a is incorrect because lack of ownership reduces reliability. Option c is incorrect because information needs shift over time. Option d is incorrect because excess data creates noise and waste.",
+    "difficulty": "easy",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-003",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "While facing a predictive MES upgrade in media where reporting requirements are strict and shared resources create dependencies, what is the most effective next step to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "b",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "c",
+        "label": "align information needs with stakeholder expectations"
+      },
+      {
+        "id": "d",
+        "label": "leave ownership of information unspecified"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because tailored information improves engagement. Option a is incorrect because proactive definition prevents gaps. Option b is incorrect because ease does not equal importance. Option d is incorrect because lack of ownership reduces reliability.",
+    "difficulty": "easy",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-004",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "For a program-based CRM consolidation in manufacturing where benefits must be demonstrated and shared resources create dependencies, what should the project manager do first to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "b",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "c",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "d",
+        "label": "document and communicate the critical information list"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility ensures people provide and use it. Option a is incorrect because information needs shift over time. Option b is incorrect because excess data creates noise and waste. Option c is incorrect because proactive definition prevents gaps.",
+    "difficulty": "easy",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-005",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "In a predictive MES upgrade in fintech where baseline versions differ by team and governance boards meet monthly, what should the project manager do to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "validate information needs as the project evolves"
+      },
+      {
+        "id": "b",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "c",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "d",
+        "label": "lock requirements and never revisit them"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because requirements change with context. Option b is incorrect because ease does not equal importance. Option c is incorrect because lack of ownership reduces reliability. Option d is incorrect because information needs shift over time.",
+    "difficulty": "easy",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-006",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "Given a agile release train CRM consolidation in higher education where reporting requirements are strict and funding hinges on a plan review, which action best supports determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "b",
+        "label": "identify key decisions and define the data needed for them"
+      },
+      {
+        "id": "c",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "d",
+        "label": "use only data that is easiest to capture"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because information must support decisions. Option a is incorrect because excess data creates noise and waste. Option c is incorrect because proactive definition prevents gaps. Option d is incorrect because ease does not equal importance.",
+    "difficulty": "easy",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-007",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "While facing a hybrid streaming platform in higher education where multiple teams have separate plans and there is active benefits tracking, what is the most effective next step to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "b",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "c",
+        "label": "assign owners, sources, and refresh cycles for critical data"
+      },
+      {
+        "id": "d",
+        "label": "collect every possible metric just in case"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because clear ownership keeps information reliable. Option a is incorrect because lack of ownership reduces reliability. Option b is incorrect because information needs shift over time. Option d is incorrect because excess data creates noise and waste.",
+    "difficulty": "easy",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-008",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "For a portfolio-aligned streaming platform in higher education where risk data needs consolidation and governance boards meet monthly, what should the project manager do first to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "b",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "c",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "d",
+        "label": "align information needs with stakeholder expectations"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because tailored information improves engagement. Option a is incorrect because proactive definition prevents gaps. Option b is incorrect because ease does not equal importance. Option c is incorrect because lack of ownership reduces reliability.",
+    "difficulty": "easy",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-009",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "In a portfolio-aligned streaming platform in higher education where multiple teams have separate plans and governance boards meet monthly, what should the project manager do to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document and communicate the critical information list"
+      },
+      {
+        "id": "b",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "c",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "d",
+        "label": "assume stakeholders will ask if they need data"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility ensures people provide and use it. Option b is incorrect because information needs shift over time. Option c is incorrect because excess data creates noise and waste. Option d is incorrect because proactive definition prevents gaps.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-010",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "Given a predictive shared services rollout in manufacturing where reporting requirements are strict and shared resources create dependencies, which action best supports determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "b",
+        "label": "validate information needs as the project evolves"
+      },
+      {
+        "id": "c",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "d",
+        "label": "lock requirements and never revisit them"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because requirements change with context. Option a is incorrect because ease does not equal importance. Option c is incorrect because lack of ownership reduces reliability. Option d is incorrect because information needs shift over time.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-011",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "While facing a program-based shared services rollout in fintech where reporting requirements are strict and funding hinges on a plan review, what is the most effective next step to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "b",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "c",
+        "label": "identify key decisions and define the data needed for them"
+      },
+      {
+        "id": "d",
+        "label": "use only data that is easiest to capture"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because information must support decisions. Option a is incorrect because excess data creates noise and waste. Option b is incorrect because proactive definition prevents gaps. Option d is incorrect because ease does not equal importance.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-012",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "For a hybrid streaming platform in fintech where baseline versions differ by team and shared resources create dependencies, what should the project manager do first to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "b",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "c",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "d",
+        "label": "assign owners, sources, and refresh cycles for critical data"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because clear ownership keeps information reliable. Option a is incorrect because lack of ownership reduces reliability. Option b is incorrect because information needs shift over time. Option c is incorrect because excess data creates noise and waste.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-013",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "In a program-based MES upgrade in manufacturing where baseline versions differ by team and there is active benefits tracking, what should the project manager do to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align information needs with stakeholder expectations"
+      },
+      {
+        "id": "b",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "c",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "d",
+        "label": "leave ownership of information unspecified"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tailored information improves engagement. Option b is incorrect because proactive definition prevents gaps. Option c is incorrect because ease does not equal importance. Option d is incorrect because lack of ownership reduces reliability.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-014",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "Given a portfolio-aligned data modernization in media where risk data needs consolidation and governance boards meet monthly, which action best supports determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "b",
+        "label": "document and communicate the critical information list"
+      },
+      {
+        "id": "c",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "d",
+        "label": "assume stakeholders will ask if they need data"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility ensures people provide and use it. Option a is incorrect because information needs shift over time. Option c is incorrect because excess data creates noise and waste. Option d is incorrect because proactive definition prevents gaps.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-015",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "While facing a portfolio-aligned CRM consolidation in fintech where baseline versions differ by team and funding hinges on a plan review, what is the most effective next step to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "b",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "c",
+        "label": "validate information needs as the project evolves"
+      },
+      {
+        "id": "d",
+        "label": "lock requirements and never revisit them"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because requirements change with context. Option a is incorrect because ease does not equal importance. Option b is incorrect because lack of ownership reduces reliability. Option d is incorrect because information needs shift over time.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-016",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "For a program-based data modernization in energy where baseline versions differ by team and funding hinges on a plan review, what should the project manager do first to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "b",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "c",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "d",
+        "label": "identify key decisions and define the data needed for them"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because information must support decisions. Option a is incorrect because excess data creates noise and waste. Option b is incorrect because proactive definition prevents gaps. Option c is incorrect because ease does not equal importance.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-017",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "In a agile release train shared services rollout in manufacturing where reporting requirements are strict and funding hinges on a plan review, what should the project manager do to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign owners, sources, and refresh cycles for critical data"
+      },
+      {
+        "id": "b",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "c",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "d",
+        "label": "collect every possible metric just in case"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clear ownership keeps information reliable. Option b is incorrect because lack of ownership reduces reliability. Option c is incorrect because information needs shift over time. Option d is incorrect because excess data creates noise and waste.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-018",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "Given a hybrid MES upgrade in energy where reporting requirements are strict and shared resources create dependencies, which action best supports determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "b",
+        "label": "align information needs with stakeholder expectations"
+      },
+      {
+        "id": "c",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "d",
+        "label": "leave ownership of information unspecified"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because tailored information improves engagement. Option a is incorrect because proactive definition prevents gaps. Option c is incorrect because ease does not equal importance. Option d is incorrect because lack of ownership reduces reliability.",
+    "difficulty": "medium",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-019",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "While facing a portfolio-aligned streaming platform in media where multiple teams have separate plans and shared resources create dependencies, what is the most effective next step to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "b",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "c",
+        "label": "document and communicate the critical information list"
+      },
+      {
+        "id": "d",
+        "label": "assume stakeholders will ask if they need data"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility ensures people provide and use it. Option a is incorrect because information needs shift over time. Option b is incorrect because excess data creates noise and waste. Option d is incorrect because proactive definition prevents gaps.",
+    "difficulty": "hard",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-020",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "For a hybrid CRM consolidation in media where reporting requirements are strict and executives want a single view, what should the project manager do first to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "b",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "c",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "d",
+        "label": "validate information needs as the project evolves"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because requirements change with context. Option a is incorrect because ease does not equal importance. Option b is incorrect because lack of ownership reduces reliability. Option c is incorrect because information needs shift over time.",
+    "difficulty": "hard",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-021",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "In a predictive shared services rollout in media where benefits must be demonstrated and executives want a single view, what should the project manager do to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "identify key decisions and define the data needed for them"
+      },
+      {
+        "id": "b",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "c",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "d",
+        "label": "use only data that is easiest to capture"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because information must support decisions. Option b is incorrect because excess data creates noise and waste. Option c is incorrect because proactive definition prevents gaps. Option d is incorrect because ease does not equal importance.",
+    "difficulty": "hard",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-022",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "Given a program-based CRM consolidation in fintech where reporting requirements are strict and funding hinges on a plan review, which action best supports determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "b",
+        "label": "assign owners, sources, and refresh cycles for critical data"
+      },
+      {
+        "id": "c",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "d",
+        "label": "collect every possible metric just in case"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because clear ownership keeps information reliable. Option a is incorrect because lack of ownership reduces reliability. Option c is incorrect because information needs shift over time. Option d is incorrect because excess data creates noise and waste.",
+    "difficulty": "hard",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-023",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "While facing a agile release train data modernization in fintech where baseline versions differ by team and executives want a single view, what is the most effective next step to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "b",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "c",
+        "label": "align information needs with stakeholder expectations"
+      },
+      {
+        "id": "d",
+        "label": "leave ownership of information unspecified"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because tailored information improves engagement. Option a is incorrect because proactive definition prevents gaps. Option b is incorrect because ease does not equal importance. Option d is incorrect because lack of ownership reduces reliability.",
+    "difficulty": "hard",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-024",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "For a agile release train data modernization in manufacturing where reporting requirements are strict and governance boards meet monthly, what should the project manager do first to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "lock requirements and never revisit them"
+      },
+      {
+        "id": "b",
+        "label": "collect every possible metric just in case"
+      },
+      {
+        "id": "c",
+        "label": "assume stakeholders will ask if they need data"
+      },
+      {
+        "id": "d",
+        "label": "document and communicate the critical information list"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility ensures people provide and use it. Option a is incorrect because information needs shift over time. Option b is incorrect because excess data creates noise and waste. Option c is incorrect because proactive definition prevents gaps.",
+    "difficulty": "hard",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-9-5-025",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-5"
+    ],
+    "text": "In a predictive data modernization in fintech where risk data needs consolidation and shared resources create dependencies, what should the project manager do to determine critical information requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "validate information needs as the project evolves"
+      },
+      {
+        "id": "b",
+        "label": "use only data that is easiest to capture"
+      },
+      {
+        "id": "c",
+        "label": "leave ownership of information unspecified"
+      },
+      {
+        "id": "d",
+        "label": "lock requirements and never revisit them"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because requirements change with context. Option b is incorrect because ease does not equal importance. Option c is incorrect because lack of ownership reduces reliability. Option d is incorrect because information needs shift over time.",
+    "difficulty": "hard",
+    "topics": [
+      "information needs",
+      "reporting"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  }
+]

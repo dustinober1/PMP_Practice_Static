@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-14-2-001",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "In a program policy overhaul in defense where external regulators oversee work and escalations have been slow, what should the project manager do to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set clear triggers for schedule, cost, and risk escalation"
+      },
+      {
+        "id": "b",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "c",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "d",
+        "label": "hide issues to avoid escalation"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because defined thresholds enable timely action. Option b is incorrect because ad hoc handling causes confusion. Option c is incorrect because over-escalation wastes sponsor time. Option d is incorrect because hidden issues worsen outcomes.",
+    "difficulty": "easy",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-002",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "Given a agile clinical trial system in defense where multiple vendors are involved and steering committee meets soon, which action best supports define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "b",
+        "label": "document who to contact and how escalations flow"
+      },
+      {
+        "id": "c",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "d",
+        "label": "handle escalations ad hoc each time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because clear paths prevent delays. Option a is incorrect because vague thresholds are ineffective. Option c is incorrect because single-channel paths can fail. Option d is incorrect because ad hoc handling causes confusion.",
+    "difficulty": "easy",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-003",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "While facing a vendor-led policy overhaul in insurance where external regulators oversee work and budget variance is tight, what is the most effective next step to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "b",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "c",
+        "label": "align escalation with SLAs and governance cadence"
+      },
+      {
+        "id": "d",
+        "label": "set thresholds so vague that no one uses them"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because alignment keeps responses consistent. Option a is incorrect because over-escalation wastes sponsor time. Option b is incorrect because hidden issues worsen outcomes. Option d is incorrect because vague thresholds are ineffective.",
+    "difficulty": "easy",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-004",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "For a program claims platform in insurance where multiple vendors are involved and the project is on the portfolio watchlist, what should the project manager do first to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "b",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "c",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "d",
+        "label": "socialize the escalation process with the team"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because awareness ensures use when needed. Option a is incorrect because single-channel paths can fail. Option b is incorrect because ad hoc handling causes confusion. Option c is incorrect because over-escalation wastes sponsor time.",
+    "difficulty": "easy",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-005",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "In a agile cyber uplift in fintech where multiple vendors are involved and escalations have been slow, what should the project manager do to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "test or rehearse the escalation path"
+      },
+      {
+        "id": "b",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "c",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "d",
+        "label": "limit escalation paths to email chains only"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because testing confirms it works in practice. Option b is incorrect because hidden issues worsen outcomes. Option c is incorrect because vague thresholds are ineffective. Option d is incorrect because single-channel paths can fail.",
+    "difficulty": "easy",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-006",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "Given a vendor-led cyber uplift in defense where benefits realization is under scrutiny and budget variance is tight, which action best supports define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "b",
+        "label": "set clear triggers for schedule, cost, and risk escalation"
+      },
+      {
+        "id": "c",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "d",
+        "label": "hide issues to avoid escalation"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because defined thresholds enable timely action. Option a is incorrect because ad hoc handling causes confusion. Option c is incorrect because over-escalation wastes sponsor time. Option d is incorrect because hidden issues worsen outcomes.",
+    "difficulty": "easy",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-007",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "While facing a hybrid policy overhaul in utilities where senior stakeholders want oversight and public perception matters, what is the most effective next step to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "b",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "c",
+        "label": "document who to contact and how escalations flow"
+      },
+      {
+        "id": "d",
+        "label": "handle escalations ad hoc each time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because clear paths prevent delays. Option a is incorrect because vague thresholds are ineffective. Option b is incorrect because single-channel paths can fail. Option d is incorrect because ad hoc handling causes confusion.",
+    "difficulty": "easy",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-008",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "For a hybrid policy overhaul in healthcare where senior stakeholders want oversight and steering committee meets soon, what should the project manager do first to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "b",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "c",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "d",
+        "label": "align escalation with SLAs and governance cadence"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because alignment keeps responses consistent. Option a is incorrect because over-escalation wastes sponsor time. Option b is incorrect because hidden issues worsen outcomes. Option c is incorrect because vague thresholds are ineffective.",
+    "difficulty": "easy",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-009",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "In a agile cyber uplift in utilities where external regulators oversee work and escalations have been slow, what should the project manager do to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "socialize the escalation process with the team"
+      },
+      {
+        "id": "b",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "c",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "d",
+        "label": "escalate every issue straight to the sponsor"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because awareness ensures use when needed. Option b is incorrect because single-channel paths can fail. Option c is incorrect because ad hoc handling causes confusion. Option d is incorrect because over-escalation wastes sponsor time.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-010",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "Given a hybrid claims platform in healthcare where benefits realization is under scrutiny and steering committee meets soon, which action best supports define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "b",
+        "label": "test or rehearse the escalation path"
+      },
+      {
+        "id": "c",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "d",
+        "label": "limit escalation paths to email chains only"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because testing confirms it works in practice. Option a is incorrect because hidden issues worsen outcomes. Option c is incorrect because vague thresholds are ineffective. Option d is incorrect because single-channel paths can fail.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-011",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "While facing a predictive clinical trial system in healthcare where benefits realization is under scrutiny and steering committee meets soon, what is the most effective next step to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "b",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "c",
+        "label": "set clear triggers for schedule, cost, and risk escalation"
+      },
+      {
+        "id": "d",
+        "label": "hide issues to avoid escalation"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because defined thresholds enable timely action. Option a is incorrect because ad hoc handling causes confusion. Option b is incorrect because over-escalation wastes sponsor time. Option d is incorrect because hidden issues worsen outcomes.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-012",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "For a agile policy overhaul in healthcare where risk appetite is low and public perception matters, what should the project manager do first to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "b",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "c",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "d",
+        "label": "document who to contact and how escalations flow"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because clear paths prevent delays. Option a is incorrect because vague thresholds are ineffective. Option b is incorrect because single-channel paths can fail. Option c is incorrect because ad hoc handling causes confusion.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-013",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "In a predictive clinical trial system in fintech where multiple vendors are involved and steering committee meets soon, what should the project manager do to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align escalation with SLAs and governance cadence"
+      },
+      {
+        "id": "b",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "c",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "d",
+        "label": "set thresholds so vague that no one uses them"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because alignment keeps responses consistent. Option b is incorrect because over-escalation wastes sponsor time. Option c is incorrect because hidden issues worsen outcomes. Option d is incorrect because vague thresholds are ineffective.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-014",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "Given a program clinical trial system in healthcare where benefits realization is under scrutiny and the project is on the portfolio watchlist, which action best supports define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "b",
+        "label": "socialize the escalation process with the team"
+      },
+      {
+        "id": "c",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "d",
+        "label": "escalate every issue straight to the sponsor"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because awareness ensures use when needed. Option a is incorrect because single-channel paths can fail. Option c is incorrect because ad hoc handling causes confusion. Option d is incorrect because over-escalation wastes sponsor time.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-015",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "While facing a predictive policy overhaul in insurance where external regulators oversee work and budget variance is tight, what is the most effective next step to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "b",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "c",
+        "label": "test or rehearse the escalation path"
+      },
+      {
+        "id": "d",
+        "label": "limit escalation paths to email chains only"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because testing confirms it works in practice. Option a is incorrect because hidden issues worsen outcomes. Option b is incorrect because vague thresholds are ineffective. Option d is incorrect because single-channel paths can fail.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-016",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "For a vendor-led cyber uplift in fintech where risk appetite is low and budget variance is tight, what should the project manager do first to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "b",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "c",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "d",
+        "label": "set clear triggers for schedule, cost, and risk escalation"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because defined thresholds enable timely action. Option a is incorrect because ad hoc handling causes confusion. Option b is incorrect because over-escalation wastes sponsor time. Option c is incorrect because hidden issues worsen outcomes.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-017",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "In a program claims platform in insurance where external regulators oversee work and escalations have been slow, what should the project manager do to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document who to contact and how escalations flow"
+      },
+      {
+        "id": "b",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "c",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "d",
+        "label": "handle escalations ad hoc each time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clear paths prevent delays. Option b is incorrect because vague thresholds are ineffective. Option c is incorrect because single-channel paths can fail. Option d is incorrect because ad hoc handling causes confusion.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-018",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "Given a hybrid clinical trial system in fintech where external regulators oversee work and steering committee meets soon, which action best supports define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "b",
+        "label": "align escalation with SLAs and governance cadence"
+      },
+      {
+        "id": "c",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "d",
+        "label": "set thresholds so vague that no one uses them"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because alignment keeps responses consistent. Option a is incorrect because over-escalation wastes sponsor time. Option c is incorrect because hidden issues worsen outcomes. Option d is incorrect because vague thresholds are ineffective.",
+    "difficulty": "medium",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-019",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "While facing a vendor-led claims platform in fintech where benefits realization is under scrutiny and budget variance is tight, what is the most effective next step to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "b",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "c",
+        "label": "socialize the escalation process with the team"
+      },
+      {
+        "id": "d",
+        "label": "escalate every issue straight to the sponsor"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because awareness ensures use when needed. Option a is incorrect because single-channel paths can fail. Option b is incorrect because ad hoc handling causes confusion. Option d is incorrect because over-escalation wastes sponsor time.",
+    "difficulty": "hard",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-020",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "For a hybrid claims platform in utilities where risk appetite is low and the project is on the portfolio watchlist, what should the project manager do first to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "b",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "c",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "d",
+        "label": "test or rehearse the escalation path"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because testing confirms it works in practice. Option a is incorrect because hidden issues worsen outcomes. Option b is incorrect because vague thresholds are ineffective. Option c is incorrect because single-channel paths can fail.",
+    "difficulty": "hard",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-021",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "In a hybrid cyber uplift in defense where benefits realization is under scrutiny and public perception matters, what should the project manager do to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set clear triggers for schedule, cost, and risk escalation"
+      },
+      {
+        "id": "b",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "c",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "d",
+        "label": "hide issues to avoid escalation"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because defined thresholds enable timely action. Option b is incorrect because ad hoc handling causes confusion. Option c is incorrect because over-escalation wastes sponsor time. Option d is incorrect because hidden issues worsen outcomes.",
+    "difficulty": "hard",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-022",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "Given a predictive critical infrastructure in insurance where external regulators oversee work and budget variance is tight, which action best supports define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "b",
+        "label": "document who to contact and how escalations flow"
+      },
+      {
+        "id": "c",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "d",
+        "label": "handle escalations ad hoc each time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because clear paths prevent delays. Option a is incorrect because vague thresholds are ineffective. Option c is incorrect because single-channel paths can fail. Option d is incorrect because ad hoc handling causes confusion.",
+    "difficulty": "hard",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-023",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "While facing a vendor-led cyber uplift in healthcare where benefits realization is under scrutiny and public perception matters, what is the most effective next step to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "b",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "c",
+        "label": "align escalation with SLAs and governance cadence"
+      },
+      {
+        "id": "d",
+        "label": "set thresholds so vague that no one uses them"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because alignment keeps responses consistent. Option a is incorrect because over-escalation wastes sponsor time. Option b is incorrect because hidden issues worsen outcomes. Option d is incorrect because vague thresholds are ineffective.",
+    "difficulty": "hard",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-024",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "For a hybrid claims platform in healthcare where risk appetite is low and the project is on the portfolio watchlist, what should the project manager do first to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit escalation paths to email chains only"
+      },
+      {
+        "id": "b",
+        "label": "handle escalations ad hoc each time"
+      },
+      {
+        "id": "c",
+        "label": "escalate every issue straight to the sponsor"
+      },
+      {
+        "id": "d",
+        "label": "socialize the escalation process with the team"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because awareness ensures use when needed. Option a is incorrect because single-channel paths can fail. Option b is incorrect because ad hoc handling causes confusion. Option c is incorrect because over-escalation wastes sponsor time.",
+    "difficulty": "hard",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-14-2-025",
+    "domainId": "process",
+    "taskId": "process-14",
+    "enablerIds": [
+      "e-process-14-2"
+    ],
+    "text": "In a agile cyber uplift in insurance where external regulators oversee work and public perception matters, what should the project manager do to define escalation paths and thresholds?",
+    "options": [
+      {
+        "id": "a",
+        "label": "test or rehearse the escalation path"
+      },
+      {
+        "id": "b",
+        "label": "hide issues to avoid escalation"
+      },
+      {
+        "id": "c",
+        "label": "set thresholds so vague that no one uses them"
+      },
+      {
+        "id": "d",
+        "label": "limit escalation paths to email chains only"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because testing confirms it works in practice. Option b is incorrect because hidden issues worsen outcomes. Option c is incorrect because vague thresholds are ineffective. Option d is incorrect because single-channel paths can fail.",
+    "difficulty": "hard",
+    "topics": [
+      "escalation",
+      "thresholds"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  }
+]

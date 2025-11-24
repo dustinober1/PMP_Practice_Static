@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-9-1-001",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "In a agile release train data modernization in higher education where multiple teams have separate plans and shared resources create dependencies, what should the project manager do to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "merge subsidiary plans and resolve conflicts before baselining"
+      },
+      {
+        "id": "b",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "c",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "d",
+        "label": "avoid involving other leads to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because an integrated plan aligns all areas. Option b is incorrect because unreconciled plans create conflict. Option c is incorrect because unstable baselines reduce control. Option d is incorrect because missing input weakens the plan.",
+    "difficulty": "easy",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-002",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "Given a agile release train CRM consolidation in higher education where reporting requirements are strict and there is active benefits tracking, which action best supports consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "b",
+        "label": "synchronize milestones and dependencies across teams"
+      },
+      {
+        "id": "c",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "d",
+        "label": "keep each team plan separate without reconciliation"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because aligned milestones prevent collisions. Option a is incorrect because plans need upkeep throughout. Option c is incorrect because version sprawl confuses execution. Option d is incorrect because unreconciled plans create conflict.",
+    "difficulty": "easy",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-003",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "While facing a predictive MES upgrade in media where reporting requirements are strict and shared resources create dependencies, what is the most effective next step to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "b",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "c",
+        "label": "version and store the consolidated plan centrally"
+      },
+      {
+        "id": "d",
+        "label": "update the consolidated plan only at project end"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because single-source plans reduce confusion. Option a is incorrect because unstable baselines reduce control. Option b is incorrect because missing input weakens the plan. Option d is incorrect because plans need upkeep throughout.",
+    "difficulty": "easy",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-004",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "For a program-based CRM consolidation in manufacturing where benefits must be demonstrated and shared resources create dependencies, what should the project manager do first to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "b",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "c",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "d",
+        "label": "engage leads to validate assumptions and constraints"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because cross-discipline input improves the plan. Option a is incorrect because version sprawl confuses execution. Option b is incorrect because unreconciled plans create conflict. Option c is incorrect because unstable baselines reduce control.",
+    "difficulty": "easy",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-005",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "In a predictive MES upgrade in fintech where baseline versions differ by team and governance boards meet monthly, what should the project manager do to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "baseline only after reconciliation and approval"
+      },
+      {
+        "id": "b",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "c",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "d",
+        "label": "allow multiple unpublished versions to circulate"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because baselining requires alignment first. Option b is incorrect because missing input weakens the plan. Option c is incorrect because plans need upkeep throughout. Option d is incorrect because version sprawl confuses execution.",
+    "difficulty": "easy",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-006",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "Given a agile release train CRM consolidation in higher education where reporting requirements are strict and funding hinges on a plan review, which action best supports consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "b",
+        "label": "merge subsidiary plans and resolve conflicts before baselining"
+      },
+      {
+        "id": "c",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "d",
+        "label": "avoid involving other leads to save time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because an integrated plan aligns all areas. Option a is incorrect because unreconciled plans create conflict. Option c is incorrect because unstable baselines reduce control. Option d is incorrect because missing input weakens the plan.",
+    "difficulty": "easy",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-007",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "While facing a hybrid streaming platform in higher education where multiple teams have separate plans and there is active benefits tracking, what is the most effective next step to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "b",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "c",
+        "label": "synchronize milestones and dependencies across teams"
+      },
+      {
+        "id": "d",
+        "label": "keep each team plan separate without reconciliation"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because aligned milestones prevent collisions. Option a is incorrect because plans need upkeep throughout. Option b is incorrect because version sprawl confuses execution. Option d is incorrect because unreconciled plans create conflict.",
+    "difficulty": "easy",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-008",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "For a portfolio-aligned streaming platform in higher education where risk data needs consolidation and governance boards meet monthly, what should the project manager do first to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "b",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "c",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "d",
+        "label": "version and store the consolidated plan centrally"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because single-source plans reduce confusion. Option a is incorrect because unstable baselines reduce control. Option b is incorrect because missing input weakens the plan. Option c is incorrect because plans need upkeep throughout.",
+    "difficulty": "easy",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-009",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "In a portfolio-aligned streaming platform in higher education where multiple teams have separate plans and governance boards meet monthly, what should the project manager do to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "engage leads to validate assumptions and constraints"
+      },
+      {
+        "id": "b",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "c",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "d",
+        "label": "baseline plans while conflicts remain"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because cross-discipline input improves the plan. Option b is incorrect because version sprawl confuses execution. Option c is incorrect because unreconciled plans create conflict. Option d is incorrect because unstable baselines reduce control.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-010",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "Given a predictive shared services rollout in manufacturing where reporting requirements are strict and shared resources create dependencies, which action best supports consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "b",
+        "label": "baseline only after reconciliation and approval"
+      },
+      {
+        "id": "c",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "d",
+        "label": "allow multiple unpublished versions to circulate"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because baselining requires alignment first. Option a is incorrect because missing input weakens the plan. Option c is incorrect because plans need upkeep throughout. Option d is incorrect because version sprawl confuses execution.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-011",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "While facing a program-based shared services rollout in fintech where reporting requirements are strict and funding hinges on a plan review, what is the most effective next step to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "b",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "c",
+        "label": "merge subsidiary plans and resolve conflicts before baselining"
+      },
+      {
+        "id": "d",
+        "label": "avoid involving other leads to save time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because an integrated plan aligns all areas. Option a is incorrect because unreconciled plans create conflict. Option b is incorrect because unstable baselines reduce control. Option d is incorrect because missing input weakens the plan.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-012",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "For a hybrid streaming platform in fintech where baseline versions differ by team and shared resources create dependencies, what should the project manager do first to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "b",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "c",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "d",
+        "label": "synchronize milestones and dependencies across teams"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because aligned milestones prevent collisions. Option a is incorrect because plans need upkeep throughout. Option b is incorrect because version sprawl confuses execution. Option c is incorrect because unreconciled plans create conflict.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-013",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "In a program-based MES upgrade in manufacturing where baseline versions differ by team and there is active benefits tracking, what should the project manager do to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "version and store the consolidated plan centrally"
+      },
+      {
+        "id": "b",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "c",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "d",
+        "label": "update the consolidated plan only at project end"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because single-source plans reduce confusion. Option b is incorrect because unstable baselines reduce control. Option c is incorrect because missing input weakens the plan. Option d is incorrect because plans need upkeep throughout.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-014",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "Given a portfolio-aligned data modernization in media where risk data needs consolidation and governance boards meet monthly, which action best supports consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "b",
+        "label": "engage leads to validate assumptions and constraints"
+      },
+      {
+        "id": "c",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "d",
+        "label": "baseline plans while conflicts remain"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because cross-discipline input improves the plan. Option a is incorrect because version sprawl confuses execution. Option c is incorrect because unreconciled plans create conflict. Option d is incorrect because unstable baselines reduce control.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-015",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "While facing a portfolio-aligned CRM consolidation in fintech where baseline versions differ by team and funding hinges on a plan review, what is the most effective next step to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "b",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "c",
+        "label": "baseline only after reconciliation and approval"
+      },
+      {
+        "id": "d",
+        "label": "allow multiple unpublished versions to circulate"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because baselining requires alignment first. Option a is incorrect because missing input weakens the plan. Option b is incorrect because plans need upkeep throughout. Option d is incorrect because version sprawl confuses execution.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-016",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "For a program-based data modernization in energy where baseline versions differ by team and funding hinges on a plan review, what should the project manager do first to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "b",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "c",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "d",
+        "label": "merge subsidiary plans and resolve conflicts before baselining"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because an integrated plan aligns all areas. Option a is incorrect because unreconciled plans create conflict. Option b is incorrect because unstable baselines reduce control. Option c is incorrect because missing input weakens the plan.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-017",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "In a agile release train shared services rollout in manufacturing where reporting requirements are strict and funding hinges on a plan review, what should the project manager do to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "synchronize milestones and dependencies across teams"
+      },
+      {
+        "id": "b",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "c",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "d",
+        "label": "keep each team plan separate without reconciliation"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because aligned milestones prevent collisions. Option b is incorrect because plans need upkeep throughout. Option c is incorrect because version sprawl confuses execution. Option d is incorrect because unreconciled plans create conflict.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-018",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "Given a hybrid MES upgrade in energy where reporting requirements are strict and shared resources create dependencies, which action best supports consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "b",
+        "label": "version and store the consolidated plan centrally"
+      },
+      {
+        "id": "c",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "d",
+        "label": "update the consolidated plan only at project end"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because single-source plans reduce confusion. Option a is incorrect because unstable baselines reduce control. Option c is incorrect because missing input weakens the plan. Option d is incorrect because plans need upkeep throughout.",
+    "difficulty": "medium",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-019",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "While facing a portfolio-aligned streaming platform in media where multiple teams have separate plans and shared resources create dependencies, what is the most effective next step to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "b",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "c",
+        "label": "engage leads to validate assumptions and constraints"
+      },
+      {
+        "id": "d",
+        "label": "baseline plans while conflicts remain"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because cross-discipline input improves the plan. Option a is incorrect because version sprawl confuses execution. Option b is incorrect because unreconciled plans create conflict. Option d is incorrect because unstable baselines reduce control.",
+    "difficulty": "hard",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-020",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "For a hybrid CRM consolidation in media where reporting requirements are strict and executives want a single view, what should the project manager do first to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "b",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "c",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "d",
+        "label": "baseline only after reconciliation and approval"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because baselining requires alignment first. Option a is incorrect because missing input weakens the plan. Option b is incorrect because plans need upkeep throughout. Option c is incorrect because version sprawl confuses execution.",
+    "difficulty": "hard",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-021",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "In a predictive shared services rollout in media where benefits must be demonstrated and executives want a single view, what should the project manager do to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "merge subsidiary plans and resolve conflicts before baselining"
+      },
+      {
+        "id": "b",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "c",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "d",
+        "label": "avoid involving other leads to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because an integrated plan aligns all areas. Option b is incorrect because unreconciled plans create conflict. Option c is incorrect because unstable baselines reduce control. Option d is incorrect because missing input weakens the plan.",
+    "difficulty": "hard",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-022",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "Given a program-based CRM consolidation in fintech where reporting requirements are strict and funding hinges on a plan review, which action best supports consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "b",
+        "label": "synchronize milestones and dependencies across teams"
+      },
+      {
+        "id": "c",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "d",
+        "label": "keep each team plan separate without reconciliation"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because aligned milestones prevent collisions. Option a is incorrect because plans need upkeep throughout. Option c is incorrect because version sprawl confuses execution. Option d is incorrect because unreconciled plans create conflict.",
+    "difficulty": "hard",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-023",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "While facing a agile release train data modernization in fintech where baseline versions differ by team and executives want a single view, what is the most effective next step to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "b",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "c",
+        "label": "version and store the consolidated plan centrally"
+      },
+      {
+        "id": "d",
+        "label": "update the consolidated plan only at project end"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because single-source plans reduce confusion. Option a is incorrect because unstable baselines reduce control. Option b is incorrect because missing input weakens the plan. Option d is incorrect because plans need upkeep throughout.",
+    "difficulty": "hard",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-024",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "For a agile release train data modernization in manufacturing where reporting requirements are strict and governance boards meet monthly, what should the project manager do first to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "allow multiple unpublished versions to circulate"
+      },
+      {
+        "id": "b",
+        "label": "keep each team plan separate without reconciliation"
+      },
+      {
+        "id": "c",
+        "label": "baseline plans while conflicts remain"
+      },
+      {
+        "id": "d",
+        "label": "engage leads to validate assumptions and constraints"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because cross-discipline input improves the plan. Option a is incorrect because version sprawl confuses execution. Option b is incorrect because unreconciled plans create conflict. Option c is incorrect because unstable baselines reduce control.",
+    "difficulty": "hard",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-9-1-025",
+    "domainId": "process",
+    "taskId": "process-9",
+    "enablerIds": [
+      "e-process-9-1"
+    ],
+    "text": "In a predictive data modernization in fintech where risk data needs consolidation and shared resources create dependencies, what should the project manager do to consolidate project or phase plans?",
+    "options": [
+      {
+        "id": "a",
+        "label": "baseline only after reconciliation and approval"
+      },
+      {
+        "id": "b",
+        "label": "avoid involving other leads to save time"
+      },
+      {
+        "id": "c",
+        "label": "update the consolidated plan only at project end"
+      },
+      {
+        "id": "d",
+        "label": "allow multiple unpublished versions to circulate"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because baselining requires alignment first. Option b is incorrect because missing input weakens the plan. Option c is incorrect because plans need upkeep throughout. Option d is incorrect because version sprawl confuses execution.",
+    "difficulty": "hard",
+    "topics": [
+      "integration",
+      "planning"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  }
+]

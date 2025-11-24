@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-6-5-001",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "In a phased rollout regulatory system upgrade in fintech where interfaces are still being defined and integration testing is on the critical path, what should the project manager do to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "identify cross-project milestones and align dates with affected teams"
+      },
+      {
+        "id": "b",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "c",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "d",
+        "label": "remove integration buffers to appear faster"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shared milestones need coordinated plans. Option b is incorrect because ignoring others causes collisions and rework. Option c is incorrect because missing operational input risks outages. Option d is incorrect because removing buffers increases risk of slippage.",
+    "difficulty": "easy",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-002",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "Given a agile platform rollout in fintech where teams have uneven velocity and integration testing is on the critical path, which action best supports coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "b",
+        "label": "participate in dependency and release planning with the PMO or train"
+      },
+      {
+        "id": "c",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "d",
+        "label": "lock the schedule and expect others to adapt"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because program-level cadence keeps schedules aligned. Option a is incorrect because unowned dependencies often fail. Option c is incorrect because reactive handling prolongs conflicts. Option d is incorrect because ignoring others causes collisions and rework.",
+    "difficulty": "easy",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-003",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "While facing a hybrid ERP replacement in healthcare where teams have uneven velocity and holiday constraints reduce capacity, what is the most effective next step to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "b",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "c",
+        "label": "negotiate resource and environment availability with operations"
+      },
+      {
+        "id": "d",
+        "label": "treat dependencies as assumptions without owners"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because coordination avoids conflicts and delays. Option a is incorrect because missing operational input risks outages. Option b is incorrect because removing buffers increases risk of slippage. Option d is incorrect because unowned dependencies often fail.",
+    "difficulty": "easy",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-004",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "For a agile ERP replacement in utilities where critical dependencies span vendors and a major milestone is six weeks away, what should the project manager do first to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "b",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "c",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "d",
+        "label": "capture external dependencies and add integration buffers"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because buffering for external factors reduces risk. Option a is incorrect because reactive handling prolongs conflicts. Option b is incorrect because ignoring others causes collisions and rework. Option c is incorrect because missing operational input risks outages.",
+    "difficulty": "easy",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-005",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "In a vendor-led platform rollout in fintech where regulators require staged releases and a major milestone is six weeks away, what should the project manager do to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate conflicting timelines through governance when needed"
+      },
+      {
+        "id": "b",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "c",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "d",
+        "label": "wait for escalations instead of proactive coordination"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because governance helps resolve cross-project conflicts. Option b is incorrect because removing buffers increases risk of slippage. Option c is incorrect because unowned dependencies often fail. Option d is incorrect because reactive handling prolongs conflicts.",
+    "difficulty": "easy",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-006",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "Given a phased rollout data migration in utilities where operations needs blackout windows respected and executives want reliable dates, which action best supports coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "b",
+        "label": "identify cross-project milestones and align dates with affected teams"
+      },
+      {
+        "id": "c",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "d",
+        "label": "remove integration buffers to appear faster"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because shared milestones need coordinated plans. Option a is incorrect because ignoring others causes collisions and rework. Option c is incorrect because missing operational input risks outages. Option d is incorrect because removing buffers increases risk of slippage.",
+    "difficulty": "easy",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-007",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "While facing a agile regulatory system upgrade in manufacturing where regulators require staged releases and integration testing is on the critical path, what is the most effective next step to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "b",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "c",
+        "label": "participate in dependency and release planning with the PMO or train"
+      },
+      {
+        "id": "d",
+        "label": "lock the schedule and expect others to adapt"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because program-level cadence keeps schedules aligned. Option a is incorrect because unowned dependencies often fail. Option b is incorrect because reactive handling prolongs conflicts. Option d is incorrect because ignoring others causes collisions and rework.",
+    "difficulty": "easy",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-008",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "For a agile ERP replacement in utilities where teams have uneven velocity and executives want reliable dates, what should the project manager do first to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "b",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "c",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "d",
+        "label": "negotiate resource and environment availability with operations"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because coordination avoids conflicts and delays. Option a is incorrect because missing operational input risks outages. Option b is incorrect because removing buffers increases risk of slippage. Option c is incorrect because unowned dependencies often fail.",
+    "difficulty": "easy",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-009",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "In a predictive platform rollout in fintech where interfaces are still being defined and executives want reliable dates, what should the project manager do to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "capture external dependencies and add integration buffers"
+      },
+      {
+        "id": "b",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "c",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "d",
+        "label": "avoid talking to operations to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because buffering for external factors reduces risk. Option b is incorrect because reactive handling prolongs conflicts. Option c is incorrect because ignoring others causes collisions and rework. Option d is incorrect because missing operational input risks outages.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-010",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "Given a predictive platform rollout in public sector where interfaces are still being defined and integration testing is on the critical path, which action best supports coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "b",
+        "label": "escalate conflicting timelines through governance when needed"
+      },
+      {
+        "id": "c",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "d",
+        "label": "wait for escalations instead of proactive coordination"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because governance helps resolve cross-project conflicts. Option a is incorrect because removing buffers increases risk of slippage. Option c is incorrect because unowned dependencies often fail. Option d is incorrect because reactive handling prolongs conflicts.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-011",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "While facing a vendor-led regulatory system upgrade in manufacturing where teams have uneven velocity and lead times for hardware are long, what is the most effective next step to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "b",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "c",
+        "label": "identify cross-project milestones and align dates with affected teams"
+      },
+      {
+        "id": "d",
+        "label": "remove integration buffers to appear faster"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because shared milestones need coordinated plans. Option a is incorrect because ignoring others causes collisions and rework. Option b is incorrect because missing operational input risks outages. Option d is incorrect because removing buffers increases risk of slippage.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-012",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "For a predictive data migration in healthcare where regulators require staged releases and holiday constraints reduce capacity, what should the project manager do first to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "b",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "c",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "d",
+        "label": "participate in dependency and release planning with the PMO or train"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because program-level cadence keeps schedules aligned. Option a is incorrect because unowned dependencies often fail. Option b is incorrect because reactive handling prolongs conflicts. Option c is incorrect because ignoring others causes collisions and rework.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-013",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "In a hybrid data migration in healthcare where operations needs blackout windows respected and integration testing is on the critical path, what should the project manager do to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "negotiate resource and environment availability with operations"
+      },
+      {
+        "id": "b",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "c",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "d",
+        "label": "treat dependencies as assumptions without owners"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because coordination avoids conflicts and delays. Option b is incorrect because missing operational input risks outages. Option c is incorrect because removing buffers increases risk of slippage. Option d is incorrect because unowned dependencies often fail.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-014",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "Given a hybrid ERP replacement in utilities where regulators require staged releases and holiday constraints reduce capacity, which action best supports coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "b",
+        "label": "capture external dependencies and add integration buffers"
+      },
+      {
+        "id": "c",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "d",
+        "label": "avoid talking to operations to save time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because buffering for external factors reduces risk. Option a is incorrect because reactive handling prolongs conflicts. Option c is incorrect because ignoring others causes collisions and rework. Option d is incorrect because missing operational input risks outages.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-015",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "While facing a phased rollout regulatory system upgrade in healthcare where critical dependencies span vendors and lead times for hardware are long, what is the most effective next step to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "b",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "c",
+        "label": "escalate conflicting timelines through governance when needed"
+      },
+      {
+        "id": "d",
+        "label": "wait for escalations instead of proactive coordination"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because governance helps resolve cross-project conflicts. Option a is incorrect because removing buffers increases risk of slippage. Option b is incorrect because unowned dependencies often fail. Option d is incorrect because reactive handling prolongs conflicts.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-016",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "For a hybrid regulatory system upgrade in healthcare where operations needs blackout windows respected and integration testing is on the critical path, what should the project manager do first to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "b",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "c",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "d",
+        "label": "identify cross-project milestones and align dates with affected teams"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because shared milestones need coordinated plans. Option a is incorrect because ignoring others causes collisions and rework. Option b is incorrect because missing operational input risks outages. Option c is incorrect because removing buffers increases risk of slippage.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-017",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "In a hybrid platform rollout in utilities where teams have uneven velocity and integration testing is on the critical path, what should the project manager do to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "participate in dependency and release planning with the PMO or train"
+      },
+      {
+        "id": "b",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "c",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "d",
+        "label": "lock the schedule and expect others to adapt"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because program-level cadence keeps schedules aligned. Option b is incorrect because unowned dependencies often fail. Option c is incorrect because reactive handling prolongs conflicts. Option d is incorrect because ignoring others causes collisions and rework.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-018",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "Given a phased rollout data migration in fintech where teams have uneven velocity and lead times for hardware are long, which action best supports coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "b",
+        "label": "negotiate resource and environment availability with operations"
+      },
+      {
+        "id": "c",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "d",
+        "label": "treat dependencies as assumptions without owners"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because coordination avoids conflicts and delays. Option a is incorrect because missing operational input risks outages. Option c is incorrect because removing buffers increases risk of slippage. Option d is incorrect because unowned dependencies often fail.",
+    "difficulty": "medium",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-019",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "While facing a phased rollout platform rollout in fintech where critical dependencies span vendors and integration testing is on the critical path, what is the most effective next step to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "b",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "c",
+        "label": "capture external dependencies and add integration buffers"
+      },
+      {
+        "id": "d",
+        "label": "avoid talking to operations to save time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because buffering for external factors reduces risk. Option a is incorrect because reactive handling prolongs conflicts. Option b is incorrect because ignoring others causes collisions and rework. Option d is incorrect because missing operational input risks outages.",
+    "difficulty": "hard",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-020",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "For a phased rollout regulatory system upgrade in healthcare where interfaces are still being defined and lead times for hardware are long, what should the project manager do first to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "b",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "c",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "d",
+        "label": "escalate conflicting timelines through governance when needed"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because governance helps resolve cross-project conflicts. Option a is incorrect because removing buffers increases risk of slippage. Option b is incorrect because unowned dependencies often fail. Option c is incorrect because reactive handling prolongs conflicts.",
+    "difficulty": "hard",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-021",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "In a hybrid platform rollout in manufacturing where critical dependencies span vendors and holiday constraints reduce capacity, what should the project manager do to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "identify cross-project milestones and align dates with affected teams"
+      },
+      {
+        "id": "b",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "c",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "d",
+        "label": "remove integration buffers to appear faster"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shared milestones need coordinated plans. Option b is incorrect because ignoring others causes collisions and rework. Option c is incorrect because missing operational input risks outages. Option d is incorrect because removing buffers increases risk of slippage.",
+    "difficulty": "hard",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-022",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "Given a agile data migration in public sector where regulators require staged releases and executives want reliable dates, which action best supports coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "b",
+        "label": "participate in dependency and release planning with the PMO or train"
+      },
+      {
+        "id": "c",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "d",
+        "label": "lock the schedule and expect others to adapt"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because program-level cadence keeps schedules aligned. Option a is incorrect because unowned dependencies often fail. Option c is incorrect because reactive handling prolongs conflicts. Option d is incorrect because ignoring others causes collisions and rework.",
+    "difficulty": "hard",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "control-schedule",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-023",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "While facing a agile ERP replacement in fintech where operations needs blackout windows respected and holiday constraints reduce capacity, what is the most effective next step to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "b",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "c",
+        "label": "negotiate resource and environment availability with operations"
+      },
+      {
+        "id": "d",
+        "label": "treat dependencies as assumptions without owners"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because coordination avoids conflicts and delays. Option a is incorrect because missing operational input risks outages. Option b is incorrect because removing buffers increases risk of slippage. Option d is incorrect because unowned dependencies often fail.",
+    "difficulty": "hard",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-024",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "For a hybrid data migration in manufacturing where teams have uneven velocity and executives want reliable dates, what should the project manager do first to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for escalations instead of proactive coordination"
+      },
+      {
+        "id": "b",
+        "label": "lock the schedule and expect others to adapt"
+      },
+      {
+        "id": "c",
+        "label": "avoid talking to operations to save time"
+      },
+      {
+        "id": "d",
+        "label": "capture external dependencies and add integration buffers"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because buffering for external factors reduces risk. Option a is incorrect because reactive handling prolongs conflicts. Option b is incorrect because ignoring others causes collisions and rework. Option c is incorrect because missing operational input risks outages.",
+    "difficulty": "hard",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-5-025",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-5"
+    ],
+    "text": "In a agile data migration in utilities where interfaces are still being defined and executives want reliable dates, what should the project manager do to coordinate the schedule with other projects and operations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate conflicting timelines through governance when needed"
+      },
+      {
+        "id": "b",
+        "label": "remove integration buffers to appear faster"
+      },
+      {
+        "id": "c",
+        "label": "treat dependencies as assumptions without owners"
+      },
+      {
+        "id": "d",
+        "label": "wait for escalations instead of proactive coordination"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because governance helps resolve cross-project conflicts. Option b is incorrect because removing buffers increases risk of slippage. Option c is incorrect because unowned dependencies often fail. Option d is incorrect because reactive handling prolongs conflicts.",
+    "difficulty": "hard",
+    "topics": [
+      "dependencies",
+      "coordination"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  }
+]
