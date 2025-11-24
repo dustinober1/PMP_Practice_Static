@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-5-4-001",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is beginning to plan and manage resources for a new project. What should be their first step in this process?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Determine the overall project budget and cost baseline."
+      },
+      {
+        "id": "b",
+        "label": "Analyze the project scope to understand resource requirements."
+      },
+      {
+        "id": "c",
+        "label": "Recruit team members for all project roles immediately."
+      },
+      {
+        "id": "d",
+        "label": "Create a detailed project schedule with specific task assignments."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The first step in planning and managing resources is to analyze the project scope to understand resource requirements. This provides the foundation for determining what resources will be needed to complete the project work.",
+    "difficulty": "easy",
+    "topics": [
+      "resource planning",
+      "scope analysis"
+    ],
+    "process": "define-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-5-4-002",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources for a project with strict regulatory compliance requirements. What resource consideration should take priority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ensure team members have appropriate certifications and compliance training."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource planning approach as non-regulatory projects."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on the compliance-related project elements."
+      },
+      {
+        "id": "d",
+        "label": "Minimize compliance-related resource requirements to reduce project costs."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with strict regulatory compliance, team members need appropriate certifications and compliance training. The correct answer is option A, not B. Option B incorrectly suggests the same approach regardless of compliance requirements.",
+    "difficulty": "easy",
+    "topics": [
+      "regulatory compliance",
+      "compliance resources"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-4-003",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources across multiple departments within the organization. What is the most important consideration?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Negotiate resource allocation and availability with department managers."
+      },
+      {
+        "id": "b",
+        "label": "Use the same resource allocation approach for all departments."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on the department that initiated the project."
+      },
+      {
+        "id": "d",
+        "label": "Apply the resource allocation method of the most senior department to all."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "When multiple departments are involved, negotiating resource allocation and availability with department managers is essential. The correct answer is option A, not B. Option B incorrectly suggests the same allocation approach despite different departmental needs.",
+    "difficulty": "medium",
+    "topics": [
+      "multi-department resources",
+      "resource negotiation"
+    ],
+    "process": "acquire-resources",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-4-004",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources that include external vendor personnel. How should vendor resources be incorporated into the resource plan?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include vendor resources with clear roles, responsibilities, and contract terms."
+      },
+      {
+        "id": "b",
+        "label": "Treat vendor resources the same as internal resources in the resource plan."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on initial vendor selection activities."
+      },
+      {
+        "id": "d",
+        "label": "Exclude vendor resources from planning since they are external to the organization."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Vendor resources should be included with clear roles, responsibilities, and contract terms. The correct answer is option A, not B. Option B incorrectly suggests treating vendor resources identically to internal resources despite different relationships.",
+    "difficulty": "medium",
+    "topics": [
+      "vendor resources",
+      "external resource management"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-5-4-005",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project with high public visibility. How should visibility considerations affect resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider visibility requirements when selecting team members and communication tools."
+      },
+      {
+        "id": "b",
+        "label": "Use the same resource planning approach as for internal projects."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on resources for project deliverables, not visibility."
+      },
+      {
+        "id": "d",
+        "label": "Minimize resource allocation to visibility-related activities to reduce costs."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For high-visibility projects, visibility requirements should be considered when selecting team members and communication tools. The correct answer is option A, not B. Option B incorrectly suggests the same approach regardless of visibility requirements.",
+    "difficulty": "medium",
+    "topics": [
+      "public visibility",
+      "visibility resources"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-5-4-006",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources for a project with rapidly changing requirements. How should this uncertainty affect resource management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Plan for flexible resource allocation and cross-training to adapt to changes."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource planning approach as for stable requirement projects."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on requirements that are unlikely to change."
+      },
+      {
+        "id": "d",
+        "label": "Delay resource planning until requirements become stable."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with changing requirements, flexible resource allocation and cross-training should be planned. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite acknowledged uncertainty.",
+    "difficulty": "medium",
+    "topics": [
+      "changing requirements",
+      "flexible resources"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-5-4-007",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project with limited budget for resource acquisition. How should this constraint affect their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Prioritize essential resources and consider alternative resource acquisition methods."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource acquisition approach regardless of budget constraints."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource acquisition only on the most expensive project elements."
+      },
+      {
+        "id": "d",
+        "label": "Minimize resource acquisition to conserve the limited budget."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "With limited budget for resource acquisition, essential resources should be prioritized and alternative acquisition methods considered. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite budget constraints.",
+    "difficulty": "hard",
+    "topics": [
+      "resource constraints",
+      "budget-aware planning"
+    ],
+    "process": "estimate-activity-resources",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-4-008",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources across different phases of a multi-phase project. How should resource needs vary by phase?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Plan resources based on the specific requirements and activities of each phase."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical resource planning to all project phases consistently."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on the phase with the highest resource allocation."
+      },
+      {
+        "id": "d",
+        "label": "Complete all resource planning during the first project phase."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For multi-phase projects, resources should be planned based on each phase's specific requirements. The correct answer is option A, not B. Option B incorrectly suggests identical planning across all phases despite different needs.",
+    "difficulty": "medium",
+    "topics": [
+      "project phases",
+      "phase-specific resources"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-4-009",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project with stakeholders from different cultural backgrounds. How should cultural differences influence resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider cultural preferences and work practices when assigning and managing resources."
+      },
+      {
+        "id": "b",
+        "label": "Use the same resource planning approach regardless of cultural differences."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning using the project manager's own cultural approach."
+      },
+      {
+        "id": "d",
+        "label": "Minimize cross-cultural resource assignments to avoid potential conflicts."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Cultural differences should be considered in resource planning and management. The correct answer is option A, not B. Option B incorrectly suggests ignoring cultural differences in resource planning.",
+    "difficulty": "hard",
+    "topics": [
+      "cultural differences",
+      "cross-cultural resources"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-4-010",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources for a project with tight schedule constraints. How should time pressure affect resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Plan for additional resources to accelerate work and meet schedule requirements."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource planning approach regardless of schedule constraints."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on schedule-critical project elements."
+      },
+      {
+        "id": "d",
+        "label": "Postpone resource planning until after schedule-critical activities."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with tight schedules, additional resources may be needed to accelerate work. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite schedule constraints.",
+    "difficulty": "medium",
+    "topics": [
+      "time constraints",
+      "schedule-driven resources"
+    ],
+    "process": "develop-schedule",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-5-4-011",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project with high security requirements. How should security considerations influence resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ensure resources have appropriate security clearances and training."
+      },
+      {
+        "id": "b",
+        "label": "Security requirements should not impact resource planning activities."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on resources with the highest security clearances."
+      },
+      {
+        "id": "d",
+        "label": "Minimize security-related resource requirements to expedite project work."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For high-security projects, resources need appropriate clearances and training. The correct answer is option A, not B. Option B incorrectly suggests security doesn't impact resource planning.",
+    "difficulty": "hard",
+    "topics": [
+      "security requirements",
+      "security resources"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-5-4-012",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources for a project with multiple external partner organizations. How should partnership dynamics influence resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider partnership agreements and resource sharing arrangements in planning."
+      },
+      {
+        "id": "b",
+        "label": "Use identical resource planning methods for all external partners."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning primarily on the main partnering organization."
+      },
+      {
+        "id": "d",
+        "label": "Use only internal resources to maintain project control and minimize complexity."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Partnership agreements and resource sharing arrangements should be considered in planning. The correct answer is option A, not B. Option B incorrectly suggests identical planning methods despite different partnership agreements.",
+    "difficulty": "medium",
+    "topics": [
+      "external partnerships",
+      "partner resources"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-5-4-013",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources when team members have different communication preferences and technological capabilities. How should these differences be addressed in resource management?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Adapt management approaches to accommodate different communication preferences."
+      },
+      {
+        "id": "b",
+        "label": "Use standardized communication methods for all team members for consistency."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource management using only the most advanced communication technologies."
+      },
+      {
+        "id": "d",
+        "label": "Use only face-to-face meetings to ensure effective communication with all resources."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Management approaches should be adapted to accommodate different communication preferences. The correct answer is option A, not B. Option B incorrectly suggests standardized methods despite different preferences.",
+    "difficulty": "medium",
+    "topics": [
+      "communication preferences",
+      "adaptive management"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-5-4-014",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources for a project with a history of resource conflicts in similar projects. How should this history influence their planning approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Implement enhanced resource allocation and conflict resolution processes."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource planning approach regardless of past history."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on areas where past projects had resource conflicts."
+      },
+      {
+        "id": "d",
+        "label": "Avoid resource planning to prevent repeating the same conflicts."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Based on past history of resource conflicts, enhanced allocation and conflict resolution processes should be implemented. The correct answer is option A, not B. Option B incorrectly suggests ignoring past history in planning.",
+    "difficulty": "hard",
+    "topics": [
+      "lessons learned",
+      "historical resource planning"
+    ],
+    "process": "acquire-resources",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-4-015",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project that will significantly change business operations. How should change impact influence resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Plan for change management resources and training for operational staff."
+      },
+      {
+        "id": "b",
+        "label": "Apply standard resource planning procedures without considering operational changes."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on stakeholders supportive of the changes."
+      },
+      {
+        "id": "d",
+        "label": "Minimize change-related resources to avoid stakeholder resistance."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with significant operational changes, change management and training resources should be planned. The correct answer is option A, not B. Option B incorrectly suggests ignoring operational changes in resource planning.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational change",
+      "change resources"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-5-4-016",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources across multiple organizational levels. How should organizational hierarchy influence resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Align resource assignments and reporting relationships with organizational hierarchy."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical resource planning to all organizational levels."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning primarily on senior management level activities."
+      },
+      {
+        "id": "d",
+        "label": "Use formal resource allocation methods only for top organizational levels."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Resource assignments should align with organizational hierarchy and reporting relationships. The correct answer is option A, not B. Option B incorrectly suggests identical planning across all levels despite different reporting structures.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational hierarchy",
+      "hierarchical resources"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-4-017",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project with significant technical complexity. How should complexity affect resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ensure resources have appropriate technical expertise and plan for specialized tools."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource planning approach regardless of technical complexity."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on the most technically complex project elements."
+      },
+      {
+        "id": "d",
+        "label": "Minimize technical resource requirements to simplify project execution."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For technically complex projects, resources need appropriate expertise and specialized tools should be planned. The correct answer is option A, not B. Option B incorrectly suggests ignoring technical complexity in resource planning.",
+    "difficulty": "medium",
+    "topics": [
+      "technical complexity",
+      "complexity resources"
+    ],
+    "process": "estimate-activity-resources",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-4-018",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources for a project with environmental impact considerations. How should environmental factors influence resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include resources for environmental compliance and impact mitigation activities."
+      },
+      {
+        "id": "b",
+        "label": "Environmental considerations should not affect resource planning activities."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on environmental experts and specialists."
+      },
+      {
+        "id": "d",
+        "label": "Minimize environmental impact resources to focus on project deliverables."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with environmental impacts, resources for compliance and mitigation should be included. The correct answer is option A, not B. Option B incorrectly suggests environmental factors don't affect resource planning.",
+    "difficulty": "medium",
+    "topics": [
+      "environmental impact",
+      "environmental resources"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-4-019",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project with limited team experience in resource management. How should this capability constraint influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide additional training and guidance while simplifying resource processes."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource management approach regardless of team experience."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource management only on areas where the team has experience."
+      },
+      {
+        "id": "d",
+        "label": "Minimize resource management activities to accommodate team limitations."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "When team experience is limited, additional training and simplified processes should be provided. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite capability constraints.",
+    "difficulty": "medium",
+    "topics": [
+      "team experience",
+      "capability-aware management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-4-020",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources for a project with global team members across different regions. How should geographic distribution influence resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider time zones, local regulations, and regional resource availability in planning."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical resource planning to all geographic locations."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning primarily on team members in the project manager's region."
+      },
+      {
+        "id": "d",
+        "label": "Use only centralized resource planning to avoid complexity from geographic differences."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For global projects, time zones, local regulations, and regional availability should be considered. The correct answer is option A, not B. Option B incorrectly suggests identical planning despite geographic differences.",
+    "difficulty": "hard",
+    "topics": [
+      "global projects",
+      "geographic resources"
+    ],
+    "process": "estimate-activity-resources",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-4-021",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project with multiple competing objectives. How should objective trade-offs influence resource allocation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Balance resource allocation considering the importance of different objectives."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource allocation approach regardless of competing objectives."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource allocation only on the highest-priority project objectives."
+      },
+      {
+        "id": "d",
+        "label": "Avoid balancing objectives in resource allocation to prevent conflicts."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "With competing objectives, resource allocation should balance the importance of different objectives. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite competing objectives.",
+    "difficulty": "hard",
+    "topics": [
+      "competing objectives",
+      "balanced allocation"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-4-022",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources with limited access to historical resource data. How should this information constraint influence their planning approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Increase reliance on expert judgment and industry benchmarks in planning."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource planning approach regardless of data availability."
+      },
+      {
+        "id": "c",
+        "label": "Focus planning only on resources similar to the limited data available."
+      },
+      {
+        "id": "d",
+        "label": "Delay resource planning until more historical data becomes available."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "With limited historical data, reliance on expert judgment and industry benchmarks should increase. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite data constraints.",
+    "difficulty": "medium",
+    "topics": [
+      "limited data",
+      "data-constrained planning"
+    ],
+    "process": "estimate-activity-resources",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-4-023",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project with multiple parallel work streams. How should the project structure influence resource allocation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider interdependencies and resource sharing between work streams in allocation."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical resource allocation to all parallel work streams."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource allocation only on the most critical parallel work stream."
+      },
+      {
+        "id": "d",
+        "label": "Allocate resources separately for each parallel work stream without coordination."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with parallel work streams, interdependencies and resource sharing should be considered in allocation. The correct answer is option A, not B. Option B incorrectly suggests identical allocation despite interdependencies.",
+    "difficulty": "hard",
+    "topics": [
+      "parallel work streams",
+      "interdependency allocation"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-4-024",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is planning resources for a project with rapidly evolving technology. How should technological change affect resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Plan for resources with adaptable skills and training for new technologies."
+      },
+      {
+        "id": "b",
+        "label": "Apply standard resource planning procedures without considering technology evolution."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on the original technology baseline."
+      },
+      {
+        "id": "d",
+        "label": "Minimize technology-related resources to focus on cost control."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with evolving technology, resources with adaptable skills and training should be planned. The correct answer is option A, not B. Option B incorrectly suggests ignoring technology evolution in resource planning.",
+    "difficulty": "hard",
+    "topics": [
+      "evolving technology",
+      "technology-aware planning"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-4-025",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-4"
+    ],
+    "text": "A project manager is managing resources for a project with a compressed timeline. How should time pressure influence resource planning?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Plan for additional resources to meet compressed schedule requirements."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same resource planning approach regardless of schedule compression."
+      },
+      {
+        "id": "c",
+        "label": "Focus resource planning only on activities that directly affect the timeline."
+      },
+      {
+        "id": "d",
+        "label": "Postpone resource planning to focus on schedule acceleration activities."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For compressed projects, additional resources may be needed to meet schedule requirements. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite schedule compression.",
+    "difficulty": "medium",
+    "topics": [
+      "compressed schedule",
+      "time-pressured resources"
+    ],
+    "process": "develop-schedule",
+    "knowledgeAreaId": "schedule"
+  }
+]

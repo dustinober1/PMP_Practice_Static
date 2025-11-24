@@ -15,7 +15,12 @@ const writeJson = (filePath, data) => {
 }
 
 const main = () => {
-  const baseQuestions = readJson(baseQuestionsPath)
+  let baseQuestions = []
+  if (fs.existsSync(baseQuestionsPath)) {
+    baseQuestions = readJson(baseQuestionsPath)
+  } else {
+    console.log(`Warning: ${baseQuestionsPath} not found. Starting with empty questions array.`)
+  }
   const allQuestions = [...baseQuestions]
   const existingIds = new Set(allQuestions.map((q) => q.id))
 
@@ -27,6 +32,7 @@ const main = () => {
         if (entry.isDirectory()) {
           walk(full)
         } else if (entry.isFile() && entry.name.endsWith('.json')) {
+          console.log('Processing file:', full);
           const items = readJson(full)
           items.forEach((q) => {
             if (!q.id || existingIds.has(q.id)) return

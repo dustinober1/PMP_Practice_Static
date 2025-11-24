@@ -1,0 +1,21 @@
+[
+  {
+    "id": "q-people-10-1-001",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": ["e-people-10-1"],
+    "text": "Placeholder question for e-people-10-1 in people-10.",
+    "options": [
+      {"id": "a", "label": "Option A"},
+      {"id": "b", "label": "Option B"},
+      {"id": "c", "label": "Option C"},
+      {"id": "d", "label": "Option D"}
+    ],
+    "correctOptionId": "c",
+    "explanation": "This is a placeholder explanation for e-people-10-1.",
+    "difficulty": "easy",
+    "topics": ["placeholder", "people"],
+    "process": "placeholder-process",
+    "knowledgeAreaId": "placeholder-knowledge-area"
+  }
+]

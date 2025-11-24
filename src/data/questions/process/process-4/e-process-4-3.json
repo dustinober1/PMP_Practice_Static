@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-4-3-001",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager has categorized stakeholders into different groups. What should be their next step in engaging stakeholders by category?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Develop a single engagement approach for all stakeholder categories."
+      },
+      {
+        "id": "b",
+        "label": "Create tailored engagement strategies specific to each stakeholder category."
+      },
+      {
+        "id": "c",
+        "label": "Begin immediate engagement with all stakeholders using standard methods."
+      },
+      {
+        "id": "d",
+        "label": "Focus engagement only on the largest stakeholder category."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "After categorizing stakeholders, the next step is to create tailored engagement strategies specific to each stakeholder category. Different stakeholder categories have different needs, interests, and influence levels, requiring customized engagement approaches for maximum effectiveness.",
+    "difficulty": "easy",
+    "topics": [
+      "stakeholder engagement",
+      "tailored strategies"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-002",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is developing engagement approaches for high-power, high-interest stakeholders. What strategy should be prioritized for this category?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Minimal communication to avoid overwhelming these stakeholders."
+      },
+      {
+        "id": "b",
+        "label": "Frequent, detailed communication and active involvement in decisions."
+      },
+      {
+        "id": "c",
+        "label": "Periodic updates only when project milestones are reached."
+      },
+      {
+        "id": "d",
+        "label": "Engagement only when problems occur that require their intervention."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "High-power, high-interest stakeholders require frequent, detailed communication and active involvement in decisions. The correct answer is option B, not A. Option A incorrectly suggests minimal communication for this important stakeholder category.",
+    "difficulty": "easy",
+    "topics": [
+      "high-power stakeholders",
+      "engagement intensity"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-003",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders categorized as high interest but low power. What approach should be used for this group?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Keep them satisfied with regular updates and feedback opportunities."
+      },
+      {
+        "id": "b",
+        "label": "Monitor them closely and provide all project details immediately."
+      },
+      {
+        "id": "c",
+        "label": "Keep them informed with regular updates and feedback opportunities."
+      },
+      {
+        "id": "d",
+        "label": "Engage them intensively to increase their power and influence."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "For stakeholders with high interest but low power, the recommended approach is to keep them informed with regular updates and feedback opportunities. The correct answer is option C, not D. Option D incorrectly suggests intensively engaging them to increase their power and influence.",
+    "difficulty": "medium",
+    "topics": [
+      "high-interest stakeholders",
+      "engagement approach"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-004",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with strict regulatory compliance requirements. How should compliance considerations influence the engagement approach for regulatory stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use standard engagement methods regardless of their regulatory authority."
+      },
+      {
+        "id": "b",
+        "label": "Engage regulatory stakeholders with formal methods and compliance-focused content."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement on non-regulatory stakeholders to avoid compliance issues."
+      },
+      {
+        "id": "d",
+        "label": "Minimize engagement with regulatory stakeholders to reduce compliance burden."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "For regulatory stakeholders, the appropriate approach is to engage them with formal methods and compliance-focused content, recognizing their authority and the importance of compliance. The correct answer is option B, not C. Option C suggests focusing on non-regulatory stakeholders while ignoring regulatory ones.",
+    "difficulty": "medium",
+    "topics": [
+      "regulatory stakeholders",
+      "compliance engagement"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-4-3-005",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders from different departments within the organization. How should departmental differences influence engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use identical engagement approaches for all departments to ensure consistency."
+      },
+      {
+        "id": "b",
+        "label": "Tailor engagement approaches to reflect each department's objectives and culture."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement primarily on the department that initiated the project."
+      },
+      {
+        "id": "d",
+        "label": "Apply the engagement strategy of the most senior department to all others."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Different departments may have varying objectives, priorities, and cultures that require tailored engagement approaches. The correct answer is option B, not C. Option C suggests focusing primarily on only the initiating department.",
+    "difficulty": "medium",
+    "topics": [
+      "departmental stakeholders",
+      "tailored engagement"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-006",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging external vendor stakeholders who have different engagement preferences than internal stakeholders. How should these preferences be addressed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply the same engagement approach used for internal stakeholders to vendors."
+      },
+      {
+        "id": "b",
+        "label": "Adapt engagement approaches to accommodate vendor preferences and contract needs."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement on internal stakeholders and minimize vendor interactions."
+      },
+      {
+        "id": "d",
+        "label": "Use only formal written communication with all vendor stakeholders."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "External vendors should be engaged using approaches that accommodate their preferences and contract requirements. The correct answer is option B, not C. Option C suggests minimizing vendor interactions when they are important stakeholders.",
+    "difficulty": "hard",
+    "topics": [
+      "vendor stakeholders",
+      "external engagement"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-4-3-007",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with high public visibility. How should public stakeholders be approached?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same approach as for internal stakeholders since visibility doesn't matter."
+      },
+      {
+        "id": "b",
+        "label": "Implement transparent communication with appropriate public messaging."
+      },
+      {
+        "id": "c",
+        "label": "Focus only on internal stakeholders and ignore public concerns."
+      },
+      {
+        "id": "d",
+        "label": "Minimize all public communication to avoid potential issues."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "For projects with high public visibility, implementing transparent communication with appropriate public messaging is essential. The correct answer is option B, not C. Option C suggests ignoring public stakeholders when they are particularly important due to visibility.",
+    "difficulty": "medium",
+    "topics": [
+      "public stakeholders",
+      "visibility management"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-008",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with rapidly changing requirements. How should the engagement approach adapt to these changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Maintain the original engagement approach to provide consistency for stakeholders."
+      },
+      {
+        "id": "b",
+        "label": "Adjust engagement strategies as stakeholder interests and project focus change."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement only on stakeholders who influence requirements changes."
+      },
+      {
+        "id": "d",
+        "label": "Pause all stakeholder engagement until requirements stabilize."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "In projects with changing requirements, stakeholder engagement should continue and adapt as stakeholder interests and project focus change. The correct answer is option B, not D. Option D suggests pausing all engagement when it's especially important to keep stakeholders informed of changes.",
+    "difficulty": "hard",
+    "topics": [
+      "changing requirements",
+      "adaptive engagement"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-009",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders for a project with limited budget for stakeholder management activities. How should budget constraints influence engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same engagement approach regardless of budget, focusing on necessity."
+      },
+      {
+        "id": "b",
+        "label": "Prioritize engagement activities based on stakeholder category and impact."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement only on stakeholders who can provide additional funding."
+      },
+      {
+        "id": "d",
+        "label": "Minimize all stakeholder engagement to conserve budget for other activities."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Even with budget constraints, stakeholder engagement should be prioritized based on stakeholder category and impact. The correct answer is option B, not D. Option D suggests minimizing all engagement when strategic engagement is still needed.",
+    "difficulty": "medium",
+    "topics": [
+      "budget constraints",
+      "prioritized engagement"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-010",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders across different phases of a multi-phase project. How should engagement strategies vary across project phases?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply the same engagement strategy to all stakeholders in every project phase."
+      },
+      {
+        "id": "b",
+        "label": "Adjust engagement based on stakeholder relevance and influence in each phase."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement only on stakeholders relevant to the current project phase."
+      },
+      {
+        "id": "d",
+        "label": "Complete all stakeholder engagement activities in the first project phase."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "For multi-phase projects, engagement strategies should be adjusted based on stakeholder relevance and influence in each phase. The correct answer is option B, not A. Option A suggests using the same strategy across all phases despite changing stakeholder needs.",
+    "difficulty": "medium",
+    "topics": [
+      "project phases",
+      "phase-specific engagement"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-4-3-011",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders from different cultural backgrounds. How should cultural differences influence engagement approaches?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same engagement approach for all stakeholders regardless of culture."
+      },
+      {
+        "id": "b",
+        "label": "Adapt engagement methods to respect and accommodate cultural differences."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement primarily using the project manager's own cultural approach."
+      },
+      {
+        "id": "d",
+        "label": "Minimize stakeholder engagement to avoid cultural misunderstandings."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Cultural differences should be respected and accommodated when engaging stakeholders. The correct answer is option B, not A. Option A suggests using a uniform approach despite cultural differences.",
+    "difficulty": "hard",
+    "topics": [
+      "cultural differences",
+      "cross-cultural engagement"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-012",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with tight schedule constraints. How should time constraints influence stakeholder engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use efficient engagement methods that match stakeholder importance and time availability."
+      },
+      {
+        "id": "b",
+        "label": "Increase stakeholder engagement to ensure their support in the tight schedule."
+      },
+      {
+        "id": "c",
+        "label": "Postpone stakeholder engagement until after schedule-critical activities."
+      },
+      {
+        "id": "d",
+        "label": "Focus engagement only on stakeholders who impact the project schedule."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "With tight schedule constraints, it's important to use efficient engagement methods. The correct answer is option A, not C. Option C suggests postponing stakeholder engagement when it's important throughout the project.",
+    "difficulty": "medium",
+    "topics": [
+      "time constraints",
+      "efficient engagement"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-013",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with high security requirements. How should security considerations influence engagement approaches?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Security requirements should not impact stakeholder engagement methods."
+      },
+      {
+        "id": "b",
+        "label": "Consider security clearances and information access in engagement planning."
+      },
+      {
+        "id": "c",
+        "label": "Engage only stakeholders with the highest security clearances in detail."
+      },
+      {
+        "id": "d",
+        "label": "Minimize engagement with security-conscious stakeholders to avoid complications."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Security considerations should be factored into engagement planning. The correct answer is option B, not C. Option C suggests engaging only high-clearance stakeholders in detail.",
+    "difficulty": "hard",
+    "topics": [
+      "security requirements",
+      "secure engagement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-4-3-014",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders from multiple external partner organizations. How should partnership dynamics influence engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Treat all external partners with identical engagement approaches for fairness."
+      },
+      {
+        "id": "b",
+        "label": "Consider partnership agreements, dependencies, and relationship dynamics."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement primarily on the main partnering organization."
+      },
+      {
+        "id": "d",
+        "label": "Use only formal communication methods with external partner stakeholders."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Partnership dynamics should be considered when engaging stakeholders from partner organizations. The correct answer is option B, not A. Option A suggests using identical approaches despite different partnership dynamics.",
+    "difficulty": "medium",
+    "topics": [
+      "external partnerships",
+      "relationship dynamics"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-4-3-015",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders with different communication preferences and technological capabilities. How should these differences influence engagement approaches?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use standardized communication methods for all stakeholders for consistency."
+      },
+      {
+        "id": "b",
+        "label": "Adapt communication methods to match stakeholder preferences and capabilities."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement using only the most advanced communication technologies."
+      },
+      {
+        "id": "d",
+        "label": "Use only face-to-face meetings to ensure effective communication with all stakeholders."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Communication methods should be adapted to match stakeholder preferences and capabilities. The correct answer is option B, not A. Option A suggests using standardized methods despite different preferences and capabilities.",
+    "difficulty": "medium",
+    "topics": [
+      "communication preferences",
+      "technology adaptation"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-4-3-016",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with a history of stakeholder conflicts. How should past conflict history influence current engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ignore past conflicts and engage stakeholders as if starting fresh."
+      },
+      {
+        "id": "b",
+        "label": "Consider past relationships and potential conflict patterns in engagement planning."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement primarily on stakeholders who were not involved in past conflicts."
+      },
+      {
+        "id": "d",
+        "label": "Avoid engaging stakeholders who were previously in conflict situations."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Past conflicts should be considered when planning stakeholder engagement. The correct answer is option B, not A. Option A suggests ignoring past conflicts when they could inform better engagement strategies.",
+    "difficulty": "hard",
+    "topics": [
+      "past conflicts",
+      "relationship awareness"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-017",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders for a project that will significantly change business operations. How should change impact influence engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Focus engagement only on stakeholders who are supportive of the change."
+      },
+      {
+        "id": "b",
+        "label": "Consider each stakeholder's relationship to change and adapt engagement accordingly."
+      },
+      {
+        "id": "c",
+        "label": "Engage all stakeholders with the same positive messaging about the change."
+      },
+      {
+        "id": "d",
+        "label": "Minimize engagement with stakeholders who might resist the upcoming changes."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "All stakeholders, including those who might resist change, should be engaged appropriately. The correct answer is option B, not A. Option A suggests focusing only on supportive stakeholders when all stakeholders need appropriate engagement.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational change",
+      "change management"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-018",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders across multiple organizational levels. How should organizational hierarchy influence engagement approaches?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Engage all organizational levels with identical approaches and messaging."
+      },
+      {
+        "id": "b",
+        "label": "Tailor engagement to the information needs and decision-making authority of each level."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement primarily on senior management due to their decision authority."
+      },
+      {
+        "id": "d",
+        "label": "Use formal engagement methods only for top organizational levels."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Engagement should be tailored to different organizational levels based on their needs and authority. The correct answer is option B, not A. Option A suggests using identical approaches across all levels.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational hierarchy",
+      "level-specific engagement"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-019",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with significant technical complexity. How should technical expertise levels influence engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide the same level of technical detail to all stakeholders regardless of expertise."
+      },
+      {
+        "id": "b",
+        "label": "Adapt the level of technical detail to match stakeholder expertise and interest."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement only on stakeholders with high technical expertise."
+      },
+      {
+        "id": "d",
+        "label": "Minimize technical details in all stakeholder communications to avoid confusion."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The level of technical detail should be adapted to match stakeholder expertise and interest. The correct answer is option B, not A. Option A suggests providing identical technical detail to all stakeholders regardless of their expertise.",
+    "difficulty": "medium",
+    "topics": [
+      "technical complexity",
+      "audience-tailored communication"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-020",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with environmental impact considerations. How should environmental concerns influence stakeholder engagement approaches?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Environmental considerations should not affect stakeholder engagement methods."
+      },
+      {
+        "id": "b",
+        "label": "Include environmental impact information in relevant stakeholder communications."
+      },
+      {
+        "id": "c",
+        "label": "Engage only stakeholders with environmental expertise in detail about impacts."
+      },
+      {
+        "id": "d",
+        "label": "Minimize discussion of environmental impacts to avoid stakeholder concerns."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Environmental concerns should be appropriately addressed in stakeholder engagement. The correct answer is option B, not A. Option A suggests environmental considerations don't affect engagement when they should be factored in.",
+    "difficulty": "medium",
+    "topics": [
+      "environmental impact",
+      "environmental communication"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-021",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders for a project with limited project management team experience in stakeholder management. How should this capability constraint influence engagement approaches?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use simpler engagement methods appropriate to the team's experience level."
+      },
+      {
+        "id": "b",
+        "label": "Engage external experts to conduct all stakeholder engagement activities."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement only on stakeholders similar to those in the team's experience."
+      },
+      {
+        "id": "d",
+        "label": "Minimize stakeholder engagement to avoid the team's inexperience in this area."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Rather than minimizing engagement, simpler but effective methods should be used. The correct answer is option A, not D. Option D suggests reducing engagement due to team limitations.",
+    "difficulty": "medium",
+    "topics": [
+      "team experience",
+      "capability-aware engagement"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-4-3-022",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with global team members across different regions and time zones. How should geographic distribution influence engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same engagement approach for all stakeholders regardless of geographic location."
+      },
+      {
+        "id": "b",
+        "label": "Consider time zones and regional preferences in engagement planning and scheduling."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement primarily on stakeholders in the project manager's time zone."
+      },
+      {
+        "id": "d",
+        "label": "Use only written communication to accommodate all time zones effectively."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Geographic distribution and time zones should be considered in engagement planning. The correct answer is option B, not A. Option A suggests ignoring geographic differences in favor of a uniform approach.",
+    "difficulty": "hard",
+    "topics": [
+      "global stakeholders",
+      "time zone management"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-4-3-023",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with multiple competing objectives. How should objective alignment influence engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Engage all stakeholders with the same emphasis on the primary project objective."
+      },
+      {
+        "id": "b",
+        "label": "Consider stakeholder alignment with different objectives in engagement planning."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement only on stakeholders aligned with the most important objective."
+      },
+      {
+        "id": "d",
+        "label": "Avoid discussing competing objectives with stakeholders to maintain focus."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Different stakeholder alignment with various objectives should be considered in engagement planning. The correct answer is option B, not A. Option A suggests engaging all stakeholders with the same emphasis despite different alignments.",
+    "difficulty": "hard",
+    "topics": [
+      "competing objectives",
+      "alignment-aware engagement"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-4-3-024",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with limited access to stakeholder information. How should this constraint influence engagement approaches?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Delay stakeholder engagement until complete information is available."
+      },
+      {
+        "id": "b",
+        "label": "Begin with general engagement approaches and adapt as more information emerges."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement only on stakeholders with the most accessible information."
+      },
+      {
+        "id": "d",
+        "label": "Make assumptions about stakeholder preferences to proceed with engagement."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Stakeholder engagement should begin even with limited information, adapting as more is learned. The correct answer is option B, not A. Option A suggests delaying engagement until complete information is available.",
+    "difficulty": "medium",
+    "topics": [
+      "limited information",
+      "adaptive engagement"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-4-3-025",
+    "domainId": "process",
+    "taskId": "process-4",
+    "enablerIds": [
+      "e-process-4-3"
+    ],
+    "text": "A project manager is engaging stakeholders in a project with multiple parallel work streams. How should the project structure influence engagement strategies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply the same engagement strategy to all stakeholders regardless of work stream focus."
+      },
+      {
+        "id": "b",
+        "label": "Align engagement approaches with stakeholders' relationships to specific work streams."
+      },
+      {
+        "id": "c",
+        "label": "Focus engagement only on stakeholders of the most critical work stream."
+      },
+      {
+        "id": "d",
+        "label": "Engage stakeholders separately for each parallel work stream."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Engagement strategies should align with stakeholders' relationships to specific work streams. The correct answer is option B, not A. Option A suggests using the same strategy for all stakeholders despite different work stream relationships.",
+    "difficulty": "hard",
+    "topics": [
+      "parallel work streams",
+      "work stream alignment"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  }
+]

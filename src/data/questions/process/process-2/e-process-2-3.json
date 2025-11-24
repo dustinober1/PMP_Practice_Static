@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-2-3-001",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager has established a communication plan with appropriate methods, channels, and frequencies. What should be their primary focus to ensure project information and updates are communicated effectively?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send all communications as soon as information is available."
+      },
+      {
+        "id": "b",
+        "label": "Ensure information is accurate, relevant, and properly targeted."
+      },
+      {
+        "id": "c",
+        "label": "Use the most advanced communication technology for all messages."
+      },
+      {
+        "id": "d",
+        "label": "Increase the volume of communication to ensure coverage of all details."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Ensuring information is accurate, relevant, and properly targeted is the primary focus for effective communication. Simply sending information quickly, using advanced technology, or increasing volume doesn't guarantee effective communication if the information itself isn't accurate and relevant to the recipients.",
+    "difficulty": "easy",
+    "topics": [
+      "effective communication",
+      "information accuracy"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-3-002",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "During a critical project phase, a project manager needs to communicate urgent information to multiple stakeholder groups simultaneously. What approach best ensures effective communication?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send a single message to all stakeholders to maintain consistency."
+      },
+      {
+        "id": "b",
+        "label": "Send tailored messages to each stakeholder group with relevant details."
+      },
+      {
+        "id": "c",
+        "label": "Wait to communicate until more information is available."
+      },
+      {
+        "id": "d",
+        "label": "Delegate communication responsibilities to team members."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Sending a single message to all stakeholders doesn't account for their different information needs and interests. The correct approach is sending tailored messages to each stakeholder group with relevant details. Option A doesn't recognize that different stakeholders need different information even during urgent situations.",
+    "difficulty": "medium",
+    "topics": [
+      "urgent communication",
+      "stakeholder-specific communication"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-3-003",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is implementing their communication approach for a globally distributed team. What is the most important action to ensure effective communication?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Schedule all communications during the project manager's working hours."
+      },
+      {
+        "id": "b",
+        "label": "Consider time zones and cultural differences in the communication approach."
+      },
+      {
+        "id": "c",
+        "label": "Use only written communication to avoid scheduling issues."
+      },
+      {
+        "id": "d",
+        "label": "Minimize communication to accommodate different time zones."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Minimizing communication to accommodate different time zones would not be effective for project success. The correct approach is considering time zones and cultural differences in the communication approach. Option D reduces communication effectiveness to solve a scheduling issue.",
+    "difficulty": "medium",
+    "topics": [
+      "global teams",
+      "time zone management"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-3-004",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate complex technical information to non-technical stakeholders. How can they ensure effective communication?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use detailed technical language to ensure accuracy."
+      },
+      {
+        "id": "b",
+        "label": "Simplify the information without losing important details."
+      },
+      {
+        "id": "c",
+        "label": "Provide only high-level summaries without any details."
+      },
+      {
+        "id": "d",
+        "label": "Avoid technical communication with non-technical stakeholders."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Providing only high-level summaries without any details would not give non-technical stakeholders the information they need to make informed decisions. The correct approach is simplifying the information without losing important details. Option C doesn't provide stakeholders with the necessary information.",
+    "difficulty": "easy",
+    "topics": [
+      "technical communication",
+      "audience adaptation"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-3-005",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is communicating project updates in an environment with strict security requirements. What should be their primary focus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use standard communication methods to maintain efficiency."
+      },
+      {
+        "id": "b",
+        "label": "Ensure all communications comply with security protocols."
+      },
+      {
+        "id": "c",
+        "label": "Increase the frequency of communications to demonstrate compliance."
+      },
+      {
+        "id": "d",
+        "label": "Minimize details in all communications to ensure security."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using standard communication methods without considering security requirements would violate the security protocols of the environment. The correct approach is ensuring all communications comply with security protocols. Option A ignores the security requirements.",
+    "difficulty": "medium",
+    "topics": [
+      "security communication",
+      "compliance"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-3-006",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate project risks to senior executives. What approach best ensures effective communication?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide detailed technical information about all identified risks."
+      },
+      {
+        "id": "b",
+        "label": "Focus on high-level impact, probability, and mitigation strategies."
+      },
+      {
+        "id": "c",
+        "label": "Minimize risk communication to avoid concern among executives."
+      },
+      {
+        "id": "d",
+        "label": "Use the same risk communication approach as for technical teams."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Using the same risk communication approach as for technical teams doesn't account for the different information needs of senior executives. The correct approach is focusing on high-level impact, probability, and mitigation strategies. Option D doesn't tailor communication to executive needs.",
+    "difficulty": "medium",
+    "topics": [
+      "executive communication",
+      "risk communication"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-2-3-007",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is dealing with a project crisis and needs to communicate with stakeholders. What is their most important consideration for effective communication?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Wait for complete information before communicating about the crisis."
+      },
+      {
+        "id": "b",
+        "label": "Provide timely, honest, and regular updates about the situation."
+      },
+      {
+        "id": "c",
+        "label": "Minimize communication to avoid spreading panic among stakeholders."
+      },
+      {
+        "id": "d",
+        "label": "Focus communication only on what has gone wrong, not solutions."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Waiting for complete information before communicating about the crisis could lead to stakeholders hearing about the crisis from other sources or assuming the worst. The correct approach is providing timely, honest, and regular updates about the situation. Option A delays critical communication at a time when stakeholders need information.",
+    "difficulty": "hard",
+    "topics": [
+      "crisis communication",
+      "timely updates"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-3-008",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is working with stakeholders who have varying levels of project involvement. How should they adjust their communication approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply the same communication level to all stakeholders regardless of involvement."
+      },
+      {
+        "id": "b",
+        "label": "Tailor the frequency and detail of communication to each stakeholder's level of involvement."
+      },
+      {
+        "id": "c",
+        "label": "Focus all communication efforts on the most involved stakeholders."
+      },
+      {
+        "id": "d",
+        "label": "Minimize communication with less-involved stakeholders to save time."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Applying the same communication level to all stakeholders regardless of involvement doesn't account for their different needs and interests. The correct approach is tailoring the frequency and detail of communication to each stakeholder's level of involvement. Option A treats all stakeholders equally regardless of their actual needs.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder involvement",
+      "tailored communication"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-2-3-009",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate project status to stakeholders during a period of significant change. What should be their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Maintain the same communication approach as before the changes."
+      },
+      {
+        "id": "b",
+        "label": "Increase communication frequency and detail to address uncertainty."
+      },
+      {
+        "id": "c",
+        "label": "Reduce communication to minimize confusion during the change period."
+      },
+      {
+        "id": "d",
+        "label": "Focus communication only on negative aspects of the changes."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Maintaining the same communication approach as before doesn't recognize that periods of significant change require more tailored communication. The correct approach is increasing communication frequency and detail to address uncertainty. Option A doesn't adapt to the changed project environment.",
+    "difficulty": "medium",
+    "topics": [
+      "change management",
+      "communication during change"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-2-3-010",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is communicating with stakeholders from different cultural backgrounds. How should cultural differences influence their communication approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply the same communication style to all stakeholders for consistency."
+      },
+      {
+        "id": "b",
+        "label": "Adapt communication style to respect cultural differences."
+      },
+      {
+        "id": "c",
+        "label": "Use only formal written communication to avoid cultural misunderstandings."
+      },
+      {
+        "id": "d",
+        "label": "Minimize interaction with stakeholders from different cultures."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Applying the same communication style to all stakeholders ignores important cultural differences that could affect communication effectiveness. The correct approach is adapting the communication style to respect cultural differences. Option A doesn't account for cultural considerations.",
+    "difficulty": "hard",
+    "topics": [
+      "cultural communication",
+      "diversity"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-2-3-011",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate project information when there is incomplete data available. What is the best approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Delay communication until all data is complete."
+      },
+      {
+        "id": "b",
+        "label": "Communicate known information while clearly indicating data limitations."
+      },
+      {
+        "id": "c",
+        "label": "Estimate missing data to provide complete-looking reports."
+      },
+      {
+        "id": "d",
+        "label": "Provide only the complete data and omit incomplete sections."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Delaying communication until all data is complete may mean stakeholders don't receive important information in a timely manner. The correct approach is communicating known information while clearly indicating data limitations. Option A prevents stakeholders from receiving partial but important information.",
+    "difficulty": "medium",
+    "topics": [
+      "incomplete data",
+      "transparent communication"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-3-012",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is working with a project that has multiple external vendors. How should they approach communicating project information to vendors?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same communication approach as for internal team members."
+      },
+      {
+        "id": "b",
+        "label": "Consider contractual obligations and relationship requirements in communication."
+      },
+      {
+        "id": "c",
+        "label": "Minimize information sharing with vendors to protect internal information."
+      },
+      {
+        "id": "d",
+        "label": "Provide all project information to vendors to ensure their effectiveness."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using the same communication approach as for internal team members doesn't account for the different nature of vendor relationships and potential contractual requirements. The correct approach is considering contractual obligations and relationship requirements in communication. Option A doesn't recognize the differences between internal and external communication needs.",
+    "difficulty": "medium",
+    "topics": [
+      "vendor communication",
+      "contractual requirements"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-2-3-013",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate sensitive project information to stakeholders. What is the most important consideration?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use any available communication channel for convenience."
+      },
+      {
+        "id": "b",
+        "label": "Ensure sensitive information is shared through secure channels."
+      },
+      {
+        "id": "c",
+        "label": "Minimize the level of detail to prevent information leaks."
+      },
+      {
+        "id": "d",
+        "label": "Share sensitive information with all stakeholders for transparency."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using any available communication channel for convenience would not protect sensitive information. The correct approach is ensuring sensitive information is shared through secure channels. Option A ignores the need for secure communication of sensitive data.",
+    "difficulty": "easy",
+    "topics": [
+      "sensitive information",
+      "information security"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-3-014",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is communicating project information during a period of high stress and pressure. What should be their communication approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Communicate more frequently to keep stakeholders informed and reduce anxiety."
+      },
+      {
+        "id": "b",
+        "label": "Maintain regular communication with emphasis on facts and progress."
+      },
+      {
+        "id": "c",
+        "label": "Reduce communication to minimize additional stress on the team."
+      },
+      {
+        "id": "d",
+        "label": "Focus communication only on problems and challenges during this period."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Reducing communication to minimize additional stress on the team would prevent stakeholders from receiving necessary information during a critical time. The correct approach is maintaining regular communication with emphasis on facts and progress. Option C removes communication at a time when stakeholders need information most.",
+    "difficulty": "hard",
+    "topics": [
+      "high-stress communication",
+      "communication under pressure"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-3-015",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate project information in a multilingual environment. How should they handle language differences?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use only one language for all communications to maintain consistency."
+      },
+      {
+        "id": "b",
+        "label": "Provide translations or communicate in stakeholders' preferred languages."
+      },
+      {
+        "id": "c",
+        "label": "Use technical diagrams only to avoid language barriers."
+      },
+      {
+        "id": "d",
+        "label": "Assign translation responsibilities to non-native speakers."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using only one language for all communications would prevent non-native speakers from understanding the information. The correct approach is providing translations or communicating in stakeholders' preferred languages. Option A creates communication barriers rather than addressing them.",
+    "difficulty": "medium",
+    "topics": [
+      "multilingual communication",
+      "language barriers"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-3-016",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is working on a project with regulatory compliance requirements. How should compliance requirements influence their communication approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ignore compliance requirements to focus on project progress communication."
+      },
+      {
+        "id": "b",
+        "label": "Ensure all communications meet regulatory documentation and reporting requirements."
+      },
+      {
+        "id": "c",
+        "label": "Minimize formal communications to reduce compliance documentation."
+      },
+      {
+        "id": "d",
+        "label": "Use informal communication methods to speed up project progress."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Ignoring compliance requirements to focus on project progress communication would violate regulatory requirements. The correct approach is ensuring all communications meet regulatory documentation and reporting requirements. Option A completely disregards the compliance requirements of the project.",
+    "difficulty": "hard",
+    "topics": [
+      "regulatory compliance",
+      "compliance communication"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-3-017",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate information in a crisis situation where rapid decision-making is required. What is their most important communication principle?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Follow normal communication procedures to maintain control."
+      },
+      {
+        "id": "b",
+        "label": "Ensure critical information reaches decision makers quickly and clearly."
+      },
+      {
+        "id": "c",
+        "label": "Minimize communication to focus on resolving the crisis."
+      },
+      {
+        "id": "d",
+        "label": "Increase the volume of communication to cover all possibilities."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Following normal communication procedures to maintain control may not be appropriate for a crisis situation where rapid decision-making is required. The correct approach is ensuring critical information reaches decision makers quickly and clearly. Option A doesn't adapt to the urgent needs of a crisis situation.",
+    "difficulty": "hard",
+    "topics": [
+      "crisis communication",
+      "rapid decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-3-018",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is communicating project updates to stakeholders with different technical backgrounds. How should they adjust their communication approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same technical language for all stakeholders to maintain consistency."
+      },
+      {
+        "id": "b",
+        "label": "Tailor the technical language to the understanding level of each audience."
+      },
+      {
+        "id": "c",
+        "label": "Avoid technical details completely to prevent confusion."
+      },
+      {
+        "id": "d",
+        "label": "Provide maximum technical detail to ensure accuracy for all parties."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using the same technical language for all stakeholders doesn't account for their different levels of technical understanding. The correct approach is tailoring the technical language to the understanding level of each audience. Option A would confuse non-technical stakeholders and potentially not provide enough detail for technical stakeholders.",
+    "difficulty": "medium",
+    "topics": [
+      "technical communication",
+      "audience-specific communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-3-019",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate project information in a remote work environment. What should be their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same communication approach as when everyone was in the office."
+      },
+      {
+        "id": "b",
+        "label": "Rely more heavily on digital communication tools and clear documentation."
+      },
+      {
+        "id": "c",
+        "label": "Reduce communication frequency since team members work independently."
+      },
+      {
+        "id": "d",
+        "label": "Increase informal social communication only."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using the same communication approach as when everyone was in the office doesn't account for the challenges of remote work. The correct approach is relying more heavily on digital communication tools and clear documentation. Option A doesn't adapt to the requirements of remote work.",
+    "difficulty": "easy",
+    "topics": [
+      "remote work",
+      "digital communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-3-020",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is communicating project performance to stakeholders. What should be their key focus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Present only positive achievements to maintain stakeholder confidence."
+      },
+      {
+        "id": "b",
+        "label": "Provide balanced information including both achievements and challenges."
+      },
+      {
+        "id": "c",
+        "label": "Focus only on problems and issues that need attention."
+      },
+      {
+        "id": "d",
+        "label": "Minimize detail to prevent information overload among stakeholders."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Focusing only on problems and issues that need attention would give stakeholders a negative view of the project and might miss celebrating achievements. The correct approach is providing balanced information including both achievements and challenges. Option C doesn't provide a complete picture of project performance.",
+    "difficulty": "medium",
+    "topics": [
+      "performance communication",
+      "balanced reporting"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-3-021",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is working with a team that includes members with different communication preferences. How should they approach this diversity?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Force all team members to use the same communication method for consistency."
+      },
+      {
+        "id": "b",
+        "label": "Understand individual preferences and accommodate them when possible."
+      },
+      {
+        "id": "c",
+        "label": "Choose the most efficient communication method regardless of preferences."
+      },
+      {
+        "id": "d",
+        "label": "Focus on the preferences of senior team members only."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Forcing all team members to use the same communication method for consistency would ignore their different preferences and could reduce communication effectiveness. The correct approach is understanding individual preferences and accommodating them when possible. Option A doesn't consider individual working styles and preferences.",
+    "difficulty": "medium",
+    "topics": [
+      "communication preferences",
+      "team diversity"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-3-022",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate project changes to stakeholders. What is the most effective approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Communicate the change without explaining the reasons or impact."
+      },
+      {
+        "id": "b",
+        "label": "Explain the change, reasons, impact, and next steps clearly."
+      },
+      {
+        "id": "c",
+        "label": "Wait to communicate until the impact of the change is fully understood."
+      },
+      {
+        "id": "d",
+        "label": "Provide only the positive aspects of the change to maintain acceptance."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Communicating the change without explaining the reasons or impact would not provide stakeholders with sufficient information to understand and adjust to the change. The correct approach is explaining the change, reasons, impact, and next steps clearly. Option A provides insufficient information for stakeholders to properly understand the change.",
+    "difficulty": "medium",
+    "topics": [
+      "change communication",
+      "change management"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-3-023",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is communicating project information during a phase with high uncertainty. What should be their communication strategy?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide definite statements about future activities despite uncertainty."
+      },
+      {
+        "id": "b",
+        "label": "Communicate current facts while honestly addressing uncertainties."
+      },
+      {
+        "id": "c",
+        "label": "Minimize communication to avoid admitting uncertainty to stakeholders."
+      },
+      {
+        "id": "d",
+        "label": "Focus only on potential negative outcomes to prepare stakeholders."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Providing definite statements about future activities despite uncertainty would mislead stakeholders. The correct approach is communicating current facts while honestly addressing uncertainties. Option A gives stakeholders false confidence in uncertain circumstances.",
+    "difficulty": "hard",
+    "topics": [
+      "uncertainty communication",
+      "honest communication"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-3-024",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager needs to communicate project status to stakeholders during a budget review. What should be their primary focus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Minimize discussion of budget issues to avoid concern."
+      },
+      {
+        "id": "b",
+        "label": "Provide clear, accurate information about budget status and variances."
+      },
+      {
+        "id": "c",
+        "label": "Focus only on positive budget achievements during the review."
+      },
+      {
+        "id": "d",
+        "label": "Delay budget communication until after the review process."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Minimizing discussion of budget issues to avoid concern would be misleading during a budget review when all financial information is particularly relevant. The correct approach is providing clear, accurate information about budget status and variances. Option A doesn't provide the complete information needed for an effective budget review.",
+    "difficulty": "medium",
+    "topics": [
+      "budget communication",
+      "financial transparency"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-2-3-025",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-3"
+    ],
+    "text": "A project manager is working with stakeholders who have previously expressed dissatisfaction with project communication. How should this influence their current communication approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Continue with the same communication approach that has already been used."
+      },
+      {
+        "id": "b",
+        "label": "Seek feedback to understand concerns and adjust the communication approach."
+      },
+      {
+        "id": "c",
+        "label": "Increase the frequency of communication to address dissatisfaction."
+      },
+      {
+        "id": "d",
+        "label": "Minimize communication to avoid further complaints."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Continuing with the same communication approach that has already been criticized would not address the stakeholders' concerns. The correct approach is seeking feedback to understand concerns and adjusting the communication approach. Option A ignores the feedback that stakeholders have already provided.",
+    "difficulty": "hard",
+    "topics": [
+      "feedback incorporation",
+      "communication improvement"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  }
+]

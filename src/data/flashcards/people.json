@@ -1,0 +1,162 @@
+[
+  {
+    "id": "fc-people-1-001",
+    "domainId": "people",
+    "taskId": "people-1",
+    "type": "concept",
+    "front": "What are the main conflict resolution modes and when to use them?",
+    "back": "Avoiding: Withdraw when conflict is trivial. Accommodating: Yield when others' needs matter more. Competing: Assert when quick decisions needed. Compromising: Give and take for moderate importance. Collaborating: Work together when all concerns important and time available.",
+    "tags": ["conflict", "resolution"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-people-1-002",
+    "domainId": "people",
+    "taskId": "people-1",
+    "type": "definition",
+    "front": "Define task conflict vs. process conflict vs. relationship conflict",
+    "back": "Task conflict: disagreement about project goals/content. Process conflict: disagreement about how to do work. Relationship conflict: interpersonal friction/tension. Most destructive: relationship conflict.",
+    "tags": ["conflict"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-people-2-001",
+    "domainId": "people",
+    "taskId": "people-2",
+    "type": "definition",
+    "front": "What is servant leadership?",
+    "back": "A leadership approach where the leader prioritizes the needs of team members and stakeholders, focusing on serving others first. Emphasizes empathy, listening, and helping others grow.",
+    "tags": ["leadership"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc-people-2-002",
+    "domainId": "people",
+    "taskId": "people-2",
+    "type": "concept",
+    "front": "Name the main leadership styles from transformational leadership theory",
+    "back": "1. Idealized influence (charisma) - role modeling\n2. Inspirational motivation - motivating with vision\n3. Intellectual stimulation - encouraging innovation\n4. Individual consideration - coaching and mentoring",
+    "tags": ["leadership", "transformational"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-people-3-001",
+    "domainId": "people",
+    "taskId": "people-3",
+    "type": "definition",
+    "front": "What is a Key Performance Indicator (KPI)?",
+    "back": "A measurable value showing how effectively something is being achieved. Used to evaluate team member performance against agreed objectives. Examples: on-time delivery %, quality metrics, productivity rates.",
+    "tags": ["performance", "metrics"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc-people-3-002",
+    "domainId": "people",
+    "taskId": "people-3",
+    "type": "concept",
+    "front": "What are the key elements of effective feedback?",
+    "back": "1. Timely - given soon after behavior\n2. Specific - focuses on concrete actions, not personality\n3. Actionable - suggests improvement\n4. Balanced - acknowledges strengths and areas for growth\n5. Two-way - allows dialogue and response",
+    "tags": ["feedback", "performance"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-people-4-001",
+    "domainId": "people",
+    "taskId": "people-4",
+    "type": "definition",
+    "front": "What is empowerment?",
+    "back": "Giving team members authority and autonomy to make decisions within defined boundaries. Builds accountability and ownership of work outcomes.",
+    "tags": ["empowerment", "team"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc-people-4-002",
+    "domainId": "people",
+    "taskId": "people-4",
+    "type": "concept",
+    "front": "What are Herzberg's motivation factors?",
+    "back": "Hygiene factors (dissatisfy if absent): salary, working conditions, job security, relationships. Motivators (satisfy if present): achievement, recognition, growth, responsibility. Focus on motivators to truly engage team.",
+    "tags": ["motivation", "herzberg"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-people-5-001",
+    "domainId": "people",
+    "taskId": "people-5",
+    "type": "definition",
+    "front": "What is the difference between training and development?",
+    "back": "Training: teaching specific skills needed for current job. Development: broader learning for career growth and future roles. Both important for team capability.",
+    "tags": ["training", "development"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc-people-5-002",
+    "domainId": "people",
+    "taskId": "people-5",
+    "type": "concept",
+    "front": "Name the levels of learning evaluation",
+    "back": "Kirkpatrick's Four Levels:\n1. Reaction - did participants like the training?\n2. Learning - did they learn the material?\n3. Behavior - did they apply skills on the job?\n4. Results - did it impact organizational outcomes?",
+    "tags": ["training", "evaluation"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-people-6-001",
+    "domainId": "people",
+    "taskId": "people-6",
+    "type": "definition",
+    "front": "What is a RACI matrix?",
+    "back": "Responsible, Accountable, Consulted, Informed. A tool that clarifies roles and responsibilities. Responsible: does work. Accountable: final authority. Consulted: provides input. Informed: kept in loop.",
+    "tags": ["roles", "accountability"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-people-6-002",
+    "domainId": "people",
+    "taskId": "people-6",
+    "type": "concept",
+    "front": "What are the stages of team development (Tuckman)?",
+    "back": "1. Forming - orientation, getting to know each other\n2. Storming - conflict, different opinions emerge\n3. Norming - establishing rules, team unity forms\n4. Performing - productive, focused on goals\n5. Adjourning - transition or completion of project",
+    "tags": ["team", "development"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-people-7-001",
+    "domainId": "people",
+    "taskId": "people-7",
+    "type": "definition",
+    "front": "What is an impediment?",
+    "back": "A blocker or obstacle that prevents team members from completing their work. Examples: missing resources, unclear requirements, external dependencies, technical blockers.",
+    "tags": ["impediments", "obstacles"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc-people-7-002",
+    "domainId": "people",
+    "taskId": "people-7",
+    "type": "concept",
+    "front": "What is the root cause analysis process?",
+    "back": "1. Define the problem clearly\n2. Gather data about the issue\n3. Identify potential causes\n4. Use 5 Whys or fishbone diagram\n5. Find root cause (not symptom)\n6. Develop solution addressing root cause",
+    "tags": ["problem-solving", "analysis"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-people-8-001",
+    "domainId": "people",
+    "taskId": "people-8",
+    "type": "definition",
+    "front": "What is negotiation?",
+    "back": "A discussion between two or more parties to reach a mutually agreeable solution. Goal: win-win outcome where all parties' interests are addressed.",
+    "tags": ["negotiation"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc-people-8-002",
+    "domainId": "people",
+    "taskId": "people-8",
+    "type": "concept",
+    "front": "What are key negotiation strategies?",
+    "back": "Distributive: competitive, fixed pie, win-lose. Integrative: collaborative, expanding pie, win-win. Interest-based: focus on underlying needs. BATNA: Best Alternative to Negotiated Agreement - your fallback position.",
+    "tags": ["negotiation"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-2-4-001",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "After communicating important project information to stakeholders, what should a project manager do to confirm communication is understood and feedback is received?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Assume the information was understood since it was sent."
+      },
+      {
+        "id": "b",
+        "label": "Request acknowledgment and ask clarifying questions to verify understanding."
+      },
+      {
+        "id": "c",
+        "label": "Move immediately to the next communication to maintain momentum."
+      },
+      {
+        "id": "d",
+        "label": "Send the same information multiple times to ensure receipt."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Requesting acknowledgment and asking clarifying questions helps verify that stakeholders have understood the information. Simply sending information doesn't guarantee understanding. This active verification approach ensures effective communication by confirming comprehension and providing opportunities for feedback.",
+    "difficulty": "easy",
+    "topics": [
+      "communication verification",
+      "feedback confirmation"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-4-002",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has communicated complex technical information to non-technical stakeholders. How should they confirm understanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask stakeholders to repeat the technical details verbatim."
+      },
+      {
+        "id": "b",
+        "label": "Ask stakeholders to explain the impact of the information in their own terms."
+      },
+      {
+        "id": "c",
+        "label": "Provide more technical details to ensure complete understanding."
+      },
+      {
+        "id": "d",
+        "label": "Send a follow-up email with the same information in writing."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Providing more technical details to non-technical stakeholders would likely increase confusion rather than confirming understanding. The correct approach is asking stakeholders to explain the impact of the information in their own terms. Option C adds complexity rather than confirming comprehension.",
+    "difficulty": "medium",
+    "topics": [
+      "technical communication",
+      "understanding verification"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-4-003",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager needs to confirm understanding of new requirements communicated to a development team. What method would be most effective?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask the team lead to confirm receipt of the requirements document."
+      },
+      {
+        "id": "b",
+        "label": "Ask individual team members to summarize their understanding of the requirements."
+      },
+      {
+        "id": "c",
+        "label": "Send an automated read receipt for the requirements communication."
+      },
+      {
+        "id": "d",
+        "label": "Have the team acknowledge receipt via email without further explanation."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Sending an automated read receipt only confirms that the message was delivered, not that it was understood. The correct approach is asking individual team members to summarize their understanding of the requirements. Option C only confirms delivery, not comprehension.",
+    "difficulty": "medium",
+    "topics": [
+      "requirement communication",
+      "understanding verification"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-2-4-004",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "During a project meeting, a project manager communicates important schedule changes. How should they confirm that the changes are understood by all attendees?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask for a show of hands to confirm everyone heard the changes."
+      },
+      {
+        "id": "b",
+        "label": "Ask specific attendees to explain how the changes affect their work."
+      },
+      {
+        "id": "c",
+        "label": "Send a meeting summary after the meeting without checking understanding."
+      },
+      {
+        "id": "d",
+        "label": "Assume understanding since the information was presented in a meeting."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Assuming understanding since the information was presented in a meeting doesn't actually confirm that the attendees understood the information. The correct approach is asking specific attendees to explain how the changes affect their work. Option D makes an assumption without verification.",
+    "difficulty": "easy",
+    "topics": [
+      "meeting communication",
+      "understanding verification"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-4-005",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has sent an important email with critical project information. What is the best approach to confirm receipt and understanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use email read receipts to confirm the email was opened."
+      },
+      {
+        "id": "b",
+        "label": "Request a reply confirming understanding and action items."
+      },
+      {
+        "id": "c",
+        "label": "Follow up with a phone call immediately after sending the email."
+      },
+      {
+        "id": "d",
+        "label": "Send the same information in a second email with a different subject line."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using email read receipts only confirms that the message was opened, not that it was understood. The correct approach is requesting a reply confirming understanding and action items. Option A confirms delivery but not comprehension or agreement to act.",
+    "difficulty": "medium",
+    "topics": [
+      "email communication",
+      "understanding verification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-4-006",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager is working with a globally distributed team across multiple time zones. How should they confirm understanding of communicated information?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use only asynchronous communication methods to confirm understanding."
+      },
+      {
+        "id": "b",
+        "label": "Schedule virtual meetings and use chat tools to confirm understanding in real time."
+      },
+      {
+        "id": "c",
+        "label": "Ask team members to confirm understanding in their next available time zone."
+      },
+      {
+        "id": "d",
+        "label": "Confirm understanding only during the project manager's working hours."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Confirming understanding only during the project manager's working hours doesn't accommodate team members in other time zones. The correct approach is scheduling virtual meetings and using chat tools to confirm understanding in real time. Option D is not inclusive of team members in different time zones.",
+    "difficulty": "hard",
+    "topics": [
+      "global teams",
+      "time zone management"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-4-007",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has provided detailed instructions for a critical task to a team member. How should they confirm that the instructions are understood?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask the team member to confirm receipt of the instructions."
+      },
+      {
+        "id": "b",
+        "label": "Ask the team member to repeat the task steps in their own words."
+      },
+      {
+        "id": "c",
+        "label": "Provide the instructions in writing only and assume understanding."
+      },
+      {
+        "id": "d",
+        "label": "Ask the team member to start working immediately to show understanding."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Providing instructions in writing only and assuming understanding doesn't confirm that the team member has comprehended the instructions. The correct approach is asking the team member to repeat the task steps in their own words. Option C relies on a one-way communication without verification.",
+    "difficulty": "medium",
+    "topics": [
+      "instruction confirmation",
+      "task clarity"
+    ],
+    "process": "direct-and-manage-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-4-008",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager needs to confirm understanding of risk information communicated to stakeholders. What approach would be most effective?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send the risk information to stakeholders and wait for questions."
+      },
+      {
+        "id": "b",
+        "label": "Ask stakeholders to summarize the risks in their own words and discuss mitigation."
+      },
+      {
+        "id": "c",
+        "label": "Schedule a meeting to discuss risks without asking for confirmation."
+      },
+      {
+        "id": "d",
+        "label": "Present the risks using multiple communication channels to ensure understanding."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Sending the risk information and waiting for questions is a passive approach that doesn't actively confirm understanding. The correct approach is asking stakeholders to summarize the risks in their own words and discuss mitigation. Option A doesn't verify comprehension.",
+    "difficulty": "medium",
+    "topics": [
+      "risk communication",
+      "understanding verification"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-2-4-009",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has communicated budget changes to senior management. How should they ensure feedback is received?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send the budget changes via email and wait for management to respond."
+      },
+      {
+        "id": "b",
+        "label": "Schedule a follow-up meeting to discuss the changes and receive feedback."
+      },
+      {
+        "id": "c",
+        "label": "Send the changes to management's assistants instead of directly to management."
+      },
+      {
+        "id": "d",
+        "label": "Follow up with a phone call to ask specifically for feedback on the changes."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Sending changes to management's assistants instead of directly to management may not ensure that the appropriate decision makers receive and provide feedback on the information. The correct approach is scheduling a follow-up meeting to discuss the changes and receive feedback. Option C bypasses the actual stakeholders who need to provide feedback.",
+    "difficulty": "medium",
+    "topics": [
+      "budget communication",
+      "feedback collection"
+    ],
+    "process": "determine-budget",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-2-4-010",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has communicated a major change to a project's scope. What is the best way to confirm understanding and receive feedback?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send an email with the change details and request written feedback."
+      },
+      {
+        "id": "b",
+        "label": "Schedule individual meetings to discuss the impact with key stakeholders."
+      },
+      {
+        "id": "c",
+        "label": "Wait for stakeholders to approach the project manager with feedback."
+      },
+      {
+        "id": "d",
+        "label": "Present the change at the next project status meeting without follow-up."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Waiting for stakeholders to approach the project manager with feedback is a passive approach that might not generate the necessary feedback for such an important change. The correct approach is scheduling individual meetings to discuss the impact with key stakeholders. Option C relies on stakeholders to initiate the feedback process.",
+    "difficulty": "hard",
+    "topics": [
+      "scope change communication",
+      "feedback collection"
+    ],
+    "process": "control-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-2-4-011",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager is working with stakeholders from different cultural backgrounds. How should cultural differences influence the approach to confirming understanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same approach to confirm understanding for all cultures."
+      },
+      {
+        "id": "b",
+        "label": "Adapt the approach to respect cultural norms for communication and feedback."
+      },
+      {
+        "id": "c",
+        "label": "Rely only on written confirmation to avoid cultural misunderstandings."
+      },
+      {
+        "id": "d",
+        "label": "Minimize confirmation of understanding to respect cultural differences."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using the same approach to confirm understanding for all cultures doesn't account for cultural differences in communication styles and comfort with feedback. The correct approach is adapting the approach to respect cultural norms for communication and feedback. Option A ignores cultural differences that impact communication effectiveness.",
+    "difficulty": "hard",
+    "topics": [
+      "cultural communication",
+      "diversity"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-2-4-012",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager needs to confirm understanding of safety procedures communicated to a project team. What approach should they use?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask team members to sign an acknowledgment form without testing knowledge."
+      },
+      {
+        "id": "b",
+        "label": "Conduct a quiz or practical demonstration to confirm understanding."
+      },
+      {
+        "id": "c",
+        "label": "Send safety procedures to team members and assume they read them."
+      },
+      {
+        "id": "d",
+        "label": "Have the safety officer confirm that the procedures were sent to the team."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Asking team members to sign an acknowledgment form without testing knowledge doesn't confirm they actually understood the safety procedures. The correct approach is conducting a quiz or practical demonstration to confirm understanding. Option A only confirms receipt, not comprehension.",
+    "difficulty": "medium",
+    "topics": [
+      "safety procedures",
+      "knowledge confirmation"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-2-4-013",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager is working with a team that includes remote workers. How should they confirm understanding of communicated information with remote team members?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same confirmation approach as for in-person team members."
+      },
+      {
+        "id": "b",
+        "label": "Use video calls, digital tools, and written summaries to confirm understanding."
+      },
+      {
+        "id": "c",
+        "label": "Minimize confirmation for remote workers due to communication challenges."
+      },
+      {
+        "id": "d",
+        "label": "Relay communication through their local managers for confirmation."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Minimizing confirmation for remote workers due to communication challenges would result in less effective communication for this part of the team. The correct approach is using video calls, digital tools, and written summaries to confirm understanding. Option C provides different standards for different team members.",
+    "difficulty": "medium",
+    "topics": [
+      "remote work",
+      "communication confirmation"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-4-014",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has communicated a complex process change to various departments. What method would best confirm understanding across all departments?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send department heads a list of questions about the process change."
+      },
+      {
+        "id": "b",
+        "label": "Schedule department-specific sessions to confirm understanding and gather feedback."
+      },
+      {
+        "id": "c",
+        "label": "Wait for the next monthly meeting to discuss the process change again."
+      },
+      {
+        "id": "d",
+        "label": "Ask each department to designate one representative to confirm understanding."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Waiting for the next monthly meeting to discuss the process change again delays confirmation of understanding when the change has just been communicated. The correct approach is scheduling department-specific sessions to confirm understanding and gather feedback. Option C delays the confirmation process.",
+    "difficulty": "hard",
+    "topics": [
+      "process change",
+      "department communication"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-4-015",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has communicated expectations for a deliverable to a vendor. How should they confirm the vendor understands the requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask the vendor to send an email confirming receipt of the requirements."
+      },
+      {
+        "id": "b",
+        "label": "Request that the vendor submit their understanding in a formal response."
+      },
+      {
+        "id": "c",
+        "label": "Schedule a meeting to review the requirements and confirm understanding."
+      },
+      {
+        "id": "d",
+        "label": "Assume understanding based on the vendor's past performance."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Assuming understanding based on the vendor's past performance doesn't confirm that the vendor has properly understood the current specific requirements. The correct approach is either requesting a formal response from the vendor or scheduling a meeting to review and confirm understanding. Option D relies on past performance rather than confirming current understanding.",
+    "difficulty": "medium",
+    "topics": [
+      "vendor communication",
+      "requirement confirmation"
+    ],
+    "process": "conduct-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-2-4-016",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has provided instructions for a critical milestone review. How should they confirm that stakeholders understand their roles and expectations?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send a calendar invitation with the instructions attached."
+      },
+      {
+        "id": "b",
+        "label": "Ask each stakeholder to confirm their understanding of their specific role."
+      },
+      {
+        "id": "c",
+        "label": "Send the instructions to all stakeholders without individual confirmation."
+      },
+      {
+        "id": "d",
+        "label": "Have the project sponsor confirm that everyone received the instructions."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Sending instructions to all stakeholders without individual confirmation doesn't verify that each stakeholder understands their specific role. The correct approach is asking each stakeholder to confirm their understanding of their specific role. Option C doesn't provide individual verification of understanding.",
+    "difficulty": "medium",
+    "topics": [
+      "milestone review",
+      "role clarification"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-4-017",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager needs to confirm understanding of security protocols communicated to the project team. What is the most important action?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Have team members sign a document acknowledging receipt of the protocols."
+      },
+      {
+        "id": "b",
+        "label": "Conduct a practical exercise to verify understanding of the protocols."
+      },
+      {
+        "id": "c",
+        "label": "Send the protocols via multiple communication channels to ensure receipt."
+      },
+      {
+        "id": "d",
+        "label": "Explain the protocols in a meeting and assume understanding afterward."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Sending the protocols via multiple communication channels ensures receipt but does not verify understanding. The correct approach is conducting a practical exercise to verify understanding of the protocols. Option C confirms delivery but not comprehension.",
+    "difficulty": "hard",
+    "topics": [
+      "security protocols",
+      "understanding verification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-4-018",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has communicated new quality standards to the quality assurance team. How should they verify that the new standards are understood?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ask team members to repeat the standards verbatim during a meeting."
+      },
+      {
+        "id": "b",
+        "label": "Have team members apply the standards to sample work and review the results."
+      },
+      {
+        "id": "c",
+        "label": "Send the standards in writing and request email confirmation of receipt."
+      },
+      {
+        "id": "d",
+        "label": "Provide the standards in a training session and assume understanding afterward."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Sending the standards in writing and requesting email confirmation of receipt only verifies that the message was received, not that it was understood. The correct approach is having team members apply the standards to sample work and review the results. Option C confirms receipt rather than comprehension.",
+    "difficulty": "medium",
+    "topics": [
+      "quality standards",
+      "application verification"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-2-4-019",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager is communicating with stakeholders during a crisis. How should they approach confirming understanding and receiving feedback?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send frequent updates and wait for feedback to come in naturally."
+      },
+      {
+        "id": "b",
+        "label": "Establish direct communication channels for immediate feedback and confirmation."
+      },
+      {
+        "id": "c",
+        "label": "Minimize communication to avoid overwhelming stakeholders during the crisis."
+      },
+      {
+        "id": "d",
+        "label": "Use formal written communication only to maintain control during the crisis."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Minimizing communication to avoid overwhelming stakeholders during a crisis would prevent them from receiving critical information and providing necessary feedback. The correct approach is establishing direct communication channels for immediate feedback and confirmation. Option C reduces communication when more active communication is needed.",
+    "difficulty": "hard",
+    "topics": [
+      "crisis communication",
+      "feedback during crisis"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-4-020",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has communicated budget constraints to a development team. How should they confirm understanding of the constraints?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send an email with the budget figures and assume understanding."
+      },
+      {
+        "id": "b",
+        "label": "Ask the team to explain how the constraints will affect their planned work."
+      },
+      {
+        "id": "c",
+        "label": "Have the finance team confirm that the budget was communicated properly."
+      },
+      {
+        "id": "d",
+        "label": "Wait until the budget is exceeded to confirm if the constraints were understood."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Waiting until the budget is exceeded to confirm if the constraints were understood would be too late and could result in project damage. The correct approach is asking the team to explain how the constraints will affect their planned work. Option D confirms understanding after potential problems occur.",
+    "difficulty": "medium",
+    "topics": [
+      "budget communication",
+      "constraint understanding"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-2-4-021",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has communicated a change in project governance to stakeholders. What approach best ensures feedback is received?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send the governance changes via email and collect feedback through surveys."
+      },
+      {
+        "id": "b",
+        "label": "Schedule individual interviews to gather feedback on the governance change."
+      },
+      {
+        "id": "c",
+        "label": "Present the governance changes at a stakeholder meeting and request feedback."
+      },
+      {
+        "id": "d",
+        "label": "Use a combination of meetings, surveys, and one-on-ones for comprehensive feedback."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Sending governance changes via email and collecting feedback through surveys only uses one method of confirmation and feedback collection. The correct approach is using a combination of meetings, surveys, and one-on-ones for comprehensive feedback. Option A limits the feedback collection methods.",
+    "difficulty": "hard",
+    "topics": [
+      "governance changes",
+      "feedback collection"
+    ],
+    "process": "establish-project-governance-structure",
+    "knowledgeAreaId": "process"
+  },
+  {
+    "id": "q-process-2-4-022",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has provided detailed performance metrics to senior management. How should they ensure the metrics are understood correctly?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send the metrics with a cover note explaining how to interpret them."
+      },
+      {
+        "id": "b",
+        "label": "Schedule a meeting to explain the metrics and ask for questions and feedback."
+      },
+      {
+        "id": "c",
+        "label": "Create a dashboard that automatically sends the metrics to management weekly."
+      },
+      {
+        "id": "d",
+        "label": "Send a follow-up email asking if any clarification is needed after a week."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Creating a dashboard that automatically sends metrics doesn't ensure the metrics are understood correctly. The correct approach is scheduling a meeting to explain the metrics and ask for questions and feedback. Option C only ensures delivery, not understanding of the metrics.",
+    "difficulty": "medium",
+    "topics": [
+      "performance metrics",
+      "metric interpretation"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-4-023",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager is communicating with a team that has previously misunderstood project instructions. How should this history influence their current approach to confirming understanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same approach that led to misunderstandings in the past."
+      },
+      {
+        "id": "b",
+        "label": "Increase the frequency and methods of confirming understanding."
+      },
+      {
+        "id": "c",
+        "label": "Minimize communication to prevent further misunderstandings."
+      },
+      {
+        "id": "d",
+        "label": "Delegate communication responsibilities to reduce potential confusion."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using the same approach that led to misunderstandings in the past would likely result in similar problems. The correct approach is increasing the frequency and methods of confirming understanding. Option A repeats ineffective communication methods.",
+    "difficulty": "hard",
+    "topics": [
+      "learning from mistakes",
+      "improving communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-4-024",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager has communicated a complex technical solution to executives. How should they verify understanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide a detailed technical document and request confirmation of receipt."
+      },
+      {
+        "id": "b",
+        "label": "Summarize business impact and ask for feedback on the strategic implications."
+      },
+      {
+        "id": "c",
+        "label": "Present the solution visually and assume the executives understand it."
+      },
+      {
+        "id": "d",
+        "label": "Send the technical documentation to the executives' assistants to review."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Providing a detailed technical document and requesting confirmation of receipt doesn't verify understanding of the complex solution. The correct approach is summarizing business impact and asking for feedback on the strategic implications. Option A confirms receipt but not comprehension of the complex solution.",
+    "difficulty": "medium",
+    "topics": [
+      "executive communication",
+      "complex solution communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-4-025",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-4"
+    ],
+    "text": "A project manager needs to confirm understanding of new policies that affect multiple departments. What approach would be most effective?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Send the policies to department heads and ask them to confirm their team understands."
+      },
+      {
+        "id": "b",
+        "label": "Conduct training sessions and assessments to verify understanding across departments."
+      },
+      {
+        "id": "c",
+        "label": "Schedule a single meeting with representatives from each department to confirm understanding."
+      },
+      {
+        "id": "d",
+        "label": "Require all affected staff to attend a company-wide meeting about the policies."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Sending policies to department heads and asking them to confirm their team understands doesn't directly verify individual understanding. The correct approach is conducting training sessions and assessments to verify understanding across departments. Option A relies on secondhand confirmation rather than direct verification.",
+    "difficulty": "hard",
+    "topics": [
+      "policy communication",
+      "cross-departmental communication"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  }
+]

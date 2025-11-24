@@ -4,7 +4,8 @@ import { createJSONStorage, persist } from 'zustand/middleware'
 const defaultState = {
   completedQuestions: [],
   flashcardRatings: {},
-  readMaterials: []
+  readMaterials: [],
+  flashcardBoxes: {}
 }
 
 const uniqueList = (items = [], limit = 2000) => {
@@ -41,10 +42,26 @@ const sanitizeRatings = (map = {}, limit = 5000) => {
   return result
 }
 
+const sanitizeBoxData = (data = {}) => {
+  if (!data || typeof data !== 'object') return {}
+  const result = {}
+  for (const [key, value] of Object.entries(data)) {
+    if (typeof key !== 'string') continue
+    if (!value || typeof value !== 'object') continue
+    const box = Math.min(5, Math.max(1, Math.round(value.box) || 1))
+    const lastReviewed = typeof value.lastReviewed === 'number' ? value.lastReviewed : null
+    const nextReview = typeof value.nextReview === 'number' ? value.nextReview : Date.now()
+    const reviewCount = Math.max(0, Math.round(value.reviewCount) || 0)
+    result[key] = { box, lastReviewed, nextReview, reviewCount }
+  }
+  return result
+}
+
 const sanitizeProgress = (payload = {}) => ({
   completedQuestions: uniqueList(payload.completedQuestions),
   flashcardRatings: sanitizeRatings(payload.flashcardRatings),
-  readMaterials: uniqueList(payload.readMaterials)
+  readMaterials: uniqueList(payload.readMaterials),
+  flashcardBoxes: sanitizeBoxData(payload.flashcardBoxes)
 })
 
 export const useProgressStore = create(
@@ -70,6 +87,36 @@ export const useProgressStore = create(
         const existing = get().readMaterials
         if (existing.includes(id)) return
         set({ readMaterials: [...existing, id] })
+      },
+      reviewFlashcard: (id, rating) => {
+        if (typeof id !== 'string' || !['hard', 'good', 'easy'].includes(rating)) return
+        const boxes = get().flashcardBoxes
+        const current = boxes[id] || { box: 1, lastReviewed: null, nextReview: Date.now(), reviewCount: 0 }
+
+        // Leitner box intervals (in milliseconds)
+        const intervals = [24 * 60 * 60 * 1000, 3 * 24 * 60 * 60 * 1000, 7 * 24 * 60 * 60 * 1000, 14 * 24 * 60 * 60 * 1000, 30 * 24 * 60 * 60 * 1000]
+        let nextBox = current.box
+
+        if (rating === 'hard') {
+          nextBox = 1 // Reset to box 1
+        } else if (rating === 'easy') {
+          nextBox = Math.min(5, current.box + 1) // Move up one box
+        }
+        // 'good' keeps the same box
+
+        const nextReviewTime = Date.now() + intervals[nextBox - 1]
+
+        set((state) => ({
+          flashcardBoxes: {
+            ...state.flashcardBoxes,
+            [id]: {
+              box: nextBox,
+              lastReviewed: Date.now(),
+              nextReview: nextReviewTime,
+              reviewCount: current.reviewCount + 1
+            }
+          }
+        }))
       },
       resetProgress: () => set(defaultState),
       importProgress: (payload) => {

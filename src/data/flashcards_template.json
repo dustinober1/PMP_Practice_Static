@@ -1,0 +1,74 @@
+[
+  {
+    "id": "template-definition",
+    "type": "definition",
+    "category": "DEFINITION",
+    "description": "Use for terminology, concepts, and brief explanations. Perfect for memorizing key terms.",
+    "front": "What is [term]?",
+    "back": "[Brief definition]. [Additional context or example if relevant].",
+    "example": {
+      "front": "What is risk?",
+      "back": "An uncertain event or condition that, if it occurs, has a positive or negative effect on project objectives."
+    },
+    "tips": [
+      "Keep back concise - 1-2 sentences max",
+      "Include context for clarity",
+      "Use parallel structure: 'X is...', 'Y is...'",
+      "Avoid definitions that are too broad"
+    ]
+  },
+  {
+    "id": "template-process",
+    "type": "process",
+    "category": "PROCESS",
+    "description": "Use for lists of inputs, outputs, tools, techniques, or procedural steps. Great for memorizing PMBOK knowledge areas.",
+    "front": "List the [category] of [process]",
+    "back": "1. [Item 1]\n2. [Item 2]\n3. [Item 3]\n4. [Item 4]\n5. [Item 5]",
+    "example": {
+      "front": "List the main outputs of Risk Identification",
+      "back": "1. Risk register\n2. Risk report\n3. Project documents updates"
+    },
+    "tips": [
+      "Limit to 3-5 items for memorability",
+      "Use numbered lists for clarity",
+      "Order by importance or PMBOK sequence",
+      "Be specific about PMBOK terms"
+    ]
+  },
+  {
+    "id": "template-formula",
+    "type": "formula",
+    "category": "FORMULA",
+    "description": "Use for calculations, formulas, and quantitative metrics. Essential for Earned Value and mathematical concepts.",
+    "front": "What is the formula for [metric]?",
+    "back": "[Formula symbol] = [components]\nWhere:\n- [Component 1 definition]\n- [Component 2 definition]\n\n[Interpretation/Example]",
+    "example": {
+      "front": "What is the formula for Cost Variance (CV)?",
+      "back": "CV = EV - AC\nWhere:\n- EV = Earned Value\n- AC = Actual Cost\n\nPositive CV = under budget\nNegative CV = over budget"
+    },
+    "tips": [
+      "Always explain what each variable means",
+      "Include interpretation of positive/negative results",
+      "Add example calculations when helpful",
+      "Keep variable names consistent with PMBOK"
+    ]
+  },
+  {
+    "id": "template-concept",
+    "type": "concept",
+    "category": "CONCEPT",
+    "description": "Use for explaining complex ideas, frameworks, theories, and relationships. Ideal for deeper understanding.",
+    "front": "Explain [concept]",
+    "back": "[Main explanation]. [Supporting details]\n\nKey points:\n- [Point 1]\n- [Point 2]\n- [Point 3]",
+    "example": {
+      "front": "Explain the concept of Progressive Elaboration",
+      "back": "The iterative process of continuously improving and detailing a plan as more information becomes available.\n\nKey points:\n- Plans start high-level (rough estimates)\n- Details increase as you move through project phases\n- Refinement happens continuously\n- Based on new information discovered"
+    },
+    "tips": [
+      "Explain the 'why' not just the 'what'",
+      "Use 2-3 bullet points for supporting details",
+      "Include relationships to other concepts when relevant",
+      "Make it memorable and conceptually clear"
+    ]
+  }
+]

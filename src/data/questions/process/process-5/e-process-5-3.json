@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-5-3-001",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager has identified significant budget variations during project execution. What should be their immediate next step in working with governance to adjust the budget?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Implement corrective actions immediately without governance approval."
+      },
+      {
+        "id": "b",
+        "label": "Document the variations and submit a formal change request to governance."
+      },
+      {
+        "id": "c",
+        "label": "Continue with the original budget plan to maintain schedule."
+      },
+      {
+        "id": "d",
+        "label": "Inform only team members about the budget variations."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "When significant budget variations are identified, the project manager should document them and submit a formal change request to governance. This ensures proper approval and alignment with organizational policies before implementing any budget adjustments.",
+    "difficulty": "easy",
+    "topics": [
+      "budget variation management",
+      "change control"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-3-002",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is monitoring budget variations in a project with strict regulatory compliance requirements. How should compliance considerations influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ensure budget changes comply with regulatory reporting and approval requirements."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same budget variation process regardless of compliance requirements."
+      },
+      {
+        "id": "c",
+        "label": "Focus on budget variations only for non-regulatory aspects of the project."
+      },
+      {
+        "id": "d",
+        "label": "Minimize documentation of budget variations to reduce compliance burden."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with regulatory compliance requirements, budget changes must comply with regulatory reporting and approval requirements. The correct answer is option A, not B. Option B incorrectly suggests the same process regardless of compliance requirements.",
+    "difficulty": "easy",
+    "topics": [
+      "regulatory compliance",
+      "compliance management"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-3-003",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is working on a project with multiple departments involved, and a budget variation has been identified. How should they approach governance with this variation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Coordinate with all involved departments before presenting to governance."
+      },
+      {
+        "id": "b",
+        "label": "Present the variation to governance from only one department's perspective."
+      },
+      {
+        "id": "c",
+        "label": "Address budget variations only for the department that initiated the project."
+      },
+      {
+        "id": "d",
+        "label": "Apply the governance process of the most senior department to all variations."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with multiple departments, coordination with all involved departments is important before presenting to governance. The correct answer is option A, not B. Option B suggests presenting from only one department's perspective despite multiple being involved.",
+    "difficulty": "medium",
+    "topics": [
+      "departmental coordination",
+      "multi-department projects"
+    ],
+    "process": "determine-budget",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-5-3-004",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager has identified budget variations related to external vendor costs. How should vendor relationships influence their approach to governance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include vendor contract terms and change order processes in governance requests."
+      },
+      {
+        "id": "b",
+        "label": "Treat vendor-related variations the same as internal budget variations."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on vendor costs that exceed the original contract value."
+      },
+      {
+        "id": "d",
+        "label": "Minimize vendor involvement in the governance process for budget variations."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Vendor-related budget variations should include contract terms and change order processes in governance requests. The correct answer is option A, not B. Option B incorrectly suggests treating vendor variations the same as internal ones despite contractual differences.",
+    "difficulty": "medium",
+    "topics": [
+      "vendor management",
+      "contract governance"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-5-3-005",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is monitoring budget variations in a project with high public visibility. How should public visibility affect their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply transparency principles while protecting sensitive budget information."
+      },
+      {
+        "id": "b",
+        "label": "Use the same governance approach as for internal projects regardless of visibility."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance attention only on budget variations that don't affect public perception."
+      },
+      {
+        "id": "d",
+        "label": "Minimize governance documentation to reduce public scrutiny of variations."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For high-visibility projects, transparency principles should be applied while protecting sensitive information. The correct answer is option A, not B. Option B incorrectly suggests the same governance approach despite higher visibility concerns.",
+    "difficulty": "medium",
+    "topics": [
+      "public visibility",
+      "transparency"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-5-3-006",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager has identified budget variations in a project with rapidly changing requirements. How should this affect their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Implement more frequent governance reviews to address changing conditions."
+      },
+      {
+        "id": "b",
+        "label": "Use the same governance process as for stable requirements projects."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on variations related to the original project requirements."
+      },
+      {
+        "id": "d",
+        "label": "Delay governance reviews until requirements stabilize."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "With rapidly changing requirements, more frequent governance reviews are appropriate. The correct answer is option A, not B. Option B incorrectly suggests the same governance process despite changing conditions.",
+    "difficulty": "medium",
+    "topics": [
+      "changing requirements",
+      "adaptive governance"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-5-3-007",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is working on a project with limited budget for addressing variations. How should this constraint influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Prioritize governance attention on the highest-impact budget variations."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same governance approach regardless of the budget constraint."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on variations that require no additional budget."
+      },
+      {
+        "id": "d",
+        "label": "Minimize governance activities to conserve the limited budget."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "With limited budget for addressing variations, prioritization of governance attention is needed. The correct answer is option A, not B. Option B incorrectly suggests the same governance approach despite resource constraints.",
+    "difficulty": "hard",
+    "topics": [
+      "budget constraints",
+      "priority management"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-5-3-008",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is monitoring budget variations across different phases of a multi-phase project. How should the governance approach vary by phase?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Adjust governance frequency and detail based on phase-specific risks and needs."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical governance approach to all project phases consistently."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on the phase with the highest budget allocation."
+      },
+      {
+        "id": "d",
+        "label": "Complete all governance activities during the first project phase."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For multi-phase projects, governance should be adjusted based on phase-specific risks and needs. The correct answer is option A, not B. Option B incorrectly suggests identical governance across all phases despite different needs.",
+    "difficulty": "medium",
+    "topics": [
+      "project phases",
+      "phase-specific governance"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-3-009",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is addressing budget variations in a project with stakeholders from different cultural backgrounds. How should cultural differences influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider cultural preferences for communication and decision-making in governance."
+      },
+      {
+        "id": "b",
+        "label": "Use a uniform governance approach regardless of cultural differences."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on stakeholders from the project manager's own culture."
+      },
+      {
+        "id": "d",
+        "label": "Minimize governance communication to avoid cultural misunderstandings."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "When managing stakeholders from different cultures, cultural preferences should be considered in governance. The correct answer is option A, not B. Option B incorrectly suggests a uniform approach despite cultural differences.",
+    "difficulty": "hard",
+    "topics": [
+      "cultural differences",
+      "cross-cultural governance"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-5-3-010",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is monitoring budget variations in a project with tight schedule constraints. How should time pressure affect their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide expedited governance processes for urgent budget variation requests."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same governance timeline regardless of schedule constraints."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on budget variations that directly impact the schedule."
+      },
+      {
+        "id": "d",
+        "label": "Postpone governance decisions until after schedule-critical activities."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with tight schedules, expedited governance processes may be needed. The correct answer is option A, not B. Option B incorrectly suggests the same timeline despite time constraints.",
+    "difficulty": "medium",
+    "topics": [
+      "time constraints",
+      "expedited governance"
+    ],
+    "process": "develop-schedule",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-5-3-011",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager has identified budget variations in a project with high security requirements. How should security considerations influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ensure sensitive budget information is handled according to security protocols."
+      },
+      {
+        "id": "b",
+        "label": "Security requirements should not affect the budget governance process."
+      },
+      {
+        "id": "c",
+        "label": "Governance should focus only on budget variations related to security measures."
+      },
+      {
+        "id": "d",
+        "label": "Minimize security measures during governance to expedite budget reviews."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with high security requirements, sensitive budget information should be handled according to security protocols. The correct answer is option A, not B. Option B incorrectly suggests that security requirements don't affect governance.",
+    "difficulty": "hard",
+    "topics": [
+      "security requirements",
+      "information security"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-5-3-012",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is working with multiple external partner organizations that have contributed to a budget variation. How should partnership dynamics influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include partner agreements and cost-sharing arrangements in governance reviews."
+      },
+      {
+        "id": "b",
+        "label": "Use identical governance approach for all external partners regardless of agreements."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance on the main partnering organization only."
+      },
+      {
+        "id": "d",
+        "label": "Minimize partner involvement in governance to maintain project control."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with multiple partners, agreements and cost-sharing arrangements should be included in governance. The correct answer is option A, not B. Option B incorrectly suggests identical governance despite different partnership agreements.",
+    "difficulty": "medium",
+    "topics": [
+      "external partnerships",
+      "partner governance"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-5-3-013",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is addressing budget variations with stakeholders who have different communication preferences. How should these preferences influence the governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Adapt communication methods to match stakeholder preferences during governance."
+      },
+      {
+        "id": "b",
+        "label": "Use standardized communication methods for all stakeholders in governance."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance communication using only the most advanced technologies."
+      },
+      {
+        "id": "d",
+        "label": "Use only face-to-face meetings to ensure communication effectiveness."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Communication methods should be adapted to match stakeholder preferences during governance. The correct answer is option A, not B. Option B incorrectly suggests standardized methods despite different preferences.",
+    "difficulty": "medium",
+    "topics": [
+      "communication preferences",
+      "stakeholder communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-5-3-014",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is dealing with budget variations in a project with a history of poorly managed budget changes. How should this history influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Implement more rigorous controls and documentation based on past lessons."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same governance approach regardless of past project history."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on the same areas where past projects failed."
+      },
+      {
+        "id": "d",
+        "label": "Minimize governance documentation to avoid repeating past project problems."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Based on past history of poor budget management, more rigorous controls should be implemented. The correct answer is option A, not B. Option B incorrectly suggests ignoring past history in governance approach.",
+    "difficulty": "hard",
+    "topics": [
+      "lessons learned",
+      "historical governance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-3-015",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager has identified budget variations in a project that will significantly change business operations. How should change impact influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include change management and transition costs in governance considerations."
+      },
+      {
+        "id": "b",
+        "label": "Apply standard governance procedures without considering operational changes."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on stakeholders supportive of the operational changes."
+      },
+      {
+        "id": "d",
+        "label": "Minimize change-related costs in governance to avoid stakeholder resistance."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with significant operational changes, change management and transition costs should be included in governance. The correct answer is option A, not B. Option B incorrectly suggests ignoring operational changes in governance.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational change",
+      "change governance"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-5-3-016",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is monitoring budget variations across multiple organizational levels. How should organizational hierarchy influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Align governance reporting and approval requirements with organizational hierarchy."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical governance approach to all organizational levels."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance primarily on senior management level variations."
+      },
+      {
+        "id": "d",
+        "label": "Use formal governance methods only for top organizational levels."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Governance should be aligned with organizational hierarchy for reporting and approvals. The correct answer is option A, not B. Option B incorrectly suggests identical governance across all levels despite different authority structures.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational hierarchy",
+      "hierarchical governance"
+    ],
+    "process": "determine-budget",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-5-3-017",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is addressing budget variations in a project with significant technical complexity. How should complexity affect their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include technical expertise requirements and complexity-related costs in governance."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same governance approach regardless of technical complexity."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on the most technically complex project elements."
+      },
+      {
+        "id": "d",
+        "label": "Minimize technical details in governance to simplify budget reviews."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For technically complex projects, technical expertise and complexity-related costs should be included in governance. The correct answer is option A, not B. Option B incorrectly suggests ignoring complexity in governance approach.",
+    "difficulty": "medium",
+    "topics": [
+      "technical complexity",
+      "complexity management"
+    ],
+    "process": "estimate-costs",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-5-3-018",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager has identified budget variations in a project with environmental impact considerations. How should environmental factors influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include environmental compliance and impact mitigation costs in governance."
+      },
+      {
+        "id": "b",
+        "label": "Environmental considerations should not affect the governance process."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on environmental costs for experts in the area."
+      },
+      {
+        "id": "d",
+        "label": "Minimize environmental impact discussions during governance reviews."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with environmental impacts, compliance and mitigation costs should be included in governance. The correct answer is option A, not B. Option B incorrectly suggests environmental considerations don't affect governance.",
+    "difficulty": "medium",
+    "topics": [
+      "environmental impact",
+      "environmental governance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-3-019",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is monitoring budget variations in a project with limited team experience in governance processes. How should this capability constraint influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide additional guidance and simplify governance procedures as needed."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same governance approach regardless of team experience level."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on areas where the team has governance experience."
+      },
+      {
+        "id": "d",
+        "label": "Minimize governance activities to accommodate the team's inexperience."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "When team experience is limited, additional guidance and simplified procedures should be provided. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite capability constraints.",
+    "difficulty": "medium",
+    "topics": [
+      "team experience",
+      "capability-aware governance"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-5-3-020",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is addressing budget variations in a project with global team members across different regions. How should geographic distribution affect their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider time zones and regional reporting requirements in governance schedules."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical governance approach regardless of geographic location."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance primarily on team members in the project manager's region."
+      },
+      {
+        "id": "d",
+        "label": "Use only centralized governance to avoid complexity from geographic differences."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For global projects, time zones and regional requirements should be considered in governance. The correct answer is option A, not B. Option B incorrectly suggests ignoring geographic differences in governance.",
+    "difficulty": "hard",
+    "topics": [
+      "global projects",
+      "geographic governance"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-5-3-021",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is working with budget variations in a project with multiple competing objectives. How should objective trade-offs influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider the impact on different objectives when evaluating budget variation options."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same decision criteria for all budget variations regardless of objectives."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on budget variations affecting the primary project objective."
+      },
+      {
+        "id": "d",
+        "label": "Avoid discussing competing objectives during governance of budget variations."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "With competing objectives, the impact on different objectives should be considered in governance. The correct answer is option A, not B. Option B incorrectly suggests the same decision criteria despite competing objectives.",
+    "difficulty": "hard",
+    "topics": [
+      "competing objectives",
+      "objective trade-offs"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-3-022",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is monitoring budget variations with limited access to historical variation data. How should this information constraint influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Increase reliance on expert judgment and current project data in governance."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same governance approach regardless of data availability."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on variations similar to the limited data available."
+      },
+      {
+        "id": "d",
+        "label": "Delay governance decisions until more historical data becomes available."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "With limited historical data, reliance on expert judgment and current data should increase. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite data constraints.",
+    "difficulty": "medium",
+    "topics": [
+      "limited data",
+      "data-constrained governance"
+    ],
+    "process": "control-costs",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-5-3-023",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is addressing budget variations in a project with multiple parallel work streams. How should the project structure influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider interdependencies and resource allocation between work streams in governance."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical governance approach to all parallel work streams."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on the most critical parallel work stream."
+      },
+      {
+        "id": "d",
+        "label": "Govern budget variations separately for each parallel work stream."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with parallel work streams, interdependencies and resource allocation should be considered in governance. The correct answer is option A, not B. Option B incorrectly suggests identical governance despite interdependencies.",
+    "difficulty": "hard",
+    "topics": [
+      "parallel work streams",
+      "interdependency governance"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-3-024",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager has identified budget variations in a project with rapidly evolving technology. How should technological change affect their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include provisions for technology updates and obsolescence in governance."
+      },
+      {
+        "id": "b",
+        "label": "Apply standard governance procedures without considering technology evolution."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on the original technology baseline."
+      },
+      {
+        "id": "d",
+        "label": "Minimize technology discussions in governance to focus on cost control."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with evolving technology, updates and obsolescence should be included in governance. The correct answer is option A, not B. Option B incorrectly suggests ignoring technology evolution in governance.",
+    "difficulty": "hard",
+    "topics": [
+      "evolving technology",
+      "technology governance"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-5-3-025",
+    "domainId": "process",
+    "taskId": "process-5",
+    "enablerIds": [
+      "e-process-5-3"
+    ],
+    "text": "A project manager is monitoring budget variations in a project with a compressed timeline. How should time pressure influence their governance approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Implement streamlined approval processes while maintaining control in governance."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same governance timeline regardless of project compression."
+      },
+      {
+        "id": "c",
+        "label": "Focus governance only on variations that directly affect the timeline."
+      },
+      {
+        "id": "d",
+        "label": "Postpone governance decisions to avoid slowing down the compressed schedule."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For compressed projects, streamlined approval processes should be implemented while maintaining control. The correct answer is option A, not B. Option B incorrectly suggests the same timeline despite compression.",
+    "difficulty": "medium",
+    "topics": [
+      "compressed schedule",
+      "time-pressured governance"
+    ],
+    "process": "develop-schedule",
+    "knowledgeAreaId": "schedule"
+  }
+]

@@ -3,6 +3,11 @@ import QuizCard from '../components/QuizCard'
 import QuizFeedback from '../components/QuizFeedback'
 import { useStaticData } from '../hooks/useStaticData'
 import { useProgressStore } from '../stores/useProgressStore'
+import Card from '../components/Card'
+import Select from '../components/Select'
+import Button from '../components/Button'
+import LoadingSpinner from '../components/LoadingSpinner'
+import Badge from '../components/Badge'
 
 const shuffle = (list) => {
   const arr = [...list]
@@ -88,85 +93,87 @@ function Quiz() {
   }
 
   if (loading) {
-    return (
-      <div className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-100 sm:p-8">
-        <p className="text-sm font-semibold text-slate-600">Loading questions…</p>
-      </div>
-    )
+    return <LoadingSpinner fullHeight={true} label="Loading questions" />
   }
 
   if (error) {
     return (
-      <div className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-rose-100 sm:p-8">
-        <p className="text-sm font-semibold text-rose-700">Error loading questions</p>
-        <p className="text-sm text-rose-600">{error.message}</p>
-      </div>
+      <Card>
+        <div className="space-y-2">
+          <p className="text-sm font-semibold text-rose-700 dark:text-rose-400">Error loading questions</p>
+          <p className="text-sm text-rose-600 dark:text-rose-300">{error.message}</p>
+        </div>
+      </Card>
     )
   }
 
   if (!deck.length) {
     return (
-      <div className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-100 sm:p-8">
-        <p className="text-sm font-semibold text-slate-900">No questions available.</p>
-        <p className="text-sm text-slate-600">Try removing filters or add questions.json entries.</p>
-      </div>
+      <Card>
+        <div className="space-y-2">
+          <p className="text-sm font-semibold text-slate-900 dark:text-zinc-50">No questions available.</p>
+          <p className="text-sm text-slate-600 dark:text-zinc-400">Try removing filters or add questions.json entries.</p>
+        </div>
+      </Card>
     )
   }
 
+  const domainOptions = [
+    { value: 'all', label: `All domains (${questions.length})` },
+    ...domains.map((domain) => ({
+      value: domain.id,
+      label: domain.name
+    }))
+  ]
+
   return (
     <div className="space-y-6">
-      <section className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-100 sm:p-8">
-        <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
-          <div>
-            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">Quiz</p>
-            <h2 className="text-2xl font-bold text-slate-900">Practice questions</h2>
-            <p className="text-sm text-slate-600">
+      <Card as="section">
+        <div className="space-y-4">
+          <div className="space-y-1">
+            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-zinc-400">Quiz</p>
+            <h2 className="text-2xl font-bold text-slate-900 dark:text-zinc-50">Practice questions</h2>
+            <p className="text-sm text-slate-600 dark:text-zinc-400">
               Filter by domain and shuffle. Answers auto-save to localStorage progress.
             </p>
           </div>
-          <div className="flex flex-wrap gap-2">
-            <select
-              value={domainFilter}
-              onChange={(e) => setDomainFilter(e.target.value)}
-              className="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-800 shadow-sm focus:border-sky-500 focus:outline-none"
-            >
-              <option value="all">All domains ({questions.length})</option>
-              {domains.map((domain) => (
-                <option key={domain.id} value={domain.id}>
-                  {domain.name}
-                </option>
-              ))}
-            </select>
-            <button
-              type="button"
+          <div className="flex flex-col gap-2 sm:flex-row sm:items-end">
+            <div className="flex-1 sm:max-w-xs">
+              <Select
+                id="domain-filter"
+                label="Filter by domain"
+                value={domainFilter}
+                onChange={(e) => setDomainFilter(e.target.value)}
+                options={domainOptions}
+              />
+            </div>
+            <Button
+              variant="secondary"
               onClick={() => {
                 setDeck(shuffle(filtered))
                 setCurrentIndex(0)
                 setAnswers({})
               }}
-              className="rounded-full bg-slate-200 px-4 py-2 text-sm font-semibold text-slate-800 shadow-sm transition hover:bg-slate-300"
             >
-              Shuffle
-            </button>
+              Shuffle deck
+            </Button>
           </div>
         </div>
-      </section>
+      </Card>
 
       <section className="space-y-4">
-        <div className="flex items-center justify-between text-sm text-slate-600">
-          <p>
-            Question {currentIndex + 1} of {deck.length}
-          </p>
-          <p>
-            Score: <span className="font-semibold text-slate-900">{score}</span> /{' '}
-            {Object.keys(answers).length}
-          </p>
-          <p>
-            Streak:{' '}
-            <span className="font-semibold text-slate-900">
-              {streak} correct {streak === 1 ? 'answer' : 'answers'} in a row
-            </span>
-          </p>
+        <div className="flex flex-col gap-2 rounded-xl border border-slate-200 bg-slate-50 p-4 dark:border-zinc-700 dark:bg-zinc-800/50 sm:flex-row sm:items-center sm:justify-between">
+          <div className="text-sm text-slate-600 dark:text-zinc-400">
+            Question <span className="font-semibold">{currentIndex + 1}</span> of <span className="font-semibold">{deck.length}</span>
+          </div>
+          <div className="flex flex-wrap gap-3">
+            <Badge variant="primary">
+              Score: <span className="font-semibold">{score}</span>/{Object.keys(answers).length}
+            </Badge>
+            <Badge variant={streak > 0 ? 'success' : 'default'}>
+              🔥 {streak} streak
+            </Badge>
+          </div>
         </div>
 
         <QuizCard
@@ -176,25 +183,24 @@ function Quiz() {
         />
         <QuizFeedback question={currentQuestion} selectedOptionId={selectedOptionId} />
 
-        <div className="flex items-center gap-3">
-          <button
-            type="button"
+        <div className="flex flex-col gap-2 sm:flex-row">
+          <Button
+            variant="primary"
             onClick={handleNext}
-            className="rounded-full bg-sky-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-sky-700"
           >
             {currentIndex < deck.length - 1 ? 'Next question' : 'Restart & reshuffle'}
-          </button>
-          <button
-            type="button"
+          </Button>
+          <Button
+            variant="secondary"
             onClick={() => {
               setDeck(shuffle(filtered))
               setCurrentIndex(0)
               setAnswers({})
+              setAnswerOrder([])
             }}
-            className="rounded-full bg-white px-4 py-2 text-sm font-semibold text-slate-800 ring-1 ring-slate-200 transition hover:ring-slate-300"
           >
             Reset session
-          </button>
+          </Button>
         </div>
       </section>
     </div>

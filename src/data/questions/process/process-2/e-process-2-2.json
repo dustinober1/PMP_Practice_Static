@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-2-2-001",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager has completed the stakeholder analysis and identified different communication needs. What should be the next step in determining communication methods, channels, frequency, and level of detail?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Select the most advanced communication technology available."
+      },
+      {
+        "id": "b",
+        "label": "Map communication needs to appropriate methods and channels."
+      },
+      {
+        "id": "c",
+        "label": "Create a standard template for all project communications."
+      },
+      {
+        "id": "d",
+        "label": "Schedule communications at the most convenient time for the project manager."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Mapping communication needs to appropriate methods and channels is the correct next step after stakeholder analysis. This involves matching the identified needs of each stakeholder group with the most effective communication approaches based on their preferences, availability, and requirements.",
+    "difficulty": "easy",
+    "topics": [
+      "communication methods",
+      "stakeholder mapping"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-002",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager needs to determine the appropriate frequency of communication for various stakeholder groups. What factor should have the highest priority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The project manager's availability to prepare communications."
+      },
+      {
+        "id": "b",
+        "label": "The stakeholders' need for information to make decisions."
+      },
+      {
+        "id": "c",
+        "label": "The cost of preparing and distributing communications."
+      },
+      {
+        "id": "d",
+        "label": "The standard frequency used in similar past projects."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The standard frequency used in similar past projects should not be the highest priority when determining communication frequency. The correct approach is to prioritize the stakeholders' need for information to make decisions. Option D ignores the specific needs of current stakeholders for a generic approach.",
+    "difficulty": "medium",
+    "topics": [
+      "communication frequency",
+      "decision making"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-003",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is working with a globally distributed team across multiple time zones. How should this impact the determination of communication methods and channels?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use only real-time communication methods like video conferencing."
+      },
+      {
+        "id": "b",
+        "label": "Choose asynchronous communication methods that accommodate time zones."
+      },
+      {
+        "id": "c",
+        "label": "Schedule all meetings during the project manager's working hours."
+      },
+      {
+        "id": "d",
+        "label": "Avoid using technology for communications."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Scheduling all meetings during the project manager's working hours would not accommodate the globally distributed team across multiple time zones. The correct approach is choosing asynchronous communication methods that accommodate time zones. Option C ignores the needs of team members in other time zones.",
+    "difficulty": "medium",
+    "topics": [
+      "distributed teams",
+      "time zone management"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-004",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager needs to determine the appropriate level of detail for communications with senior executives. What should be their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide detailed technical information to demonstrate project knowledge."
+      },
+      {
+        "id": "b",
+        "label": "Focus on high-level summaries, risks, issues, and business impact."
+      },
+      {
+        "id": "c",
+        "label": "Send the same level of detail used for technical team communications."
+      },
+      {
+        "id": "d",
+        "label": "Minimize detail to prevent information overload."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Providing detailed technical information to senior executives might not be appropriate as their focus is typically on strategic matters, risks, and business impact. The correct approach is focusing on high-level summaries, risks, issues, and business impact. Option A doesn't align with the information needs of senior executives.",
+    "difficulty": "easy",
+    "topics": [
+      "executive communication",
+      "level of detail"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-005",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication channels for a project with security restrictions. What is the most important consideration?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Using the most advanced communication tools available."
+      },
+      {
+        "id": "b",
+        "label": "Ensuring all communication channels meet security requirements."
+      },
+      {
+        "id": "c",
+        "label": "Choosing the fastest communication methods for efficiency."
+      },
+      {
+        "id": "d",
+        "label": "Selecting channels that are most convenient for all stakeholders."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Selecting channels that are most convenient for all stakeholders doesn't address the critical security restrictions of the project. The correct approach is ensuring all communication channels meet security requirements. Option D ignores the security requirements in favor of convenience.",
+    "difficulty": "medium",
+    "topics": [
+      "security communication",
+      "channel selection"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-006",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager needs to establish communication methods for a crisis situation where rapid decision-making is essential. What approach should they take?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Follow the standard communication plan developed earlier."
+      },
+      {
+        "id": "b",
+        "label": "Establish direct, immediate communication channels for key decision makers."
+      },
+      {
+        "id": "c",
+        "label": "Reduce the number of people included in communications to save time."
+      },
+      {
+        "id": "d",
+        "label": "Increase the frequency of formal written reporting."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Following the standard communication plan developed earlier may not be appropriate for a crisis situation requiring rapid decision-making. The correct approach is establishing direct, immediate communication channels for key decision makers. Option A doesn't adapt to the urgent needs of a crisis situation.",
+    "difficulty": "hard",
+    "topics": [
+      "crisis communication",
+      "decision making"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-2-007",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication frequency for a long-term project with multiple phases. How should they structure the communication schedule?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Maintain the same frequency throughout all project phases."
+      },
+      {
+        "id": "b",
+        "label": "Adjust frequency based on the level of activity and decision points in each phase."
+      },
+      {
+        "id": "c",
+        "label": "Set the highest frequency possible to ensure constant awareness."
+      },
+      {
+        "id": "d",
+        "label": "Minimize communication during stable project phases."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Maintaining the same frequency throughout all project phases doesn't account for the varying needs of different project phases. The correct approach is adjusting frequency based on the level of activity and decision points in each phase. Option A doesn't recognize that communication needs vary throughout the project lifecycle.",
+    "difficulty": "medium",
+    "topics": [
+      "project phases",
+      "communication frequency"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-2-008",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is working with a team that includes both technical and non-technical stakeholders. How should they determine the appropriate level of detail for different groups?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide high-level summaries to both technical and non-technical stakeholders."
+      },
+      {
+        "id": "b",
+        "label": "Provide detailed technical information to both groups to ensure understanding."
+      },
+      {
+        "id": "c",
+        "label": "Tailor the level of detail based on each group's expertise and needs."
+      },
+      {
+        "id": "d",
+        "label": "Use technical language for all communications to maintain accuracy."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Providing high-level summaries to both technical and non-technical stakeholders would not meet the detailed information needs of the technical stakeholders. The correct approach is tailoring the level of detail based on each group's expertise and needs. Option A doesn't provide technical stakeholders with the detailed information they require.",
+    "difficulty": "easy",
+    "topics": [
+      "technical vs non-technical",
+      "communication detail"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-009",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager needs to determine communication methods for a project involving external vendors. What should be their primary focus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same communication methods as for internal team members."
+      },
+      {
+        "id": "b",
+        "label": "Consider contractual obligations and vendor relationship requirements."
+      },
+      {
+        "id": "c",
+        "label": "Minimize communication to reduce vendor dependency."
+      },
+      {
+        "id": "d",
+        "label": "Use only formal written communication methods."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using the same communication methods as for internal team members doesn't account for the different nature of vendor relationships and potential contractual requirements. The correct approach is considering contractual obligations and vendor relationship requirements. Option A doesn't recognize the different dynamics of vendor communication.",
+    "difficulty": "medium",
+    "topics": [
+      "vendor communication",
+      "contractual requirements"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-2-2-010",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication approaches for a project with strict regulatory compliance requirements. What is the most important factor?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Using the most efficient communication methods to save time."
+      },
+      {
+        "id": "b",
+        "label": "Ensuring compliance with regulatory requirements for record-keeping."
+      },
+      {
+        "id": "c",
+        "label": "Choosing methods that are most convenient for stakeholders."
+      },
+      {
+        "id": "d",
+        "label": "Using the most modern communication technology available."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Choosing methods that are most convenient for stakeholders doesn't address the primary regulatory compliance requirements. The correct approach is ensuring compliance with regulatory requirements for record-keeping. Option C ignores the critical compliance requirements.",
+    "difficulty": "medium",
+    "topics": [
+      "regulatory compliance",
+      "record keeping"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-2-011",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is working with stakeholders from different cultural backgrounds. How should cultural differences influence the determination of communication methods?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply the same communication approach to all cultures to ensure equality."
+      },
+      {
+        "id": "b",
+        "label": "Adapt methods to respect cultural preferences for communication style."
+      },
+      {
+        "id": "c",
+        "label": "Use only technology-based communication to avoid cultural issues."
+      },
+      {
+        "id": "d",
+        "label": "Minimize interaction between stakeholders from different cultures."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Applying the same communication approach to all cultures ignores the importance of cultural sensitivity in communication. The correct approach is adapting methods to respect cultural preferences for communication style. Option A doesn't consider cultural differences that could affect communication effectiveness.",
+    "difficulty": "hard",
+    "topics": [
+      "cultural communication",
+      "diversity"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-2-2-012",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication methods for a high-risk project. What should be their priority?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Minimize communication to avoid spreading concern about risks."
+      },
+      {
+        "id": "b",
+        "label": "Ensure timely, accurate, and frequent communication about risks."
+      },
+      {
+        "id": "c",
+        "label": "Use informal communication methods to speed up the process."
+      },
+      {
+        "id": "d",
+        "label": "Focus communication only on completed project elements."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Minimizing communication to avoid spreading concern about risks would prevent stakeholders from having the information they need to address risks effectively. The correct approach is ensuring timely, accurate, and frequent communication about risks. Option A could prevent effective risk management.",
+    "difficulty": "medium",
+    "topics": [
+      "high-risk projects",
+      "risk communication"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-2-2-013",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager needs to determine the appropriate communication channels for sharing sensitive project information. What should be their primary focus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Choose channels based on convenience for all stakeholders."
+      },
+      {
+        "id": "b",
+        "label": "Select secure channels that protect sensitive information."
+      },
+      {
+        "id": "c",
+        "label": "Use public communication channels to ensure transparency."
+      },
+      {
+        "id": "d",
+        "label": "Use any available communication channel regardless of security."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Using public communication channels to ensure transparency would not protect sensitive project information. The correct approach is selecting secure channels that protect sensitive information. Option C disregards information security.",
+    "difficulty": "medium",
+    "topics": [
+      "information security",
+      "communication channels"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-014",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication approaches for a project with limited budget. How should budget constraints influence their decision?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Invest in the most expensive communication tools for quality."
+      },
+      {
+        "id": "b",
+        "label": "Select cost-effective methods that still meet communication needs."
+      },
+      {
+        "id": "c",
+        "label": "Reduce the frequency and level of all communications to save costs."
+      },
+      {
+        "id": "d",
+        "label": "Use only free communication methods regardless of effectiveness."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Reducing the frequency and level of all communications to save costs could prevent stakeholders from receiving necessary information. The correct approach is selecting cost-effective methods that still meet communication needs. Option C prioritizes cost over effective communication.",
+    "difficulty": "easy",
+    "topics": [
+      "budget constraints",
+      "cost-effective communication"
+    ],
+    "process": "estimate-costs",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-2-2-015",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is working on a project with rapidly changing requirements. How should this affect their determination of communication frequency?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Maintain a fixed communication schedule regardless of changes."
+      },
+      {
+        "id": "b",
+        "label": "Increase frequency to ensure stakeholders are informed of changes."
+      },
+      {
+        "id": "c",
+        "label": "Decrease frequency to reduce information overload during changes."
+      },
+      {
+        "id": "d",
+        "label": "Stop regular communications until requirements stabilize."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Maintaining a fixed communication schedule regardless of changes may not keep stakeholders adequately informed during periods of rapid change. The correct approach is increasing frequency to ensure stakeholders are informed of changes. Option A doesn't adapt to the changing nature of the project.",
+    "difficulty": "medium",
+    "topics": [
+      "changing requirements",
+      "adaptive communication"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-2-2-016",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager needs to determine communication approaches for a regulatory audit. What should be their primary focus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use informal communication methods to maintain flexibility."
+      },
+      {
+        "id": "b",
+        "label": "Ensure all communications follow formal documentation requirements."
+      },
+      {
+        "id": "c",
+        "label": "Minimize written records to reduce documentation burden."
+      },
+      {
+        "id": "d",
+        "label": "Focus on verbal communication to avoid documentation issues."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using informal communication methods for a regulatory audit does not meet the formal documentation requirements typically expected during audits. The correct approach is ensuring all communications follow formal documentation requirements. Option A doesn't meet audit compliance needs.",
+    "difficulty": "hard",
+    "topics": [
+      "regulatory audit",
+      "documentation"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-2-017",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication methods for a project with multiple shifts working simultaneously. How should they accommodate shift differences?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Conduct all important communications during the first shift only."
+      },
+      {
+        "id": "b",
+        "label": "Establish communication methods that work for all shifts."
+      },
+      {
+        "id": "c",
+        "label": "Avoid communication between shifts to prevent confusion."
+      },
+      {
+        "id": "d",
+        "label": "Use only one communication method for simplicity."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Conducting all important communications during the first shift only would exclude other shifts from critical information. The correct approach is establishing communication methods that work for all shifts. Option A doesn't ensure all shifts receive necessary information.",
+    "difficulty": "medium",
+    "topics": [
+      "multiple shifts",
+      "shift communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-018",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is working on a project with external stakeholder scrutiny. How should this influence the determination of communication methods and level of detail?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Reduce transparency to limit stakeholder scrutiny."
+      },
+      {
+        "id": "b",
+        "label": "Provide clear, comprehensive, and well-documented communications."
+      },
+      {
+        "id": "c",
+        "label": "Increase informal verbal communications to avoid documentation."
+      },
+      {
+        "id": "d",
+        "label": "Minimize details to prevent misinterpretation by external parties."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Reducing transparency to limit stakeholder scrutiny would not address the legitimate concerns of external stakeholders. The correct approach is providing clear, comprehensive, and well-documented communications. Option A doesn't appropriately respond to stakeholder scrutiny with improved transparency.",
+    "difficulty": "hard",
+    "topics": [
+      "external scrutiny",
+      "transparency"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-2-2-019",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication approaches for a project with high technical complexity. What should be their approach to level of detail?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide the same level of technical detail to all stakeholders."
+      },
+      {
+        "id": "b",
+        "label": "Tailor the detail level to each stakeholder group's technical understanding."
+      },
+      {
+        "id": "c",
+        "label": "Minimize technical detail to avoid confusing stakeholders."
+      },
+      {
+        "id": "d",
+        "label": "Provide maximum technical detail to all stakeholders for accuracy."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Providing the same level of technical detail to all stakeholders doesn't account for their different levels of technical understanding and needs. The correct approach is tailoring the detail level to each stakeholder group's technical understanding. Option A doesn't consider the varying technical expertise of different stakeholders.",
+    "difficulty": "medium",
+    "topics": [
+      "technical complexity",
+      "detail level"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-020",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication frequency in a project with seasonal fluctuations in activity. How should they approach this?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Maintain the same communication frequency throughout the project."
+      },
+      {
+        "id": "b",
+        "label": "Adjust frequency based on the level of activity during different seasons."
+      },
+      {
+        "id": "c",
+        "label": "Increase communication during low-activity periods to keep stakeholders engaged."
+      },
+      {
+        "id": "d",
+        "label": "Decrease communication frequency during high-activity seasons to reduce overhead."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Maintaining the same communication frequency throughout the project ignores the varying needs during different seasons with different activity levels. The correct approach is adjusting frequency based on the level of activity during different seasons. Option A doesn't adapt to the changing project environment.",
+    "difficulty": "medium",
+    "topics": [
+      "seasonal projects",
+      "adaptive communication"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-2-021",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is working with a team that has had negative experiences with project communication in the past. How should this influence their approach to determining communication methods?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Avoid regular communication to prevent repeating past negative experiences."
+      },
+      {
+        "id": "b",
+        "label": "Establish clear, reliable communication methods to rebuild trust."
+      },
+      {
+        "id": "c",
+        "label": "Focus only on formal written communication to avoid misunderstandings."
+      },
+      {
+        "id": "d",
+        "label": "Use the same methods that failed in past projects to maintain consistency."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Avoiding regular communication to prevent repeating past negative experiences would create the opposite of effective communication. The correct approach is establishing clear, reliable communication methods to rebuild trust. Option A avoids communication rather than improving it.",
+    "difficulty": "hard",
+    "topics": [
+      "past negative experiences",
+      "trust building"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-2-2-022",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication methods for a project with multiple organizational levels. How should they approach this?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same communication method for all organizational levels."
+      },
+      {
+        "id": "b",
+        "label": "Tailor communication methods to the preferences and needs of each level."
+      },
+      {
+        "id": "c",
+        "label": "Focus all communication efforts on the highest organizational level."
+      },
+      {
+        "id": "d",
+        "label": "Use only formal written communication for all organizational levels."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using the same communication method for all organizational levels doesn't recognize that different levels may have different communication preferences and needs. The correct approach is tailoring communication methods to the preferences and needs of each level. Option A ignores the different requirements of various organizational levels.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational levels",
+      "tailored communication"
+    ],
+    "process": "plan-communications-management",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-2-2-023",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager needs to determine communication approaches for a project with compliance reporting requirements. What should be their primary consideration?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Choose the most convenient communication methods for the team."
+      },
+      {
+        "id": "b",
+        "label": "Ensure all reporting meets compliance requirements and timelines."
+      },
+      {
+        "id": "c",
+        "label": "Minimize reporting to reduce administrative burden."
+      },
+      {
+        "id": "d",
+        "label": "Use only informal communication methods to maintain flexibility."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Minimizing reporting to reduce administrative burden would not meet compliance requirements that mandate specific reporting. The correct approach is ensuring all reporting meets compliance requirements and timelines. Option C ignores mandatory compliance communication requirements.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance reporting",
+      "reporting requirements"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-2-2-024",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication methods for a project involving safety-critical operations. How should safety considerations influence the communication plan?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Treat safety communications the same as other project communications."
+      },
+      {
+        "id": "b",
+        "label": "Ensure safety-critical information is communicated immediately and clearly."
+      },
+      {
+        "id": "c",
+        "label": "Minimize safety communications to avoid information overload."
+      },
+      {
+        "id": "d",
+        "label": "Use the same communication methods as for non-critical information."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Treating safety communications the same as other project communications doesn't recognize the critical nature of safety information in safety-critical operations. The correct approach is ensuring safety-critical information is communicated immediately and clearly. Option A doesn't account for the importance of safety communications.",
+    "difficulty": "hard",
+    "topics": [
+      "safety-critical projects",
+      "safety communication"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-2-2-025",
+    "domainId": "process",
+    "taskId": "process-2",
+    "enablerIds": [
+      "e-process-2-2"
+    ],
+    "text": "A project manager is determining communication approaches for a project with evolving stakeholder requirements. What should be their approach to maintaining flexibility?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Establish rigid communication protocols that cannot be changed."
+      },
+      {
+        "id": "b",
+        "label": "Design communication methods that can adapt to changing requirements."
+      },
+      {
+        "id": "c",
+        "label": "Minimize communication to avoid having to adjust methods frequently."
+      },
+      {
+        "id": "d",
+        "label": "Use only one communication method to simplify management."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Establishing rigid communication protocols that cannot be changed would not work well in a project with evolving stakeholder requirements. The correct approach is designing communication methods that can adapt to changing requirements. Option A doesn't allow for the flexibility needed in a changing environment.",
+    "difficulty": "hard",
+    "topics": [
+      "evolving requirements",
+      "flexible communication"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  }
+]

@@ -1,6 +1,12 @@
 import { useRef, useState } from 'react'
 import { useProgressStore } from '../stores/useProgressStore'
 import { useUserStore } from '../stores/useUserStore'
+import Card from '../components/Card'
+import Button from '../components/Button'
+import Input from '../components/Input'
+import Select from '../components/Select'
+import Badge from '../components/Badge'
+import Toast from '../components/Toast'
 
 const exportToFile = (data) => {
   const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' })
@@ -104,165 +110,159 @@ function Settings() {
   const ratingsCount = Object.keys(flashcardRatings).length
   const materialsCount = readMaterials.length
 
+  const themeOptions = [
+    { value: 'system', label: 'System default' },
+    { value: 'light', label: 'Light' },
+    { value: 'dark', label: 'Dark' }
+  ]
+
   return (
     <div className="space-y-8">
-      <section className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-100 sm:p-8">
-        <h2 className="text-2xl font-bold text-slate-900">Settings</h2>
-        <p className="mt-2 text-sm text-slate-600">
-          Local-first preferences and progress. Data persists in your browser; export a backup to
-          move between devices.
-        </p>
+      <Card as="section">
+        <div className="space-y-2">
+          <h2 className="text-2xl font-bold text-slate-900 dark:text-zinc-50">Settings</h2>
+          <p className="text-sm text-slate-600 dark:text-zinc-400">
+            Local-first preferences and progress. Data persists in your browser; export a backup to
+            move between devices.
+          </p>
+        </div>
 
         <div className="mt-6 grid gap-5 md:grid-cols-2">
-          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4">
-            <p className="text-sm font-semibold text-slate-900">Profile</p>
-            <label className="mt-3 block text-sm font-medium text-slate-700" htmlFor="name">
-              Name (optional)
-            </label>
-            <input
-              id="name"
-              type="text"
-              value={name}
-              onChange={(e) => setName(e.target.value)}
-              className="mt-1 w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-sky-500 focus:outline-none"
-              placeholder="Add your name"
-            />
-
-            <label className="mt-4 block text-sm font-medium text-slate-700" htmlFor="theme">
-              Theme
-            </label>
-            <select
-              id="theme"
-              value={theme}
-              onChange={(e) => setTheme(e.target.value)}
-              className="mt-1 w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-sky-500 focus:outline-none"
-            >
-              <option value="system">System default</option>
-              <option value="light">Light</option>
-              <option value="dark">Dark</option>
-            </select>
+          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4 dark:border-zinc-700 dark:bg-zinc-800/50">
+            <p className="text-sm font-semibold text-slate-900 dark:text-zinc-50">Profile</p>
+            <div className="mt-3 space-y-4">
+              <Input
+                id="name"
+                label="Name (optional)"
+                type="text"
+                value={name}
+                onChange={(e) => setName(e.target.value)}
+                placeholder="Add your name"
+              />
+              <Select
+                id="theme"
+                label="Theme"
+                value={theme}
+                onChange={(e) => setTheme(e.target.value)}
+                options={themeOptions}
+              />
+            </div>
           </div>
 
-          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4">
-            <p className="text-sm font-semibold text-slate-900">Donation codes</p>
-            <p className="text-sm text-slate-600">
+          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4 dark:border-zinc-700 dark:bg-zinc-800/50">
+            <p className="text-sm font-semibold text-slate-900 dark:text-zinc-50">Donation codes</p>
+            <p className="mt-1 text-sm text-slate-600 dark:text-zinc-400">
               Track coffee/Ko-fi codes you have redeemed to keep your own record.
             </p>
             <div className="mt-3 flex gap-2">
-              <input
+              <Input
+                id="donation-input"
                 type="text"
                 value={donationInput}
                 onChange={(e) => setDonationInput(e.target.value)}
-                className="flex-1 rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-sky-500 focus:outline-none"
                 placeholder="Enter code"
+                className="flex-1"
               />
-              <button
-                type="button"
+              <Button
+                size="md"
                 onClick={handleAddDonationCode}
-                className="rounded-lg bg-sky-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-sky-700"
+                ariaLabel="Add donation code"
               >
                 Add
-              </button>
+              </Button>
             </div>
             {donationCodes.length > 0 ? (
-              <ul className="mt-3 space-y-1 text-sm text-slate-700">
+              <ul className="mt-3 space-y-2">
                 {donationCodes.map((code) => (
                   <li
                     key={code}
-                    className="flex items-center justify-between rounded-md bg-white px-3 py-2 ring-1 ring-slate-200"
+                    className="flex items-center justify-between rounded-md bg-white px-3 py-2 ring-1 ring-slate-200 dark:bg-zinc-700 dark:ring-zinc-600"
                   >
-                    <span className="font-mono text-xs text-slate-700">{code}</span>
+                    <code className="text-xs font-mono text-slate-700 dark:text-zinc-300">{code}</code>
+                    <Badge variant="success" size="xs">
+                      Redeemed
+                    </Badge>
                   </li>
                 ))}
               </ul>
             ) : (
-              <p className="mt-3 text-sm text-slate-500">No codes saved yet.</p>
+              <p className="mt-3 text-sm text-slate-500 dark:text-zinc-400">No codes saved yet.</p>
             )}
           </div>
         </div>
-      </section>
+      </Card>
 
-      <section className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-100 sm:p-8">
-        <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-          <div>
-            <h3 className="text-xl font-semibold text-slate-900">Progress snapshot</h3>
-            <p className="text-sm text-slate-600">
+      <Card as="section">
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+          <div className="space-y-1">
+            <h3 className="text-xl font-semibold text-slate-900 dark:text-zinc-50">Progress snapshot</h3>
+            <p className="text-sm text-slate-600 dark:text-zinc-400">
               Stored in localStorage via zustand persistence.
             </p>
           </div>
-          <div className="flex gap-2">
-            <button
-              type="button"
-              onClick={handleExport}
-              className="inline-flex items-center rounded-full bg-sky-600 px-4 py-2 text-sm font-semibold text-white shadow-sm shadow-sky-100 transition hover:bg-sky-700"
-            >
+          <div className="flex flex-col gap-2 sm:flex-row">
+            <Button variant="primary" onClick={handleExport}>
               Export data
-            </button>
-            <button
-              type="button"
-              onClick={() => fileInputRef.current?.click()}
-              className="inline-flex items-center rounded-full bg-white px-4 py-2 text-sm font-semibold text-slate-800 ring-1 ring-slate-200 transition hover:ring-slate-300"
-            >
+            </Button>
+            <Button variant="secondary" onClick={() => fileInputRef.current?.click()}>
               Import data
-            </button>
+            </Button>
             <input
               ref={fileInputRef}
               type="file"
               accept="application/json"
               onChange={handleFileChange}
               className="hidden"
+              aria-label="Import data file"
             />
           </div>
         </div>
 
-        <div className="mt-4 grid gap-4 md:grid-cols-3">
-          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4">
-            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">
+        <div className="mt-6 grid gap-4 md:grid-cols-3">
+          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4 dark:border-zinc-700 dark:bg-zinc-800/50">
+            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-zinc-400">
               Questions
             </p>
-            <p className="text-2xl font-bold text-slate-900">{completionCount}</p>
-            <p className="text-sm text-slate-600">Completed question IDs</p>
+            <p className="mt-2 text-3xl font-bold text-slate-900 dark:text-zinc-50">{completionCount}</p>
+            <p className="mt-1 text-sm text-slate-600 dark:text-zinc-400">Completed question IDs</p>
           </div>
-          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4">
-            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">Cards</p>
-            <p className="text-2xl font-bold text-slate-900">{ratingsCount}</p>
-            <p className="text-sm text-slate-600">Flashcard ratings saved</p>
+          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4 dark:border-zinc-700 dark:bg-zinc-800/50">
+            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-zinc-400">Cards</p>
+            <p className="mt-2 text-3xl font-bold text-slate-900 dark:text-zinc-50">{ratingsCount}</p>
+            <p className="mt-1 text-sm text-slate-600 dark:text-zinc-400">Flashcard ratings saved</p>
           </div>
-          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4">
-            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">
+          <div className="rounded-xl border border-slate-200 bg-slate-50 p-4 dark:border-zinc-700 dark:bg-zinc-800/50">
+            <p className="text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-zinc-400">
               Materials
             </p>
-            <p className="text-2xl font-bold text-slate-900">{materialsCount}</p>
-            <p className="text-sm text-slate-600">Items marked as read</p>
+            <p className="mt-2 text-3xl font-bold text-slate-900 dark:text-zinc-50">{materialsCount}</p>
+            <p className="mt-1 text-sm text-slate-600 dark:text-zinc-400">Items marked as read</p>
           </div>
         </div>
 
-        <div className="mt-4 flex flex-wrap gap-3">
-          <button
-            type="button"
+        <div className="mt-6 flex flex-wrap gap-3">
+          <Button
+            variant="ghost"
             onClick={() => {
               resetUser()
               resetProgress()
               setImportStatus({ type: 'success', message: 'Reset local data.' })
             }}
-            className="rounded-full bg-slate-200 px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm transition hover:bg-slate-300"
           >
             Reset local data
-          </button>
+          </Button>
         </div>
 
-        {importStatus.message ? (
-          <div
-            className={`mt-4 rounded-lg px-4 py-3 text-sm ${
-              importStatus.type === 'error'
-                ? 'bg-rose-50 text-rose-700 ring-1 ring-rose-100'
-                : 'bg-emerald-50 text-emerald-700 ring-1 ring-emerald-100'
-            }`}
-          >
-            {importStatus.message}
-          </div>
-        ) : null}
-      </section>
+        {importStatus.message && (
+          <Toast
+            message={importStatus.message}
+            type={importStatus.type}
+            autoClose={true}
+            autoCloseDuration={3000}
+            onClose={() => setImportStatus({ type: '', message: '' })}
+          />
+        )}
+      </Card>
     </div>
   )
 }

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-1-2-001",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project team has been working for three months on a software development project. The project manager wants to examine the business value throughout the project to ensure alignment with stakeholder expectations. What should be the primary focus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Counting the number of features completed regardless of their business impact."
+      },
+      {
+        "id": "b",
+        "label": "Regularly assessing whether delivered features are generating the expected business outcomes."
+      },
+      {
+        "id": "c",
+        "label": "Focusing solely on meeting technical specifications and performance metrics."
+      },
+      {
+        "id": "d",
+        "label": "Calculating the total hours spent by the team on development activities."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Regularly assessing whether delivered features are generating the expected business outcomes is the correct approach to examining business value throughout the project. This ensures that the project continues to deliver value that matters to stakeholders. Counting features, focusing only on technical specifications, or tracking hours spent doesn't directly address business value.",
+    "difficulty": "medium",
+    "topics": [
+      "business value",
+      "stakeholder expectations"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-1-2-002",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "During a project review meeting, stakeholders express concerns that the delivered features are not providing the expected value. How should the project manager examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Continue with the planned features since they were approved earlier."
+      },
+      {
+        "id": "b",
+        "label": "Pause the project and restart with a completely different approach."
+      },
+      {
+        "id": "c",
+        "label": "Implement a regular feedback loop to validate delivered value against business objectives."
+      },
+      {
+        "id": "d",
+        "label": "Increase the project budget to deliver more features quickly."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Increasing the project budget to deliver more features quickly is not the appropriate response when stakeholders question the value of delivered features. The correct approach is to implement a regular feedback loop to validate delivered value against business objectives. Option D adds resources to a process that already has value delivery issues.",
+    "difficulty": "medium",
+    "topics": [
+      "project review",
+      "business value"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-1-2-003",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project manager is leading a project that involves developing a new customer loyalty program. What approach should they use to examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Measure value only at the end of the project during user acceptance testing."
+      },
+      {
+        "id": "b",
+        "label": "Continuously measure value delivery through metrics like customer engagement and retention."
+      },
+      {
+        "id": "c",
+        "label": "Focus primarily on meeting the technical requirements specified in the SOW."
+      },
+      {
+        "id": "d",
+        "label": "Track value based on the percentage of project tasks completed."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Focusing primarily on meeting the technical requirements specified in the SOW doesn't directly examine business value throughout the project. The correct approach is to continuously measure value delivery through metrics like customer engagement and retention. Option C prioritizes technical compliance over actual business benefits.",
+    "difficulty": "medium",
+    "topics": [
+      "customer loyalty",
+      "value measurement"
+    ],
+    "process": "validate-scope",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-1-2-004",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "In a project to implement a new enterprise resource planning (ERP) system, which method best supports examining business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Track the number of software modules installed and configured."
+      },
+      {
+        "id": "b",
+        "label": "Monitor how well the new system supports key business processes that drive value."
+      },
+      {
+        "id": "c",
+        "label": "Focus on meeting the planned timeline for each implementation phase."
+      },
+      {
+        "id": "d",
+        "label": "Document all system configurations and technical settings."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Monitoring how well the new system supports key business processes that drive value is the correct approach to examining business value throughout the project. This ensures that the implementation actually benefits the business operations. Counting modules, tracking timelines, or documenting settings alone don't measure actual business value.",
+    "difficulty": "easy",
+    "topics": [
+      "ERP implementation",
+      "business value"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-1-2-005",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A product team is developing a mobile application for a retail company. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of screens and user interface elements created."
+      },
+      {
+        "id": "b",
+        "label": "Analyze how the app features contribute to increased customer purchases or engagement."
+      },
+      {
+        "id": "c",
+        "label": "Focus on ensuring the app meets all the technical requirements in the specification."
+      },
+      {
+        "id": "d",
+        "label": "Track the number of hours spent by developers on different features."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Counting the number of screens and user interface elements created does not examine business value throughout the project. The correct approach is to analyze how app features contribute to increased customer purchases or engagement. Option A measures output rather than outcome or business value.",
+    "difficulty": "easy",
+    "topics": [
+      "mobile app development",
+      "business value"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-1-2-006",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project to automate manufacturing processes is in its second quarter. How should the project manager examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Focus on the technical complexity of the automation solutions implemented."
+      },
+      {
+        "id": "b",
+        "label": "Measure the impact of automation on production efficiency and cost reduction."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of automated components installed across the facility."
+      },
+      {
+        "id": "d",
+        "label": "Document the technical challenges overcome during implementation."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Tracking the number of automated components installed across the facility does not examine business value throughout the project. The correct approach is measuring the impact of automation on production efficiency and cost reduction. Option C focuses on activity level rather than business value delivered.",
+    "difficulty": "medium",
+    "topics": [
+      "manufacturing automation",
+      "business value"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-1-2-007",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project team is implementing a customer relationship management (CRM) system for a sales organization. What should they examine to assess business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "The number of database tables created and configured."
+      },
+      {
+        "id": "b",
+        "label": "How the system improves sales team productivity and customer satisfaction."
+      },
+      {
+        "id": "c",
+        "label": "The technical architecture and integration protocols used."
+      },
+      {
+        "id": "d",
+        "label": "The amount of training provided to end users on the system."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The amount of training provided to end users on the system is not the best measure of business value, though it's important for adoption. The correct approach is examining how the system improves sales team productivity and customer satisfaction. Option D measures an activity (training) rather than the actual business outcomes.",
+    "difficulty": "medium",
+    "topics": [
+      "CRM implementation",
+      "business value"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-1-2-008",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project to develop a new financial reporting tool is underway. How should the project manager consistently examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Measure the speed of report generation compared to manual processes."
+      },
+      {
+        "id": "b",
+        "label": "Count the number of financial reports generated by the tool."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of bugs fixed during development."
+      },
+      {
+        "id": "d",
+        "label": "Calculate the total cost of software licenses purchased."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Measuring the speed of report generation compared to manual processes is a valid measure of business value as it relates to efficiency. The correct approach is examining how the tool improves decision-making, accuracy, and timeliness of financial reporting. Option A is actually a good measure of business value, so the other options are more incorrect.",
+    "difficulty": "hard",
+    "topics": [
+      "financial reporting",
+      "business value"
+    ],
+    "process": "develop-schedule",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-1-2-009",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A healthcare organization is implementing a patient portal system. Which approach best supports examining business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of patient registration forms created."
+      },
+      {
+        "id": "b",
+        "label": "Measure patient satisfaction and engagement levels after using the portal."
+      },
+      {
+        "id": "c",
+        "label": "Focus on the security features implemented in the system."
+      },
+      {
+        "id": "d",
+        "label": "Track the number of staff hours required to maintain the system."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Focusing on the security features implemented in the system is important but doesn't directly examine business value throughout the project. The correct approach is measuring patient satisfaction and engagement levels after using the portal. Option C addresses an important technical requirement but not the business value delivered.",
+    "difficulty": "medium",
+    "topics": [
+      "healthcare systems",
+      "business value"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-1-2-010",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "In a project to improve supply chain efficiency, how should the project manager examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Track the number of logistics partners onboarded to the system."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in delivery time, cost reduction, and inventory optimization."
+      },
+      {
+        "id": "c",
+        "label": "Count the number of process workflows documented in the system."
+      },
+      {
+        "id": "d",
+        "label": "Calculate the storage capacity allocated for supply chain data."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Measuring improvements in delivery time, cost reduction, and inventory optimization directly examines business value throughout the project. These metrics reflect actual business benefits from the supply chain improvements. Counting partners, workflows, or storage capacity don't measure the business value generated.",
+    "difficulty": "easy",
+    "topics": [
+      "supply chain",
+      "business value"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-1-2-011",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project team is developing a workforce management tool for a large organization. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Track the number of employee time entries processed by the system."
+      },
+      {
+        "id": "b",
+        "label": "Focus on the accuracy and efficiency of time tracking and scheduling features."
+      },
+      {
+        "id": "c",
+        "label": "Count the number of user accounts created in the system."
+      },
+      {
+        "id": "d",
+        "label": "Document the technical architecture and security protocols."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Counting the number of user accounts created in the system is not a business value measure. The correct approach is focusing on the accuracy and efficiency of time tracking and scheduling features. Option C measures system adoption activity rather than the business value delivered by the system.",
+    "difficulty": "medium",
+    "topics": [
+      "workforce management",
+      "business value"
+    ],
+    "process": "develop-schedule",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-1-2-012",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A company is implementing a new quality management system to comply with industry standards. How should the project manager examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Focus on meeting all regulatory requirements without considering costs."
+      },
+      {
+        "id": "b",
+        "label": "Balance compliance requirements with operational efficiency and cost benefits."
+      },
+      {
+        "id": "c",
+        "label": "Count the number of quality procedures documented in the system."
+      },
+      {
+        "id": "d",
+        "label": "Track the number of compliance audits scheduled."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Focusing on meeting all regulatory requirements without considering costs ignores the business value aspect of the project. The correct approach is balancing compliance requirements with operational efficiency and cost benefits. Option A considers only one dimension (compliance) without assessing the overall business value.",
+    "difficulty": "hard",
+    "topics": [
+      "quality management",
+      "business value"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-1-2-013",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project to implement a new inventory management system is halfway through execution. What should be the primary method for examining business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of inventory items cataloged in the system."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in inventory accuracy, turnover, and stock-out reduction."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of system users trained on the new system."
+      },
+      {
+        "id": "d",
+        "label": "Document the system integration with existing enterprise systems."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Documenting the system integration with existing enterprise systems is an important technical activity but doesn't directly examine business value. The correct approach is measuring improvements in inventory accuracy, turnover, and stock-out reduction. Option D focuses on a technical achievement rather than the business value delivered.",
+    "difficulty": "medium",
+    "topics": [
+      "inventory management",
+      "business value"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-1-2-014",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project manager is leading the implementation of a customer service chatbot. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Track the number of customer interactions handled by the chatbot."
+      },
+      {
+        "id": "b",
+        "label": "Measure customer satisfaction scores and resolution time improvements."
+      },
+      {
+        "id": "c",
+        "label": "Count the number of chatbot responses programmed into the system."
+      },
+      {
+        "id": "d",
+        "label": "Document the integration between the chatbot and customer database."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Counting the number of chatbot responses programmed into the system measures development activity, not business value. The correct approach is measuring customer satisfaction scores and resolution time improvements. Option C focuses on the volume of programmed responses rather than the actual value delivered to customers.",
+    "difficulty": "easy",
+    "topics": [
+      "customer service",
+      "business value"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-1-2-015",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A company is developing a predictive maintenance system for industrial equipment. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of sensors installed on the equipment."
+      },
+      {
+        "id": "b",
+        "label": "Measure reductions in unplanned downtime and maintenance costs."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of maintenance procedures documented in the system."
+      },
+      {
+        "id": "d",
+        "label": "Calculate the total cost of sensor equipment purchased."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Calculating the total cost of sensor equipment purchased measures an expense rather than business value. The correct approach is measuring reductions in unplanned downtime and maintenance costs. Option D focuses on costs incurred rather than the value generated by the system.",
+    "difficulty": "medium",
+    "topics": [
+      "predictive maintenance",
+      "business value"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-1-2-016",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project to digitize a paper-based document management process is in progress. How should the project manager examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of documents scanned and stored in the system."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in document retrieval time and processing efficiency."
+      },
+      {
+        "id": "c",
+        "label": "Track the storage capacity used by digitized documents."
+      },
+      {
+        "id": "d",
+        "label": "Calculate the cost of scanners and storage equipment."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Counting the number of documents scanned and stored in the system measures an activity rather than business value. The correct approach is measuring improvements in document retrieval time and processing efficiency. Option A focuses on the volume of digitization rather than the actual business value delivered.",
+    "difficulty": "medium",
+    "topics": [
+      "document management",
+      "business value"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-1-2-017",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project team is implementing a new risk management system for a financial services company. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of risk categories identified in the system."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in risk identification, assessment, and response effectiveness."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of users with access to the risk management system."
+      },
+      {
+        "id": "d",
+        "label": "Document all the risk management policies and procedures."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Documenting all the risk management policies and procedures is an important administrative activity but doesn't measure business value. The correct approach is measuring improvements in risk identification, assessment, and response effectiveness. Option D focuses on documentation rather than the actual business value of improved risk management.",
+    "difficulty": "hard",
+    "topics": [
+      "risk management",
+      "business value"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-1-2-018",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A company is implementing a new vendor management system. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of vendors registered in the system."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in vendor performance, procurement efficiency, and cost savings."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of purchase orders generated by the system."
+      },
+      {
+        "id": "d",
+        "label": "Calculate the total amount spent on software licenses."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Tracking the number of purchase orders generated by the system measures transaction volume rather than business value. The correct approach is measuring improvements in vendor performance, procurement efficiency, and cost savings. Option C focuses on transaction activity rather than the actual value delivered by improved vendor management.",
+    "difficulty": "medium",
+    "topics": [
+      "vendor management",
+      "business value"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-1-2-019",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project team is developing a learning management system for employee training. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of training modules created in the system."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in employee skills, training completion rates, and performance."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of employees registered in the learning system."
+      },
+      {
+        "id": "d",
+        "label": "Document the technical infrastructure requirements for the system."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Counting the number of training modules created in the system measures development output rather than business value. The correct approach is measuring improvements in employee skills, training completion rates, and performance. Option A focuses on content creation rather than the actual business value of improved employee capabilities.",
+    "difficulty": "medium",
+    "topics": [
+      "learning management",
+      "business value"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-1-2-020",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project to implement a new project portfolio management tool is underway. How should the project manager examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of projects entered into the portfolio management tool."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in portfolio visibility, resource allocation, and strategic alignment."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of portfolio reports generated by the system."
+      },
+      {
+        "id": "d",
+        "label": "Calculate the storage capacity required for portfolio data."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Tracking the number of portfolio reports generated by the system measures activity rather than business value. The correct approach is measuring improvements in portfolio visibility, resource allocation, and strategic alignment. Option C focuses on the reports generated rather than the actual business benefits of better portfolio management.",
+    "difficulty": "hard",
+    "topics": [
+      "portfolio management",
+      "business value"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-1-2-021",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project team is implementing a new time and attendance system for a large organization. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of employee time punches recorded by the system."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in payroll accuracy, labor cost control, and compliance."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of biometric devices installed at work locations."
+      },
+      {
+        "id": "d",
+        "label": "Document all the exception handling procedures in the system."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Tracking the number of biometric devices installed at work locations measures the infrastructure deployed rather than business value. The correct approach is measuring improvements in payroll accuracy, labor cost control, and compliance. Option C focuses on technical implementation rather than the actual business value delivered.",
+    "difficulty": "medium",
+    "topics": [
+      "time and attendance",
+      "business value"
+    ],
+    "process": "develop-schedule",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-1-2-022",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A company is implementing a new enterprise budgeting and forecasting system. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of budget line items created in the system."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in budget accuracy, forecasting speed, and financial planning."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of users trained on the budgeting system."
+      },
+      {
+        "id": "d",
+        "label": "Calculate the total cost of licensing and implementation."
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Calculating the total cost of licensing and implementation measures expenses rather than business value. The correct approach is measuring improvements in budget accuracy, forecasting speed, and financial planning. Option D focuses on costs rather than the value generated by the improved financial planning process.",
+    "difficulty": "hard",
+    "topics": [
+      "budgeting and forecasting",
+      "business value"
+    ],
+    "process": "estimate-costs",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-1-2-023",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project to improve the customer onboarding process is underway. How should the project manager examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of onboarding forms completed by new customers."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in onboarding time, customer satisfaction, and retention."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of new customers acquired during the project."
+      },
+      {
+        "id": "d",
+        "label": "Document the onboarding process workflows and procedures."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Tracking the number of new customers acquired during the project measures business growth but doesn't isolate the impact of the improved onboarding process. The correct approach is measuring improvements in onboarding time, customer satisfaction, and retention. Option C measures overall growth rather than the value specifically from improved onboarding.",
+    "difficulty": "hard",
+    "topics": [
+      "customer onboarding",
+      "business value"
+    ],
+    "process": "collect-requirements",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-1-2-024",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project team is developing a supply chain visibility platform. How should they examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of supplier connections established in the platform."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in supply chain transparency, risk reduction, and cost savings."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of dashboards and reports available in the system."
+      },
+      {
+        "id": "d",
+        "label": "Calculate the storage capacity required for supply chain data."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Counting the number of supplier connections established in the platform measures connectivity rather than business value. The correct approach is measuring improvements in supply chain transparency, risk reduction, and cost savings. Option A focuses on the number of connections rather than the actual value delivered through improved visibility.",
+    "difficulty": "medium",
+    "topics": [
+      "supply chain visibility",
+      "business value"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-1-2-025",
+    "domainId": "process",
+    "taskId": "process-1",
+    "enablerIds": [
+      "e-process-1-2"
+    ],
+    "text": "A project to implement a new environmental compliance system is underway. How should the project manager examine business value throughout the project?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Count the number of environmental regulations tracked in the system."
+      },
+      {
+        "id": "b",
+        "label": "Measure improvements in compliance rates, risk reduction, and operational efficiency."
+      },
+      {
+        "id": "c",
+        "label": "Track the number of environmental audits scheduled through the system."
+      },
+      {
+        "id": "d",
+        "label": "Document all the environmental policies and procedures in the system."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Tracking the number of environmental audits scheduled through the system measures administrative activity rather than business value. The correct approach is measuring improvements in compliance rates, risk reduction, and operational efficiency. Option C focuses on audit scheduling rather than the actual business benefits of improved environmental compliance.",
+    "difficulty": "hard",
+    "topics": [
+      "environmental compliance",
+      "business value"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  }
+]

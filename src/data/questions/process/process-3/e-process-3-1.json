@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-3-1-001",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is planning risk management for a new project. What should they do first when determining risk management options?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Identify all possible risks for the project."
+      },
+      {
+        "id": "b",
+        "label": "Define the approach and methods for managing risks."
+      },
+      {
+        "id": "c",
+        "label": "Create the risk register with potential responses."
+      },
+      {
+        "id": "d",
+        "label": "Assign risk owners for all potential risks."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Defining the approach and methods for managing risks should be the first step in determining risk management options. This includes establishing the risk management plan that outlines how risks will be identified, analyzed, and responded to throughout the project. This foundational step must occur before the specific risks are identified and managed.",
+    "difficulty": "easy",
+    "topics": [
+      "risk management planning",
+      "risk approach"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-002",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is working on a project with limited budget for risk responses. How should this constraint influence their determination of risk management options?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Focus only on avoiding all potential risks regardless of cost."
+      },
+      {
+        "id": "b",
+        "label": "Prioritize cost-effective risk responses that provide maximum protection."
+      },
+      {
+        "id": "c",
+        "label": "Accept all risks to avoid spending money on risk responses."
+      },
+      {
+        "id": "d",
+        "label": "Transfer all risks to external parties regardless of cost."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Accepting all risks to avoid spending money on risk responses is not a strategic approach to risk management. The correct approach is prioritizing cost-effective risk responses that provide maximum protection. Option C ignores the purpose of risk management and simply accepts all risks without proper analysis.",
+    "difficulty": "medium",
+    "topics": [
+      "budget constraints",
+      "cost-effective risk responses"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-003",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project with strict regulatory requirements. How should compliance considerations influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ignore standard risk management approaches due to regulatory requirements."
+      },
+      {
+        "id": "b",
+        "label": "Ensure risk responses align with regulatory compliance requirements."
+      },
+      {
+        "id": "c",
+        "label": "Focus only on risks related to project schedule and budget."
+      },
+      {
+        "id": "d",
+        "label": "Minimize risk documentation to avoid regulatory scrutiny."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Ignoring standard risk management approaches due to regulatory requirements is not appropriate since risk management can be adapted to meet regulatory requirements. The correct approach is ensuring risk responses align with regulatory compliance requirements. Option A suggests abandoning risk management practices completely.",
+    "difficulty": "medium",
+    "topics": [
+      "regulatory compliance",
+      "risk responses"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-004",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is working with stakeholders who have different risk tolerances. How should this influence their determination of risk management options?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply a uniform risk management approach to all stakeholders."
+      },
+      {
+        "id": "b",
+        "label": "Tailor risk responses based on stakeholder risk tolerance levels."
+      },
+      {
+        "id": "c",
+        "label": "Focus risk management only on the most risk-averse stakeholders."
+      },
+      {
+        "id": "d",
+        "label": "Ignore stakeholder risk tolerance and follow standard procedures."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Applying a uniform risk management approach to all stakeholders ignores their different risk tolerances which should be considered in the risk management planning. The correct approach is tailoring risk responses based on stakeholder risk tolerance levels. Option A disregards important stakeholder preferences that affect project success.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder risk tolerance",
+      "tailored risk responses"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-005",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project with a short timeline. How should time constraints influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Skip risk management activities to save time."
+      },
+      {
+        "id": "b",
+        "label": "Focus on high-impact risks that require quick responses."
+      },
+      {
+        "id": "c",
+        "label": "Implement all possible risk responses regardless of time needed."
+      },
+      {
+        "id": "d",
+        "label": "Delay risk management until after the project plan is complete."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Skipping risk management activities to save time would expose the project to unmanaged risks that could cause greater delays. The correct approach is focusing on high-impact risks that require quick responses. Option A eliminates risk management entirely, which is counterproductive.",
+    "difficulty": "easy",
+    "topics": [
+      "time constraints",
+      "risk prioritization"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-006",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is evaluating risk management options for a project with multiple external vendors. How should vendor relationships influence their risk approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply the same risk management approach as for internal resources."
+      },
+      {
+        "id": "b",
+        "label": "Consider vendor-specific risks and contractual risk-sharing arrangements."
+      },
+      {
+        "id": "c",
+        "label": "Transfer all risks to vendors without assessment."
+      },
+      {
+        "id": "d",
+        "label": "Minimize vendor-related risk management due to contract protection."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Transferring all risks to vendors without assessment is not a sound risk management strategy as risks still need to be identified and properly managed. The correct approach is considering vendor-specific risks and contractual risk-sharing arrangements. Option C doesn't properly evaluate risks before transferring them.",
+    "difficulty": "hard",
+    "topics": [
+      "vendor management",
+      "contractual risk sharing"
+    ],
+    "process": "plan-procurement-management",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-3-1-007",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project in an industry with rapidly changing technology. How should this factor influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Plan detailed risk responses for the entire project duration."
+      },
+      {
+        "id": "b",
+        "label": "Focus on flexible risk management approaches that can adapt to changes."
+      },
+      {
+        "id": "c",
+        "label": "Minimize risk planning due to the unpredictable environment."
+      },
+      {
+        "id": "d",
+        "label": "Choose only risk avoidance strategies for technology changes."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Minimizing risk planning due to an unpredictable environment is not appropriate since risk management is especially important in uncertain situations. The correct approach is focusing on flexible risk management approaches that can adapt to changes. Option C reduces necessary risk planning at a time when it's most needed.",
+    "difficulty": "hard",
+    "topics": [
+      "changing technology",
+      "adaptive risk management"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-008",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is developing risk management options for a project with critical business dependencies. How should these dependencies influence their risk approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ignore external dependencies in the risk management plan."
+      },
+      {
+        "id": "b",
+        "label": "Include risk strategies specifically for managing dependencies."
+      },
+      {
+        "id": "c",
+        "label": "Transfer all dependency risks without planning responses."
+      },
+      {
+        "id": "d",
+        "label": "Focus only on internal project risks, ignoring dependencies."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Ignoring external dependencies in the risk management plan would overlook significant risk factors that could impact the project. The correct approach is including risk strategies specifically for managing dependencies. Option A omits critical risk factors that could significantly impact project success.",
+    "difficulty": "medium",
+    "topics": [
+      "business dependencies",
+      "dependency risk management"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-009",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is creating risk management options for a project with a diverse team across multiple countries. How should cultural differences influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply a single risk management approach to maintain consistency."
+      },
+      {
+        "id": "b",
+        "label": "Consider cultural differences in risk perception and communication."
+      },
+      {
+        "id": "c",
+        "label": "Minimize team involvement in risk management to avoid cultural issues."
+      },
+      {
+        "id": "d",
+        "label": "Use only technology-based risk management tools to avoid cultural issues."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Applying a single risk management approach to maintain consistency ignores the different ways cultural backgrounds may influence risk perception and response. The correct approach is considering cultural differences in risk perception and communication. Option A doesn't account for cultural factors that affect risk management effectiveness.",
+    "difficulty": "hard",
+    "topics": [
+      "cultural differences",
+      "global team risk management"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-010",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project with multiple phases. How should the project lifecycle influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Develop all risk responses at the beginning of the project."
+      },
+      {
+        "id": "b",
+        "label": "Plan risk management approaches specific to each project phase."
+      },
+      {
+        "id": "c",
+        "label": "Apply the same risk management approach to all project phases."
+      },
+      {
+        "id": "d",
+        "label": "Focus risk management only on the final phase of the project."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Developing all risk responses at the beginning of the project is not practical since project phases have different risks and contexts that require tailored approaches. The correct approach is planning risk management approaches specific to each project phase. Option A doesn't recognize that different phases have different risk profiles.",
+    "difficulty": "medium",
+    "topics": [
+      "project phases",
+      "lifecycle risk management"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-3-1-011",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is working on a project with sensitive data that requires special protection. How should security requirements influence their risk management options?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ignore security considerations in the risk management approach."
+      },
+      {
+        "id": "b",
+        "label": "Integrate security requirements into risk identification and response planning."
+      },
+      {
+        "id": "c",
+        "label": "Focus solely on technical risk responses for data protection."
+      },
+      {
+        "id": "d",
+        "label": "Minimize security risk planning to prioritize other project objectives."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Ignoring security considerations in the risk management approach would leave sensitive data vulnerable to threats. The correct approach is integrating security requirements into risk identification and response planning. Option A completely omits critical security risk management.",
+    "difficulty": "medium",
+    "topics": [
+      "data security",
+      "security risk management"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-3-1-012",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project with a team that has had negative experiences with risk management in the past. How should this history influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Avoid formal risk management processes due to past negative experiences."
+      },
+      {
+        "id": "b",
+        "label": "Implement a simplified and transparent risk management approach to build trust."
+      },
+      {
+        "id": "c",
+        "label": "Increase the complexity of risk management to demonstrate professionalism."
+      },
+      {
+        "id": "d",
+        "label": "Focus only on positive risks to avoid negative associations."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Avoiding formal risk management processes due to past negative experiences would expose the project to unmanaged risks. The correct approach is implementing a simplified and transparent risk management approach to build trust. Option A abandons necessary risk management based on past experiences.",
+    "difficulty": "hard",
+    "topics": [
+      "past experiences",
+      "trust building"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-013",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is working on a project with multiple external stakeholders who have varying levels of risk awareness. How should this influence their risk management approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same communication approach for all stakeholders regardless of risk awareness."
+      },
+      {
+        "id": "b",
+        "label": "Tailor risk communication and engagement based on stakeholder risk awareness."
+      },
+      {
+        "id": "c",
+        "label": "Focus risk management engagement only on risk-aware stakeholders."
+      },
+      {
+        "id": "d",
+        "label": "Minimize stakeholder engagement in risk management to avoid confusion."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using the same communication approach for all stakeholders regardless of risk awareness doesn't account for different levels of understanding and engagement. The correct approach is tailoring risk communication and engagement based on stakeholder risk awareness. Option A ignores the different needs of stakeholders with varying risk awareness.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder awareness",
+      "risk communication"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-3-1-014",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project where the company has limited experience in the project domain. How should this experience gap influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Rely solely on internal expertise and avoid external input."
+      },
+      {
+        "id": "b",
+        "label": "Engage external expertise and conduct thorough risk identification."
+      },
+      {
+        "id": "c",
+        "label": "Minimize risk planning since the team is not familiar with the domain."
+      },
+      {
+        "id": "d",
+        "label": "Use only standard templates without customization for the domain."
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Minimizing risk planning because the team is not familiar with the domain is counterproductive since unfamiliarity increases risk exposure. The correct approach is engaging external expertise and conducting thorough risk identification. Option C reduces risk planning at the time when it's most needed.",
+    "difficulty": "medium",
+    "topics": [
+      "limited experience",
+      "external expertise"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-015",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is planning risk management for a project with significant environmental impact potential. How should environmental considerations influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Exclude environmental risks from standard risk management planning."
+      },
+      {
+        "id": "b",
+        "label": "Include environmental risks and compliance requirements in risk planning."
+      },
+      {
+        "id": "c",
+        "label": "Focus only on environmental risks and ignore other project risks."
+      },
+      {
+        "id": "d",
+        "label": "Handle environmental risks separately from project risk management."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Excluding environmental risks from standard risk management planning would ignore significant potential impacts. The correct approach is including environmental risks and compliance requirements in risk planning. Option A omits important environmental risks from the risk management process.",
+    "difficulty": "medium",
+    "topics": [
+      "environmental risks",
+      "regulatory compliance"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-016",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project with a strict compliance framework. How should this framework influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ignore compliance requirements to focus on standard risk management."
+      },
+      {
+        "id": "b",
+        "label": "Integrate compliance requirements into the risk management approach."
+      },
+      {
+        "id": "c",
+        "label": "Apply compliance measures only during project closure."
+      },
+      {
+        "id": "d",
+        "label": "Focus on compliance instead of other risk management activities."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Ignoring compliance requirements to focus on standard risk management would violate the project's compliance obligations. The correct approach is integrating compliance requirements into the risk management approach. Option A disregards mandatory compliance requirements.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance framework",
+      "integrated risk management"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-3-1-017",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is working with a team that has varying levels of risk management experience. How should this influence their approach to determining risk management options?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use the same complex risk management methods for all team members."
+      },
+      {
+        "id": "b",
+        "label": "Provide appropriate training and use methods tailored to different experience levels."
+      },
+      {
+        "id": "c",
+        "label": "Assign risk management tasks only to the most experienced members."
+      },
+      {
+        "id": "d",
+        "label": "Simplify risk management to the point where it becomes ineffective."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using the same complex risk management methods for all team members regardless of their experience level would not be effective for less experienced team members. The correct approach is providing appropriate training and using methods tailored to different experience levels. Option A doesn't consider the varying capabilities of team members.",
+    "difficulty": "medium",
+    "topics": [
+      "team experience",
+      "risk management training"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-3-1-018",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project with significant public visibility. How should this visibility influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ignore public visibility when planning risk management approaches."
+      },
+      {
+        "id": "b",
+        "label": "Consider reputational risks and stakeholder communication in risk planning."
+      },
+      {
+        "id": "c",
+        "label": "Focus solely on technical risks and ignore public relations aspects."
+      },
+      {
+        "id": "d",
+        "label": "Minimize risk planning to avoid drawing more public attention."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Ignoring public visibility when planning risk management approaches would overlook important reputational risks. The correct approach is considering reputational risks and stakeholder communication in risk planning. Option A disregards the significant impact that public visibility can have on the project.",
+    "difficulty": "medium",
+    "topics": [
+      "public visibility",
+      "reputational risks"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-3-1-019",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is working on a project with strict quality requirements. How should quality considerations influence their risk management approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Plan quality and risk management as completely separate processes."
+      },
+      {
+        "id": "b",
+        "label": "Integrate quality requirements into risk identification and response planning."
+      },
+      {
+        "id": "c",
+        "label": "Focus all risk management efforts on quality-related risks only."
+      },
+      {
+        "id": "d",
+        "label": "Minimize risk planning to avoid complexity with quality requirements."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Planning quality and risk management as completely separate processes ignores their interdependencies. The correct approach is integrating quality requirements into risk identification and response planning. Option A creates unnecessary separation between related management processes.",
+    "difficulty": "hard",
+    "topics": [
+      "quality requirements",
+      "integrated management"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-process-3-1-020",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project in a highly regulated industry. How should regulatory requirements influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Treat regulatory risks the same as other project risks without special consideration."
+      },
+      {
+        "id": "b",
+        "label": "Integrate regulatory compliance requirements into the risk management approach."
+      },
+      {
+        "id": "c",
+        "label": "Focus only on regulatory risks and exclude other types of risks."
+      },
+      {
+        "id": "d",
+        "label": "Implement basic risk management to fulfill regulatory requirements minimally."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Treating regulatory risks the same as other project risks without special consideration doesn't acknowledge that regulatory non-compliance can have particularly severe consequences. The correct approach is integrating regulatory compliance requirements into the risk management approach. Option A doesn't properly address the special nature of regulatory risks.",
+    "difficulty": "hard",
+    "topics": [
+      "regulatory requirements",
+      "compliance risks"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-3-1-021",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is working on a project with multiple parallel work streams. How should this structure influence their risk management approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply identical risk management approaches across all work streams."
+      },
+      {
+        "id": "b",
+        "label": "Consider interdependencies and unique risks for each work stream."
+      },
+      {
+        "id": "c",
+        "label": "Focus only on risks in the critical work streams."
+      },
+      {
+        "id": "d",
+        "label": "Minimize risk management planning for parallel work streams due to complexity."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Applying identical risk management approaches across all work streams doesn't account for the different nature and risks of each work stream. The correct approach is considering interdependencies and unique risks for each work stream. Option A ignores the unique characteristics of different work streams.",
+    "difficulty": "hard",
+    "topics": [
+      "parallel work streams",
+      "risk interdependencies"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-3-1-022",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project with significant financial exposure. How should the financial aspect influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Focus only on risks with financial impact and ignore other types."
+      },
+      {
+        "id": "b",
+        "label": "Consider financial impact in risk analysis and prioritize accordingly."
+      },
+      {
+        "id": "c",
+        "label": "Minimize financial risk planning to avoid focusing on potential losses."
+      },
+      {
+        "id": "d",
+        "label": "Apply the same priority to all risks regardless of financial impact."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Focusing only on risks with financial impact and ignoring other types of risks would be an incomplete risk management approach. The correct approach is considering financial impact in risk analysis and prioritizing accordingly. Option A unnecessarily limits the scope of risk management to only financial aspects.",
+    "difficulty": "medium",
+    "topics": [
+      "financial exposure",
+      "risk prioritization"
+    ],
+    "process": "estimate-costs",
+    "knowledgeAreaId": "cost"
+  },
+  {
+    "id": "q-process-3-1-023",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is working on a project with limited access to risk management tools and technology. How should this constraint influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Abandon risk management because adequate tools are not available."
+      },
+      {
+        "id": "b",
+        "label": "Use appropriate manual or simplified methods for effective risk management."
+      },
+      {
+        "id": "c",
+        "label": "Wait until proper tools become available before starting risk management."
+      },
+      {
+        "id": "d",
+        "label": "Implement basic risk management minimally to fulfill requirements."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Abandoning risk management because adequate tools are not available would expose the project to unmanaged risks. The correct approach is using appropriate manual or simplified methods for effective risk management. Option A eliminates risk management entirely due to tool limitations.",
+    "difficulty": "medium",
+    "topics": [
+      "tool limitations",
+      "practical risk management"
+    ],
+    "process": "plan-risk-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-process-3-1-024",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is determining risk management options for a project with team members who speak different languages. How should language differences influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use only one language for risk management to maintain consistency."
+      },
+      {
+        "id": "b",
+        "label": "Ensure risk communication and documentation are accessible in relevant languages."
+      },
+      {
+        "id": "c",
+        "label": "Minimize documentation to avoid language-related complications."
+      },
+      {
+        "id": "d",
+        "label": "Assign risk management tasks only to team members with the common language."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Using only one language for risk management when team members speak different languages would exclude non-fluent speakers from risk management activities. The correct approach is ensuring risk communication and documentation are accessible in relevant languages. Option A creates communication barriers that reduce risk management effectiveness.",
+    "difficulty": "hard",
+    "topics": [
+      "language differences",
+      "inclusive communication"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-3-1-025",
+    "domainId": "process",
+    "taskId": "process-3",
+    "enablerIds": [
+      "e-process-3-1"
+    ],
+    "text": "A project manager is developing risk management options for a project with evolving requirements. How should the changing nature of requirements influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Create a fixed risk management plan based on initial requirements."
+      },
+      {
+        "id": "b",
+        "label": "Plan for adaptive risk management that can adjust to changing requirements."
+      },
+      {
+        "id": "c",
+        "label": "Focus only on risks related to requirement stability."
+      },
+      {
+        "id": "d",
+        "label": "Delay risk planning until requirements become stable."
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Creating a fixed risk management plan based on initial requirements would not adapt to the evolving requirements, making the risk management less effective. The correct approach is planning for adaptive risk management that can adjust to changing requirements. Option A doesn't account for the dynamic nature of the project environment.",
+    "difficulty": "hard",
+    "topics": [
+      "changing requirements",
+      "adaptive risk management"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  }
+]

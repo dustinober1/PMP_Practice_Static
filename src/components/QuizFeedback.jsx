@@ -6,24 +6,27 @@ function QuizFeedback({ question, selectedOptionId }) {
 
   return (
     <div
-      className={`rounded-xl px-4 py-3 text-sm ring-1 ${
+      role="status"
+      aria-live="polite"
+      aria-label={isCorrect ? 'Correct answer' : 'Incorrect answer'}
+      className={`animate-fade-in rounded-xl px-4 py-3 text-sm ring-1 ${
         isCorrect
-          ? 'bg-emerald-50 text-emerald-800 ring-emerald-100'
-          : 'bg-rose-50 text-rose-800 ring-rose-100'
+          ? 'bg-emerald-50 text-emerald-800 ring-emerald-100 dark:bg-emerald-900/30 dark:text-emerald-300 dark:ring-emerald-800'
+          : 'bg-rose-50 text-rose-800 ring-rose-100 dark:bg-rose-900/30 dark:text-rose-300 dark:ring-rose-800'
       }`}
     >
-      <p className="font-semibold">{isCorrect ? 'Correct' : 'Incorrect'}</p>
+      <p className="font-semibold">{isCorrect ? '✓ Correct!' : '✗ Incorrect'}</p>
       {!isCorrect && selected ? (
-        <p className="mt-1 text-slate-700">
+        <p className="mt-2 text-sm">
           You chose: <span className="font-semibold">{selected.label}</span>
         </p>
       ) : null}
       {correct ? (
-        <p className="mt-1 text-slate-700">
+        <p className="mt-2 text-sm">
           Correct answer: <span className="font-semibold">{correct.label}</span>
         </p>
       ) : null}
-      <p className="mt-2 text-slate-700">{question.explanation}</p>
+      <p className="mt-3 text-sm">{question.explanation}</p>
     </div>
   )
 }

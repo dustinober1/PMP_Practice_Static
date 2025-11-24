@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-process-6-1-001",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is beginning to estimate project tasks. What should be their first step in this process?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Determine the project milestones based on high-level requirements."
+      },
+      {
+        "id": "b",
+        "label": "Analyze the work breakdown structure to identify all project tasks."
+      },
+      {
+        "id": "c",
+        "label": "Assign estimated durations to each task based on expert judgment."
+      },
+      {
+        "id": "d",
+        "label": "Create the project schedule network diagram immediately."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The first step in estimating project tasks is to analyze the work breakdown structure to identify all project tasks. This provides a comprehensive foundation for subsequent estimation activities.",
+    "difficulty": "easy",
+    "topics": [
+      "task estimation",
+      "work breakdown structure"
+    ],
+    "process": "create-wbs",
+    "knowledgeAreaId": "scope"
+  },
+  {
+    "id": "q-process-6-1-002",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating project tasks for a software development project using an agile methodology. Which estimation technique would be most appropriate?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use story points to estimate relative effort and complexity of user stories."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation technique used for predictive projects."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on project milestones, not individual tasks."
+      },
+      {
+        "id": "d",
+        "label": "Estimate tasks in hours only for maximum precision."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For agile software development, story points are an appropriate technique for estimating relative effort and complexity. The correct answer is option A, not B. Option B incorrectly suggests using the same technique as predictive projects despite different methodological needs.",
+    "difficulty": "easy",
+    "topics": [
+      "agile estimation",
+      "story points"
+    ],
+    "process": "estimate-activity-durations",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-6-1-003",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is identifying dependencies between project tasks. What is the most important consideration when establishing these dependencies?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Determine logical relationships based on technical requirements and work flow."
+      },
+      {
+        "id": "b",
+        "label": "Establish dependencies based only on resource availability."
+      },
+      {
+        "id": "c",
+        "label": "Use the same dependencies as in similar past projects."
+      },
+      {
+        "id": "d",
+        "label": "Focus on dependencies that will create the longest project duration."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Dependencies should be established based on logical relationships, technical requirements, and workflow. The correct answer is option A, not B. Option B incorrectly suggests basing dependencies only on resource availability rather than logical relationships.",
+    "difficulty": "medium",
+    "topics": [
+      "task dependencies",
+      "logical relationships"
+    ],
+    "process": "sequence-activities",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-6-1-004",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating task durations for a project with strict regulatory compliance requirements. What should be considered in the estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include additional time for compliance reviews, approvals, and documentation."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation approach as non-regulatory projects."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on the technical aspects of project tasks."
+      },
+      {
+        "id": "d",
+        "label": "Minimize compliance-related time estimates to meet project deadlines."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For regulatory projects, additional time for compliance activities should be included in estimates. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite compliance requirements.",
+    "difficulty": "medium",
+    "topics": [
+      "regulatory compliance",
+      "compliance time"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-1-005",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks that involve multiple departments within the organization. How should this affect their estimation approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Account for coordination time and potential delays due to inter-departmental dependencies."
+      },
+      {
+        "id": "b",
+        "label": "Use identical estimation methods for all departments to ensure consistency."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on the department that initiated the project."
+      },
+      {
+        "id": "d",
+        "label": "Apply the estimation approach of the most senior department to all others."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For multi-department projects, coordination time and inter-departmental dependencies should be accounted for in estimates. The correct answer is option A, not B. Option B incorrectly suggests identical methods despite coordination needs.",
+    "difficulty": "medium",
+    "topics": [
+      "multi-department tasks",
+      "inter-departmental coordination"
+    ],
+    "process": "sequence-activities",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-6-1-006",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks that include external vendor deliverables. How should vendor dependencies be incorporated into the estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include vendor lead times and potential delays in the task duration estimates."
+      },
+      {
+        "id": "b",
+        "label": "Treat vendor tasks the same as internal tasks in the estimation process."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on vendor tasks during the initial project phase."
+      },
+      {
+        "id": "d",
+        "label": "Exclude vendor lead times from estimates since they're external to the organization."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Vendor lead times and potential delays should be included in task estimates. The correct answer is option A, not B. Option B incorrectly suggests treating vendor tasks identically to internal tasks despite different factors affecting them.",
+    "difficulty": "medium",
+    "topics": [
+      "vendor dependencies",
+      "external task estimation"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-6-1-007",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with high public visibility. How should visibility considerations affect the estimation process?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include additional time for public reporting, reviews, and approval processes."
+      },
+      {
+        "id": "b",
+        "label": "Use the same estimation approach as for internal projects regardless of visibility."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on project deliverables, not visibility-related activities."
+      },
+      {
+        "id": "d",
+        "label": "Minimize visibility-related time estimates to avoid project delays."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For high-visibility projects, additional time for reporting and approvals should be included in estimates. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite visibility requirements.",
+    "difficulty": "medium",
+    "topics": [
+      "public visibility",
+      "visibility time factors"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-6-1-008",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks in a project with rapidly changing requirements. How should this uncertainty affect task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include contingency time and plan for iterative estimation as requirements clarify."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation approach as for stable requirement projects."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on requirements that are unlikely to change."
+      },
+      {
+        "id": "d",
+        "label": "Delay task estimation until all requirements are fully defined."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with changing requirements, contingency time and iterative estimation should be planned. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite uncertainty.",
+    "difficulty": "medium",
+    "topics": [
+      "changing requirements",
+      "estimation uncertainty"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-6-1-009",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with limited budget for estimation activities. How should this constraint affect their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Use efficient estimation techniques appropriate to available resources while maintaining accuracy."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation approach regardless of the budget constraint."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on the most expensive project elements."
+      },
+      {
+        "id": "d",
+        "label": "Minimize task estimation activities to conserve the limited budget."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Efficient estimation techniques should be used while maintaining accuracy despite budget constraints. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite resource limitations.",
+    "difficulty": "hard",
+    "topics": [
+      "estimation constraints",
+      "budget-aware estimation"
+    ],
+    "process": "estimate-activity-durations",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-6-1-010",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks across different phases of a multi-phase project. How should estimation vary by phase?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Adjust estimation detail and techniques based on available information per phase."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical estimation approach to all project phases consistently."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on the phase with the most project resources."
+      },
+      {
+        "id": "d",
+        "label": "Complete all task estimation during the first project phase."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For multi-phase projects, estimation should be adjusted based on available information in each phase. The correct answer is option A, not B. Option B incorrectly suggests identical estimation across all phases despite different information availability.",
+    "difficulty": "medium",
+    "topics": [
+      "project phases",
+      "phase-specific estimation"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-1-011",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with stakeholders from different cultural backgrounds. How should cultural differences influence task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider cultural differences in work pace, communication styles, and decision-making."
+      },
+      {
+        "id": "b",
+        "label": "Use the same estimation approach regardless of cultural differences."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation using the project manager's own cultural approach."
+      },
+      {
+        "id": "d",
+        "label": "Minimize cross-cultural task dependencies to avoid potential conflicts."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Cultural differences in work pace and decision-making should be considered in task estimation. The correct answer is option A, not B. Option B incorrectly suggests ignoring cultural differences in estimation.",
+    "difficulty": "hard",
+    "topics": [
+      "cultural differences",
+      "cross-cultural estimation"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-6-1-012",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with tight schedule constraints. How should time pressure affect the estimation process?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include time for schedule acceleration techniques and potential overtime activities."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation approach regardless of schedule constraints."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on schedule-critical project elements."
+      },
+      {
+        "id": "d",
+        "label": "Postpone task estimation until after schedule-critical activities."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For tight schedules, time for acceleration techniques should be included in estimates. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite time constraints.",
+    "difficulty": "medium",
+    "topics": [
+      "time constraints",
+      "schedule pressure"
+    ],
+    "process": "develop-schedule",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-6-1-013",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with high security requirements. How should security considerations affect task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include additional time for security reviews, clearances, and compliance activities."
+      },
+      {
+        "id": "b",
+        "label": "Security requirements should not impact task estimation processes."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on tasks requiring the highest security clearances."
+      },
+      {
+        "id": "d",
+        "label": "Minimize security-related time estimates to accelerate project completion."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For high-security projects, additional time for security activities should be included in estimates. The correct answer is option A, not B. Option B incorrectly suggests security doesn't impact estimation.",
+    "difficulty": "hard",
+    "topics": [
+      "security requirements",
+      "security time factors"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-6-1-014",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with multiple external partner organizations. How should partnership dynamics influence task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Account for coordination time, communication delays, and partner-specific processes."
+      },
+      {
+        "id": "b",
+        "label": "Use identical estimation methods for all external partners to ensure fairness."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation primarily on the main partnering organization's tasks."
+      },
+      {
+        "id": "d",
+        "label": "Apply only the most optimistic estimates from the most efficient partners."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with multiple partners, coordination time and partner-specific processes should be accounted for. The correct answer is option A, not B. Option B incorrectly suggests identical methods despite different partnership dynamics.",
+    "difficulty": "medium",
+    "topics": [
+      "external partnerships",
+      "partner coordination"
+    ],
+    "process": "control-procurements",
+    "knowledgeAreaId": "procurement"
+  },
+  {
+    "id": "q-process-6-1-015",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks when stakeholders have different communication preferences and technological capabilities. How should these differences affect the estimation process?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include time for different communication methods and potential delays in information sharing."
+      },
+      {
+        "id": "b",
+        "label": "Use standardized communication methods for all stakeholders for consistency."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation using only the most advanced communication technologies."
+      },
+      {
+        "id": "d",
+        "label": "Use only face-to-face meetings to ensure effective communication and minimize time."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Time for different communication methods and potential delays should be included in estimates. The correct answer is option A, not B. Option B incorrectly suggests standardized methods despite different preferences.",
+    "difficulty": "medium",
+    "topics": [
+      "communication preferences",
+      "communication time"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-process-6-1-016",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with a history of schedule overruns in similar projects. How should this history influence their estimation approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Apply lessons learned and add appropriate contingency based on historical data."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation approach regardless of past project history."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on areas where past projects had schedule overruns."
+      },
+      {
+        "id": "d",
+        "label": "Minimize contingency in estimates to avoid repeating past project delays."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Historical data should inform estimation with appropriate lessons learned and contingency. The correct answer is option A, not B. Option B incorrectly suggests ignoring past history in estimation.",
+    "difficulty": "hard",
+    "topics": [
+      "lessons learned",
+      "historical estimation"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-1-017",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project that will significantly change business operations. How should change impact be reflected in task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include time for change management, training, and transition activities."
+      },
+      {
+        "id": "b",
+        "label": "Apply standard task estimation procedures without considering operational changes."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on stakeholders supportive of the operational changes."
+      },
+      {
+        "id": "d",
+        "label": "Minimize change-related time estimates to avoid stakeholder resistance."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For projects with operational changes, time for change management and training should be included. The correct answer is option A, not B. Option B incorrectly suggests ignoring operational changes in estimation.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational change",
+      "change time factors"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-process-6-1-018",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks across multiple organizational levels. How should organizational hierarchy influence their estimation approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Account for approval processes and reporting time at different organizational levels."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical estimation approach to all organizational levels."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation primarily on senior management level activities."
+      },
+      {
+        "id": "d",
+        "label": "Use formal estimation methods only for top organizational levels."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Approval processes and reporting time at different levels should be accounted for in estimates. The correct answer is option A, not B. Option B incorrectly suggests identical estimation across all levels despite different approval requirements.",
+    "difficulty": "medium",
+    "topics": [
+      "organizational hierarchy",
+      "hierarchical estimation"
+    ],
+    "process": "sequence-activities",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-6-1-019",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with significant technical complexity. How should complexity affect task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include additional time for technical challenges, learning, and potential rework."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation approach regardless of technical complexity."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on the most technically complex project elements."
+      },
+      {
+        "id": "d",
+        "label": "Minimize technical complexity time estimates to focus on faster execution."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For technical complexity, additional time for challenges and rework should be included in estimates. The correct answer is option A, not B. Option B incorrectly suggests ignoring technical complexity in estimation.",
+    "difficulty": "medium",
+    "topics": [
+      "technical complexity",
+      "complexity estimation"
+    ],
+    "process": "estimate-activity-durations",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-6-1-020",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with environmental impact considerations. How should environmental factors influence task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Include time for environmental assessments, compliance reviews, and mitigation activities."
+      },
+      {
+        "id": "b",
+        "label": "Environmental considerations should not affect task estimation activities."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on environmental experts and specialists."
+      },
+      {
+        "id": "d",
+        "label": "Minimize environmental impact time estimates to focus on project deliverables."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For environmental projects, time for assessments and compliance should be included in estimates. The correct answer is option A, not B. Option B incorrectly suggests environmental factors don't affect estimation.",
+    "difficulty": "medium",
+    "topics": [
+      "environmental impact",
+      "environmental time factors"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-1-021",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with limited team experience in schedule management. How should this capability constraint influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Provide additional guidance and use simpler estimation techniques as needed."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation approach regardless of team experience level."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on areas where the team has schedule management experience."
+      },
+      {
+        "id": "d",
+        "label": "Minimize schedule estimation activities to accommodate team limitations."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "When team experience is limited, additional guidance and simpler techniques should be provided. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite capability constraints.",
+    "difficulty": "medium",
+    "topics": [
+      "team experience",
+      "capability-aware estimation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-process-6-1-022",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with global team members across different regions. How should geographic distribution influence task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider time zones, regional work practices, and communication delays in estimates."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical estimation approach regardless of geographic location."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation primarily on team members in the project manager's region."
+      },
+      {
+        "id": "d",
+        "label": "Use only centralized estimation to avoid complexity from geographic differences."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For global projects, time zones and communication delays should be considered in estimates. The correct answer is option A, not B. Option B incorrectly suggests identical estimation despite geographic differences.",
+    "difficulty": "hard",
+    "topics": [
+      "global projects",
+      "geographic estimation"
+    ],
+    "process": "estimate-activity-durations",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-6-1-023",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with multiple competing objectives. How should objective trade-offs influence task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider the impact of different objectives on task complexity and time requirements."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation approach regardless of competing objectives."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on tasks supporting the highest-priority objective."
+      },
+      {
+        "id": "d",
+        "label": "Avoid balancing objectives in task estimation to prevent conflicts."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "With competing objectives, their impact on complexity and time should be considered in estimation. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite competing objectives.",
+    "difficulty": "hard",
+    "topics": [
+      "competing objectives",
+      "objective-aware estimation"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-process-6-1-024",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks with limited access to historical duration data. How should this information constraint influence their approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Increase reliance on expert judgment and industry benchmarks in estimation."
+      },
+      {
+        "id": "b",
+        "label": "Apply the same estimation approach regardless of data availability."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on tasks similar to the limited data available."
+      },
+      {
+        "id": "d",
+        "label": "Delay task estimation until more historical data becomes available."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "With limited historical data, reliance on expert judgment and benchmarks should increase. The correct answer is option A, not B. Option B incorrectly suggests the same approach despite data constraints.",
+    "difficulty": "medium",
+    "topics": [
+      "limited data",
+      "data-constrained estimation"
+    ],
+    "process": "estimate-activity-durations",
+    "knowledgeAreaId": "schedule"
+  },
+  {
+    "id": "q-process-6-1-025",
+    "domainId": "process",
+    "taskId": "process-6",
+    "enablerIds": [
+      "e-process-6-1"
+    ],
+    "text": "A project manager is estimating tasks for a project with multiple parallel work streams. How should the project structure influence task estimation?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Consider interdependencies and resource sharing between work streams in estimates."
+      },
+      {
+        "id": "b",
+        "label": "Apply identical estimation approach to all parallel work streams."
+      },
+      {
+        "id": "c",
+        "label": "Focus estimation only on the most critical parallel work stream."
+      },
+      {
+        "id": "d",
+        "label": "Estimate tasks separately for each parallel work stream without coordination."
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "For parallel work streams, interdependencies and resource sharing should be considered in estimates. The correct answer is option A, not B. Option B incorrectly suggests identical estimation despite interdependencies.",
+    "difficulty": "hard",
+    "topics": [
+      "parallel work streams",
+      "interdependency estimation"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  }
+]
