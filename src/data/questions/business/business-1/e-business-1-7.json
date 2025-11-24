@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-1-7-001",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "In a agile permit system in pharma where regulators request evidence and a compliance review is scheduled, what should the project manager do to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "define KPIs such as control coverage and audit findings"
+      },
+      {
+        "id": "b",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "c",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "d",
+        "label": "measure only once at project end"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because metrics show compliance status. Option b is incorrect because lack of measurement hides risk. Option c is incorrect because assumptions are unreliable. Option d is incorrect because late measurement prevents correction.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-002",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "Given a outsourced payments platform in government where safety standards are audited and a release is near, which action best supports measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "b",
+        "label": "track evidence completion and defect rates"
+      },
+      {
+        "id": "c",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "d",
+        "label": "avoid measuring to reduce overhead"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because tracking reveals gaps to close. Option a is incorrect because concealing issues blocks remediation. Option c is incorrect because irrelevant metrics mislead decisions. Option d is incorrect because lack of measurement hides risk.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-003",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "While facing a predictive payments platform in energy where security controls must be proven and a release is near, what is the most effective next step to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "b",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "c",
+        "label": "run periodic self-assessments"
+      },
+      {
+        "id": "d",
+        "label": "hide metrics that show gaps"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because self-checks catch issues early. Option a is incorrect because assumptions are unreliable. Option b is incorrect because late measurement prevents correction. Option d is incorrect because concealing issues blocks remediation.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-004",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "For a hybrid permit system in government where regulators request evidence and stakeholders are risk-averse, what should the project manager do first to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "b",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "c",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "d",
+        "label": "report compliance status to stakeholders"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility supports decisions. Option a is incorrect because irrelevant metrics mislead decisions. Option b is incorrect because lack of measurement hides risk. Option c is incorrect because assumptions are unreliable.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-005",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "In a predictive permit system in government where regulators request evidence and lead times for approvals are long, what should the project manager do to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "adjust plans based on measurement results"
+      },
+      {
+        "id": "b",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "c",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "d",
+        "label": "use metrics unrelated to compliance"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because data should drive improvements. Option b is incorrect because late measurement prevents correction. Option c is incorrect because concealing issues blocks remediation. Option d is incorrect because irrelevant metrics mislead decisions.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-006",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "Given a agile permit system in energy where strict regulations apply and stakeholders are risk-averse, which action best supports measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "b",
+        "label": "define KPIs such as control coverage and audit findings"
+      },
+      {
+        "id": "c",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "d",
+        "label": "measure only once at project end"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because metrics show compliance status. Option a is incorrect because lack of measurement hides risk. Option c is incorrect because assumptions are unreliable. Option d is incorrect because late measurement prevents correction.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-007",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "While facing a outsourced clinical app in healthcare where privacy expectations are rising and a release is near, what is the most effective next step to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "b",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "c",
+        "label": "track evidence completion and defect rates"
+      },
+      {
+        "id": "d",
+        "label": "avoid measuring to reduce overhead"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because tracking reveals gaps to close. Option a is incorrect because concealing issues blocks remediation. Option b is incorrect because irrelevant metrics mislead decisions. Option d is incorrect because lack of measurement hides risk.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-008",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "For a predictive permit system in healthcare where strict regulations apply and stakeholders are risk-averse, what should the project manager do first to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "b",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "c",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "d",
+        "label": "run periodic self-assessments"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because self-checks catch issues early. Option a is incorrect because assumptions are unreliable. Option b is incorrect because late measurement prevents correction. Option c is incorrect because concealing issues blocks remediation.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-009",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "In a agile data migration in pharma where security controls must be proven and new guidance just arrived, what should the project manager do to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "report compliance status to stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "c",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "d",
+        "label": "assume full compliance without evidence"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility supports decisions. Option b is incorrect because irrelevant metrics mislead decisions. Option c is incorrect because lack of measurement hides risk. Option d is incorrect because assumptions are unreliable.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-010",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "Given a predictive permit system in financial services where privacy expectations are rising and a compliance review is scheduled, which action best supports measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "b",
+        "label": "adjust plans based on measurement results"
+      },
+      {
+        "id": "c",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "d",
+        "label": "use metrics unrelated to compliance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because data should drive improvements. Option a is incorrect because late measurement prevents correction. Option c is incorrect because concealing issues blocks remediation. Option d is incorrect because irrelevant metrics mislead decisions.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-011",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "While facing a agile payments platform in energy where privacy expectations are rising and stakeholders are risk-averse, what is the most effective next step to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "b",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "c",
+        "label": "define KPIs such as control coverage and audit findings"
+      },
+      {
+        "id": "d",
+        "label": "measure only once at project end"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because metrics show compliance status. Option a is incorrect because lack of measurement hides risk. Option b is incorrect because assumptions are unreliable. Option d is incorrect because late measurement prevents correction.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-012",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "For a vendor-led payments platform in energy where safety standards are audited and stakeholders are risk-averse, what should the project manager do first to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "b",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "c",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "d",
+        "label": "track evidence completion and defect rates"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because tracking reveals gaps to close. Option a is incorrect because concealing issues blocks remediation. Option b is incorrect because irrelevant metrics mislead decisions. Option c is incorrect because lack of measurement hides risk.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-013",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "In a outsourced permit system in healthcare where security controls must be proven and a compliance review is scheduled, what should the project manager do to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run periodic self-assessments"
+      },
+      {
+        "id": "b",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "c",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "d",
+        "label": "hide metrics that show gaps"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because self-checks catch issues early. Option b is incorrect because assumptions are unreliable. Option c is incorrect because late measurement prevents correction. Option d is incorrect because concealing issues blocks remediation.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-014",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "Given a vendor-led permit system in financial services where privacy expectations are rising and stakeholders are risk-averse, which action best supports measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "b",
+        "label": "report compliance status to stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "d",
+        "label": "assume full compliance without evidence"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility supports decisions. Option a is incorrect because irrelevant metrics mislead decisions. Option c is incorrect because lack of measurement hides risk. Option d is incorrect because assumptions are unreliable.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-015",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "While facing a outsourced grid upgrade in pharma where privacy expectations are rising and lead times for approvals are long, what is the most effective next step to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "b",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "c",
+        "label": "adjust plans based on measurement results"
+      },
+      {
+        "id": "d",
+        "label": "use metrics unrelated to compliance"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because data should drive improvements. Option a is incorrect because late measurement prevents correction. Option b is incorrect because concealing issues blocks remediation. Option d is incorrect because irrelevant metrics mislead decisions.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-016",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "For a agile grid upgrade in government where regulators request evidence and a release is near, what should the project manager do first to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "b",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "c",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "d",
+        "label": "define KPIs such as control coverage and audit findings"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because metrics show compliance status. Option a is incorrect because lack of measurement hides risk. Option b is incorrect because assumptions are unreliable. Option c is incorrect because late measurement prevents correction.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-017",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "In a predictive permit system in energy where strict regulations apply and stakeholders are risk-averse, what should the project manager do to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track evidence completion and defect rates"
+      },
+      {
+        "id": "b",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "c",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "d",
+        "label": "avoid measuring to reduce overhead"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tracking reveals gaps to close. Option b is incorrect because concealing issues blocks remediation. Option c is incorrect because irrelevant metrics mislead decisions. Option d is incorrect because lack of measurement hides risk.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-018",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "Given a vendor-led payments platform in financial services where security controls must be proven and lead times for approvals are long, which action best supports measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "b",
+        "label": "run periodic self-assessments"
+      },
+      {
+        "id": "c",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "d",
+        "label": "hide metrics that show gaps"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because self-checks catch issues early. Option a is incorrect because assumptions are unreliable. Option c is incorrect because late measurement prevents correction. Option d is incorrect because concealing issues blocks remediation.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-019",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "While facing a hybrid payments platform in government where safety standards are audited and stakeholders are risk-averse, what is the most effective next step to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "b",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "c",
+        "label": "report compliance status to stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "assume full compliance without evidence"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility supports decisions. Option a is incorrect because irrelevant metrics mislead decisions. Option b is incorrect because lack of measurement hides risk. Option d is incorrect because assumptions are unreliable.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-020",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "For a outsourced grid upgrade in financial services where privacy expectations are rising and stakeholders are risk-averse, what should the project manager do first to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "b",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "c",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "d",
+        "label": "adjust plans based on measurement results"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because data should drive improvements. Option a is incorrect because late measurement prevents correction. Option b is incorrect because concealing issues blocks remediation. Option c is incorrect because irrelevant metrics mislead decisions.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-021",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "In a agile data migration in financial services where regulators request evidence and stakeholders are risk-averse, what should the project manager do to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "define KPIs such as control coverage and audit findings"
+      },
+      {
+        "id": "b",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "c",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "d",
+        "label": "measure only once at project end"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because metrics show compliance status. Option b is incorrect because lack of measurement hides risk. Option c is incorrect because assumptions are unreliable. Option d is incorrect because late measurement prevents correction.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-022",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "Given a hybrid grid upgrade in healthcare where regulators request evidence and lead times for approvals are long, which action best supports measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "b",
+        "label": "track evidence completion and defect rates"
+      },
+      {
+        "id": "c",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "d",
+        "label": "avoid measuring to reduce overhead"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because tracking reveals gaps to close. Option a is incorrect because concealing issues blocks remediation. Option c is incorrect because irrelevant metrics mislead decisions. Option d is incorrect because lack of measurement hides risk.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-023",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "While facing a agile payments platform in financial services where regulators request evidence and a release is near, what is the most effective next step to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "b",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "c",
+        "label": "run periodic self-assessments"
+      },
+      {
+        "id": "d",
+        "label": "hide metrics that show gaps"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because self-checks catch issues early. Option a is incorrect because assumptions are unreliable. Option b is incorrect because late measurement prevents correction. Option d is incorrect because concealing issues blocks remediation.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-024",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "For a agile permit system in financial services where privacy expectations are rising and new guidance just arrived, what should the project manager do first to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use metrics unrelated to compliance"
+      },
+      {
+        "id": "b",
+        "label": "avoid measuring to reduce overhead"
+      },
+      {
+        "id": "c",
+        "label": "assume full compliance without evidence"
+      },
+      {
+        "id": "d",
+        "label": "report compliance status to stakeholders"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility supports decisions. Option a is incorrect because irrelevant metrics mislead decisions. Option b is incorrect because lack of measurement hides risk. Option c is incorrect because assumptions are unreliable.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-7-025",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-7"
+    ],
+    "text": "In a hybrid payments platform in healthcare where regulators request evidence and new guidance just arrived, what should the project manager do to measure the extent of compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "adjust plans based on measurement results"
+      },
+      {
+        "id": "b",
+        "label": "measure only once at project end"
+      },
+      {
+        "id": "c",
+        "label": "hide metrics that show gaps"
+      },
+      {
+        "id": "d",
+        "label": "use metrics unrelated to compliance"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because data should drive improvements. Option b is incorrect because late measurement prevents correction. Option c is incorrect because concealing issues blocks remediation. Option d is incorrect because irrelevant metrics mislead decisions.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "measurement"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-1-2-001",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "In a agile permit system in pharma where regulators request evidence and a compliance review is scheduled, what should the project manager do to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "group requirements by areas such as data privacy, safety, and security"
+      },
+      {
+        "id": "b",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "c",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "d",
+        "label": "skip mapping to deliverables"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because classification guides controls and ownership. Option b is incorrect because lack of classification reduces focus. Option c is incorrect because overlooking any category can still cause issues. Option d is incorrect because without mapping, controls may miss targets.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-002",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "Given a outsourced payments platform in government where safety standards are audited and a release is near, which action best supports classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "b",
+        "label": "tag obligations by regulatory body and severity"
+      },
+      {
+        "id": "c",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "d",
+        "label": "treat all requirements as the same"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because tags clarify priority and oversight. Option a is incorrect because categories may change as context evolves. Option c is incorrect because lack of record weakens control. Option d is incorrect because lack of classification reduces focus.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-003",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "While facing a predictive payments platform in energy where security controls must be proven and a release is near, what is the most effective next step to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "b",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "c",
+        "label": "separate contractual versus statutory requirements"
+      },
+      {
+        "id": "d",
+        "label": "classify once and never revisit"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because different sources need tailored handling. Option a is incorrect because overlooking any category can still cause issues. Option b is incorrect because without mapping, controls may miss targets. Option d is incorrect because categories may change as context evolves.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-004",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "For a hybrid permit system in government where regulators request evidence and stakeholders are risk-averse, what should the project manager do first to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "b",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "c",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "d",
+        "label": "map categories to affected deliverables"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because mapping shows where controls must apply. Option a is incorrect because lack of record weakens control. Option b is incorrect because lack of classification reduces focus. Option c is incorrect because overlooking any category can still cause issues.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-005",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "In a predictive permit system in government where regulators request evidence and lead times for approvals are long, what should the project manager do to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "record category owners and checkpoints"
+      },
+      {
+        "id": "b",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "c",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "d",
+        "label": "leave categories undocumented"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because categories need accountability. Option b is incorrect because without mapping, controls may miss targets. Option c is incorrect because categories may change as context evolves. Option d is incorrect because lack of record weakens control.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-006",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "Given a agile permit system in energy where strict regulations apply and stakeholders are risk-averse, which action best supports classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "b",
+        "label": "group requirements by areas such as data privacy, safety, and security"
+      },
+      {
+        "id": "c",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "d",
+        "label": "skip mapping to deliverables"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because classification guides controls and ownership. Option a is incorrect because lack of classification reduces focus. Option c is incorrect because overlooking any category can still cause issues. Option d is incorrect because without mapping, controls may miss targets.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-007",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "While facing a outsourced clinical app in healthcare where privacy expectations are rising and a release is near, what is the most effective next step to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "b",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "c",
+        "label": "tag obligations by regulatory body and severity"
+      },
+      {
+        "id": "d",
+        "label": "treat all requirements as the same"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because tags clarify priority and oversight. Option a is incorrect because categories may change as context evolves. Option b is incorrect because lack of record weakens control. Option d is incorrect because lack of classification reduces focus.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-008",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "For a predictive permit system in healthcare where strict regulations apply and stakeholders are risk-averse, what should the project manager do first to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "b",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "c",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "d",
+        "label": "separate contractual versus statutory requirements"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because different sources need tailored handling. Option a is incorrect because overlooking any category can still cause issues. Option b is incorrect because without mapping, controls may miss targets. Option c is incorrect because categories may change as context evolves.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-009",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "In a agile data migration in pharma where security controls must be proven and new guidance just arrived, what should the project manager do to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "map categories to affected deliverables"
+      },
+      {
+        "id": "b",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "c",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "d",
+        "label": "ignore low-severity categories"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because mapping shows where controls must apply. Option b is incorrect because lack of record weakens control. Option c is incorrect because lack of classification reduces focus. Option d is incorrect because overlooking any category can still cause issues.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-010",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "Given a predictive permit system in financial services where privacy expectations are rising and a compliance review is scheduled, which action best supports classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "b",
+        "label": "record category owners and checkpoints"
+      },
+      {
+        "id": "c",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "d",
+        "label": "leave categories undocumented"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because categories need accountability. Option a is incorrect because without mapping, controls may miss targets. Option c is incorrect because categories may change as context evolves. Option d is incorrect because lack of record weakens control.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-011",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "While facing a agile payments platform in energy where privacy expectations are rising and stakeholders are risk-averse, what is the most effective next step to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "b",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "c",
+        "label": "group requirements by areas such as data privacy, safety, and security"
+      },
+      {
+        "id": "d",
+        "label": "skip mapping to deliverables"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because classification guides controls and ownership. Option a is incorrect because lack of classification reduces focus. Option b is incorrect because overlooking any category can still cause issues. Option d is incorrect because without mapping, controls may miss targets.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-012",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "For a vendor-led payments platform in energy where safety standards are audited and stakeholders are risk-averse, what should the project manager do first to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "b",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "c",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "d",
+        "label": "tag obligations by regulatory body and severity"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because tags clarify priority and oversight. Option a is incorrect because categories may change as context evolves. Option b is incorrect because lack of record weakens control. Option c is incorrect because lack of classification reduces focus.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-013",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "In a outsourced permit system in healthcare where security controls must be proven and a compliance review is scheduled, what should the project manager do to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "separate contractual versus statutory requirements"
+      },
+      {
+        "id": "b",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "c",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "d",
+        "label": "classify once and never revisit"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because different sources need tailored handling. Option b is incorrect because overlooking any category can still cause issues. Option c is incorrect because without mapping, controls may miss targets. Option d is incorrect because categories may change as context evolves.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-014",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "Given a vendor-led permit system in financial services where privacy expectations are rising and stakeholders are risk-averse, which action best supports classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "b",
+        "label": "map categories to affected deliverables"
+      },
+      {
+        "id": "c",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "d",
+        "label": "ignore low-severity categories"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because mapping shows where controls must apply. Option a is incorrect because lack of record weakens control. Option c is incorrect because lack of classification reduces focus. Option d is incorrect because overlooking any category can still cause issues.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-015",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "While facing a outsourced grid upgrade in pharma where privacy expectations are rising and lead times for approvals are long, what is the most effective next step to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "b",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "c",
+        "label": "record category owners and checkpoints"
+      },
+      {
+        "id": "d",
+        "label": "leave categories undocumented"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because categories need accountability. Option a is incorrect because without mapping, controls may miss targets. Option b is incorrect because categories may change as context evolves. Option d is incorrect because lack of record weakens control.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-016",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "For a agile grid upgrade in government where regulators request evidence and a release is near, what should the project manager do first to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "b",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "c",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "d",
+        "label": "group requirements by areas such as data privacy, safety, and security"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because classification guides controls and ownership. Option a is incorrect because lack of classification reduces focus. Option b is incorrect because overlooking any category can still cause issues. Option c is incorrect because without mapping, controls may miss targets.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-017",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "In a predictive permit system in energy where strict regulations apply and stakeholders are risk-averse, what should the project manager do to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "tag obligations by regulatory body and severity"
+      },
+      {
+        "id": "b",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "c",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "d",
+        "label": "treat all requirements as the same"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tags clarify priority and oversight. Option b is incorrect because categories may change as context evolves. Option c is incorrect because lack of record weakens control. Option d is incorrect because lack of classification reduces focus.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-018",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "Given a vendor-led payments platform in financial services where security controls must be proven and lead times for approvals are long, which action best supports classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "b",
+        "label": "separate contractual versus statutory requirements"
+      },
+      {
+        "id": "c",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "d",
+        "label": "classify once and never revisit"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because different sources need tailored handling. Option a is incorrect because overlooking any category can still cause issues. Option c is incorrect because without mapping, controls may miss targets. Option d is incorrect because categories may change as context evolves.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-019",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "While facing a hybrid payments platform in government where safety standards are audited and stakeholders are risk-averse, what is the most effective next step to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "b",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "c",
+        "label": "map categories to affected deliverables"
+      },
+      {
+        "id": "d",
+        "label": "ignore low-severity categories"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because mapping shows where controls must apply. Option a is incorrect because lack of record weakens control. Option b is incorrect because lack of classification reduces focus. Option d is incorrect because overlooking any category can still cause issues.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-020",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "For a outsourced grid upgrade in financial services where privacy expectations are rising and stakeholders are risk-averse, what should the project manager do first to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "b",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "c",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "d",
+        "label": "record category owners and checkpoints"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because categories need accountability. Option a is incorrect because without mapping, controls may miss targets. Option b is incorrect because categories may change as context evolves. Option c is incorrect because lack of record weakens control.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-021",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "In a agile data migration in financial services where regulators request evidence and stakeholders are risk-averse, what should the project manager do to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "group requirements by areas such as data privacy, safety, and security"
+      },
+      {
+        "id": "b",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "c",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "d",
+        "label": "skip mapping to deliverables"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because classification guides controls and ownership. Option b is incorrect because lack of classification reduces focus. Option c is incorrect because overlooking any category can still cause issues. Option d is incorrect because without mapping, controls may miss targets.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-022",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "Given a hybrid grid upgrade in healthcare where regulators request evidence and lead times for approvals are long, which action best supports classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "b",
+        "label": "tag obligations by regulatory body and severity"
+      },
+      {
+        "id": "c",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "d",
+        "label": "treat all requirements as the same"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because tags clarify priority and oversight. Option a is incorrect because categories may change as context evolves. Option c is incorrect because lack of record weakens control. Option d is incorrect because lack of classification reduces focus.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-023",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "While facing a agile payments platform in financial services where regulators request evidence and a release is near, what is the most effective next step to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "b",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "c",
+        "label": "separate contractual versus statutory requirements"
+      },
+      {
+        "id": "d",
+        "label": "classify once and never revisit"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because different sources need tailored handling. Option a is incorrect because overlooking any category can still cause issues. Option b is incorrect because without mapping, controls may miss targets. Option d is incorrect because categories may change as context evolves.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-024",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "For a agile permit system in financial services where privacy expectations are rising and new guidance just arrived, what should the project manager do first to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave categories undocumented"
+      },
+      {
+        "id": "b",
+        "label": "treat all requirements as the same"
+      },
+      {
+        "id": "c",
+        "label": "ignore low-severity categories"
+      },
+      {
+        "id": "d",
+        "label": "map categories to affected deliverables"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because mapping shows where controls must apply. Option a is incorrect because lack of record weakens control. Option b is incorrect because lack of classification reduces focus. Option c is incorrect because overlooking any category can still cause issues.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-2-025",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-2"
+    ],
+    "text": "In a hybrid payments platform in healthcare where regulators request evidence and new guidance just arrived, what should the project manager do to classify compliance categories?",
+    "options": [
+      {
+        "id": "a",
+        "label": "record category owners and checkpoints"
+      },
+      {
+        "id": "b",
+        "label": "skip mapping to deliverables"
+      },
+      {
+        "id": "c",
+        "label": "classify once and never revisit"
+      },
+      {
+        "id": "d",
+        "label": "leave categories undocumented"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because categories need accountability. Option b is incorrect because without mapping, controls may miss targets. Option c is incorrect because categories may change as context evolves. Option d is incorrect because lack of record weakens control.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "classification"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  }
+]

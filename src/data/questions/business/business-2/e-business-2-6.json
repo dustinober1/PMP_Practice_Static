@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-2-6-001",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "In a vendor-led network modernization in edtech where operations needs ROI clarity and executives demand evidence, what should the project manager do to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "review stakeholder commitments and progress toward benefits"
+      },
+      {
+        "id": "b",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "c",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "d",
+        "label": "track only schedule, not alignment"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because alignment depends on stakeholder follow-through. Option b is incorrect because alignment can drift. Option c is incorrect because ignoring issues risks value loss. Option d is incorrect because schedule alone misses value alignment.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-002",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "Given a hybrid network modernization in public sector where benefits need proof and a benefits review is upcoming, which action best supports assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "b",
+        "label": "check that deliveries support agreed outcomes"
+      },
+      {
+        "id": "c",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "d",
+        "label": "assume stakeholders remain aligned without checks"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because work must align with benefit goals. Option a is incorrect because hidden changes harm alignment. Option c is incorrect because late updates cannot fix misalignment. Option d is incorrect because alignment can drift.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-003",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "While facing a value-driven network modernization in retail where benefits need proof and a benefits review is upcoming, what is the most effective next step to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "b",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "c",
+        "label": "address misalignment through facilitated discussions"
+      },
+      {
+        "id": "d",
+        "label": "change benefits quietly without stakeholder input"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because resolution keeps value on track. Option a is incorrect because ignoring issues risks value loss. Option b is incorrect because schedule alone misses value alignment. Option d is incorrect because hidden changes harm alignment.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-004",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "For a predictive claims automation in retail where operations needs ROI clarity and a benefits review is upcoming, what should the project manager do first to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "b",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "c",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "d",
+        "label": "update engagement plans based on progress"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because plans should reflect current alignment. Option a is incorrect because late updates cannot fix misalignment. Option b is incorrect because alignment can drift. Option c is incorrect because ignoring issues risks value loss.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-005",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "In a vendor-led claims automation in telecom where customers expect quick wins and budget is gated, what should the project manager do to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate if critical commitments slip"
+      },
+      {
+        "id": "b",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "c",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "d",
+        "label": "delay engagement updates until project end"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because escalation protects value delivery. Option b is incorrect because schedule alone misses value alignment. Option c is incorrect because hidden changes harm alignment. Option d is incorrect because late updates cannot fix misalignment.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-006",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "Given a vendor-led learning platform in retail where benefits need proof and budget is gated, which action best supports assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "b",
+        "label": "review stakeholder commitments and progress toward benefits"
+      },
+      {
+        "id": "c",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "d",
+        "label": "track only schedule, not alignment"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because alignment depends on stakeholder follow-through. Option a is incorrect because alignment can drift. Option c is incorrect because ignoring issues risks value loss. Option d is incorrect because schedule alone misses value alignment.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-007",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "While facing a hybrid omnichannel launch in retail where benefits need proof and a pilot launch is close, what is the most effective next step to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "b",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "c",
+        "label": "check that deliveries support agreed outcomes"
+      },
+      {
+        "id": "d",
+        "label": "assume stakeholders remain aligned without checks"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because work must align with benefit goals. Option a is incorrect because hidden changes harm alignment. Option b is incorrect because late updates cannot fix misalignment. Option d is incorrect because alignment can drift.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-008",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "For a value-driven claims automation in edtech where multiple sponsors want outcomes and a pilot launch is close, what should the project manager do first to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "b",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "c",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "d",
+        "label": "address misalignment through facilitated discussions"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because resolution keeps value on track. Option a is incorrect because ignoring issues risks value loss. Option b is incorrect because schedule alone misses value alignment. Option c is incorrect because hidden changes harm alignment.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-009",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "In a value-driven network modernization in retail where benefits need proof and benefit owners are changing, what should the project manager do to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update engagement plans based on progress"
+      },
+      {
+        "id": "b",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "c",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "d",
+        "label": "avoid raising alignment issues to stay positive"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because plans should reflect current alignment. Option b is incorrect because late updates cannot fix misalignment. Option c is incorrect because alignment can drift. Option d is incorrect because ignoring issues risks value loss.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-010",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "Given a predictive omnichannel launch in retail where customers expect quick wins and a pilot launch is close, which action best supports assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "b",
+        "label": "escalate if critical commitments slip"
+      },
+      {
+        "id": "c",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "d",
+        "label": "delay engagement updates until project end"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because escalation protects value delivery. Option a is incorrect because schedule alone misses value alignment. Option c is incorrect because hidden changes harm alignment. Option d is incorrect because late updates cannot fix misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-011",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "While facing a predictive network modernization in edtech where multiple sponsors want outcomes and a benefits review is upcoming, what is the most effective next step to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "b",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "c",
+        "label": "review stakeholder commitments and progress toward benefits"
+      },
+      {
+        "id": "d",
+        "label": "track only schedule, not alignment"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because alignment depends on stakeholder follow-through. Option a is incorrect because alignment can drift. Option b is incorrect because ignoring issues risks value loss. Option d is incorrect because schedule alone misses value alignment.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-012",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "For a predictive omnichannel launch in public sector where customers expect quick wins and budget is gated, what should the project manager do first to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "b",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "c",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "d",
+        "label": "check that deliveries support agreed outcomes"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because work must align with benefit goals. Option a is incorrect because hidden changes harm alignment. Option b is incorrect because late updates cannot fix misalignment. Option c is incorrect because alignment can drift.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-013",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "In a predictive digital services in insurance where funding depends on value and benefit owners are changing, what should the project manager do to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "address misalignment through facilitated discussions"
+      },
+      {
+        "id": "b",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "c",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "d",
+        "label": "change benefits quietly without stakeholder input"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because resolution keeps value on track. Option b is incorrect because ignoring issues risks value loss. Option c is incorrect because schedule alone misses value alignment. Option d is incorrect because hidden changes harm alignment.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-014",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "Given a agile network modernization in edtech where benefits need proof and benefit owners are changing, which action best supports assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "b",
+        "label": "update engagement plans based on progress"
+      },
+      {
+        "id": "c",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "d",
+        "label": "avoid raising alignment issues to stay positive"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because plans should reflect current alignment. Option a is incorrect because late updates cannot fix misalignment. Option c is incorrect because alignment can drift. Option d is incorrect because ignoring issues risks value loss.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-015",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "While facing a agile digital services in telecom where operations needs ROI clarity and executives demand evidence, what is the most effective next step to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "b",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "c",
+        "label": "escalate if critical commitments slip"
+      },
+      {
+        "id": "d",
+        "label": "delay engagement updates until project end"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because escalation protects value delivery. Option a is incorrect because schedule alone misses value alignment. Option b is incorrect because hidden changes harm alignment. Option d is incorrect because late updates cannot fix misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-016",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "For a agile digital services in retail where benefits need proof and benefit owners are changing, what should the project manager do first to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "b",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "c",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "d",
+        "label": "review stakeholder commitments and progress toward benefits"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because alignment depends on stakeholder follow-through. Option a is incorrect because alignment can drift. Option b is incorrect because ignoring issues risks value loss. Option c is incorrect because schedule alone misses value alignment.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-017",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "In a agile learning platform in public sector where multiple sponsors want outcomes and a pilot launch is close, what should the project manager do to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "check that deliveries support agreed outcomes"
+      },
+      {
+        "id": "b",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "c",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "d",
+        "label": "assume stakeholders remain aligned without checks"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because work must align with benefit goals. Option b is incorrect because hidden changes harm alignment. Option c is incorrect because late updates cannot fix misalignment. Option d is incorrect because alignment can drift.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-018",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "Given a agile digital services in insurance where customers expect quick wins and a pilot launch is close, which action best supports assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "b",
+        "label": "address misalignment through facilitated discussions"
+      },
+      {
+        "id": "c",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "d",
+        "label": "change benefits quietly without stakeholder input"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because resolution keeps value on track. Option a is incorrect because ignoring issues risks value loss. Option c is incorrect because schedule alone misses value alignment. Option d is incorrect because hidden changes harm alignment.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-019",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "While facing a vendor-led omnichannel launch in public sector where funding depends on value and budget is gated, what is the most effective next step to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "b",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "c",
+        "label": "update engagement plans based on progress"
+      },
+      {
+        "id": "d",
+        "label": "avoid raising alignment issues to stay positive"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because plans should reflect current alignment. Option a is incorrect because late updates cannot fix misalignment. Option b is incorrect because alignment can drift. Option d is incorrect because ignoring issues risks value loss.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-020",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "For a predictive claims automation in public sector where operations needs ROI clarity and a benefits review is upcoming, what should the project manager do first to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "b",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "c",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "d",
+        "label": "escalate if critical commitments slip"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because escalation protects value delivery. Option a is incorrect because schedule alone misses value alignment. Option b is incorrect because hidden changes harm alignment. Option c is incorrect because late updates cannot fix misalignment.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-021",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "In a hybrid network modernization in insurance where operations needs ROI clarity and a pilot launch is close, what should the project manager do to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "review stakeholder commitments and progress toward benefits"
+      },
+      {
+        "id": "b",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "c",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "d",
+        "label": "track only schedule, not alignment"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because alignment depends on stakeholder follow-through. Option b is incorrect because alignment can drift. Option c is incorrect because ignoring issues risks value loss. Option d is incorrect because schedule alone misses value alignment.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-022",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "Given a predictive learning platform in retail where multiple sponsors want outcomes and a benefits review is upcoming, which action best supports assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "b",
+        "label": "check that deliveries support agreed outcomes"
+      },
+      {
+        "id": "c",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "d",
+        "label": "assume stakeholders remain aligned without checks"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because work must align with benefit goals. Option a is incorrect because hidden changes harm alignment. Option c is incorrect because late updates cannot fix misalignment. Option d is incorrect because alignment can drift.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-023",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "While facing a agile learning platform in retail where operations needs ROI clarity and executives demand evidence, what is the most effective next step to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "b",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "c",
+        "label": "address misalignment through facilitated discussions"
+      },
+      {
+        "id": "d",
+        "label": "change benefits quietly without stakeholder input"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because resolution keeps value on track. Option a is incorrect because ignoring issues risks value loss. Option b is incorrect because schedule alone misses value alignment. Option d is incorrect because hidden changes harm alignment.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-024",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "For a vendor-led claims automation in insurance where operations needs ROI clarity and executives demand evidence, what should the project manager do first to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay engagement updates until project end"
+      },
+      {
+        "id": "b",
+        "label": "assume stakeholders remain aligned without checks"
+      },
+      {
+        "id": "c",
+        "label": "avoid raising alignment issues to stay positive"
+      },
+      {
+        "id": "d",
+        "label": "update engagement plans based on progress"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because plans should reflect current alignment. Option a is incorrect because late updates cannot fix misalignment. Option b is incorrect because alignment can drift. Option c is incorrect because ignoring issues risks value loss.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-6-025",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-6"
+    ],
+    "text": "In a predictive claims automation in retail where benefits need proof and a benefits review is upcoming, what should the project manager do to assess stakeholder progress and delivery alignment?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate if critical commitments slip"
+      },
+      {
+        "id": "b",
+        "label": "track only schedule, not alignment"
+      },
+      {
+        "id": "c",
+        "label": "change benefits quietly without stakeholder input"
+      },
+      {
+        "id": "d",
+        "label": "delay engagement updates until project end"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because escalation protects value delivery. Option b is incorrect because schedule alone misses value alignment. Option c is incorrect because hidden changes harm alignment. Option d is incorrect because late updates cannot fix misalignment.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "alignment"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  }
+]

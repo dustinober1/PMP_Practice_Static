@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-1-1-001",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "In a agile permit system in pharma where regulators request evidence and a compliance review is scheduled, what should the project manager do to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "gather applicable regulations and policies with compliance experts"
+      },
+      {
+        "id": "b",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "c",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "d",
+        "label": "wait until testing to find compliance needs"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because explicit requirements are needed to stay compliant. Option b is incorrect because compliance must be validated for each project. Option c is incorrect because missing requirements risks violations. Option d is incorrect because late discovery causes rework.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-002",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "Given a outsourced payments platform in government where safety standards are audited and a release is near, which action best supports confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "b",
+        "label": "review contracts and standards to list obligations"
+      },
+      {
+        "id": "c",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "d",
+        "label": "assume prior projects covered the same rules"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because contractual and standard requirements drive compliance scope. Option a is incorrect because compliance is mandatory. Option c is incorrect because project accountability remains. Option d is incorrect because compliance must be validated for each project.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-003",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "While facing a predictive payments platform in energy where security controls must be proven and a release is near, what is the most effective next step to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "b",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "c",
+        "label": "confirm which controls and evidence are required"
+      },
+      {
+        "id": "d",
+        "label": "treat compliance as optional guidance"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because knowing control needs guides planning and testing. Option a is incorrect because missing requirements risks violations. Option b is incorrect because late discovery causes rework. Option d is incorrect because compliance is mandatory.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-004",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "For a hybrid permit system in government where regulators request evidence and stakeholders are risk-averse, what should the project manager do first to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "b",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "c",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "d",
+        "label": "align requirements with stakeholders and document them"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because agreement prevents gaps and disputes. Option a is incorrect because project accountability remains. Option b is incorrect because compliance must be validated for each project. Option c is incorrect because missing requirements risks violations.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-005",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "In a predictive permit system in government where regulators request evidence and lead times for approvals are long, what should the project manager do to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set owners for each compliance area"
+      },
+      {
+        "id": "b",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "c",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "d",
+        "label": "delegate compliance entirely to vendors without oversight"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because ownership ensures follow-through. Option b is incorrect because late discovery causes rework. Option c is incorrect because compliance is mandatory. Option d is incorrect because project accountability remains.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-006",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "Given a agile permit system in energy where strict regulations apply and stakeholders are risk-averse, which action best supports confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "b",
+        "label": "gather applicable regulations and policies with compliance experts"
+      },
+      {
+        "id": "c",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "d",
+        "label": "wait until testing to find compliance needs"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because explicit requirements are needed to stay compliant. Option a is incorrect because compliance must be validated for each project. Option c is incorrect because missing requirements risks violations. Option d is incorrect because late discovery causes rework.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-007",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "While facing a outsourced clinical app in healthcare where privacy expectations are rising and a release is near, what is the most effective next step to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "b",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "c",
+        "label": "review contracts and standards to list obligations"
+      },
+      {
+        "id": "d",
+        "label": "assume prior projects covered the same rules"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because contractual and standard requirements drive compliance scope. Option a is incorrect because compliance is mandatory. Option b is incorrect because project accountability remains. Option d is incorrect because compliance must be validated for each project.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-008",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "For a predictive permit system in healthcare where strict regulations apply and stakeholders are risk-averse, what should the project manager do first to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "b",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "c",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "d",
+        "label": "confirm which controls and evidence are required"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because knowing control needs guides planning and testing. Option a is incorrect because missing requirements risks violations. Option b is incorrect because late discovery causes rework. Option c is incorrect because compliance is mandatory.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-009",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "In a agile data migration in pharma where security controls must be proven and new guidance just arrived, what should the project manager do to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align requirements with stakeholders and document them"
+      },
+      {
+        "id": "b",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "c",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "d",
+        "label": "skip compliance review to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because agreement prevents gaps and disputes. Option b is incorrect because project accountability remains. Option c is incorrect because compliance must be validated for each project. Option d is incorrect because missing requirements risks violations.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-010",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "Given a predictive permit system in financial services where privacy expectations are rising and a compliance review is scheduled, which action best supports confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "b",
+        "label": "set owners for each compliance area"
+      },
+      {
+        "id": "c",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "d",
+        "label": "delegate compliance entirely to vendors without oversight"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because ownership ensures follow-through. Option a is incorrect because late discovery causes rework. Option c is incorrect because compliance is mandatory. Option d is incorrect because project accountability remains.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-011",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "While facing a agile payments platform in energy where privacy expectations are rising and stakeholders are risk-averse, what is the most effective next step to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "b",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "c",
+        "label": "gather applicable regulations and policies with compliance experts"
+      },
+      {
+        "id": "d",
+        "label": "wait until testing to find compliance needs"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because explicit requirements are needed to stay compliant. Option a is incorrect because compliance must be validated for each project. Option b is incorrect because missing requirements risks violations. Option d is incorrect because late discovery causes rework.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-012",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "For a vendor-led payments platform in energy where safety standards are audited and stakeholders are risk-averse, what should the project manager do first to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "b",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "c",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "d",
+        "label": "review contracts and standards to list obligations"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because contractual and standard requirements drive compliance scope. Option a is incorrect because compliance is mandatory. Option b is incorrect because project accountability remains. Option c is incorrect because compliance must be validated for each project.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-013",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "In a outsourced permit system in healthcare where security controls must be proven and a compliance review is scheduled, what should the project manager do to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "confirm which controls and evidence are required"
+      },
+      {
+        "id": "b",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "c",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "d",
+        "label": "treat compliance as optional guidance"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because knowing control needs guides planning and testing. Option b is incorrect because missing requirements risks violations. Option c is incorrect because late discovery causes rework. Option d is incorrect because compliance is mandatory.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-014",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "Given a vendor-led permit system in financial services where privacy expectations are rising and stakeholders are risk-averse, which action best supports confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "b",
+        "label": "align requirements with stakeholders and document them"
+      },
+      {
+        "id": "c",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "d",
+        "label": "skip compliance review to save time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because agreement prevents gaps and disputes. Option a is incorrect because project accountability remains. Option c is incorrect because compliance must be validated for each project. Option d is incorrect because missing requirements risks violations.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-015",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "While facing a outsourced grid upgrade in pharma where privacy expectations are rising and lead times for approvals are long, what is the most effective next step to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "b",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "c",
+        "label": "set owners for each compliance area"
+      },
+      {
+        "id": "d",
+        "label": "delegate compliance entirely to vendors without oversight"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because ownership ensures follow-through. Option a is incorrect because late discovery causes rework. Option b is incorrect because compliance is mandatory. Option d is incorrect because project accountability remains.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-016",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "For a agile grid upgrade in government where regulators request evidence and a release is near, what should the project manager do first to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "b",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "c",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "d",
+        "label": "gather applicable regulations and policies with compliance experts"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because explicit requirements are needed to stay compliant. Option a is incorrect because compliance must be validated for each project. Option b is incorrect because missing requirements risks violations. Option c is incorrect because late discovery causes rework.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-017",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "In a predictive permit system in energy where strict regulations apply and stakeholders are risk-averse, what should the project manager do to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "review contracts and standards to list obligations"
+      },
+      {
+        "id": "b",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "c",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "d",
+        "label": "assume prior projects covered the same rules"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because contractual and standard requirements drive compliance scope. Option b is incorrect because compliance is mandatory. Option c is incorrect because project accountability remains. Option d is incorrect because compliance must be validated for each project.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-018",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "Given a vendor-led payments platform in financial services where security controls must be proven and lead times for approvals are long, which action best supports confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "b",
+        "label": "confirm which controls and evidence are required"
+      },
+      {
+        "id": "c",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "d",
+        "label": "treat compliance as optional guidance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because knowing control needs guides planning and testing. Option a is incorrect because missing requirements risks violations. Option c is incorrect because late discovery causes rework. Option d is incorrect because compliance is mandatory.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-019",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "While facing a hybrid payments platform in government where safety standards are audited and stakeholders are risk-averse, what is the most effective next step to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "b",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "c",
+        "label": "align requirements with stakeholders and document them"
+      },
+      {
+        "id": "d",
+        "label": "skip compliance review to save time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because agreement prevents gaps and disputes. Option a is incorrect because project accountability remains. Option b is incorrect because compliance must be validated for each project. Option d is incorrect because missing requirements risks violations.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-020",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "For a outsourced grid upgrade in financial services where privacy expectations are rising and stakeholders are risk-averse, what should the project manager do first to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "b",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "c",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "d",
+        "label": "set owners for each compliance area"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because ownership ensures follow-through. Option a is incorrect because late discovery causes rework. Option b is incorrect because compliance is mandatory. Option c is incorrect because project accountability remains.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-021",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "In a agile data migration in financial services where regulators request evidence and stakeholders are risk-averse, what should the project manager do to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "gather applicable regulations and policies with compliance experts"
+      },
+      {
+        "id": "b",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "c",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "d",
+        "label": "wait until testing to find compliance needs"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because explicit requirements are needed to stay compliant. Option b is incorrect because compliance must be validated for each project. Option c is incorrect because missing requirements risks violations. Option d is incorrect because late discovery causes rework.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-022",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "Given a hybrid grid upgrade in healthcare where regulators request evidence and lead times for approvals are long, which action best supports confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "b",
+        "label": "review contracts and standards to list obligations"
+      },
+      {
+        "id": "c",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "d",
+        "label": "assume prior projects covered the same rules"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because contractual and standard requirements drive compliance scope. Option a is incorrect because compliance is mandatory. Option c is incorrect because project accountability remains. Option d is incorrect because compliance must be validated for each project.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-023",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "While facing a agile payments platform in financial services where regulators request evidence and a release is near, what is the most effective next step to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "b",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "c",
+        "label": "confirm which controls and evidence are required"
+      },
+      {
+        "id": "d",
+        "label": "treat compliance as optional guidance"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because knowing control needs guides planning and testing. Option a is incorrect because missing requirements risks violations. Option b is incorrect because late discovery causes rework. Option d is incorrect because compliance is mandatory.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-024",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "For a agile permit system in financial services where privacy expectations are rising and new guidance just arrived, what should the project manager do first to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delegate compliance entirely to vendors without oversight"
+      },
+      {
+        "id": "b",
+        "label": "assume prior projects covered the same rules"
+      },
+      {
+        "id": "c",
+        "label": "skip compliance review to save time"
+      },
+      {
+        "id": "d",
+        "label": "align requirements with stakeholders and document them"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because agreement prevents gaps and disputes. Option a is incorrect because project accountability remains. Option b is incorrect because compliance must be validated for each project. Option c is incorrect because missing requirements risks violations.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-1-1-025",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-1"
+    ],
+    "text": "In a hybrid payments platform in healthcare where regulators request evidence and new guidance just arrived, what should the project manager do to confirm project compliance requirements?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set owners for each compliance area"
+      },
+      {
+        "id": "b",
+        "label": "wait until testing to find compliance needs"
+      },
+      {
+        "id": "c",
+        "label": "treat compliance as optional guidance"
+      },
+      {
+        "id": "d",
+        "label": "delegate compliance entirely to vendors without oversight"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because ownership ensures follow-through. Option b is incorrect because late discovery causes rework. Option c is incorrect because compliance is mandatory. Option d is incorrect because project accountability remains.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "requirements"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  }
+]

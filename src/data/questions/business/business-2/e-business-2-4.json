@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-2-4-001",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "In a vendor-led network modernization in edtech where operations needs ROI clarity and executives demand evidence, what should the project manager do to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "define KPIs, baselines, and data sources for benefits"
+      },
+      {
+        "id": "b",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "c",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "d",
+        "label": "collect data without owners"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because measurement needs clear definitions. Option b is incorrect because informal tracking is unreliable. Option c is incorrect because late setup risks missing early data. Option d is incorrect because no owners means no accountability.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-002",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "Given a hybrid network modernization in public sector where benefits need proof and a benefits review is upcoming, which action best supports verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "b",
+        "label": "set collection cadence and responsibilities"
+      },
+      {
+        "id": "c",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "d",
+        "label": "track benefits informally without definitions"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because assigned cadence keeps data flowing. Option a is incorrect because poor data undermines measurement. Option c is incorrect because irrelevant metrics mislead value tracking. Option d is incorrect because informal tracking is unreliable.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-003",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "While facing a value-driven network modernization in retail where benefits need proof and a benefits review is upcoming, what is the most effective next step to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "b",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "c",
+        "label": "ensure tools and access exist to gather data"
+      },
+      {
+        "id": "d",
+        "label": "ignore data quality"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because practical capability is required to measure. Option a is incorrect because late setup risks missing early data. Option b is incorrect because no owners means no accountability. Option d is incorrect because poor data undermines measurement.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-004",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "For a predictive claims automation in retail where operations needs ROI clarity and a benefits review is upcoming, what should the project manager do first to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "b",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "c",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "d",
+        "label": "test the measurement process before go-live"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because testing avoids surprises. Option a is incorrect because irrelevant metrics mislead value tracking. Option b is incorrect because informal tracking is unreliable. Option c is incorrect because late setup risks missing early data.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-005",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "In a vendor-led claims automation in telecom where customers expect quick wins and budget is gated, what should the project manager do to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "report benefit metrics to stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "c",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "d",
+        "label": "choose metrics unrelated to stated benefits"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility supports decisions. Option b is incorrect because no owners means no accountability. Option c is incorrect because poor data undermines measurement. Option d is incorrect because irrelevant metrics mislead value tracking.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-006",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "Given a vendor-led learning platform in retail where benefits need proof and budget is gated, which action best supports verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "b",
+        "label": "define KPIs, baselines, and data sources for benefits"
+      },
+      {
+        "id": "c",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "d",
+        "label": "collect data without owners"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because measurement needs clear definitions. Option a is incorrect because informal tracking is unreliable. Option c is incorrect because late setup risks missing early data. Option d is incorrect because no owners means no accountability.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-007",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "While facing a hybrid omnichannel launch in retail where benefits need proof and a pilot launch is close, what is the most effective next step to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "b",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "c",
+        "label": "set collection cadence and responsibilities"
+      },
+      {
+        "id": "d",
+        "label": "track benefits informally without definitions"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because assigned cadence keeps data flowing. Option a is incorrect because poor data undermines measurement. Option b is incorrect because irrelevant metrics mislead value tracking. Option d is incorrect because informal tracking is unreliable.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-008",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "For a value-driven claims automation in edtech where multiple sponsors want outcomes and a pilot launch is close, what should the project manager do first to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "b",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "c",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "d",
+        "label": "ensure tools and access exist to gather data"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because practical capability is required to measure. Option a is incorrect because late setup risks missing early data. Option b is incorrect because no owners means no accountability. Option c is incorrect because poor data undermines measurement.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-009",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "In a value-driven network modernization in retail where benefits need proof and benefit owners are changing, what should the project manager do to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "test the measurement process before go-live"
+      },
+      {
+        "id": "b",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "c",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "d",
+        "label": "delay measurement setup until after launch"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because testing avoids surprises. Option b is incorrect because irrelevant metrics mislead value tracking. Option c is incorrect because informal tracking is unreliable. Option d is incorrect because late setup risks missing early data.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-010",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "Given a predictive omnichannel launch in retail where customers expect quick wins and a pilot launch is close, which action best supports verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "b",
+        "label": "report benefit metrics to stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "d",
+        "label": "choose metrics unrelated to stated benefits"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility supports decisions. Option a is incorrect because no owners means no accountability. Option c is incorrect because poor data undermines measurement. Option d is incorrect because irrelevant metrics mislead value tracking.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-011",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "While facing a predictive network modernization in edtech where multiple sponsors want outcomes and a benefits review is upcoming, what is the most effective next step to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "b",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "c",
+        "label": "define KPIs, baselines, and data sources for benefits"
+      },
+      {
+        "id": "d",
+        "label": "collect data without owners"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because measurement needs clear definitions. Option a is incorrect because informal tracking is unreliable. Option b is incorrect because late setup risks missing early data. Option d is incorrect because no owners means no accountability.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-012",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "For a predictive omnichannel launch in public sector where customers expect quick wins and budget is gated, what should the project manager do first to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "b",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "c",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "d",
+        "label": "set collection cadence and responsibilities"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because assigned cadence keeps data flowing. Option a is incorrect because poor data undermines measurement. Option b is incorrect because irrelevant metrics mislead value tracking. Option c is incorrect because informal tracking is unreliable.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-013",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "In a predictive digital services in insurance where funding depends on value and benefit owners are changing, what should the project manager do to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ensure tools and access exist to gather data"
+      },
+      {
+        "id": "b",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "c",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "d",
+        "label": "ignore data quality"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because practical capability is required to measure. Option b is incorrect because late setup risks missing early data. Option c is incorrect because no owners means no accountability. Option d is incorrect because poor data undermines measurement.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-014",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "Given a agile network modernization in edtech where benefits need proof and benefit owners are changing, which action best supports verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "b",
+        "label": "test the measurement process before go-live"
+      },
+      {
+        "id": "c",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "d",
+        "label": "delay measurement setup until after launch"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because testing avoids surprises. Option a is incorrect because irrelevant metrics mislead value tracking. Option c is incorrect because informal tracking is unreliable. Option d is incorrect because late setup risks missing early data.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-015",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "While facing a agile digital services in telecom where operations needs ROI clarity and executives demand evidence, what is the most effective next step to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "b",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "c",
+        "label": "report benefit metrics to stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "choose metrics unrelated to stated benefits"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility supports decisions. Option a is incorrect because no owners means no accountability. Option b is incorrect because poor data undermines measurement. Option d is incorrect because irrelevant metrics mislead value tracking.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-016",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "For a agile digital services in retail where benefits need proof and benefit owners are changing, what should the project manager do first to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "b",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "c",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "d",
+        "label": "define KPIs, baselines, and data sources for benefits"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because measurement needs clear definitions. Option a is incorrect because informal tracking is unreliable. Option b is incorrect because late setup risks missing early data. Option c is incorrect because no owners means no accountability.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-017",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "In a agile learning platform in public sector where multiple sponsors want outcomes and a pilot launch is close, what should the project manager do to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set collection cadence and responsibilities"
+      },
+      {
+        "id": "b",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "c",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "d",
+        "label": "track benefits informally without definitions"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because assigned cadence keeps data flowing. Option b is incorrect because poor data undermines measurement. Option c is incorrect because irrelevant metrics mislead value tracking. Option d is incorrect because informal tracking is unreliable.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-018",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "Given a agile digital services in insurance where customers expect quick wins and a pilot launch is close, which action best supports verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "b",
+        "label": "ensure tools and access exist to gather data"
+      },
+      {
+        "id": "c",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "d",
+        "label": "ignore data quality"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because practical capability is required to measure. Option a is incorrect because late setup risks missing early data. Option c is incorrect because no owners means no accountability. Option d is incorrect because poor data undermines measurement.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-019",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "While facing a vendor-led omnichannel launch in public sector where funding depends on value and budget is gated, what is the most effective next step to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "b",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "c",
+        "label": "test the measurement process before go-live"
+      },
+      {
+        "id": "d",
+        "label": "delay measurement setup until after launch"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because testing avoids surprises. Option a is incorrect because irrelevant metrics mislead value tracking. Option b is incorrect because informal tracking is unreliable. Option d is incorrect because late setup risks missing early data.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-020",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "For a predictive claims automation in public sector where operations needs ROI clarity and a benefits review is upcoming, what should the project manager do first to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "b",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "c",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "d",
+        "label": "report benefit metrics to stakeholders"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility supports decisions. Option a is incorrect because no owners means no accountability. Option b is incorrect because poor data undermines measurement. Option c is incorrect because irrelevant metrics mislead value tracking.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-021",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "In a hybrid network modernization in insurance where operations needs ROI clarity and a pilot launch is close, what should the project manager do to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "define KPIs, baselines, and data sources for benefits"
+      },
+      {
+        "id": "b",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "c",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "d",
+        "label": "collect data without owners"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because measurement needs clear definitions. Option b is incorrect because informal tracking is unreliable. Option c is incorrect because late setup risks missing early data. Option d is incorrect because no owners means no accountability.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-022",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "Given a predictive learning platform in retail where multiple sponsors want outcomes and a benefits review is upcoming, which action best supports verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "b",
+        "label": "set collection cadence and responsibilities"
+      },
+      {
+        "id": "c",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "d",
+        "label": "track benefits informally without definitions"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because assigned cadence keeps data flowing. Option a is incorrect because poor data undermines measurement. Option c is incorrect because irrelevant metrics mislead value tracking. Option d is incorrect because informal tracking is unreliable.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-023",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "While facing a agile learning platform in retail where operations needs ROI clarity and executives demand evidence, what is the most effective next step to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "b",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "c",
+        "label": "ensure tools and access exist to gather data"
+      },
+      {
+        "id": "d",
+        "label": "ignore data quality"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because practical capability is required to measure. Option a is incorrect because late setup risks missing early data. Option b is incorrect because no owners means no accountability. Option d is incorrect because poor data undermines measurement.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "monitor-and-control-project-work",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-024",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "For a vendor-led claims automation in insurance where operations needs ROI clarity and executives demand evidence, what should the project manager do first to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose metrics unrelated to stated benefits"
+      },
+      {
+        "id": "b",
+        "label": "track benefits informally without definitions"
+      },
+      {
+        "id": "c",
+        "label": "delay measurement setup until after launch"
+      },
+      {
+        "id": "d",
+        "label": "test the measurement process before go-live"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because testing avoids surprises. Option a is incorrect because irrelevant metrics mislead value tracking. Option b is incorrect because informal tracking is unreliable. Option c is incorrect because late setup risks missing early data.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-2-4-025",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-4"
+    ],
+    "text": "In a predictive claims automation in retail where benefits need proof and a benefits review is upcoming, what should the project manager do to verify a measurement system is in place to track benefits?",
+    "options": [
+      {
+        "id": "a",
+        "label": "report benefit metrics to stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "collect data without owners"
+      },
+      {
+        "id": "c",
+        "label": "ignore data quality"
+      },
+      {
+        "id": "d",
+        "label": "choose metrics unrelated to stated benefits"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility supports decisions. Option b is incorrect because no owners means no accountability. Option c is incorrect because poor data undermines measurement. Option d is incorrect because irrelevant metrics mislead value tracking.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "measurement"
+    ],
+    "process": "manage-project-knowledge",
+    "knowledgeAreaId": "integration"
+  }
+]

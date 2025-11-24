@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-4-2-001",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "In a federated clinical workflow redesign in utilities where new ways of working are introduced and executives want adoption, what should the project manager do to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "analyze how restructures affect roles, decisions, and resources"
+      },
+      {
+        "id": "b",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "c",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "d",
+        "label": "assume roles stay the same"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because impacts must be understood to adapt. Option b is incorrect because ignoring changes risks misalignment. Option c is incorrect because late reaction increases risk. Option d is incorrect because roles often shift in org change.",
+    "difficulty": "easy",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-002",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "Given a federated clinical workflow redesign in utilities where change fatigue exists and a major launch is near, which action best supports evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "b",
+        "label": "update plans and RACI based on new org structures"
+      },
+      {
+        "id": "c",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "d",
+        "label": "ignore organizational changes"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because plans must reflect organizational reality. Option a is incorrect because lack of communication creates uncertainty. Option c is incorrect because rigidity conflicts with new reality. Option d is incorrect because ignoring changes risks misalignment.",
+    "difficulty": "easy",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-003",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "While facing a federated clinical workflow redesign in fintech where culture is shifting and support teams need readiness, what is the most effective next step to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "b",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "c",
+        "label": "communicate changes and what they mean for the project"
+      },
+      {
+        "id": "d",
+        "label": "avoid communicating changes to avoid concern"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because clarity reduces confusion. Option a is incorrect because late reaction increases risk. Option b is incorrect because roles often shift in org change. Option d is incorrect because lack of communication creates uncertainty.",
+    "difficulty": "easy",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-004",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "For a predictive ERP rollout in public sector where leadership is restructuring and unions and HR are involved, what should the project manager do first to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "b",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "c",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "d",
+        "label": "reconfirm sponsorship and authority"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because support and authority may shift. Option a is incorrect because rigidity conflicts with new reality. Option b is incorrect because ignoring changes risks misalignment. Option c is incorrect because late reaction increases risk.",
+    "difficulty": "easy",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-005",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "In a predictive ERP rollout in consulting where culture is shifting and stakeholders are wary, what should the project manager do to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "adjust engagement strategies for new stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "c",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "d",
+        "label": "refuse to adjust plans"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because new stakeholders need tailored engagement. Option b is incorrect because roles often shift in org change. Option c is incorrect because lack of communication creates uncertainty. Option d is incorrect because rigidity conflicts with new reality.",
+    "difficulty": "easy",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-006",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "Given a program ERP rollout in consulting where new ways of working are introduced and a major launch is near, which action best supports evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "b",
+        "label": "analyze how restructures affect roles, decisions, and resources"
+      },
+      {
+        "id": "c",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "d",
+        "label": "assume roles stay the same"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because impacts must be understood to adapt. Option a is incorrect because ignoring changes risks misalignment. Option c is incorrect because late reaction increases risk. Option d is incorrect because roles often shift in org change.",
+    "difficulty": "easy",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-007",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "While facing a hybrid grid operations upgrade in consulting where change fatigue exists and unions and HR are involved, what is the most effective next step to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "b",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "c",
+        "label": "update plans and RACI based on new org structures"
+      },
+      {
+        "id": "d",
+        "label": "ignore organizational changes"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because plans must reflect organizational reality. Option a is incorrect because lack of communication creates uncertainty. Option b is incorrect because rigidity conflicts with new reality. Option d is incorrect because ignoring changes risks misalignment.",
+    "difficulty": "easy",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-008",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "For a predictive policy change in consulting where teams are merging and a major launch is near, what should the project manager do first to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "b",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "c",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "d",
+        "label": "communicate changes and what they mean for the project"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because clarity reduces confusion. Option a is incorrect because late reaction increases risk. Option b is incorrect because roles often shift in org change. Option c is incorrect because lack of communication creates uncertainty.",
+    "difficulty": "easy",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-009",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "In a federated ERP rollout in consulting where new ways of working are introduced and stakeholders are wary, what should the project manager do to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "reconfirm sponsorship and authority"
+      },
+      {
+        "id": "b",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "c",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "d",
+        "label": "wait until impacts cause delays"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because support and authority may shift. Option b is incorrect because rigidity conflicts with new reality. Option c is incorrect because ignoring changes risks misalignment. Option d is incorrect because late reaction increases risk.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-010",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "Given a federated payment modernization in public sector where leadership is restructuring and unions and HR are involved, which action best supports evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "b",
+        "label": "adjust engagement strategies for new stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "d",
+        "label": "refuse to adjust plans"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because new stakeholders need tailored engagement. Option a is incorrect because roles often shift in org change. Option c is incorrect because lack of communication creates uncertainty. Option d is incorrect because rigidity conflicts with new reality.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-011",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "While facing a predictive ERP rollout in utilities where change fatigue exists and a major launch is near, what is the most effective next step to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "b",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "c",
+        "label": "analyze how restructures affect roles, decisions, and resources"
+      },
+      {
+        "id": "d",
+        "label": "assume roles stay the same"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because impacts must be understood to adapt. Option a is incorrect because ignoring changes risks misalignment. Option b is incorrect because late reaction increases risk. Option d is incorrect because roles often shift in org change.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-012",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "For a predictive grid operations upgrade in consulting where new ways of working are introduced and executives want adoption, what should the project manager do first to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "b",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "c",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "d",
+        "label": "update plans and RACI based on new org structures"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because plans must reflect organizational reality. Option a is incorrect because lack of communication creates uncertainty. Option b is incorrect because rigidity conflicts with new reality. Option c is incorrect because ignoring changes risks misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-013",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "In a federated grid operations upgrade in public sector where culture is shifting and a major launch is near, what should the project manager do to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "communicate changes and what they mean for the project"
+      },
+      {
+        "id": "b",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "c",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "d",
+        "label": "avoid communicating changes to avoid concern"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clarity reduces confusion. Option b is incorrect because late reaction increases risk. Option c is incorrect because roles often shift in org change. Option d is incorrect because lack of communication creates uncertainty.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-014",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "Given a predictive payment modernization in utilities where leadership is restructuring and unions and HR are involved, which action best supports evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "b",
+        "label": "reconfirm sponsorship and authority"
+      },
+      {
+        "id": "c",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "d",
+        "label": "wait until impacts cause delays"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because support and authority may shift. Option a is incorrect because rigidity conflicts with new reality. Option c is incorrect because ignoring changes risks misalignment. Option d is incorrect because late reaction increases risk.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-015",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "While facing a program policy change in public sector where new ways of working are introduced and executives want adoption, what is the most effective next step to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "b",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "c",
+        "label": "adjust engagement strategies for new stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "refuse to adjust plans"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because new stakeholders need tailored engagement. Option a is incorrect because roles often shift in org change. Option b is incorrect because lack of communication creates uncertainty. Option d is incorrect because rigidity conflicts with new reality.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-016",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "For a program ERP rollout in healthcare where leadership is restructuring and support teams need readiness, what should the project manager do first to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "b",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "c",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "d",
+        "label": "analyze how restructures affect roles, decisions, and resources"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because impacts must be understood to adapt. Option a is incorrect because ignoring changes risks misalignment. Option b is incorrect because late reaction increases risk. Option c is incorrect because roles often shift in org change.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-017",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "In a predictive ERP rollout in healthcare where teams are merging and unions and HR are involved, what should the project manager do to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update plans and RACI based on new org structures"
+      },
+      {
+        "id": "b",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "c",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "d",
+        "label": "ignore organizational changes"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because plans must reflect organizational reality. Option b is incorrect because lack of communication creates uncertainty. Option c is incorrect because rigidity conflicts with new reality. Option d is incorrect because ignoring changes risks misalignment.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-018",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "Given a federated payment modernization in public sector where change fatigue exists and stakeholders are wary, which action best supports evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "b",
+        "label": "communicate changes and what they mean for the project"
+      },
+      {
+        "id": "c",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "d",
+        "label": "avoid communicating changes to avoid concern"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because clarity reduces confusion. Option a is incorrect because late reaction increases risk. Option c is incorrect because roles often shift in org change. Option d is incorrect because lack of communication creates uncertainty.",
+    "difficulty": "medium",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-019",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "While facing a program grid operations upgrade in consulting where leadership is restructuring and executives want adoption, what is the most effective next step to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "b",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "c",
+        "label": "reconfirm sponsorship and authority"
+      },
+      {
+        "id": "d",
+        "label": "wait until impacts cause delays"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because support and authority may shift. Option a is incorrect because rigidity conflicts with new reality. Option b is incorrect because ignoring changes risks misalignment. Option d is incorrect because late reaction increases risk.",
+    "difficulty": "hard",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-020",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "For a agile ERP rollout in utilities where culture is shifting and support teams need readiness, what should the project manager do first to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "b",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "c",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "d",
+        "label": "adjust engagement strategies for new stakeholders"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because new stakeholders need tailored engagement. Option a is incorrect because roles often shift in org change. Option b is incorrect because lack of communication creates uncertainty. Option c is incorrect because rigidity conflicts with new reality.",
+    "difficulty": "hard",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-021",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "In a hybrid payment modernization in healthcare where leadership is restructuring and executives want adoption, what should the project manager do to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "analyze how restructures affect roles, decisions, and resources"
+      },
+      {
+        "id": "b",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "c",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "d",
+        "label": "assume roles stay the same"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because impacts must be understood to adapt. Option b is incorrect because ignoring changes risks misalignment. Option c is incorrect because late reaction increases risk. Option d is incorrect because roles often shift in org change.",
+    "difficulty": "hard",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-022",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "Given a federated ERP rollout in public sector where leadership is restructuring and executives want adoption, which action best supports evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "b",
+        "label": "update plans and RACI based on new org structures"
+      },
+      {
+        "id": "c",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "d",
+        "label": "ignore organizational changes"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because plans must reflect organizational reality. Option a is incorrect because lack of communication creates uncertainty. Option c is incorrect because rigidity conflicts with new reality. Option d is incorrect because ignoring changes risks misalignment.",
+    "difficulty": "hard",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-023",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "While facing a agile grid operations upgrade in public sector where culture is shifting and stakeholders are wary, what is the most effective next step to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "b",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "c",
+        "label": "communicate changes and what they mean for the project"
+      },
+      {
+        "id": "d",
+        "label": "avoid communicating changes to avoid concern"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because clarity reduces confusion. Option a is incorrect because late reaction increases risk. Option b is incorrect because roles often shift in org change. Option d is incorrect because lack of communication creates uncertainty.",
+    "difficulty": "hard",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-024",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "For a federated policy change in utilities where change fatigue exists and executives want adoption, what should the project manager do first to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "refuse to adjust plans"
+      },
+      {
+        "id": "b",
+        "label": "ignore organizational changes"
+      },
+      {
+        "id": "c",
+        "label": "wait until impacts cause delays"
+      },
+      {
+        "id": "d",
+        "label": "reconfirm sponsorship and authority"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because support and authority may shift. Option a is incorrect because rigidity conflicts with new reality. Option b is incorrect because ignoring changes risks misalignment. Option c is incorrect because late reaction increases risk.",
+    "difficulty": "hard",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-business-4-2-025",
+    "domainId": "business",
+    "taskId": "business-4",
+    "enablerIds": [
+      "e-business-4-2"
+    ],
+    "text": "In a program ERP rollout in consulting where teams are merging and stakeholders are wary, what should the project manager do to evaluate impact of organizational change on the project and actions needed?",
+    "options": [
+      {
+        "id": "a",
+        "label": "adjust engagement strategies for new stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "assume roles stay the same"
+      },
+      {
+        "id": "c",
+        "label": "avoid communicating changes to avoid concern"
+      },
+      {
+        "id": "d",
+        "label": "refuse to adjust plans"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because new stakeholders need tailored engagement. Option b is incorrect because roles often shift in org change. Option c is incorrect because lack of communication creates uncertainty. Option d is incorrect because rigidity conflicts with new reality.",
+    "difficulty": "hard",
+    "topics": [
+      "org change",
+      "impact"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  }
+]

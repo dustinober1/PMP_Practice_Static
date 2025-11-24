@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-3-3-001",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "In a outsourced case management in banking where technology standards shift and vendors must adapt quickly, what should the project manager do to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "propose options with trade-offs and impacts"
+      },
+      {
+        "id": "b",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "c",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "d",
+        "label": "ignore alignment with strategy"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because decision makers need choices. Option b is incorrect because unilateral change bypasses governance. Option c is incorrect because single option limits informed choice. Option d is incorrect because misaligned changes harm value.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-002",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "Given a agile factory automation in manufacturing where new regulations emerge and governance asks for impact analysis, which action best supports recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "b",
+        "label": "align options with strategy and risk appetite"
+      },
+      {
+        "id": "c",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "d",
+        "label": "change scope without presenting options"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because options must fit strategic context. Option a is incorrect because options need full context. Option c is incorrect because changes must be authorized. Option d is incorrect because unilateral change bypasses governance.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-003",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "While facing a agile supply chain overhaul in banking where market competitors move fast and vendors must adapt quickly, what is the most effective next step to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "b",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "c",
+        "label": "include do-nothing or defer as a considered option"
+      },
+      {
+        "id": "d",
+        "label": "skip risk and cost implications"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because baseline options clarify decisions. Option a is incorrect because single option limits informed choice. Option b is incorrect because misaligned changes harm value. Option d is incorrect because options need full context.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-004",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "For a program-based security uplift in banking where technology standards shift and a release window is fixed, what should the project manager do first to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "b",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "c",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "d",
+        "label": "present options for governance approval"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because changes need authorization. Option a is incorrect because changes must be authorized. Option b is incorrect because unilateral change bypasses governance. Option c is incorrect because single option limits informed choice.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-005",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "In a predictive security uplift in banking where geopolitical risks rise and lead times are constrained, what should the project manager do to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update backlog or plan after selection"
+      },
+      {
+        "id": "b",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "c",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "d",
+        "label": "update backlog without approval"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because selected options require implementation. Option b is incorrect because misaligned changes harm value. Option c is incorrect because options need full context. Option d is incorrect because changes must be authorized.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-006",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "Given a program-based factory automation in banking where new regulations emerge and a release window is fixed, which action best supports recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "b",
+        "label": "propose options with trade-offs and impacts"
+      },
+      {
+        "id": "c",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "d",
+        "label": "ignore alignment with strategy"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because decision makers need choices. Option a is incorrect because unilateral change bypasses governance. Option c is incorrect because single option limits informed choice. Option d is incorrect because misaligned changes harm value.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-007",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "While facing a agile streaming platform in logistics where market competitors move fast and a release window is fixed, what is the most effective next step to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "b",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "c",
+        "label": "align options with strategy and risk appetite"
+      },
+      {
+        "id": "d",
+        "label": "change scope without presenting options"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because options must fit strategic context. Option a is incorrect because options need full context. Option b is incorrect because changes must be authorized. Option d is incorrect because unilateral change bypasses governance.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-008",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "For a program-based streaming platform in media where market competitors move fast and customers expect continuity, what should the project manager do first to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "b",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "c",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "d",
+        "label": "include do-nothing or defer as a considered option"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because baseline options clarify decisions. Option a is incorrect because single option limits informed choice. Option b is incorrect because misaligned changes harm value. Option c is incorrect because options need full context.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-009",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "In a program-based case management in public safety where technology standards shift and a release window is fixed, what should the project manager do to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "present options for governance approval"
+      },
+      {
+        "id": "b",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "c",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "d",
+        "label": "offer only one preferred option"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because changes need authorization. Option b is incorrect because changes must be authorized. Option c is incorrect because unilateral change bypasses governance. Option d is incorrect because single option limits informed choice.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-010",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "Given a program-based supply chain overhaul in logistics where technology standards shift and a release window is fixed, which action best supports recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "b",
+        "label": "update backlog or plan after selection"
+      },
+      {
+        "id": "c",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "d",
+        "label": "update backlog without approval"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because selected options require implementation. Option a is incorrect because misaligned changes harm value. Option c is incorrect because options need full context. Option d is incorrect because changes must be authorized.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-011",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "While facing a program-based streaming platform in public safety where environmental rules tighten and lead times are constrained, what is the most effective next step to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "b",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "c",
+        "label": "propose options with trade-offs and impacts"
+      },
+      {
+        "id": "d",
+        "label": "ignore alignment with strategy"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because decision makers need choices. Option a is incorrect because unilateral change bypasses governance. Option b is incorrect because single option limits informed choice. Option d is incorrect because misaligned changes harm value.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-012",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "For a agile streaming platform in public safety where technology standards shift and vendors must adapt quickly, what should the project manager do first to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "b",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "c",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "d",
+        "label": "align options with strategy and risk appetite"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because options must fit strategic context. Option a is incorrect because options need full context. Option b is incorrect because changes must be authorized. Option c is incorrect because unilateral change bypasses governance.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-013",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "In a program-based case management in banking where new regulations emerge and a release window is fixed, what should the project manager do to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "include do-nothing or defer as a considered option"
+      },
+      {
+        "id": "b",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "c",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "d",
+        "label": "skip risk and cost implications"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because baseline options clarify decisions. Option b is incorrect because single option limits informed choice. Option c is incorrect because misaligned changes harm value. Option d is incorrect because options need full context.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-014",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "Given a agile streaming platform in logistics where environmental rules tighten and lead times are constrained, which action best supports recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "b",
+        "label": "present options for governance approval"
+      },
+      {
+        "id": "c",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "d",
+        "label": "offer only one preferred option"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because changes need authorization. Option a is incorrect because changes must be authorized. Option c is incorrect because unilateral change bypasses governance. Option d is incorrect because single option limits informed choice.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-015",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "While facing a hybrid streaming platform in public safety where geopolitical risks rise and vendors must adapt quickly, what is the most effective next step to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "b",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "c",
+        "label": "update backlog or plan after selection"
+      },
+      {
+        "id": "d",
+        "label": "update backlog without approval"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because selected options require implementation. Option a is incorrect because misaligned changes harm value. Option b is incorrect because options need full context. Option d is incorrect because changes must be authorized.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-016",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "For a agile streaming platform in media where market competitors move fast and governance asks for impact analysis, what should the project manager do first to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "b",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "c",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "d",
+        "label": "propose options with trade-offs and impacts"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because decision makers need choices. Option a is incorrect because unilateral change bypasses governance. Option b is incorrect because single option limits informed choice. Option c is incorrect because misaligned changes harm value.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-017",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "In a predictive supply chain overhaul in logistics where market competitors move fast and vendors must adapt quickly, what should the project manager do to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align options with strategy and risk appetite"
+      },
+      {
+        "id": "b",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "c",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "d",
+        "label": "change scope without presenting options"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because options must fit strategic context. Option b is incorrect because options need full context. Option c is incorrect because changes must be authorized. Option d is incorrect because unilateral change bypasses governance.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-018",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "Given a agile supply chain overhaul in media where environmental rules tighten and a release window is fixed, which action best supports recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "b",
+        "label": "include do-nothing or defer as a considered option"
+      },
+      {
+        "id": "c",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "d",
+        "label": "skip risk and cost implications"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because baseline options clarify decisions. Option a is incorrect because single option limits informed choice. Option c is incorrect because misaligned changes harm value. Option d is incorrect because options need full context.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-019",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "While facing a program-based factory automation in banking where new regulations emerge and vendors must adapt quickly, what is the most effective next step to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "b",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "c",
+        "label": "present options for governance approval"
+      },
+      {
+        "id": "d",
+        "label": "offer only one preferred option"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because changes need authorization. Option a is incorrect because changes must be authorized. Option b is incorrect because unilateral change bypasses governance. Option d is incorrect because single option limits informed choice.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-020",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "For a hybrid security uplift in public safety where environmental rules tighten and a release window is fixed, what should the project manager do first to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "b",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "c",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "d",
+        "label": "update backlog or plan after selection"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because selected options require implementation. Option a is incorrect because misaligned changes harm value. Option b is incorrect because options need full context. Option c is incorrect because changes must be authorized.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-021",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "In a program-based supply chain overhaul in logistics where environmental rules tighten and a release window is fixed, what should the project manager do to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "propose options with trade-offs and impacts"
+      },
+      {
+        "id": "b",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "c",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "d",
+        "label": "ignore alignment with strategy"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because decision makers need choices. Option b is incorrect because unilateral change bypasses governance. Option c is incorrect because single option limits informed choice. Option d is incorrect because misaligned changes harm value.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-022",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "Given a program-based security uplift in media where technology standards shift and customers expect continuity, which action best supports recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "b",
+        "label": "align options with strategy and risk appetite"
+      },
+      {
+        "id": "c",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "d",
+        "label": "change scope without presenting options"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because options must fit strategic context. Option a is incorrect because options need full context. Option c is incorrect because changes must be authorized. Option d is incorrect because unilateral change bypasses governance.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-023",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "While facing a hybrid supply chain overhaul in media where market competitors move fast and vendors must adapt quickly, what is the most effective next step to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "b",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "c",
+        "label": "include do-nothing or defer as a considered option"
+      },
+      {
+        "id": "d",
+        "label": "skip risk and cost implications"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because baseline options clarify decisions. Option a is incorrect because single option limits informed choice. Option b is incorrect because misaligned changes harm value. Option d is incorrect because options need full context.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "develop-project-management-plan",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-024",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "For a hybrid streaming platform in public safety where geopolitical risks rise and lead times are constrained, what should the project manager do first to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update backlog without approval"
+      },
+      {
+        "id": "b",
+        "label": "change scope without presenting options"
+      },
+      {
+        "id": "c",
+        "label": "offer only one preferred option"
+      },
+      {
+        "id": "d",
+        "label": "present options for governance approval"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because changes need authorization. Option a is incorrect because changes must be authorized. Option b is incorrect because unilateral change bypasses governance. Option c is incorrect because single option limits informed choice.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "integration"
+  },
+  {
+    "id": "q-business-3-3-025",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-3"
+    ],
+    "text": "In a program-based factory automation in public safety where new regulations emerge and vendors must adapt quickly, what should the project manager do to recommend options for scope or backlog changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "update backlog or plan after selection"
+      },
+      {
+        "id": "b",
+        "label": "ignore alignment with strategy"
+      },
+      {
+        "id": "c",
+        "label": "skip risk and cost implications"
+      },
+      {
+        "id": "d",
+        "label": "update backlog without approval"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because selected options require implementation. Option b is incorrect because misaligned changes harm value. Option c is incorrect because options need full context. Option d is incorrect because changes must be authorized.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "options"
+    ],
+    "process": "perform-integrated-change-control",
+    "knowledgeAreaId": "integration"
+  }
+]

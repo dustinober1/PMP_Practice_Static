@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-1-6-001",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "In a agile permit system in pharma where regulators request evidence and a compliance review is scheduled, what should the project manager do to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "build a compliance plan with tasks, owners, and dates"
+      },
+      {
+        "id": "b",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "c",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "d",
+        "label": "ignore governance schedules"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured actions drive adherence. Option b is incorrect because informality risks missed steps. Option c is incorrect because leadership must ensure execution. Option d is incorrect because missing governance risks non-approval.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-002",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "Given a outsourced payments platform in government where safety standards are audited and a release is near, which action best supports determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "b",
+        "label": "prioritize controls based on risk and deadlines"
+      },
+      {
+        "id": "c",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "d",
+        "label": "leave actions informal and undocumented"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because focus ensures critical needs are met. Option a is incorrect because late action jeopardizes compliance. Option c is incorrect because vendors often own critical controls. Option d is incorrect because informality risks missed steps.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-003",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "While facing a predictive payments platform in energy where security controls must be proven and a release is near, what is the most effective next step to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "b",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "c",
+        "label": "align actions with governance and audits"
+      },
+      {
+        "id": "d",
+        "label": "defer all actions until final testing"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because coordination avoids surprises. Option a is incorrect because leadership must ensure execution. Option b is incorrect because missing governance risks non-approval. Option d is incorrect because late action jeopardizes compliance.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-004",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "For a hybrid permit system in government where regulators request evidence and stakeholders are risk-averse, what should the project manager do first to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "b",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "c",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "d",
+        "label": "coordinate with vendors for shared controls"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because external parties must align on actions. Option a is incorrect because vendors often own critical controls. Option b is incorrect because informality risks missed steps. Option c is incorrect because leadership must ensure execution.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "implement-risk-responses",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-005",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "In a predictive permit system in government where regulators request evidence and lead times for approvals are long, what should the project manager do to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "monitor progress and adjust as needed"
+      },
+      {
+        "id": "b",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "c",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "d",
+        "label": "exclude vendors from the plan"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tracking keeps the plan effective. Option b is incorrect because missing governance risks non-approval. Option c is incorrect because late action jeopardizes compliance. Option d is incorrect because vendors often own critical controls.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-006",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "Given a agile permit system in energy where strict regulations apply and stakeholders are risk-averse, which action best supports determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "b",
+        "label": "build a compliance plan with tasks, owners, and dates"
+      },
+      {
+        "id": "c",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "d",
+        "label": "ignore governance schedules"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because structured actions drive adherence. Option a is incorrect because informality risks missed steps. Option c is incorrect because leadership must ensure execution. Option d is incorrect because missing governance risks non-approval.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-007",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "While facing a outsourced clinical app in healthcare where privacy expectations are rising and a release is near, what is the most effective next step to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "b",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "c",
+        "label": "prioritize controls based on risk and deadlines"
+      },
+      {
+        "id": "d",
+        "label": "leave actions informal and undocumented"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because focus ensures critical needs are met. Option a is incorrect because late action jeopardizes compliance. Option b is incorrect because vendors often own critical controls. Option d is incorrect because informality risks missed steps.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-008",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "For a predictive permit system in healthcare where strict regulations apply and stakeholders are risk-averse, what should the project manager do first to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "b",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "c",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "d",
+        "label": "align actions with governance and audits"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because coordination avoids surprises. Option a is incorrect because leadership must ensure execution. Option b is incorrect because missing governance risks non-approval. Option c is incorrect because late action jeopardizes compliance.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "implement-risk-responses",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-009",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "In a agile data migration in pharma where security controls must be proven and new guidance just arrived, what should the project manager do to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "coordinate with vendors for shared controls"
+      },
+      {
+        "id": "b",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "c",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "d",
+        "label": "assume teams will self-manage compliance"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because external parties must align on actions. Option b is incorrect because vendors often own critical controls. Option c is incorrect because informality risks missed steps. Option d is incorrect because leadership must ensure execution.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-010",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "Given a predictive permit system in financial services where privacy expectations are rising and a compliance review is scheduled, which action best supports determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "b",
+        "label": "monitor progress and adjust as needed"
+      },
+      {
+        "id": "c",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "d",
+        "label": "exclude vendors from the plan"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because tracking keeps the plan effective. Option a is incorrect because missing governance risks non-approval. Option c is incorrect because late action jeopardizes compliance. Option d is incorrect because vendors often own critical controls.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-011",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "While facing a agile payments platform in energy where privacy expectations are rising and stakeholders are risk-averse, what is the most effective next step to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "b",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "c",
+        "label": "build a compliance plan with tasks, owners, and dates"
+      },
+      {
+        "id": "d",
+        "label": "ignore governance schedules"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because structured actions drive adherence. Option a is incorrect because informality risks missed steps. Option b is incorrect because leadership must ensure execution. Option d is incorrect because missing governance risks non-approval.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-012",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "For a vendor-led payments platform in energy where safety standards are audited and stakeholders are risk-averse, what should the project manager do first to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "b",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "c",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "d",
+        "label": "prioritize controls based on risk and deadlines"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because focus ensures critical needs are met. Option a is incorrect because late action jeopardizes compliance. Option b is incorrect because vendors often own critical controls. Option c is incorrect because informality risks missed steps.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "implement-risk-responses",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-013",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "In a outsourced permit system in healthcare where security controls must be proven and a compliance review is scheduled, what should the project manager do to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align actions with governance and audits"
+      },
+      {
+        "id": "b",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "c",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "d",
+        "label": "defer all actions until final testing"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because coordination avoids surprises. Option b is incorrect because leadership must ensure execution. Option c is incorrect because missing governance risks non-approval. Option d is incorrect because late action jeopardizes compliance.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-014",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "Given a vendor-led permit system in financial services where privacy expectations are rising and stakeholders are risk-averse, which action best supports determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "b",
+        "label": "coordinate with vendors for shared controls"
+      },
+      {
+        "id": "c",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "d",
+        "label": "assume teams will self-manage compliance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because external parties must align on actions. Option a is incorrect because vendors often own critical controls. Option c is incorrect because informality risks missed steps. Option d is incorrect because leadership must ensure execution.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-015",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "While facing a outsourced grid upgrade in pharma where privacy expectations are rising and lead times for approvals are long, what is the most effective next step to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "b",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "c",
+        "label": "monitor progress and adjust as needed"
+      },
+      {
+        "id": "d",
+        "label": "exclude vendors from the plan"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because tracking keeps the plan effective. Option a is incorrect because missing governance risks non-approval. Option b is incorrect because late action jeopardizes compliance. Option d is incorrect because vendors often own critical controls.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-016",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "For a agile grid upgrade in government where regulators request evidence and a release is near, what should the project manager do first to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "b",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "c",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "d",
+        "label": "build a compliance plan with tasks, owners, and dates"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because structured actions drive adherence. Option a is incorrect because informality risks missed steps. Option b is incorrect because leadership must ensure execution. Option c is incorrect because missing governance risks non-approval.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "implement-risk-responses",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-017",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "In a predictive permit system in energy where strict regulations apply and stakeholders are risk-averse, what should the project manager do to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "prioritize controls based on risk and deadlines"
+      },
+      {
+        "id": "b",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "c",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "d",
+        "label": "leave actions informal and undocumented"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because focus ensures critical needs are met. Option b is incorrect because late action jeopardizes compliance. Option c is incorrect because vendors often own critical controls. Option d is incorrect because informality risks missed steps.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-018",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "Given a vendor-led payments platform in financial services where security controls must be proven and lead times for approvals are long, which action best supports determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "b",
+        "label": "align actions with governance and audits"
+      },
+      {
+        "id": "c",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "d",
+        "label": "defer all actions until final testing"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because coordination avoids surprises. Option a is incorrect because leadership must ensure execution. Option c is incorrect because missing governance risks non-approval. Option d is incorrect because late action jeopardizes compliance.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-019",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "While facing a hybrid payments platform in government where safety standards are audited and stakeholders are risk-averse, what is the most effective next step to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "b",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "c",
+        "label": "coordinate with vendors for shared controls"
+      },
+      {
+        "id": "d",
+        "label": "assume teams will self-manage compliance"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because external parties must align on actions. Option a is incorrect because vendors often own critical controls. Option b is incorrect because informality risks missed steps. Option d is incorrect because leadership must ensure execution.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-020",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "For a outsourced grid upgrade in financial services where privacy expectations are rising and stakeholders are risk-averse, what should the project manager do first to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "b",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "c",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "d",
+        "label": "monitor progress and adjust as needed"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because tracking keeps the plan effective. Option a is incorrect because missing governance risks non-approval. Option b is incorrect because late action jeopardizes compliance. Option c is incorrect because vendors often own critical controls.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "implement-risk-responses",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-021",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "In a agile data migration in financial services where regulators request evidence and stakeholders are risk-averse, what should the project manager do to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "build a compliance plan with tasks, owners, and dates"
+      },
+      {
+        "id": "b",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "c",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "d",
+        "label": "ignore governance schedules"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured actions drive adherence. Option b is incorrect because informality risks missed steps. Option c is incorrect because leadership must ensure execution. Option d is incorrect because missing governance risks non-approval.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-022",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "Given a hybrid grid upgrade in healthcare where regulators request evidence and lead times for approvals are long, which action best supports determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "b",
+        "label": "prioritize controls based on risk and deadlines"
+      },
+      {
+        "id": "c",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "d",
+        "label": "leave actions informal and undocumented"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because focus ensures critical needs are met. Option a is incorrect because late action jeopardizes compliance. Option c is incorrect because vendors often own critical controls. Option d is incorrect because informality risks missed steps.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-023",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "While facing a agile payments platform in financial services where regulators request evidence and a release is near, what is the most effective next step to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "b",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "c",
+        "label": "align actions with governance and audits"
+      },
+      {
+        "id": "d",
+        "label": "defer all actions until final testing"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because coordination avoids surprises. Option a is incorrect because leadership must ensure execution. Option b is incorrect because missing governance risks non-approval. Option d is incorrect because late action jeopardizes compliance.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-024",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "For a agile permit system in financial services where privacy expectations are rising and new guidance just arrived, what should the project manager do first to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "exclude vendors from the plan"
+      },
+      {
+        "id": "b",
+        "label": "leave actions informal and undocumented"
+      },
+      {
+        "id": "c",
+        "label": "assume teams will self-manage compliance"
+      },
+      {
+        "id": "d",
+        "label": "coordinate with vendors for shared controls"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because external parties must align on actions. Option a is incorrect because vendors often own critical controls. Option b is incorrect because informality risks missed steps. Option c is incorrect because leadership must ensure execution.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "implement-risk-responses",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-6-025",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-6"
+    ],
+    "text": "In a hybrid payments platform in healthcare where regulators request evidence and new guidance just arrived, what should the project manager do to determine approach and action to address compliance needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "monitor progress and adjust as needed"
+      },
+      {
+        "id": "b",
+        "label": "ignore governance schedules"
+      },
+      {
+        "id": "c",
+        "label": "defer all actions until final testing"
+      },
+      {
+        "id": "d",
+        "label": "exclude vendors from the plan"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because tracking keeps the plan effective. Option b is incorrect because missing governance risks non-approval. Option c is incorrect because late action jeopardizes compliance. Option d is incorrect because vendors often own critical controls.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "action plan"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  }
+]

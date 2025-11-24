@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-3-1-001",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "In a outsourced case management in banking where technology standards shift and vendors must adapt quickly, what should the project manager do to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "scan for regulatory, market, and technology shifts"
+      },
+      {
+        "id": "b",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "c",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "d",
+        "label": "scan once at project start"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because scanning finds impacts early. Option b is incorrect because environments change and must be watched. Option c is incorrect because informal sources are incomplete. Option d is incorrect because ongoing scanning is needed.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-002",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "Given a agile factory automation in manufacturing where new regulations emerge and governance asks for impact analysis, which action best supports survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "b",
+        "label": "engage SMEs and vendors for horizon insights"
+      },
+      {
+        "id": "c",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "assume environment stays stable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because experts provide external awareness. Option a is incorrect because vendors can flag important shifts. Option c is incorrect because secrecy prevents planning. Option d is incorrect because environments change and must be watched.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-003",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "While facing a agile supply chain overhaul in banking where market competitors move fast and vendors must adapt quickly, what is the most effective next step to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "b",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "c",
+        "label": "set a cadence for environmental reviews"
+      },
+      {
+        "id": "d",
+        "label": "ignore vendor input"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because regular checks catch changes. Option a is incorrect because informal sources are incomplete. Option b is incorrect because ongoing scanning is needed. Option d is incorrect because vendors can flag important shifts.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-004",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "For a program-based security uplift in banking where technology standards shift and a release window is fixed, what should the project manager do first to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "c",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "d",
+        "label": "track signals in a register"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because logging enables follow-up. Option a is incorrect because secrecy prevents planning. Option b is incorrect because environments change and must be watched. Option c is incorrect because informal sources are incomplete.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-005",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "In a predictive security uplift in banking where geopolitical risks rise and lead times are constrained, what should the project manager do to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share findings with the team and sponsors"
+      },
+      {
+        "id": "b",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "c",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "d",
+        "label": "hide potential changes from stakeholders"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility enables preparedness. Option b is incorrect because ongoing scanning is needed. Option c is incorrect because vendors can flag important shifts. Option d is incorrect because secrecy prevents planning.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-006",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "Given a program-based factory automation in banking where new regulations emerge and a release window is fixed, which action best supports survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "b",
+        "label": "scan for regulatory, market, and technology shifts"
+      },
+      {
+        "id": "c",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "d",
+        "label": "scan once at project start"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because scanning finds impacts early. Option a is incorrect because environments change and must be watched. Option c is incorrect because informal sources are incomplete. Option d is incorrect because ongoing scanning is needed.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-007",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "While facing a agile streaming platform in logistics where market competitors move fast and a release window is fixed, what is the most effective next step to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "b",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "engage SMEs and vendors for horizon insights"
+      },
+      {
+        "id": "d",
+        "label": "assume environment stays stable"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because experts provide external awareness. Option a is incorrect because vendors can flag important shifts. Option b is incorrect because secrecy prevents planning. Option d is incorrect because environments change and must be watched.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-008",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "For a program-based streaming platform in media where market competitors move fast and customers expect continuity, what should the project manager do first to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "b",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "c",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "d",
+        "label": "set a cadence for environmental reviews"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because regular checks catch changes. Option a is incorrect because informal sources are incomplete. Option b is incorrect because ongoing scanning is needed. Option c is incorrect because vendors can flag important shifts.",
+    "difficulty": "easy",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-009",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "In a program-based case management in public safety where technology standards shift and a release window is fixed, what should the project manager do to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track signals in a register"
+      },
+      {
+        "id": "b",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "d",
+        "label": "rely only on informal news"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because logging enables follow-up. Option b is incorrect because secrecy prevents planning. Option c is incorrect because environments change and must be watched. Option d is incorrect because informal sources are incomplete.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-010",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "Given a program-based supply chain overhaul in logistics where technology standards shift and a release window is fixed, which action best supports survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "b",
+        "label": "share findings with the team and sponsors"
+      },
+      {
+        "id": "c",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "d",
+        "label": "hide potential changes from stakeholders"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility enables preparedness. Option a is incorrect because ongoing scanning is needed. Option c is incorrect because vendors can flag important shifts. Option d is incorrect because secrecy prevents planning.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-011",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "While facing a program-based streaming platform in public safety where environmental rules tighten and lead times are constrained, what is the most effective next step to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "b",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "c",
+        "label": "scan for regulatory, market, and technology shifts"
+      },
+      {
+        "id": "d",
+        "label": "scan once at project start"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because scanning finds impacts early. Option a is incorrect because environments change and must be watched. Option b is incorrect because informal sources are incomplete. Option d is incorrect because ongoing scanning is needed.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-012",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "For a agile streaming platform in public safety where technology standards shift and vendors must adapt quickly, what should the project manager do first to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "b",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "d",
+        "label": "engage SMEs and vendors for horizon insights"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because experts provide external awareness. Option a is incorrect because vendors can flag important shifts. Option b is incorrect because secrecy prevents planning. Option c is incorrect because environments change and must be watched.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-013",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "In a program-based case management in banking where new regulations emerge and a release window is fixed, what should the project manager do to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set a cadence for environmental reviews"
+      },
+      {
+        "id": "b",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "c",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "d",
+        "label": "ignore vendor input"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because regular checks catch changes. Option b is incorrect because informal sources are incomplete. Option c is incorrect because ongoing scanning is needed. Option d is incorrect because vendors can flag important shifts.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-014",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "Given a agile streaming platform in logistics where environmental rules tighten and lead times are constrained, which action best supports survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "track signals in a register"
+      },
+      {
+        "id": "c",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "d",
+        "label": "rely only on informal news"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because logging enables follow-up. Option a is incorrect because secrecy prevents planning. Option c is incorrect because environments change and must be watched. Option d is incorrect because informal sources are incomplete.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-015",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "While facing a hybrid streaming platform in public safety where geopolitical risks rise and vendors must adapt quickly, what is the most effective next step to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "b",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "c",
+        "label": "share findings with the team and sponsors"
+      },
+      {
+        "id": "d",
+        "label": "hide potential changes from stakeholders"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility enables preparedness. Option a is incorrect because ongoing scanning is needed. Option b is incorrect because vendors can flag important shifts. Option d is incorrect because secrecy prevents planning.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-016",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "For a agile streaming platform in media where market competitors move fast and governance asks for impact analysis, what should the project manager do first to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "b",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "c",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "d",
+        "label": "scan for regulatory, market, and technology shifts"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because scanning finds impacts early. Option a is incorrect because environments change and must be watched. Option b is incorrect because informal sources are incomplete. Option c is incorrect because ongoing scanning is needed.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-017",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "In a predictive supply chain overhaul in logistics where market competitors move fast and vendors must adapt quickly, what should the project manager do to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "engage SMEs and vendors for horizon insights"
+      },
+      {
+        "id": "b",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "c",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "assume environment stays stable"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because experts provide external awareness. Option b is incorrect because vendors can flag important shifts. Option c is incorrect because secrecy prevents planning. Option d is incorrect because environments change and must be watched.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-018",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "Given a agile supply chain overhaul in media where environmental rules tighten and a release window is fixed, which action best supports survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "b",
+        "label": "set a cadence for environmental reviews"
+      },
+      {
+        "id": "c",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "d",
+        "label": "ignore vendor input"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because regular checks catch changes. Option a is incorrect because informal sources are incomplete. Option c is incorrect because ongoing scanning is needed. Option d is incorrect because vendors can flag important shifts.",
+    "difficulty": "medium",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-019",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "While facing a program-based factory automation in banking where new regulations emerge and vendors must adapt quickly, what is the most effective next step to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "c",
+        "label": "track signals in a register"
+      },
+      {
+        "id": "d",
+        "label": "rely only on informal news"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because logging enables follow-up. Option a is incorrect because secrecy prevents planning. Option b is incorrect because environments change and must be watched. Option d is incorrect because informal sources are incomplete.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-020",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "For a hybrid security uplift in public safety where environmental rules tighten and a release window is fixed, what should the project manager do first to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "b",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "c",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "share findings with the team and sponsors"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility enables preparedness. Option a is incorrect because ongoing scanning is needed. Option b is incorrect because vendors can flag important shifts. Option c is incorrect because secrecy prevents planning.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-021",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "In a program-based supply chain overhaul in logistics where environmental rules tighten and a release window is fixed, what should the project manager do to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "scan for regulatory, market, and technology shifts"
+      },
+      {
+        "id": "b",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "c",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "d",
+        "label": "scan once at project start"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because scanning finds impacts early. Option b is incorrect because environments change and must be watched. Option c is incorrect because informal sources are incomplete. Option d is incorrect because ongoing scanning is needed.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-022",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "Given a program-based security uplift in media where technology standards shift and customers expect continuity, which action best supports survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "b",
+        "label": "engage SMEs and vendors for horizon insights"
+      },
+      {
+        "id": "c",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "assume environment stays stable"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because experts provide external awareness. Option a is incorrect because vendors can flag important shifts. Option c is incorrect because secrecy prevents planning. Option d is incorrect because environments change and must be watched.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-023",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "While facing a hybrid supply chain overhaul in media where market competitors move fast and vendors must adapt quickly, what is the most effective next step to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "b",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "c",
+        "label": "set a cadence for environmental reviews"
+      },
+      {
+        "id": "d",
+        "label": "ignore vendor input"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because regular checks catch changes. Option a is incorrect because informal sources are incomplete. Option b is incorrect because ongoing scanning is needed. Option d is incorrect because vendors can flag important shifts.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "monitor-risks",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-024",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "For a hybrid streaming platform in public safety where geopolitical risks rise and lead times are constrained, what should the project manager do first to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hide potential changes from stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "assume environment stays stable"
+      },
+      {
+        "id": "c",
+        "label": "rely only on informal news"
+      },
+      {
+        "id": "d",
+        "label": "track signals in a register"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because logging enables follow-up. Option a is incorrect because secrecy prevents planning. Option b is incorrect because environments change and must be watched. Option c is incorrect because informal sources are incomplete.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "risk"
+  },
+  {
+    "id": "q-business-3-1-025",
+    "domainId": "business",
+    "taskId": "business-3",
+    "enablerIds": [
+      "e-business-3-1"
+    ],
+    "text": "In a program-based factory automation in public safety where new regulations emerge and vendors must adapt quickly, what should the project manager do to survey external business environment changes?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share findings with the team and sponsors"
+      },
+      {
+        "id": "b",
+        "label": "scan once at project start"
+      },
+      {
+        "id": "c",
+        "label": "ignore vendor input"
+      },
+      {
+        "id": "d",
+        "label": "hide potential changes from stakeholders"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility enables preparedness. Option b is incorrect because ongoing scanning is needed. Option c is incorrect because vendors can flag important shifts. Option d is incorrect because secrecy prevents planning.",
+    "difficulty": "hard",
+    "topics": [
+      "external",
+      "scanning"
+    ],
+    "process": "identify-risks",
+    "knowledgeAreaId": "risk"
+  }
+]

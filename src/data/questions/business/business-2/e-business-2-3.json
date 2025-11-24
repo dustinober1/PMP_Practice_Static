@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-2-3-001",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "In a vendor-led network modernization in edtech where operations needs ROI clarity and executives demand evidence, what should the project manager do to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign benefit owners and get their commitment"
+      },
+      {
+        "id": "b",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "c",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "d",
+        "label": "avoid documenting ownership to stay flexible"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because ownership drives realization. Option b is incorrect because lack of ownership risks benefit loss. Option c is incorrect because project teams disband after delivery. Option d is incorrect because flexibility without clarity causes gaps.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-002",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "Given a hybrid network modernization in public sector where benefits need proof and a benefits review is upcoming, which action best supports document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "b",
+        "label": "document roles, metrics, and handover plans"
+      },
+      {
+        "id": "c",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "d",
+        "label": "leave benefit ownership unspecified"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because clarity sustains benefits after delivery. Option a is incorrect because unconfirmed owners may not act. Option c is incorrect because long-term benefits also need owners. Option d is incorrect because lack of ownership risks benefit loss.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-003",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "While facing a value-driven network modernization in retail where benefits need proof and a benefits review is upcoming, what is the most effective next step to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "b",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "c",
+        "label": "align ownership with operational leaders"
+      },
+      {
+        "id": "d",
+        "label": "assign ownership without agreement"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because operational alignment ensures continuity. Option a is incorrect because project teams disband after delivery. Option b is incorrect because flexibility without clarity causes gaps. Option d is incorrect because unconfirmed owners may not act.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-004",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "For a predictive claims automation in retail where operations needs ROI clarity and a benefits review is upcoming, what should the project manager do first to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "b",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "c",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "d",
+        "label": "confirm funding and responsibilities post-project"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because benefit sustainment needs resources. Option a is incorrect because long-term benefits also need owners. Option b is incorrect because lack of ownership risks benefit loss. Option c is incorrect because project teams disband after delivery.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-005",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "In a vendor-led claims automation in telecom where customers expect quick wins and budget is gated, what should the project manager do to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "communicate ownership in governance"
+      },
+      {
+        "id": "b",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "c",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "d",
+        "label": "focus only on short-term benefits"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility reinforces accountability. Option b is incorrect because flexibility without clarity causes gaps. Option c is incorrect because unconfirmed owners may not act. Option d is incorrect because long-term benefits also need owners.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-006",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "Given a vendor-led learning platform in retail where benefits need proof and budget is gated, which action best supports document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "b",
+        "label": "assign benefit owners and get their commitment"
+      },
+      {
+        "id": "c",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "d",
+        "label": "avoid documenting ownership to stay flexible"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because ownership drives realization. Option a is incorrect because lack of ownership risks benefit loss. Option c is incorrect because project teams disband after delivery. Option d is incorrect because flexibility without clarity causes gaps.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-007",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "While facing a hybrid omnichannel launch in retail where benefits need proof and a pilot launch is close, what is the most effective next step to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "b",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "c",
+        "label": "document roles, metrics, and handover plans"
+      },
+      {
+        "id": "d",
+        "label": "leave benefit ownership unspecified"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because clarity sustains benefits after delivery. Option a is incorrect because unconfirmed owners may not act. Option b is incorrect because long-term benefits also need owners. Option d is incorrect because lack of ownership risks benefit loss.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-008",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "For a value-driven claims automation in edtech where multiple sponsors want outcomes and a pilot launch is close, what should the project manager do first to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "b",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "c",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "d",
+        "label": "align ownership with operational leaders"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because operational alignment ensures continuity. Option a is incorrect because project teams disband after delivery. Option b is incorrect because flexibility without clarity causes gaps. Option c is incorrect because unconfirmed owners may not act.",
+    "difficulty": "easy",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-009",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "In a value-driven network modernization in retail where benefits need proof and benefit owners are changing, what should the project manager do to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "confirm funding and responsibilities post-project"
+      },
+      {
+        "id": "b",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "c",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "d",
+        "label": "assume project team keeps owning benefits"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because benefit sustainment needs resources. Option b is incorrect because long-term benefits also need owners. Option c is incorrect because lack of ownership risks benefit loss. Option d is incorrect because project teams disband after delivery.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-010",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "Given a predictive omnichannel launch in retail where customers expect quick wins and a pilot launch is close, which action best supports document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "b",
+        "label": "communicate ownership in governance"
+      },
+      {
+        "id": "c",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "d",
+        "label": "focus only on short-term benefits"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility reinforces accountability. Option a is incorrect because flexibility without clarity causes gaps. Option c is incorrect because unconfirmed owners may not act. Option d is incorrect because long-term benefits also need owners.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-011",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "While facing a predictive network modernization in edtech where multiple sponsors want outcomes and a benefits review is upcoming, what is the most effective next step to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "b",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "c",
+        "label": "assign benefit owners and get their commitment"
+      },
+      {
+        "id": "d",
+        "label": "avoid documenting ownership to stay flexible"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because ownership drives realization. Option a is incorrect because lack of ownership risks benefit loss. Option b is incorrect because project teams disband after delivery. Option d is incorrect because flexibility without clarity causes gaps.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-012",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "For a predictive omnichannel launch in public sector where customers expect quick wins and budget is gated, what should the project manager do first to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "b",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "c",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "d",
+        "label": "document roles, metrics, and handover plans"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because clarity sustains benefits after delivery. Option a is incorrect because unconfirmed owners may not act. Option b is incorrect because long-term benefits also need owners. Option c is incorrect because lack of ownership risks benefit loss.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-013",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "In a predictive digital services in insurance where funding depends on value and benefit owners are changing, what should the project manager do to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align ownership with operational leaders"
+      },
+      {
+        "id": "b",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "c",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "d",
+        "label": "assign ownership without agreement"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because operational alignment ensures continuity. Option b is incorrect because project teams disband after delivery. Option c is incorrect because flexibility without clarity causes gaps. Option d is incorrect because unconfirmed owners may not act.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-014",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "Given a agile network modernization in edtech where benefits need proof and benefit owners are changing, which action best supports document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "b",
+        "label": "confirm funding and responsibilities post-project"
+      },
+      {
+        "id": "c",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "d",
+        "label": "assume project team keeps owning benefits"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because benefit sustainment needs resources. Option a is incorrect because long-term benefits also need owners. Option c is incorrect because lack of ownership risks benefit loss. Option d is incorrect because project teams disband after delivery.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-015",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "While facing a agile digital services in telecom where operations needs ROI clarity and executives demand evidence, what is the most effective next step to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "b",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "c",
+        "label": "communicate ownership in governance"
+      },
+      {
+        "id": "d",
+        "label": "focus only on short-term benefits"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility reinforces accountability. Option a is incorrect because flexibility without clarity causes gaps. Option b is incorrect because unconfirmed owners may not act. Option d is incorrect because long-term benefits also need owners.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-016",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "For a agile digital services in retail where benefits need proof and benefit owners are changing, what should the project manager do first to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "b",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "c",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "d",
+        "label": "assign benefit owners and get their commitment"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because ownership drives realization. Option a is incorrect because lack of ownership risks benefit loss. Option b is incorrect because project teams disband after delivery. Option c is incorrect because flexibility without clarity causes gaps.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-017",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "In a agile learning platform in public sector where multiple sponsors want outcomes and a pilot launch is close, what should the project manager do to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "document roles, metrics, and handover plans"
+      },
+      {
+        "id": "b",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "c",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "d",
+        "label": "leave benefit ownership unspecified"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clarity sustains benefits after delivery. Option b is incorrect because unconfirmed owners may not act. Option c is incorrect because long-term benefits also need owners. Option d is incorrect because lack of ownership risks benefit loss.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-018",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "Given a agile digital services in insurance where customers expect quick wins and a pilot launch is close, which action best supports document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "b",
+        "label": "align ownership with operational leaders"
+      },
+      {
+        "id": "c",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "d",
+        "label": "assign ownership without agreement"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because operational alignment ensures continuity. Option a is incorrect because project teams disband after delivery. Option c is incorrect because flexibility without clarity causes gaps. Option d is incorrect because unconfirmed owners may not act.",
+    "difficulty": "medium",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-019",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "While facing a vendor-led omnichannel launch in public sector where funding depends on value and budget is gated, what is the most effective next step to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "b",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "c",
+        "label": "confirm funding and responsibilities post-project"
+      },
+      {
+        "id": "d",
+        "label": "assume project team keeps owning benefits"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because benefit sustainment needs resources. Option a is incorrect because long-term benefits also need owners. Option b is incorrect because lack of ownership risks benefit loss. Option d is incorrect because project teams disband after delivery.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-020",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "For a predictive claims automation in public sector where operations needs ROI clarity and a benefits review is upcoming, what should the project manager do first to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "b",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "c",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "d",
+        "label": "communicate ownership in governance"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility reinforces accountability. Option a is incorrect because flexibility without clarity causes gaps. Option b is incorrect because unconfirmed owners may not act. Option c is incorrect because long-term benefits also need owners.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-021",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "In a hybrid network modernization in insurance where operations needs ROI clarity and a pilot launch is close, what should the project manager do to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign benefit owners and get their commitment"
+      },
+      {
+        "id": "b",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "c",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "d",
+        "label": "avoid documenting ownership to stay flexible"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because ownership drives realization. Option b is incorrect because lack of ownership risks benefit loss. Option c is incorrect because project teams disband after delivery. Option d is incorrect because flexibility without clarity causes gaps.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-022",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "Given a predictive learning platform in retail where multiple sponsors want outcomes and a benefits review is upcoming, which action best supports document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "b",
+        "label": "document roles, metrics, and handover plans"
+      },
+      {
+        "id": "c",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "d",
+        "label": "leave benefit ownership unspecified"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because clarity sustains benefits after delivery. Option a is incorrect because unconfirmed owners may not act. Option c is incorrect because long-term benefits also need owners. Option d is incorrect because lack of ownership risks benefit loss.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-023",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "While facing a agile learning platform in retail where operations needs ROI clarity and executives demand evidence, what is the most effective next step to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "b",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "c",
+        "label": "align ownership with operational leaders"
+      },
+      {
+        "id": "d",
+        "label": "assign ownership without agreement"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because operational alignment ensures continuity. Option a is incorrect because project teams disband after delivery. Option b is incorrect because flexibility without clarity causes gaps. Option d is incorrect because unconfirmed owners may not act.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-024",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "For a vendor-led claims automation in insurance where operations needs ROI clarity and executives demand evidence, what should the project manager do first to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus only on short-term benefits"
+      },
+      {
+        "id": "b",
+        "label": "leave benefit ownership unspecified"
+      },
+      {
+        "id": "c",
+        "label": "assume project team keeps owning benefits"
+      },
+      {
+        "id": "d",
+        "label": "confirm funding and responsibilities post-project"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because benefit sustainment needs resources. Option a is incorrect because long-term benefits also need owners. Option b is incorrect because lack of ownership risks benefit loss. Option c is incorrect because project teams disband after delivery.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-business-2-3-025",
+    "domainId": "business",
+    "taskId": "business-2",
+    "enablerIds": [
+      "e-business-2-3"
+    ],
+    "text": "In a predictive claims automation in retail where benefits need proof and a benefits review is upcoming, what should the project manager do to document agreement on ownership for ongoing benefit realization?",
+    "options": [
+      {
+        "id": "a",
+        "label": "communicate ownership in governance"
+      },
+      {
+        "id": "b",
+        "label": "avoid documenting ownership to stay flexible"
+      },
+      {
+        "id": "c",
+        "label": "assign ownership without agreement"
+      },
+      {
+        "id": "d",
+        "label": "focus only on short-term benefits"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility reinforces accountability. Option b is incorrect because flexibility without clarity causes gaps. Option c is incorrect because unconfirmed owners may not act. Option d is incorrect because long-term benefits also need owners.",
+    "difficulty": "hard",
+    "topics": [
+      "benefits",
+      "ownership"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  }
+]

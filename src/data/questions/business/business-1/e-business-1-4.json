@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-business-1-4-001",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "In a agile permit system in pharma where regulators request evidence and a compliance review is scheduled, what should the project manager do to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "implement checklists, approvals, and evidence collection"
+      },
+      {
+        "id": "b",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "c",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "d",
+        "label": "exclude compliance from acceptance criteria"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured methods enforce compliance. Option b is incorrect because verbal only is unreliable. Option c is incorrect because proactive methods are needed. Option d is incorrect because lack of criteria allows noncompliance.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-002",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "Given a outsourced payments platform in government where safety standards are audited and a release is near, which action best supports use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "b",
+        "label": "schedule internal audits and readiness reviews"
+      },
+      {
+        "id": "c",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "d",
+        "label": "rely on verbal reminders only"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because audits verify control effectiveness. Option a is incorrect because evidence is often required. Option c is incorrect because inconsistency undermines compliance. Option d is incorrect because verbal only is unreliable.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-003",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "While facing a predictive payments platform in energy where security controls must be proven and a release is near, what is the most effective next step to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "b",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "c",
+        "label": "embed compliance criteria in definition of done"
+      },
+      {
+        "id": "d",
+        "label": "avoid documenting evidence to save time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because built-in checks ensure ongoing adherence. Option a is incorrect because proactive methods are needed. Option b is incorrect because lack of criteria allows noncompliance. Option d is incorrect because evidence is often required.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-004",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "For a hybrid permit system in government where regulators request evidence and stakeholders are risk-averse, what should the project manager do first to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "b",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "c",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "d",
+        "label": "use automation where possible for repeatable checks"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because automation reduces error and speeds compliance. Option a is incorrect because inconsistency undermines compliance. Option b is incorrect because verbal only is unreliable. Option c is incorrect because proactive methods are needed.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-005",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "In a predictive permit system in government where regulators request evidence and lead times for approvals are long, what should the project manager do to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "train the team on required controls"
+      },
+      {
+        "id": "b",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "c",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "d",
+        "label": "apply controls inconsistently"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because awareness improves execution. Option b is incorrect because lack of criteria allows noncompliance. Option c is incorrect because evidence is often required. Option d is incorrect because inconsistency undermines compliance.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-006",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "Given a agile permit system in energy where strict regulations apply and stakeholders are risk-averse, which action best supports use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "b",
+        "label": "implement checklists, approvals, and evidence collection"
+      },
+      {
+        "id": "c",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "d",
+        "label": "exclude compliance from acceptance criteria"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because structured methods enforce compliance. Option a is incorrect because verbal only is unreliable. Option c is incorrect because proactive methods are needed. Option d is incorrect because lack of criteria allows noncompliance.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-007",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "While facing a outsourced clinical app in healthcare where privacy expectations are rising and a release is near, what is the most effective next step to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "b",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "c",
+        "label": "schedule internal audits and readiness reviews"
+      },
+      {
+        "id": "d",
+        "label": "rely on verbal reminders only"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because audits verify control effectiveness. Option a is incorrect because evidence is often required. Option b is incorrect because inconsistency undermines compliance. Option d is incorrect because verbal only is unreliable.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-008",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "For a predictive permit system in healthcare where strict regulations apply and stakeholders are risk-averse, what should the project manager do first to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "b",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "c",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "d",
+        "label": "embed compliance criteria in definition of done"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because built-in checks ensure ongoing adherence. Option a is incorrect because proactive methods are needed. Option b is incorrect because lack of criteria allows noncompliance. Option c is incorrect because evidence is often required.",
+    "difficulty": "easy",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-009",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "In a agile data migration in pharma where security controls must be proven and new guidance just arrived, what should the project manager do to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use automation where possible for repeatable checks"
+      },
+      {
+        "id": "b",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "c",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "d",
+        "label": "wait for external audits to find gaps"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because automation reduces error and speeds compliance. Option b is incorrect because inconsistency undermines compliance. Option c is incorrect because verbal only is unreliable. Option d is incorrect because proactive methods are needed.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-010",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "Given a predictive permit system in financial services where privacy expectations are rising and a compliance review is scheduled, which action best supports use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "b",
+        "label": "train the team on required controls"
+      },
+      {
+        "id": "c",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "d",
+        "label": "apply controls inconsistently"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because awareness improves execution. Option a is incorrect because lack of criteria allows noncompliance. Option c is incorrect because evidence is often required. Option d is incorrect because inconsistency undermines compliance.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-011",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "While facing a agile payments platform in energy where privacy expectations are rising and stakeholders are risk-averse, what is the most effective next step to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "b",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "c",
+        "label": "implement checklists, approvals, and evidence collection"
+      },
+      {
+        "id": "d",
+        "label": "exclude compliance from acceptance criteria"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because structured methods enforce compliance. Option a is incorrect because verbal only is unreliable. Option b is incorrect because proactive methods are needed. Option d is incorrect because lack of criteria allows noncompliance.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-012",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "For a vendor-led payments platform in energy where safety standards are audited and stakeholders are risk-averse, what should the project manager do first to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "b",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "c",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "d",
+        "label": "schedule internal audits and readiness reviews"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because audits verify control effectiveness. Option a is incorrect because evidence is often required. Option b is incorrect because inconsistency undermines compliance. Option c is incorrect because verbal only is unreliable.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-013",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "In a outsourced permit system in healthcare where security controls must be proven and a compliance review is scheduled, what should the project manager do to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "embed compliance criteria in definition of done"
+      },
+      {
+        "id": "b",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "c",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "d",
+        "label": "avoid documenting evidence to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because built-in checks ensure ongoing adherence. Option b is incorrect because proactive methods are needed. Option c is incorrect because lack of criteria allows noncompliance. Option d is incorrect because evidence is often required.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-014",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "Given a vendor-led permit system in financial services where privacy expectations are rising and stakeholders are risk-averse, which action best supports use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "b",
+        "label": "use automation where possible for repeatable checks"
+      },
+      {
+        "id": "c",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "d",
+        "label": "wait for external audits to find gaps"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because automation reduces error and speeds compliance. Option a is incorrect because inconsistency undermines compliance. Option c is incorrect because verbal only is unreliable. Option d is incorrect because proactive methods are needed.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-015",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "While facing a outsourced grid upgrade in pharma where privacy expectations are rising and lead times for approvals are long, what is the most effective next step to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "b",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "c",
+        "label": "train the team on required controls"
+      },
+      {
+        "id": "d",
+        "label": "apply controls inconsistently"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because awareness improves execution. Option a is incorrect because lack of criteria allows noncompliance. Option b is incorrect because evidence is often required. Option d is incorrect because inconsistency undermines compliance.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-016",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "For a agile grid upgrade in government where regulators request evidence and a release is near, what should the project manager do first to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "b",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "c",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "d",
+        "label": "implement checklists, approvals, and evidence collection"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because structured methods enforce compliance. Option a is incorrect because verbal only is unreliable. Option b is incorrect because proactive methods are needed. Option c is incorrect because lack of criteria allows noncompliance.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-017",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "In a predictive permit system in energy where strict regulations apply and stakeholders are risk-averse, what should the project manager do to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "schedule internal audits and readiness reviews"
+      },
+      {
+        "id": "b",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "c",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "d",
+        "label": "rely on verbal reminders only"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because audits verify control effectiveness. Option b is incorrect because evidence is often required. Option c is incorrect because inconsistency undermines compliance. Option d is incorrect because verbal only is unreliable.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-018",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "Given a vendor-led payments platform in financial services where security controls must be proven and lead times for approvals are long, which action best supports use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "b",
+        "label": "embed compliance criteria in definition of done"
+      },
+      {
+        "id": "c",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "d",
+        "label": "avoid documenting evidence to save time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because built-in checks ensure ongoing adherence. Option a is incorrect because proactive methods are needed. Option c is incorrect because lack of criteria allows noncompliance. Option d is incorrect because evidence is often required.",
+    "difficulty": "medium",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-019",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "While facing a hybrid payments platform in government where safety standards are audited and stakeholders are risk-averse, what is the most effective next step to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "b",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "c",
+        "label": "use automation where possible for repeatable checks"
+      },
+      {
+        "id": "d",
+        "label": "wait for external audits to find gaps"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because automation reduces error and speeds compliance. Option a is incorrect because inconsistency undermines compliance. Option b is incorrect because verbal only is unreliable. Option d is incorrect because proactive methods are needed.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-020",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "For a outsourced grid upgrade in financial services where privacy expectations are rising and stakeholders are risk-averse, what should the project manager do first to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "b",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "c",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "d",
+        "label": "train the team on required controls"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because awareness improves execution. Option a is incorrect because lack of criteria allows noncompliance. Option b is incorrect because evidence is often required. Option c is incorrect because inconsistency undermines compliance.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-021",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "In a agile data migration in financial services where regulators request evidence and stakeholders are risk-averse, what should the project manager do to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "implement checklists, approvals, and evidence collection"
+      },
+      {
+        "id": "b",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "c",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "d",
+        "label": "exclude compliance from acceptance criteria"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured methods enforce compliance. Option b is incorrect because verbal only is unreliable. Option c is incorrect because proactive methods are needed. Option d is incorrect because lack of criteria allows noncompliance.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-022",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "Given a hybrid grid upgrade in healthcare where regulators request evidence and lead times for approvals are long, which action best supports use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "b",
+        "label": "schedule internal audits and readiness reviews"
+      },
+      {
+        "id": "c",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "d",
+        "label": "rely on verbal reminders only"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because audits verify control effectiveness. Option a is incorrect because evidence is often required. Option c is incorrect because inconsistency undermines compliance. Option d is incorrect because verbal only is unreliable.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-023",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "While facing a agile payments platform in financial services where regulators request evidence and a release is near, what is the most effective next step to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "b",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "c",
+        "label": "embed compliance criteria in definition of done"
+      },
+      {
+        "id": "d",
+        "label": "avoid documenting evidence to save time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because built-in checks ensure ongoing adherence. Option a is incorrect because proactive methods are needed. Option b is incorrect because lack of criteria allows noncompliance. Option d is incorrect because evidence is often required.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "control-quality",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-024",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "For a agile permit system in financial services where privacy expectations are rising and new guidance just arrived, what should the project manager do first to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "apply controls inconsistently"
+      },
+      {
+        "id": "b",
+        "label": "rely on verbal reminders only"
+      },
+      {
+        "id": "c",
+        "label": "wait for external audits to find gaps"
+      },
+      {
+        "id": "d",
+        "label": "use automation where possible for repeatable checks"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because automation reduces error and speeds compliance. Option a is incorrect because inconsistency undermines compliance. Option b is incorrect because verbal only is unreliable. Option c is incorrect because proactive methods are needed.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "plan-quality-management",
+    "knowledgeAreaId": "quality"
+  },
+  {
+    "id": "q-business-1-4-025",
+    "domainId": "business",
+    "taskId": "business-1",
+    "enablerIds": [
+      "e-business-1-4"
+    ],
+    "text": "In a hybrid payments platform in healthcare where regulators request evidence and new guidance just arrived, what should the project manager do to use methods to support compliance?",
+    "options": [
+      {
+        "id": "a",
+        "label": "train the team on required controls"
+      },
+      {
+        "id": "b",
+        "label": "exclude compliance from acceptance criteria"
+      },
+      {
+        "id": "c",
+        "label": "avoid documenting evidence to save time"
+      },
+      {
+        "id": "d",
+        "label": "apply controls inconsistently"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because awareness improves execution. Option b is incorrect because lack of criteria allows noncompliance. Option c is incorrect because evidence is often required. Option d is incorrect because inconsistency undermines compliance.",
+    "difficulty": "hard",
+    "topics": [
+      "compliance",
+      "controls"
+    ],
+    "process": "manage-quality",
+    "knowledgeAreaId": "quality"
+  }
+]
