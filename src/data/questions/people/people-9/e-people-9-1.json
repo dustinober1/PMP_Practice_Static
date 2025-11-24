@@ -3,19 +3,900 @@
     "id": "q-people-9-1-001",
     "domainId": "people",
     "taskId": "people-9",
-    "enablerIds": ["e-people-9-1"],
-    "text": "Placeholder question for e-people-9-1 in people-9.",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "In a cross-functional cloud migration in healthcare where compliance reviewers want more detail and the team is mid-sprint, what should the project manager do to evaluate stakeholder engagement needs before adjusting the approach?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "run a quick stakeholder assessment to confirm interests, influence, and preferred channels"
+      },
+      {
+        "id": "b",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      },
+      {
+        "id": "c",
+        "label": "postpone engagement analysis until after the next milestone"
+      },
+      {
+        "id": "d",
+        "label": "ask only the sponsor to decide who gets updates"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it gathers the information needed to tailor engagement instead of guessing. Option b is incorrect because a one-size message ignores differing needs and may miss critical concerns. Option c is incorrect because delaying leaves needs unknown and risks misalignment growing. Option d is incorrect because relying on one view misses stakeholder-specific needs.",
+    "difficulty": "easy",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "identify-stakeholders",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-002",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Given a hybrid data platform modernization in fintech where key stakeholders disagree on visibility and the sponsor wants faster decisions, which action best helps evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      },
+      {
+        "id": "b",
+        "label": "meet priority stakeholders to understand success criteria and concerns before revising the plan"
+      },
+      {
+        "id": "c",
+        "label": "reuse the last project's engagement plan without validation"
+      },
+      {
+        "id": "d",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because it surfaces expectations directly so engagement can be designed to fit. Option a is incorrect because ignoring external stakeholders can erode support. Option c is incorrect because past plans may not fit current stakeholders or context. Option d is incorrect because different influence and interests require tailored engagement.",
+    "difficulty": "easy",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-003",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "While a cross-functional data platform modernization in manufacturing where operations wants fewer touchpoints and a regulatory deadline is four weeks away, what is the most effective next step to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit discussions to the loudest stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      },
+      {
+        "id": "c",
+        "label": "map stakeholders by impact and urgency and capture what information they need and how often"
+      },
+      {
+        "id": "d",
+        "label": "postpone engagement analysis until after the next milestone"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-9-1.",
+    "explanation": "Option c is correct because it structures the engagement needs and cadence intentionally. Option a is incorrect because it overlooks quieter but important voices and needs. Option b is incorrect because a one-size message ignores differing needs and may miss critical concerns. Option d is incorrect because delaying leaves needs unknown and risks misalignment growing.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-004",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Facing a matrixed ERP rollout in fintech where new sponsors joined mid-project and an audit is scheduled soon, what should the project manager do first to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only the sponsor to decide who gets updates"
+      },
+      {
+        "id": "b",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      },
+      {
+        "id": "c",
+        "label": "reuse the last project's engagement plan without validation"
+      },
+      {
+        "id": "d",
+        "label": "review the charter and commitments, then validate expectations with stakeholder reps"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because it aligns obligations with current expectations before changing communication. Option a is incorrect because relying on one view misses stakeholder-specific needs. Option b is incorrect because ignoring external stakeholders can erode support. Option c is incorrect because past plans may not fit current stakeholders or context.",
+    "difficulty": "easy",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-005",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "In a vendor-led cloud migration in manufacturing where key stakeholders disagree on visibility and the sponsor wants faster decisions, what should the project manager do to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "draft a lightweight persona sheet of each stakeholder's concerns and preferred formats, then validate it"
+      },
+      {
+        "id": "b",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      },
+      {
+        "id": "c",
+        "label": "limit discussions to the loudest stakeholders"
+      },
+      {
+        "id": "d",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it confirms needs and channels before delivery. Option b is incorrect because different influence and interests require tailored engagement. Option c is incorrect because it overlooks quieter but important voices and needs. Option d is incorrect because a one-size message ignores differing needs and may miss critical concerns.",
+    "difficulty": "easy",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-006",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Given a matrixed CRM rebuild in healthcare where compliance reviewers want more detail and an audit is scheduled soon, which action best helps evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "postpone engagement analysis until after the next milestone"
+      },
+      {
+        "id": "b",
+        "label": "run a quick stakeholder assessment to confirm interests, influence, and preferred channels"
+      },
+      {
+        "id": "c",
+        "label": "ask only the sponsor to decide who gets updates"
+      },
+      {
+        "id": "d",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because it gathers the information needed to tailor engagement instead of guessing. Option a is incorrect because delaying leaves needs unknown and risks misalignment growing. Option c is incorrect because relying on one view misses stakeholder-specific needs. Option d is incorrect because ignoring external stakeholders can erode support.",
+    "difficulty": "easy",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "identify-stakeholders",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-007",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "While a hybrid ERP rollout in healthcare where compliance reviewers want more detail and the team is mid-sprint, what is the most effective next step to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "reuse the last project's engagement plan without validation"
+      },
+      {
+        "id": "b",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      },
+      {
+        "id": "c",
+        "label": "meet priority stakeholders to understand success criteria and concerns before revising the plan"
+      },
+      {
+        "id": "d",
+        "label": "limit discussions to the loudest stakeholders"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because it surfaces expectations directly so engagement can be designed to fit. Option a is incorrect because past plans may not fit current stakeholders or context. Option b is incorrect because different influence and interests require tailored engagement. Option d is incorrect because it overlooks quieter but important voices and needs.",
+    "difficulty": "easy",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-008",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Facing a matrixed facility upgrade in healthcare where community reps feel unheard and the schedule buffer is nearly consumed, what should the project manager do first to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      },
+      {
+        "id": "b",
+        "label": "postpone engagement analysis until after the next milestone"
+      },
+      {
+        "id": "c",
+        "label": "ask only the sponsor to decide who gets updates"
+      },
+      {
+        "id": "d",
+        "label": "map stakeholders by impact and urgency and capture what information they need and how often"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because it structures the engagement needs and cadence intentionally. Option a is incorrect because a one-size message ignores differing needs and may miss critical concerns. Option b is incorrect because delaying leaves needs unknown and risks misalignment growing. Option c is incorrect because relying on one view misses stakeholder-specific needs.",
+    "difficulty": "easy",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-009",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "In a vendor-led facility upgrade in retail where community reps feel unheard and the team is mid-sprint, what should the project manager do to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "review the charter and commitments, then validate expectations with stakeholder reps"
+      },
+      {
+        "id": "b",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      },
+      {
+        "id": "c",
+        "label": "reuse the last project's engagement plan without validation"
+      },
+      {
+        "id": "d",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it aligns obligations with current expectations before changing communication. Option b is incorrect because ignoring external stakeholders can erode support. Option c is incorrect because past plans may not fit current stakeholders or context. Option d is incorrect because different influence and interests require tailored engagement.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-010",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Given a vendor-led cloud migration in fintech where community reps feel unheard and a regulatory deadline is four weeks away, which action best helps evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit discussions to the loudest stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "draft a lightweight persona sheet of each stakeholder's concerns and preferred formats, then validate it"
+      },
+      {
+        "id": "c",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      },
+      {
+        "id": "d",
+        "label": "postpone engagement analysis until after the next milestone"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because it confirms needs and channels before delivery. Option a is incorrect because it overlooks quieter but important voices and needs. Option c is incorrect because a one-size message ignores differing needs and may miss critical concerns. Option d is incorrect because delaying leaves needs unknown and risks misalignment growing.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-011",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "While a matrixed facility upgrade in retail where operations wants fewer touchpoints and an audit is scheduled soon, what is the most effective next step to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only the sponsor to decide who gets updates"
+      },
+      {
+        "id": "b",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      },
+      {
+        "id": "c",
+        "label": "run a quick stakeholder assessment to confirm interests, influence, and preferred channels"
+      },
+      {
+        "id": "d",
+        "label": "reuse the last project's engagement plan without validation"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because it gathers the information needed to tailor engagement instead of guessing. Option a is incorrect because relying on one view misses stakeholder-specific needs. Option b is incorrect because ignoring external stakeholders can erode support. Option d is incorrect because past plans may not fit current stakeholders or context.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "identify-stakeholders",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-012",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Facing a hybrid facility upgrade in public sector where compliance reviewers want more detail and a regulatory deadline is four weeks away, what should the project manager do first to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      },
+      {
+        "id": "b",
+        "label": "limit discussions to the loudest stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      },
+      {
+        "id": "d",
+        "label": "meet priority stakeholders to understand success criteria and concerns before revising the plan"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because it surfaces expectations directly so engagement can be designed to fit. Option a is incorrect because different influence and interests require tailored engagement. Option b is incorrect because it overlooks quieter but important voices and needs. Option c is incorrect because a one-size message ignores differing needs and may miss critical concerns.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-013",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "In a cross-functional facility upgrade in public sector where new sponsors joined mid-project and the sponsor wants faster decisions, what should the project manager do to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "map stakeholders by impact and urgency and capture what information they need and how often"
+      },
+      {
+        "id": "b",
+        "label": "postpone engagement analysis until after the next milestone"
+      },
+      {
+        "id": "c",
+        "label": "ask only the sponsor to decide who gets updates"
+      },
+      {
+        "id": "d",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it structures the engagement needs and cadence intentionally. Option b is incorrect because delaying leaves needs unknown and risks misalignment growing. Option c is incorrect because relying on one view misses stakeholder-specific needs. Option d is incorrect because ignoring external stakeholders can erode support.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-014",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Given a matrixed CRM rebuild in retail where key stakeholders disagree on visibility and the schedule buffer is nearly consumed, which action best helps evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "reuse the last project's engagement plan without validation"
+      },
+      {
+        "id": "b",
+        "label": "review the charter and commitments, then validate expectations with stakeholder reps"
+      },
+      {
+        "id": "c",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      },
+      {
+        "id": "d",
+        "label": "limit discussions to the loudest stakeholders"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because it aligns obligations with current expectations before changing communication. Option a is incorrect because past plans may not fit current stakeholders or context. Option c is incorrect because different influence and interests require tailored engagement. Option d is incorrect because it overlooks quieter but important voices and needs.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-015",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "While a distributed agile facility upgrade in fintech where compliance reviewers want more detail and the sponsor wants faster decisions, what is the most effective next step to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      },
+      {
+        "id": "b",
+        "label": "postpone engagement analysis until after the next milestone"
+      },
+      {
+        "id": "c",
+        "label": "draft a lightweight persona sheet of each stakeholder's concerns and preferred formats, then validate it"
+      },
+      {
+        "id": "d",
+        "label": "ask only the sponsor to decide who gets updates"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because it confirms needs and channels before delivery. Option a is incorrect because a one-size message ignores differing needs and may miss critical concerns. Option b is incorrect because delaying leaves needs unknown and risks misalignment growing. Option d is incorrect because relying on one view misses stakeholder-specific needs.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-016",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Facing a matrixed cloud migration in healthcare where key stakeholders disagree on visibility and the schedule buffer is nearly consumed, what should the project manager do first to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      },
+      {
+        "id": "b",
+        "label": "reuse the last project's engagement plan without validation"
+      },
+      {
+        "id": "c",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      },
+      {
+        "id": "d",
+        "label": "run a quick stakeholder assessment to confirm interests, influence, and preferred channels"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because it gathers the information needed to tailor engagement instead of guessing. Option a is incorrect because ignoring external stakeholders can erode support. Option b is incorrect because past plans may not fit current stakeholders or context. Option c is incorrect because different influence and interests require tailored engagement.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "identify-stakeholders",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-017",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "In a matrixed facility upgrade in manufacturing where compliance reviewers want more detail and the schedule buffer is nearly consumed, what should the project manager do to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "meet priority stakeholders to understand success criteria and concerns before revising the plan"
+      },
+      {
+        "id": "b",
+        "label": "limit discussions to the loudest stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      },
+      {
+        "id": "d",
+        "label": "postpone engagement analysis until after the next milestone"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it surfaces expectations directly so engagement can be designed to fit. Option b is incorrect because it overlooks quieter but important voices and needs. Option c is incorrect because a one-size message ignores differing needs and may miss critical concerns. Option d is incorrect because delaying leaves needs unknown and risks misalignment growing.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-018",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Given a cross-functional cloud migration in public sector where new sponsors joined mid-project and a regulatory deadline is four weeks away, which action best helps evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only the sponsor to decide who gets updates"
+      },
+      {
+        "id": "b",
+        "label": "map stakeholders by impact and urgency and capture what information they need and how often"
+      },
+      {
+        "id": "c",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      },
+      {
+        "id": "d",
+        "label": "reuse the last project's engagement plan without validation"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because it structures the engagement needs and cadence intentionally. Option a is incorrect because relying on one view misses stakeholder-specific needs. Option c is incorrect because ignoring external stakeholders can erode support. Option d is incorrect because past plans may not fit current stakeholders or context.",
+    "difficulty": "medium",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-019",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "While a cross-functional CRM rebuild in manufacturing where key stakeholders disagree on visibility and the team is mid-sprint, what is the most effective next step to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      },
+      {
+        "id": "b",
+        "label": "limit discussions to the loudest stakeholders"
+      },
+      {
+        "id": "c",
+        "label": "review the charter and commitments, then validate expectations with stakeholder reps"
+      },
+      {
+        "id": "d",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because it aligns obligations with current expectations before changing communication. Option a is incorrect because different influence and interests require tailored engagement. Option b is incorrect because it overlooks quieter but important voices and needs. Option d is incorrect because a one-size message ignores differing needs and may miss critical concerns.",
+    "difficulty": "hard",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-020",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Facing a matrixed data platform modernization in retail where key stakeholders disagree on visibility and the schedule buffer is nearly consumed, what should the project manager do first to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "postpone engagement analysis until after the next milestone"
+      },
+      {
+        "id": "b",
+        "label": "ask only the sponsor to decide who gets updates"
+      },
+      {
+        "id": "c",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      },
+      {
+        "id": "d",
+        "label": "draft a lightweight persona sheet of each stakeholder's concerns and preferred formats, then validate it"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because it confirms needs and channels before delivery. Option a is incorrect because delaying leaves needs unknown and risks misalignment growing. Option b is incorrect because relying on one view misses stakeholder-specific needs. Option c is incorrect because ignoring external stakeholders can erode support.",
+    "difficulty": "hard",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-021",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "In a vendor-led facility upgrade in fintech where new sponsors joined mid-project and the schedule buffer is nearly consumed, what should the project manager do to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run a quick stakeholder assessment to confirm interests, influence, and preferred channels"
+      },
+      {
+        "id": "b",
+        "label": "reuse the last project's engagement plan without validation"
+      },
+      {
+        "id": "c",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      },
+      {
+        "id": "d",
+        "label": "limit discussions to the loudest stakeholders"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it gathers the information needed to tailor engagement instead of guessing. Option b is incorrect because past plans may not fit current stakeholders or context. Option c is incorrect because different influence and interests require tailored engagement. Option d is incorrect because it overlooks quieter but important voices and needs.",
+    "difficulty": "hard",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "identify-stakeholders",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-022",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Given a matrixed facility upgrade in manufacturing where new sponsors joined mid-project and the team is mid-sprint, which action best helps evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      },
+      {
+        "id": "b",
+        "label": "meet priority stakeholders to understand success criteria and concerns before revising the plan"
+      },
+      {
+        "id": "c",
+        "label": "postpone engagement analysis until after the next milestone"
+      },
+      {
+        "id": "d",
+        "label": "ask only the sponsor to decide who gets updates"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because it surfaces expectations directly so engagement can be designed to fit. Option a is incorrect because a one-size message ignores differing needs and may miss critical concerns. Option c is incorrect because delaying leaves needs unknown and risks misalignment growing. Option d is incorrect because relying on one view misses stakeholder-specific needs.",
+    "difficulty": "hard",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "plan-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-023",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "While a distributed agile facility upgrade in healthcare where compliance reviewers want more detail and the team is mid-sprint, what is the most effective next step to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      },
+      {
+        "id": "b",
+        "label": "reuse the last project's engagement plan without validation"
+      },
+      {
+        "id": "c",
+        "label": "map stakeholders by impact and urgency and capture what information they need and how often"
+      },
+      {
+        "id": "d",
+        "label": "treat all stakeholders exactly the same to be efficient"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because it structures the engagement needs and cadence intentionally. Option a is incorrect because ignoring external stakeholders can erode support. Option b is incorrect because past plans may not fit current stakeholders or context. Option d is incorrect because different influence and interests require tailored engagement.",
+    "difficulty": "hard",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-024",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "Facing a distributed agile facility upgrade in fintech where new sponsors joined mid-project and the team is mid-sprint, what should the project manager do first to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "limit discussions to the loudest stakeholders"
+      },
+      {
+        "id": "b",
+        "label": "send the same status update to everyone to avoid missing anyone"
+      },
+      {
+        "id": "c",
+        "label": "postpone engagement analysis until after the next milestone"
+      },
+      {
+        "id": "d",
+        "label": "review the charter and commitments, then validate expectations with stakeholder reps"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because it aligns obligations with current expectations before changing communication. Option a is incorrect because it overlooks quieter but important voices and needs. Option b is incorrect because a one-size message ignores differing needs and may miss critical concerns. Option c is incorrect because delaying leaves needs unknown and risks misalignment growing.",
+    "difficulty": "hard",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "stakeholder"
+  },
+  {
+    "id": "q-people-9-1-025",
+    "domainId": "people",
+    "taskId": "people-9",
+    "enablerIds": [
+      "e-people-9-1"
+    ],
+    "text": "In a cross-functional ERP rollout in public sector where compliance reviewers want more detail and an audit is scheduled soon, what should the project manager do to evaluate stakeholder engagement needs before adjusting the approach?",
+    "options": [
+      {
+        "id": "a",
+        "label": "draft a lightweight persona sheet of each stakeholder's concerns and preferred formats, then validate it"
+      },
+      {
+        "id": "b",
+        "label": "ask only the sponsor to decide who gets updates"
+      },
+      {
+        "id": "c",
+        "label": "focus solely on team standups and assume external stakeholders will adapt"
+      },
+      {
+        "id": "d",
+        "label": "reuse the last project's engagement plan without validation"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it confirms needs and channels before delivery. Option b is incorrect because relying on one view misses stakeholder-specific needs. Option c is incorrect because ignoring external stakeholders can erode support. Option d is incorrect because past plans may not fit current stakeholders or context.",
+    "difficulty": "hard",
+    "topics": [
+      "stakeholder analysis",
+      "engagement needs"
+    ],
+    "process": "monitor-stakeholder-engagement",
+    "knowledgeAreaId": "stakeholder"
   }
 ]

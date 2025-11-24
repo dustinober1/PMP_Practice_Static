@@ -3,19 +3,900 @@
     "id": "q-people-10-1-001",
     "domainId": "people",
     "taskId": "people-10",
-    "enablerIds": ["e-people-10-1"],
-    "text": "Placeholder question for e-people-10-1 in people-10.",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "In a cross-functional compliance uplift in energy where terminology differs across units and a release cutoff is near, what should the project manager do to break down the situation to identify the root cause of the misunderstanding?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "facilitate a session to separate facts, assumptions, and where messages diverged"
+      },
+      {
+        "id": "b",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "c",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "d",
+        "label": "rewrite scope alone to avoid more debate"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it examines the situation systematically to find the root cause. Option b is incorrect because continuing without clarity risks rework and deeper conflict. Option c is incorrect because assigning blame does not uncover the actual root cause. Option d is incorrect because changing scope unilaterally may not address the misunderstanding.",
+    "difficulty": "easy",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-002",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Given a distributed agile infrastructure refresh in public sector where requirements were interpreted differently by teams and testing is blocked until alignment, which action best helps break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "b",
+        "label": "use a quick cause-and-effect analysis with the parties to pinpoint where meaning split"
+      },
+      {
+        "id": "c",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "d",
+        "label": "push the team to proceed and fix confusion later"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because structured analysis reveals the source of misunderstanding. Option a is incorrect because escalation without facts lacks credibility and resolution options. Option c is incorrect because unfocused meetings rarely reveal root causes. Option d is incorrect because continuing without clarity risks rework and deeper conflict.",
+    "difficulty": "easy",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-003",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "While a hybrid compliance uplift in pharma where handoff expectations are unclear and testing is blocked until alignment, what is the most effective next step to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "b",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "c",
+        "label": "review requirements and examples together to clarify terminology"
+      },
+      {
+        "id": "d",
+        "label": "escalate to the sponsor before analyzing the issue"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-10-1.",
+    "explanation": "Option c is correct because it checks the artifacts and language that may have caused confusion. Option a is incorrect because assigning blame does not uncover the actual root cause. Option b is incorrect because changing scope unilaterally may not address the misunderstanding. Option d is incorrect because escalation without facts lacks credibility and resolution options.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-004",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Facing a hybrid compliance uplift in pharma where requirements were interpreted differently by teams and testing is blocked until alignment, what should the project manager do first to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "b",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "c",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "d",
+        "label": "trace who heard what and when to locate the misinterpretation"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because mapping the communication path exposes the break point. Option a is incorrect because unfocused meetings rarely reveal root causes. Option b is incorrect because continuing without clarity risks rework and deeper conflict. Option c is incorrect because assigning blame does not uncover the actual root cause.",
+    "difficulty": "easy",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-005",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "In a hybrid data migration in energy where priority orders conflict and executives want clarity quickly, what should the project manager do to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "pilot a small example and compare interpretations to surface where they differ"
+      },
+      {
+        "id": "b",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "c",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "d",
+        "label": "schedule more meetings without an agenda or structure"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because testing a slice reveals the misunderstanding point. Option b is incorrect because changing scope unilaterally may not address the misunderstanding. Option c is incorrect because escalation without facts lacks credibility and resolution options. Option d is incorrect because unfocused meetings rarely reveal root causes.",
+    "difficulty": "easy",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-006",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Given a vendor-led infrastructure refresh in energy where handoff expectations are unclear and testing is blocked until alignment, which action best helps break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "b",
+        "label": "facilitate a session to separate facts, assumptions, and where messages diverged"
+      },
+      {
+        "id": "c",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "d",
+        "label": "rewrite scope alone to avoid more debate"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because it examines the situation systematically to find the root cause. Option a is incorrect because continuing without clarity risks rework and deeper conflict. Option c is incorrect because assigning blame does not uncover the actual root cause. Option d is incorrect because changing scope unilaterally may not address the misunderstanding.",
+    "difficulty": "easy",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-007",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "While a matrixed platform modernization in retail where terminology differs across units and testing is blocked until alignment, what is the most effective next step to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "b",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "c",
+        "label": "use a quick cause-and-effect analysis with the parties to pinpoint where meaning split"
+      },
+      {
+        "id": "d",
+        "label": "push the team to proceed and fix confusion later"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because structured analysis reveals the source of misunderstanding. Option a is incorrect because escalation without facts lacks credibility and resolution options. Option b is incorrect because unfocused meetings rarely reveal root causes. Option d is incorrect because continuing without clarity risks rework and deeper conflict.",
+    "difficulty": "easy",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-008",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Facing a matrixed data migration in public sector where stakeholders assume different scope boundaries and a release cutoff is near, what should the project manager do first to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "b",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "c",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "d",
+        "label": "review requirements and examples together to clarify terminology"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because it checks the artifacts and language that may have caused confusion. Option a is incorrect because assigning blame does not uncover the actual root cause. Option b is incorrect because changing scope unilaterally may not address the misunderstanding. Option c is incorrect because escalation without facts lacks credibility and resolution options.",
+    "difficulty": "easy",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-009",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "In a cross-functional data migration in retail where priority orders conflict and budget approval depends on agreement, what should the project manager do to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "trace who heard what and when to locate the misinterpretation"
+      },
+      {
+        "id": "b",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "c",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "d",
+        "label": "blame one party for not listening"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because mapping the communication path exposes the break point. Option b is incorrect because unfocused meetings rarely reveal root causes. Option c is incorrect because continuing without clarity risks rework and deeper conflict. Option d is incorrect because assigning blame does not uncover the actual root cause.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-010",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Given a hybrid platform modernization in global SaaS where terminology differs across units and a demo to customers is scheduled, which action best helps break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "b",
+        "label": "pilot a small example and compare interpretations to surface where they differ"
+      },
+      {
+        "id": "c",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "d",
+        "label": "schedule more meetings without an agenda or structure"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because testing a slice reveals the misunderstanding point. Option a is incorrect because changing scope unilaterally may not address the misunderstanding. Option c is incorrect because escalation without facts lacks credibility and resolution options. Option d is incorrect because unfocused meetings rarely reveal root causes.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-011",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "While a vendor-led mobile app in energy where requirements were interpreted differently by teams and executives want clarity quickly, what is the most effective next step to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "b",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "c",
+        "label": "facilitate a session to separate facts, assumptions, and where messages diverged"
+      },
+      {
+        "id": "d",
+        "label": "rewrite scope alone to avoid more debate"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because it examines the situation systematically to find the root cause. Option a is incorrect because continuing without clarity risks rework and deeper conflict. Option b is incorrect because assigning blame does not uncover the actual root cause. Option d is incorrect because changing scope unilaterally may not address the misunderstanding.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-012",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Facing a cross-functional compliance uplift in pharma where terminology differs across units and a release cutoff is near, what should the project manager do first to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "b",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "c",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "d",
+        "label": "use a quick cause-and-effect analysis with the parties to pinpoint where meaning split"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because structured analysis reveals the source of misunderstanding. Option a is incorrect because escalation without facts lacks credibility and resolution options. Option b is incorrect because unfocused meetings rarely reveal root causes. Option c is incorrect because continuing without clarity risks rework and deeper conflict.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-013",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "In a matrixed platform modernization in pharma where priority orders conflict and budget approval depends on agreement, what should the project manager do to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "review requirements and examples together to clarify terminology"
+      },
+      {
+        "id": "b",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "c",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "d",
+        "label": "escalate to the sponsor before analyzing the issue"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it checks the artifacts and language that may have caused confusion. Option b is incorrect because assigning blame does not uncover the actual root cause. Option c is incorrect because changing scope unilaterally may not address the misunderstanding. Option d is incorrect because escalation without facts lacks credibility and resolution options.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-014",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Given a hybrid compliance uplift in energy where handoff expectations are unclear and executives want clarity quickly, which action best helps break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "b",
+        "label": "trace who heard what and when to locate the misinterpretation"
+      },
+      {
+        "id": "c",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "d",
+        "label": "blame one party for not listening"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because mapping the communication path exposes the break point. Option a is incorrect because unfocused meetings rarely reveal root causes. Option c is incorrect because continuing without clarity risks rework and deeper conflict. Option d is incorrect because assigning blame does not uncover the actual root cause.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-015",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "While a cross-functional data migration in pharma where handoff expectations are unclear and budget approval depends on agreement, what is the most effective next step to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "b",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "c",
+        "label": "pilot a small example and compare interpretations to surface where they differ"
+      },
+      {
+        "id": "d",
+        "label": "schedule more meetings without an agenda or structure"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because testing a slice reveals the misunderstanding point. Option a is incorrect because changing scope unilaterally may not address the misunderstanding. Option b is incorrect because escalation without facts lacks credibility and resolution options. Option d is incorrect because unfocused meetings rarely reveal root causes.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-016",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Facing a cross-functional platform modernization in public sector where terminology differs across units and a release cutoff is near, what should the project manager do first to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "b",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "c",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "d",
+        "label": "facilitate a session to separate facts, assumptions, and where messages diverged"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because it examines the situation systematically to find the root cause. Option a is incorrect because continuing without clarity risks rework and deeper conflict. Option b is incorrect because assigning blame does not uncover the actual root cause. Option c is incorrect because changing scope unilaterally may not address the misunderstanding.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-017",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "In a matrixed mobile app in public sector where terminology differs across units and budget approval depends on agreement, what should the project manager do to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use a quick cause-and-effect analysis with the parties to pinpoint where meaning split"
+      },
+      {
+        "id": "b",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "c",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "d",
+        "label": "push the team to proceed and fix confusion later"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because structured analysis reveals the source of misunderstanding. Option b is incorrect because escalation without facts lacks credibility and resolution options. Option c is incorrect because unfocused meetings rarely reveal root causes. Option d is incorrect because continuing without clarity risks rework and deeper conflict.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-018",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Given a hybrid infrastructure refresh in public sector where priority orders conflict and executives want clarity quickly, which action best helps break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "b",
+        "label": "review requirements and examples together to clarify terminology"
+      },
+      {
+        "id": "c",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "d",
+        "label": "escalate to the sponsor before analyzing the issue"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because it checks the artifacts and language that may have caused confusion. Option a is incorrect because assigning blame does not uncover the actual root cause. Option c is incorrect because changing scope unilaterally may not address the misunderstanding. Option d is incorrect because escalation without facts lacks credibility and resolution options.",
+    "difficulty": "medium",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-019",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "While a vendor-led mobile app in global SaaS where terminology differs across units and executives want clarity quickly, what is the most effective next step to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "b",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "c",
+        "label": "trace who heard what and when to locate the misinterpretation"
+      },
+      {
+        "id": "d",
+        "label": "blame one party for not listening"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because mapping the communication path exposes the break point. Option a is incorrect because unfocused meetings rarely reveal root causes. Option b is incorrect because continuing without clarity risks rework and deeper conflict. Option d is incorrect because assigning blame does not uncover the actual root cause.",
+    "difficulty": "hard",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-020",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Facing a distributed agile compliance uplift in public sector where requirements were interpreted differently by teams and budget approval depends on agreement, what should the project manager do first to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "b",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "c",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "d",
+        "label": "pilot a small example and compare interpretations to surface where they differ"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because testing a slice reveals the misunderstanding point. Option a is incorrect because changing scope unilaterally may not address the misunderstanding. Option b is incorrect because escalation without facts lacks credibility and resolution options. Option c is incorrect because unfocused meetings rarely reveal root causes.",
+    "difficulty": "hard",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-021",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "In a cross-functional platform modernization in global SaaS where requirements were interpreted differently by teams and executives want clarity quickly, what should the project manager do to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "facilitate a session to separate facts, assumptions, and where messages diverged"
+      },
+      {
+        "id": "b",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "c",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "d",
+        "label": "rewrite scope alone to avoid more debate"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because it examines the situation systematically to find the root cause. Option b is incorrect because continuing without clarity risks rework and deeper conflict. Option c is incorrect because assigning blame does not uncover the actual root cause. Option d is incorrect because changing scope unilaterally may not address the misunderstanding.",
+    "difficulty": "hard",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-022",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Given a distributed agile compliance uplift in energy where priority orders conflict and a release cutoff is near, which action best helps break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "b",
+        "label": "use a quick cause-and-effect analysis with the parties to pinpoint where meaning split"
+      },
+      {
+        "id": "c",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "d",
+        "label": "push the team to proceed and fix confusion later"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because structured analysis reveals the source of misunderstanding. Option a is incorrect because escalation without facts lacks credibility and resolution options. Option c is incorrect because unfocused meetings rarely reveal root causes. Option d is incorrect because continuing without clarity risks rework and deeper conflict.",
+    "difficulty": "hard",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-023",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "While a matrixed compliance uplift in energy where handoff expectations are unclear and testing is blocked until alignment, what is the most effective next step to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "b",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "c",
+        "label": "review requirements and examples together to clarify terminology"
+      },
+      {
+        "id": "d",
+        "label": "escalate to the sponsor before analyzing the issue"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because it checks the artifacts and language that may have caused confusion. Option a is incorrect because assigning blame does not uncover the actual root cause. Option b is incorrect because changing scope unilaterally may not address the misunderstanding. Option d is incorrect because escalation without facts lacks credibility and resolution options.",
+    "difficulty": "hard",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-024",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "Facing a hybrid data migration in public sector where terminology differs across units and a demo to customers is scheduled, what should the project manager do first to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "schedule more meetings without an agenda or structure"
+      },
+      {
+        "id": "b",
+        "label": "push the team to proceed and fix confusion later"
+      },
+      {
+        "id": "c",
+        "label": "blame one party for not listening"
+      },
+      {
+        "id": "d",
+        "label": "trace who heard what and when to locate the misinterpretation"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because mapping the communication path exposes the break point. Option a is incorrect because unfocused meetings rarely reveal root causes. Option b is incorrect because continuing without clarity risks rework and deeper conflict. Option c is incorrect because assigning blame does not uncover the actual root cause.",
+    "difficulty": "hard",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-1-025",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-1"
+    ],
+    "text": "In a distributed agile infrastructure refresh in retail where handoff expectations are unclear and a demo to customers is scheduled, what should the project manager do to break down the situation to identify the root cause of the misunderstanding?",
+    "options": [
+      {
+        "id": "a",
+        "label": "pilot a small example and compare interpretations to surface where they differ"
+      },
+      {
+        "id": "b",
+        "label": "rewrite scope alone to avoid more debate"
+      },
+      {
+        "id": "c",
+        "label": "escalate to the sponsor before analyzing the issue"
+      },
+      {
+        "id": "d",
+        "label": "schedule more meetings without an agenda or structure"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because testing a slice reveals the misunderstanding point. Option b is incorrect because changing scope unilaterally may not address the misunderstanding. Option c is incorrect because escalation without facts lacks credibility and resolution options. Option d is incorrect because unfocused meetings rarely reveal root causes.",
+    "difficulty": "hard",
+    "topics": [
+      "root cause",
+      "misunderstanding"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
   }
 ]

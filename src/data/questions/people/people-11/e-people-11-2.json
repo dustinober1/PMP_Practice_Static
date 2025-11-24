@@ -3,19 +3,900 @@
     "id": "q-people-11-2-001",
     "domainId": "people",
     "taskId": "people-11",
-    "enablerIds": ["e-people-11-2"],
-    "text": "Placeholder question for e-people-11-2 in people-11.",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "In a hybrid remote customer portal refresh in energy where cultural norms differ across locations and team morale is slipping, what should the project manager do to investigate alternatives for virtual team engagement?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "pilot collaboration tools (async video, whiteboards) with the team to see what works"
+      },
+      {
+        "id": "b",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "c",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "d",
+        "label": "cancel collaboration until travel budget appears"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because testing options with users finds effective tools. Option b is incorrect because poor tools keep engagement low. Option c is incorrect because unvetted tools can create resistance or risk. Option d is incorrect because waiting stalls progress and engagement.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-002",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Given a outsourced delivery product launch in government services where the team spans five time zones and a release is planned in two sprints, which action best helps investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "b",
+        "label": "compare tools for access, security, and usability before choosing"
+      },
+      {
+        "id": "c",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "d",
+        "label": "stick with the current failing tool to avoid change"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because evaluating alternatives prevents adoption issues. Option a is incorrect because lack of structure causes gaps for virtual members. Option c is incorrect because unsuitable cadence reduces participation. Option d is incorrect because poor tools keep engagement low.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-003",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "While a fully remote agile data center exit in government services where no shared overlap hours and budget for travel is limited, what is the most effective next step to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "b",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "c",
+        "label": "consider short colocation or kickoff to build rapport if feasible"
+      },
+      {
+        "id": "d",
+        "label": "rely on ad-hoc chats with no documentation"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-11-2.",
+    "explanation": "Option c is correct because face time or structured alternatives improve engagement. Option a is incorrect because unvetted tools can create resistance or risk. Option b is incorrect because waiting stalls progress and engagement. Option d is incorrect because lack of structure causes gaps for virtual members.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-004",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Facing a hybrid remote regulatory compliance project in pharma where language barriers create confusion and a release is planned in two sprints, what should the project manager do first to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "b",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "c",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "d",
+        "label": "define async protocols for those with limited overlap"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because clear alternatives keep collaboration flowing without meetings. Option a is incorrect because unsuitable cadence reduces participation. Option b is incorrect because poor tools keep engagement low. Option c is incorrect because unvetted tools can create resistance or risk.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-005",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "In a outsourced delivery customer portal refresh in government services where cultural norms differ across locations and a critical demo is in one week, what should the project manager do to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "provide translation or language support options for virtual sessions"
+      },
+      {
+        "id": "b",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "c",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "d",
+        "label": "insist on daily video calls despite time-zone strain"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because addressing language needs improves inclusion. Option b is incorrect because waiting stalls progress and engagement. Option c is incorrect because lack of structure causes gaps for virtual members. Option d is incorrect because unsuitable cadence reduces participation.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-006",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Given a fully remote agile product launch in pharma where language barriers create confusion and team morale is slipping, which action best helps investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "b",
+        "label": "pilot collaboration tools (async video, whiteboards) with the team to see what works"
+      },
+      {
+        "id": "c",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "d",
+        "label": "cancel collaboration until travel budget appears"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because testing options with users finds effective tools. Option a is incorrect because poor tools keep engagement low. Option c is incorrect because unvetted tools can create resistance or risk. Option d is incorrect because waiting stalls progress and engagement.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-007",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "While a fully remote agile regulatory compliance project in energy where no shared overlap hours and a release is planned in two sprints, what is the most effective next step to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "b",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "c",
+        "label": "compare tools for access, security, and usability before choosing"
+      },
+      {
+        "id": "d",
+        "label": "stick with the current failing tool to avoid change"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because evaluating alternatives prevents adoption issues. Option a is incorrect because lack of structure causes gaps for virtual members. Option b is incorrect because unsuitable cadence reduces participation. Option d is incorrect because poor tools keep engagement low.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-008",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Facing a outsourced delivery customer portal refresh in global SaaS where connectivity is unreliable for some regions and a release is planned in two sprints, what should the project manager do first to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "b",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "c",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "d",
+        "label": "consider short colocation or kickoff to build rapport if feasible"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because face time or structured alternatives improve engagement. Option a is incorrect because unvetted tools can create resistance or risk. Option b is incorrect because waiting stalls progress and engagement. Option c is incorrect because lack of structure causes gaps for virtual members.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-009",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "In a fully remote agile product launch in pharma where the team spans five time zones and budget for travel is limited, what should the project manager do to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "define async protocols for those with limited overlap"
+      },
+      {
+        "id": "b",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "c",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "d",
+        "label": "choose a tool without consulting the team or security"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clear alternatives keep collaboration flowing without meetings. Option b is incorrect because unsuitable cadence reduces participation. Option c is incorrect because poor tools keep engagement low. Option d is incorrect because unvetted tools can create resistance or risk.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-010",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Given a virtual matrix customer portal refresh in government services where language barriers create confusion and a release is planned in two sprints, which action best helps investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "b",
+        "label": "provide translation or language support options for virtual sessions"
+      },
+      {
+        "id": "c",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "d",
+        "label": "insist on daily video calls despite time-zone strain"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because addressing language needs improves inclusion. Option a is incorrect because waiting stalls progress and engagement. Option c is incorrect because lack of structure causes gaps for virtual members. Option d is incorrect because unsuitable cadence reduces participation.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-011",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "While a hybrid remote customer portal refresh in global SaaS where no shared overlap hours and a release is planned in two sprints, what is the most effective next step to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "b",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "c",
+        "label": "pilot collaboration tools (async video, whiteboards) with the team to see what works"
+      },
+      {
+        "id": "d",
+        "label": "cancel collaboration until travel budget appears"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because testing options with users finds effective tools. Option a is incorrect because poor tools keep engagement low. Option b is incorrect because unvetted tools can create resistance or risk. Option d is incorrect because waiting stalls progress and engagement.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-012",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Facing a fully remote agile customer portal refresh in manufacturing where connectivity is unreliable for some regions and a release is planned in two sprints, what should the project manager do first to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "b",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "c",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "d",
+        "label": "compare tools for access, security, and usability before choosing"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because evaluating alternatives prevents adoption issues. Option a is incorrect because lack of structure causes gaps for virtual members. Option b is incorrect because unsuitable cadence reduces participation. Option c is incorrect because poor tools keep engagement low.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-013",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "In a hybrid remote product launch in pharma where connectivity is unreliable for some regions and budget for travel is limited, what should the project manager do to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "consider short colocation or kickoff to build rapport if feasible"
+      },
+      {
+        "id": "b",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "c",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "d",
+        "label": "rely on ad-hoc chats with no documentation"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because face time or structured alternatives improve engagement. Option b is incorrect because unvetted tools can create resistance or risk. Option c is incorrect because waiting stalls progress and engagement. Option d is incorrect because lack of structure causes gaps for virtual members.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-014",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Given a hybrid remote customer portal refresh in global SaaS where cultural norms differ across locations and a critical demo is in one week, which action best helps investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "b",
+        "label": "define async protocols for those with limited overlap"
+      },
+      {
+        "id": "c",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "d",
+        "label": "choose a tool without consulting the team or security"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because clear alternatives keep collaboration flowing without meetings. Option a is incorrect because unsuitable cadence reduces participation. Option c is incorrect because poor tools keep engagement low. Option d is incorrect because unvetted tools can create resistance or risk.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-015",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "While a follow-the-sun regulatory compliance project in energy where connectivity is unreliable for some regions and a critical demo is in one week, what is the most effective next step to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "b",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "c",
+        "label": "provide translation or language support options for virtual sessions"
+      },
+      {
+        "id": "d",
+        "label": "insist on daily video calls despite time-zone strain"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because addressing language needs improves inclusion. Option a is incorrect because waiting stalls progress and engagement. Option b is incorrect because lack of structure causes gaps for virtual members. Option d is incorrect because unsuitable cadence reduces participation.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-016",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Facing a virtual matrix customer portal refresh in energy where the team spans five time zones and a critical demo is in one week, what should the project manager do first to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "b",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "c",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "d",
+        "label": "pilot collaboration tools (async video, whiteboards) with the team to see what works"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because testing options with users finds effective tools. Option a is incorrect because poor tools keep engagement low. Option b is incorrect because unvetted tools can create resistance or risk. Option c is incorrect because waiting stalls progress and engagement.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-017",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "In a fully remote agile data center exit in pharma where the team spans five time zones and budget for travel is limited, what should the project manager do to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "compare tools for access, security, and usability before choosing"
+      },
+      {
+        "id": "b",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "c",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "d",
+        "label": "stick with the current failing tool to avoid change"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because evaluating alternatives prevents adoption issues. Option b is incorrect because lack of structure causes gaps for virtual members. Option c is incorrect because unsuitable cadence reduces participation. Option d is incorrect because poor tools keep engagement low.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-018",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Given a fully remote agile regulatory compliance project in manufacturing where the team spans five time zones and a release is planned in two sprints, which action best helps investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "b",
+        "label": "consider short colocation or kickoff to build rapport if feasible"
+      },
+      {
+        "id": "c",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "d",
+        "label": "rely on ad-hoc chats with no documentation"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because face time or structured alternatives improve engagement. Option a is incorrect because unvetted tools can create resistance or risk. Option c is incorrect because waiting stalls progress and engagement. Option d is incorrect because lack of structure causes gaps for virtual members.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-019",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "While a follow-the-sun product launch in manufacturing where the team spans five time zones and a release is planned in two sprints, what is the most effective next step to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "b",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "c",
+        "label": "define async protocols for those with limited overlap"
+      },
+      {
+        "id": "d",
+        "label": "choose a tool without consulting the team or security"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because clear alternatives keep collaboration flowing without meetings. Option a is incorrect because unsuitable cadence reduces participation. Option b is incorrect because poor tools keep engagement low. Option d is incorrect because unvetted tools can create resistance or risk.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-020",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Facing a hybrid remote regulatory compliance project in government services where cultural norms differ across locations and a release is planned in two sprints, what should the project manager do first to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "b",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "c",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "d",
+        "label": "provide translation or language support options for virtual sessions"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because addressing language needs improves inclusion. Option a is incorrect because waiting stalls progress and engagement. Option b is incorrect because lack of structure causes gaps for virtual members. Option c is incorrect because unsuitable cadence reduces participation.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-021",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "In a outsourced delivery platform upgrade in global SaaS where the team spans five time zones and a regulator meeting is scheduled, what should the project manager do to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "pilot collaboration tools (async video, whiteboards) with the team to see what works"
+      },
+      {
+        "id": "b",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "c",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "d",
+        "label": "cancel collaboration until travel budget appears"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because testing options with users finds effective tools. Option b is incorrect because poor tools keep engagement low. Option c is incorrect because unvetted tools can create resistance or risk. Option d is incorrect because waiting stalls progress and engagement.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-022",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Given a hybrid remote regulatory compliance project in pharma where connectivity is unreliable for some regions and team morale is slipping, which action best helps investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "b",
+        "label": "compare tools for access, security, and usability before choosing"
+      },
+      {
+        "id": "c",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "d",
+        "label": "stick with the current failing tool to avoid change"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because evaluating alternatives prevents adoption issues. Option a is incorrect because lack of structure causes gaps for virtual members. Option c is incorrect because unsuitable cadence reduces participation. Option d is incorrect because poor tools keep engagement low.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-023",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "While a fully remote agile platform upgrade in global SaaS where language barriers create confusion and team morale is slipping, what is the most effective next step to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "b",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "c",
+        "label": "consider short colocation or kickoff to build rapport if feasible"
+      },
+      {
+        "id": "d",
+        "label": "rely on ad-hoc chats with no documentation"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because face time or structured alternatives improve engagement. Option a is incorrect because unvetted tools can create resistance or risk. Option b is incorrect because waiting stalls progress and engagement. Option d is incorrect because lack of structure causes gaps for virtual members.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-024",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "Facing a hybrid remote product launch in government services where cultural norms differ across locations and team morale is slipping, what should the project manager do first to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "insist on daily video calls despite time-zone strain"
+      },
+      {
+        "id": "b",
+        "label": "stick with the current failing tool to avoid change"
+      },
+      {
+        "id": "c",
+        "label": "choose a tool without consulting the team or security"
+      },
+      {
+        "id": "d",
+        "label": "define async protocols for those with limited overlap"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because clear alternatives keep collaboration flowing without meetings. Option a is incorrect because unsuitable cadence reduces participation. Option b is incorrect because poor tools keep engagement low. Option c is incorrect because unvetted tools can create resistance or risk.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-2-025",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-2"
+    ],
+    "text": "In a outsourced delivery product launch in government services where cultural norms differ across locations and a release is planned in two sprints, what should the project manager do to investigate alternatives for virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "provide translation or language support options for virtual sessions"
+      },
+      {
+        "id": "b",
+        "label": "cancel collaboration until travel budget appears"
+      },
+      {
+        "id": "c",
+        "label": "rely on ad-hoc chats with no documentation"
+      },
+      {
+        "id": "d",
+        "label": "insist on daily video calls despite time-zone strain"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because addressing language needs improves inclusion. Option b is incorrect because waiting stalls progress and engagement. Option c is incorrect because lack of structure causes gaps for virtual members. Option d is incorrect because unsuitable cadence reduces participation.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual engagement",
+      "tools"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
   }
 ]

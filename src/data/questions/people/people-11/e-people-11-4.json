@@ -3,19 +3,900 @@
     "id": "q-people-11-4-001",
     "domainId": "people",
     "taskId": "people-11",
-    "enablerIds": ["e-people-11-4"],
-    "text": "Placeholder question for e-people-11-4 in people-11.",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "In a hybrid remote customer portal refresh in energy where cultural norms differ across locations and team morale is slipping, what should the project manager do to continually evaluate effectiveness of virtual team engagement?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "run retros or pulse checks on virtual collaboration and act on findings"
+      },
+      {
+        "id": "b",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "c",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "d",
+        "label": "ignore data showing low attendance"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because regular feedback surfaces effectiveness issues to fix. Option b is incorrect because silence can mask disengagement. Option c is incorrect because resisting adjustments lets problems persist. Option d is incorrect because ignoring signals leads to continued poor engagement.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-002",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Given a outsourced delivery product launch in government services where the team spans five time zones and a release is planned in two sprints, which action best helps continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "b",
+        "label": "track participation and follow up when engagement drops"
+      },
+      {
+        "id": "c",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "d",
+        "label": "assume no news means the virtual approach is fine"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because monitoring and response keep engagement healthy. Option a is incorrect because excluding team members misses real issues. Option c is incorrect because without transparency and action, evaluation loses trust. Option d is incorrect because silence can mask disengagement.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-003",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "While a fully remote agile data center exit in government services where no shared overlap hours and budget for travel is limited, what is the most effective next step to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "b",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "c",
+        "label": "review incidents of miscommunication to refine practices"
+      },
+      {
+        "id": "d",
+        "label": "ask only managers for opinions on engagement"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-11-4.",
+    "explanation": "Option c is correct because learning from issues improves effectiveness. Option a is incorrect because resisting adjustments lets problems persist. Option b is incorrect because ignoring signals leads to continued poor engagement. Option d is incorrect because excluding team members misses real issues.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-004",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Facing a hybrid remote regulatory compliance project in pharma where language barriers create confusion and a release is planned in two sprints, what should the project manager do first to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "b",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "c",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "d",
+        "label": "hold one-on-ones to hear what is working for remote members"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because direct feedback informs adjustments. Option a is incorrect because without transparency and action, evaluation loses trust. Option b is incorrect because silence can mask disengagement. Option c is incorrect because resisting adjustments lets problems persist.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-005",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "In a outsourced delivery customer portal refresh in government services where cultural norms differ across locations and a critical demo is in one week, what should the project manager do to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "iterate on working agreements based on data and feedback"
+      },
+      {
+        "id": "b",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "c",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "d",
+        "label": "run surveys but never share results"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because continuous improvement maintains effectiveness. Option b is incorrect because ignoring signals leads to continued poor engagement. Option c is incorrect because excluding team members misses real issues. Option d is incorrect because without transparency and action, evaluation loses trust.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-006",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Given a fully remote agile product launch in pharma where language barriers create confusion and team morale is slipping, which action best helps continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "b",
+        "label": "run retros or pulse checks on virtual collaboration and act on findings"
+      },
+      {
+        "id": "c",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "d",
+        "label": "ignore data showing low attendance"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because regular feedback surfaces effectiveness issues to fix. Option a is incorrect because silence can mask disengagement. Option c is incorrect because resisting adjustments lets problems persist. Option d is incorrect because ignoring signals leads to continued poor engagement.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-007",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "While a fully remote agile regulatory compliance project in energy where no shared overlap hours and a release is planned in two sprints, what is the most effective next step to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "b",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "c",
+        "label": "track participation and follow up when engagement drops"
+      },
+      {
+        "id": "d",
+        "label": "assume no news means the virtual approach is fine"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because monitoring and response keep engagement healthy. Option a is incorrect because excluding team members misses real issues. Option b is incorrect because without transparency and action, evaluation loses trust. Option d is incorrect because silence can mask disengagement.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-008",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Facing a outsourced delivery customer portal refresh in global SaaS where connectivity is unreliable for some regions and a release is planned in two sprints, what should the project manager do first to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "b",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "c",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "d",
+        "label": "review incidents of miscommunication to refine practices"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because learning from issues improves effectiveness. Option a is incorrect because resisting adjustments lets problems persist. Option b is incorrect because ignoring signals leads to continued poor engagement. Option c is incorrect because excluding team members misses real issues.",
+    "difficulty": "easy",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-009",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "In a fully remote agile product launch in pharma where the team spans five time zones and budget for travel is limited, what should the project manager do to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "hold one-on-ones to hear what is working for remote members"
+      },
+      {
+        "id": "b",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "c",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "d",
+        "label": "avoid changing anything to prevent disruption"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because direct feedback informs adjustments. Option b is incorrect because without transparency and action, evaluation loses trust. Option c is incorrect because silence can mask disengagement. Option d is incorrect because resisting adjustments lets problems persist.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-010",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Given a virtual matrix customer portal refresh in government services where language barriers create confusion and a release is planned in two sprints, which action best helps continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "b",
+        "label": "iterate on working agreements based on data and feedback"
+      },
+      {
+        "id": "c",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "d",
+        "label": "run surveys but never share results"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because continuous improvement maintains effectiveness. Option a is incorrect because ignoring signals leads to continued poor engagement. Option c is incorrect because excluding team members misses real issues. Option d is incorrect because without transparency and action, evaluation loses trust.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-011",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "While a hybrid remote customer portal refresh in global SaaS where no shared overlap hours and a release is planned in two sprints, what is the most effective next step to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "b",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "c",
+        "label": "run retros or pulse checks on virtual collaboration and act on findings"
+      },
+      {
+        "id": "d",
+        "label": "ignore data showing low attendance"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because regular feedback surfaces effectiveness issues to fix. Option a is incorrect because silence can mask disengagement. Option b is incorrect because resisting adjustments lets problems persist. Option d is incorrect because ignoring signals leads to continued poor engagement.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-012",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Facing a fully remote agile customer portal refresh in manufacturing where connectivity is unreliable for some regions and a release is planned in two sprints, what should the project manager do first to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "b",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "c",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "d",
+        "label": "track participation and follow up when engagement drops"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because monitoring and response keep engagement healthy. Option a is incorrect because excluding team members misses real issues. Option b is incorrect because without transparency and action, evaluation loses trust. Option c is incorrect because silence can mask disengagement.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-013",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "In a hybrid remote product launch in pharma where connectivity is unreliable for some regions and budget for travel is limited, what should the project manager do to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "review incidents of miscommunication to refine practices"
+      },
+      {
+        "id": "b",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "c",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "d",
+        "label": "ask only managers for opinions on engagement"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because learning from issues improves effectiveness. Option b is incorrect because resisting adjustments lets problems persist. Option c is incorrect because ignoring signals leads to continued poor engagement. Option d is incorrect because excluding team members misses real issues.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-014",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Given a hybrid remote customer portal refresh in global SaaS where cultural norms differ across locations and a critical demo is in one week, which action best helps continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "b",
+        "label": "hold one-on-ones to hear what is working for remote members"
+      },
+      {
+        "id": "c",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "d",
+        "label": "avoid changing anything to prevent disruption"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because direct feedback informs adjustments. Option a is incorrect because without transparency and action, evaluation loses trust. Option c is incorrect because silence can mask disengagement. Option d is incorrect because resisting adjustments lets problems persist.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-015",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "While a follow-the-sun regulatory compliance project in energy where connectivity is unreliable for some regions and a critical demo is in one week, what is the most effective next step to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "b",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "c",
+        "label": "iterate on working agreements based on data and feedback"
+      },
+      {
+        "id": "d",
+        "label": "run surveys but never share results"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because continuous improvement maintains effectiveness. Option a is incorrect because ignoring signals leads to continued poor engagement. Option b is incorrect because excluding team members misses real issues. Option d is incorrect because without transparency and action, evaluation loses trust.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-016",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Facing a virtual matrix customer portal refresh in energy where the team spans five time zones and a critical demo is in one week, what should the project manager do first to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "b",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "c",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "d",
+        "label": "run retros or pulse checks on virtual collaboration and act on findings"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because regular feedback surfaces effectiveness issues to fix. Option a is incorrect because silence can mask disengagement. Option b is incorrect because resisting adjustments lets problems persist. Option c is incorrect because ignoring signals leads to continued poor engagement.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-017",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "In a fully remote agile data center exit in pharma where the team spans five time zones and budget for travel is limited, what should the project manager do to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "track participation and follow up when engagement drops"
+      },
+      {
+        "id": "b",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "c",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "d",
+        "label": "assume no news means the virtual approach is fine"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because monitoring and response keep engagement healthy. Option b is incorrect because excluding team members misses real issues. Option c is incorrect because without transparency and action, evaluation loses trust. Option d is incorrect because silence can mask disengagement.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-018",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Given a fully remote agile regulatory compliance project in manufacturing where the team spans five time zones and a release is planned in two sprints, which action best helps continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "b",
+        "label": "review incidents of miscommunication to refine practices"
+      },
+      {
+        "id": "c",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "d",
+        "label": "ask only managers for opinions on engagement"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because learning from issues improves effectiveness. Option a is incorrect because resisting adjustments lets problems persist. Option c is incorrect because ignoring signals leads to continued poor engagement. Option d is incorrect because excluding team members misses real issues.",
+    "difficulty": "medium",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-019",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "While a follow-the-sun product launch in manufacturing where the team spans five time zones and a release is planned in two sprints, what is the most effective next step to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "b",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "c",
+        "label": "hold one-on-ones to hear what is working for remote members"
+      },
+      {
+        "id": "d",
+        "label": "avoid changing anything to prevent disruption"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because direct feedback informs adjustments. Option a is incorrect because without transparency and action, evaluation loses trust. Option b is incorrect because silence can mask disengagement. Option d is incorrect because resisting adjustments lets problems persist.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-020",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Facing a hybrid remote regulatory compliance project in government services where cultural norms differ across locations and a release is planned in two sprints, what should the project manager do first to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "b",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "c",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "d",
+        "label": "iterate on working agreements based on data and feedback"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because continuous improvement maintains effectiveness. Option a is incorrect because ignoring signals leads to continued poor engagement. Option b is incorrect because excluding team members misses real issues. Option c is incorrect because without transparency and action, evaluation loses trust.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-021",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "In a outsourced delivery platform upgrade in global SaaS where the team spans five time zones and a regulator meeting is scheduled, what should the project manager do to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run retros or pulse checks on virtual collaboration and act on findings"
+      },
+      {
+        "id": "b",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "c",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "d",
+        "label": "ignore data showing low attendance"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because regular feedback surfaces effectiveness issues to fix. Option b is incorrect because silence can mask disengagement. Option c is incorrect because resisting adjustments lets problems persist. Option d is incorrect because ignoring signals leads to continued poor engagement.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-022",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Given a hybrid remote regulatory compliance project in pharma where connectivity is unreliable for some regions and team morale is slipping, which action best helps continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "b",
+        "label": "track participation and follow up when engagement drops"
+      },
+      {
+        "id": "c",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "d",
+        "label": "assume no news means the virtual approach is fine"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because monitoring and response keep engagement healthy. Option a is incorrect because excluding team members misses real issues. Option c is incorrect because without transparency and action, evaluation loses trust. Option d is incorrect because silence can mask disengagement.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-023",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "While a fully remote agile platform upgrade in global SaaS where language barriers create confusion and team morale is slipping, what is the most effective next step to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "b",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "c",
+        "label": "review incidents of miscommunication to refine practices"
+      },
+      {
+        "id": "d",
+        "label": "ask only managers for opinions on engagement"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because learning from issues improves effectiveness. Option a is incorrect because resisting adjustments lets problems persist. Option b is incorrect because ignoring signals leads to continued poor engagement. Option d is incorrect because excluding team members misses real issues.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-024",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "Facing a hybrid remote product launch in government services where cultural norms differ across locations and team morale is slipping, what should the project manager do first to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run surveys but never share results"
+      },
+      {
+        "id": "b",
+        "label": "assume no news means the virtual approach is fine"
+      },
+      {
+        "id": "c",
+        "label": "avoid changing anything to prevent disruption"
+      },
+      {
+        "id": "d",
+        "label": "hold one-on-ones to hear what is working for remote members"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because direct feedback informs adjustments. Option a is incorrect because without transparency and action, evaluation loses trust. Option b is incorrect because silence can mask disengagement. Option c is incorrect because resisting adjustments lets problems persist.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-11-4-025",
+    "domainId": "people",
+    "taskId": "people-11",
+    "enablerIds": [
+      "e-people-11-4"
+    ],
+    "text": "In a outsourced delivery product launch in government services where cultural norms differ across locations and a release is planned in two sprints, what should the project manager do to continually evaluate effectiveness of virtual team engagement?",
+    "options": [
+      {
+        "id": "a",
+        "label": "iterate on working agreements based on data and feedback"
+      },
+      {
+        "id": "b",
+        "label": "ignore data showing low attendance"
+      },
+      {
+        "id": "c",
+        "label": "ask only managers for opinions on engagement"
+      },
+      {
+        "id": "d",
+        "label": "run surveys but never share results"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because continuous improvement maintains effectiveness. Option b is incorrect because ignoring signals leads to continued poor engagement. Option c is incorrect because excluding team members misses real issues. Option d is incorrect because without transparency and action, evaluation loses trust.",
+    "difficulty": "hard",
+    "topics": [
+      "virtual teams",
+      "evaluation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
   }
 ]

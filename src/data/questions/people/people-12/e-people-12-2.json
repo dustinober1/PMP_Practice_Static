@@ -3,19 +3,900 @@
     "id": "q-people-12-2-001",
     "domainId": "people",
     "taskId": "people-12",
-    "enablerIds": ["e-people-12-2"],
-    "text": "Placeholder question for e-people-12-2 in people-12.",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "In a newly formed data integration in healthcare where meeting start times slip and multiple workstreams overlap, what should the project manager do to establish an environment that fosters adherence to ground rules?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "facilitate the team in co-authoring ground rules and model them"
+      },
+      {
+        "id": "b",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "c",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "d",
+        "label": "set rules once and never revisit them"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because co-creation and modeling encourage adherence. Option b is incorrect because top-down rules reduce ownership and adherence. Option c is incorrect because inconsistent enforcement undermines norms. Option d is incorrect because stale rules stop fitting the team environment.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-002",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Given a matrixed analytics platform in edtech where some members dominate discussions and several new hires just joined, which action best helps establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "b",
+        "label": "make the rules visible and tie reminders to ceremonies"
+      },
+      {
+        "id": "c",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "d",
+        "label": "impose rules unilaterally without team input"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility and repetition reinforce norms. Option a is incorrect because public punishment harms safety and adherence. Option c is incorrect because invisible norms are hard to follow. Option d is incorrect because top-down rules reduce ownership and adherence.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-003",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "While a hybrid mobile app in public sector where some members dominate discussions and vendors are joining the team, what is the most effective next step to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "b",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "c",
+        "label": "recognize and reward behaviors that follow the rules"
+      },
+      {
+        "id": "d",
+        "label": "punish minor slips publicly"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-12-2.",
+    "explanation": "Option c is correct because positive reinforcement builds the desired environment. Option a is incorrect because inconsistent enforcement undermines norms. Option b is incorrect because stale rules stop fitting the team environment. Option d is incorrect because public punishment harms safety and adherence.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-004",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Facing a cross-functional data integration in healthcare where chat channels are noisy and unstructured and multiple workstreams overlap, what should the project manager do first to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "b",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "c",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "d",
+        "label": "ensure psychological safety so concerns about norms can be raised"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because people follow norms when they can speak up safely. Option a is incorrect because invisible norms are hard to follow. Option b is incorrect because top-down rules reduce ownership and adherence. Option c is incorrect because inconsistent enforcement undermines norms.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-005",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "In a agile analytics platform in fintech where chat channels are noisy and unstructured and key milestones are approaching, what should the project manager do to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "periodically revisit the rules to keep them relevant"
+      },
+      {
+        "id": "b",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "c",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "d",
+        "label": "bury the rules in a document no one reads"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because updating norms maintains commitment. Option b is incorrect because stale rules stop fitting the team environment. Option c is incorrect because public punishment harms safety and adherence. Option d is incorrect because invisible norms are hard to follow.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-006",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Given a cross-functional analytics platform in public sector where documentation expectations are unclear and vendors are joining the team, which action best helps establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "b",
+        "label": "facilitate the team in co-authoring ground rules and model them"
+      },
+      {
+        "id": "c",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "d",
+        "label": "set rules once and never revisit them"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because co-creation and modeling encourage adherence. Option a is incorrect because top-down rules reduce ownership and adherence. Option c is incorrect because inconsistent enforcement undermines norms. Option d is incorrect because stale rules stop fitting the team environment.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-007",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "While a hybrid process reengineering in fintech where status updates are often late and a leadership review is upcoming, what is the most effective next step to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "b",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "c",
+        "label": "make the rules visible and tie reminders to ceremonies"
+      },
+      {
+        "id": "d",
+        "label": "impose rules unilaterally without team input"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because visibility and repetition reinforce norms. Option a is incorrect because public punishment harms safety and adherence. Option b is incorrect because invisible norms are hard to follow. Option d is incorrect because top-down rules reduce ownership and adherence.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-008",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Facing a newly formed product launch in healthcare where chat channels are noisy and unstructured and vendors are joining the team, what should the project manager do first to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "b",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "c",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "d",
+        "label": "recognize and reward behaviors that follow the rules"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because positive reinforcement builds the desired environment. Option a is incorrect because inconsistent enforcement undermines norms. Option b is incorrect because stale rules stop fitting the team environment. Option c is incorrect because public punishment harms safety and adherence.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-009",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "In a hybrid data integration in retail where chat channels are noisy and unstructured and key milestones are approaching, what should the project manager do to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ensure psychological safety so concerns about norms can be raised"
+      },
+      {
+        "id": "b",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "c",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "d",
+        "label": "ignore when leaders break the rules"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because people follow norms when they can speak up safely. Option b is incorrect because invisible norms are hard to follow. Option c is incorrect because top-down rules reduce ownership and adherence. Option d is incorrect because inconsistent enforcement undermines norms.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-010",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Given a cross-functional process reengineering in edtech where documentation expectations are unclear and several new hires just joined, which action best helps establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "b",
+        "label": "periodically revisit the rules to keep them relevant"
+      },
+      {
+        "id": "c",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "d",
+        "label": "bury the rules in a document no one reads"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because updating norms maintains commitment. Option a is incorrect because stale rules stop fitting the team environment. Option c is incorrect because public punishment harms safety and adherence. Option d is incorrect because invisible norms are hard to follow.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-011",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "While a agile mobile app in public sector where meeting start times slip and a leadership review is upcoming, what is the most effective next step to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "b",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "c",
+        "label": "facilitate the team in co-authoring ground rules and model them"
+      },
+      {
+        "id": "d",
+        "label": "set rules once and never revisit them"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because co-creation and modeling encourage adherence. Option a is incorrect because top-down rules reduce ownership and adherence. Option b is incorrect because inconsistent enforcement undermines norms. Option d is incorrect because stale rules stop fitting the team environment.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-012",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Facing a hybrid process reengineering in edtech where status updates are often late and several new hires just joined, what should the project manager do first to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "b",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "c",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "d",
+        "label": "make the rules visible and tie reminders to ceremonies"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because visibility and repetition reinforce norms. Option a is incorrect because public punishment harms safety and adherence. Option b is incorrect because invisible norms are hard to follow. Option c is incorrect because top-down rules reduce ownership and adherence.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-013",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "In a cross-functional process reengineering in edtech where documentation expectations are unclear and key milestones are approaching, what should the project manager do to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "recognize and reward behaviors that follow the rules"
+      },
+      {
+        "id": "b",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "c",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "d",
+        "label": "punish minor slips publicly"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because positive reinforcement builds the desired environment. Option b is incorrect because inconsistent enforcement undermines norms. Option c is incorrect because stale rules stop fitting the team environment. Option d is incorrect because public punishment harms safety and adherence.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-014",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Given a matrixed mobile app in retail where meeting start times slip and several new hires just joined, which action best helps establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "b",
+        "label": "ensure psychological safety so concerns about norms can be raised"
+      },
+      {
+        "id": "c",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "d",
+        "label": "ignore when leaders break the rules"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because people follow norms when they can speak up safely. Option a is incorrect because invisible norms are hard to follow. Option c is incorrect because top-down rules reduce ownership and adherence. Option d is incorrect because inconsistent enforcement undermines norms.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-015",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "While a agile analytics platform in retail where status updates are often late and several new hires just joined, what is the most effective next step to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "b",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "c",
+        "label": "periodically revisit the rules to keep them relevant"
+      },
+      {
+        "id": "d",
+        "label": "bury the rules in a document no one reads"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because updating norms maintains commitment. Option a is incorrect because stale rules stop fitting the team environment. Option b is incorrect because public punishment harms safety and adherence. Option d is incorrect because invisible norms are hard to follow.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-016",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Facing a agile data integration in edtech where status updates are often late and several new hires just joined, what should the project manager do first to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "b",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "c",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "d",
+        "label": "facilitate the team in co-authoring ground rules and model them"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because co-creation and modeling encourage adherence. Option a is incorrect because top-down rules reduce ownership and adherence. Option b is incorrect because inconsistent enforcement undermines norms. Option c is incorrect because stale rules stop fitting the team environment.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-017",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "In a newly formed product launch in fintech where documentation expectations are unclear and vendors are joining the team, what should the project manager do to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "make the rules visible and tie reminders to ceremonies"
+      },
+      {
+        "id": "b",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "c",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "d",
+        "label": "impose rules unilaterally without team input"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because visibility and repetition reinforce norms. Option b is incorrect because public punishment harms safety and adherence. Option c is incorrect because invisible norms are hard to follow. Option d is incorrect because top-down rules reduce ownership and adherence.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-018",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Given a cross-functional mobile app in healthcare where some members dominate discussions and several new hires just joined, which action best helps establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "b",
+        "label": "recognize and reward behaviors that follow the rules"
+      },
+      {
+        "id": "c",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "d",
+        "label": "punish minor slips publicly"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because positive reinforcement builds the desired environment. Option a is incorrect because inconsistent enforcement undermines norms. Option c is incorrect because stale rules stop fitting the team environment. Option d is incorrect because public punishment harms safety and adherence.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-019",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "While a hybrid analytics platform in fintech where some members dominate discussions and several new hires just joined, what is the most effective next step to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "b",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "c",
+        "label": "ensure psychological safety so concerns about norms can be raised"
+      },
+      {
+        "id": "d",
+        "label": "ignore when leaders break the rules"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because people follow norms when they can speak up safely. Option a is incorrect because invisible norms are hard to follow. Option b is incorrect because top-down rules reduce ownership and adherence. Option d is incorrect because inconsistent enforcement undermines norms.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-020",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Facing a agile analytics platform in edtech where some members dominate discussions and vendors are joining the team, what should the project manager do first to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "b",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "c",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "d",
+        "label": "periodically revisit the rules to keep them relevant"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because updating norms maintains commitment. Option a is incorrect because stale rules stop fitting the team environment. Option b is incorrect because public punishment harms safety and adherence. Option c is incorrect because invisible norms are hard to follow.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-021",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "In a matrixed analytics platform in retail where some members dominate discussions and several new hires just joined, what should the project manager do to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "facilitate the team in co-authoring ground rules and model them"
+      },
+      {
+        "id": "b",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "c",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "d",
+        "label": "set rules once and never revisit them"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because co-creation and modeling encourage adherence. Option b is incorrect because top-down rules reduce ownership and adherence. Option c is incorrect because inconsistent enforcement undermines norms. Option d is incorrect because stale rules stop fitting the team environment.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-022",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Given a hybrid process reengineering in public sector where status updates are often late and key milestones are approaching, which action best helps establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "b",
+        "label": "make the rules visible and tie reminders to ceremonies"
+      },
+      {
+        "id": "c",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "d",
+        "label": "impose rules unilaterally without team input"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because visibility and repetition reinforce norms. Option a is incorrect because public punishment harms safety and adherence. Option c is incorrect because invisible norms are hard to follow. Option d is incorrect because top-down rules reduce ownership and adherence.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-023",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "While a matrixed process reengineering in retail where status updates are often late and a leadership review is upcoming, what is the most effective next step to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "b",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "c",
+        "label": "recognize and reward behaviors that follow the rules"
+      },
+      {
+        "id": "d",
+        "label": "punish minor slips publicly"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because positive reinforcement builds the desired environment. Option a is incorrect because inconsistent enforcement undermines norms. Option b is incorrect because stale rules stop fitting the team environment. Option d is incorrect because public punishment harms safety and adherence.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-024",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "Facing a matrixed process reengineering in fintech where status updates are often late and multiple workstreams overlap, what should the project manager do first to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "bury the rules in a document no one reads"
+      },
+      {
+        "id": "b",
+        "label": "impose rules unilaterally without team input"
+      },
+      {
+        "id": "c",
+        "label": "ignore when leaders break the rules"
+      },
+      {
+        "id": "d",
+        "label": "ensure psychological safety so concerns about norms can be raised"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because people follow norms when they can speak up safely. Option a is incorrect because invisible norms are hard to follow. Option b is incorrect because top-down rules reduce ownership and adherence. Option c is incorrect because inconsistent enforcement undermines norms.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-2-025",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-2"
+    ],
+    "text": "In a cross-functional product launch in healthcare where status updates are often late and key milestones are approaching, what should the project manager do to establish an environment that fosters adherence to ground rules?",
+    "options": [
+      {
+        "id": "a",
+        "label": "periodically revisit the rules to keep them relevant"
+      },
+      {
+        "id": "b",
+        "label": "set rules once and never revisit them"
+      },
+      {
+        "id": "c",
+        "label": "punish minor slips publicly"
+      },
+      {
+        "id": "d",
+        "label": "bury the rules in a document no one reads"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because updating norms maintains commitment. Option b is incorrect because stale rules stop fitting the team environment. Option c is incorrect because public punishment harms safety and adherence. Option d is incorrect because invisible norms are hard to follow.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "team norms"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
   }
 ]

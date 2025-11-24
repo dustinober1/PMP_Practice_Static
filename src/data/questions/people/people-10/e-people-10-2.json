@@ -3,19 +3,900 @@
     "id": "q-people-10-2-001",
     "domainId": "people",
     "taskId": "people-10",
-    "enablerIds": ["e-people-10-2"],
-    "text": "Placeholder question for e-people-10-2 in people-10.",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "In a cross-functional compliance uplift in energy where terminology differs across units and a release cutoff is near, what should the project manager do to survey all necessary parties to reach consensus?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "engage all impacted groups to collect their perspectives before proposing a fix"
+      },
+      {
+        "id": "b",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "c",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "d",
+        "label": "skip consultation to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because inclusive input is required to reach informed consensus. Option b is incorrect because limited voices cannot represent all needs for consensus. Option c is incorrect because excluding stakeholders undermines agreement. Option d is incorrect because consensus cannot be reached without hearing the parties.",
+    "difficulty": "easy",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-002",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Given a distributed agile infrastructure refresh in public sector where requirements were interpreted differently by teams and testing is blocked until alignment, which action best helps survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "b",
+        "label": "run structured interviews or a poll to capture needs and constraints from each party"
+      },
+      {
+        "id": "c",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "d",
+        "label": "ask only the most vocal stakeholders for input"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because systematic surveying gathers the data needed for agreement. Option a is incorrect because one-sided decisions don't build shared ownership. Option c is incorrect because silence is not consent; active input is needed. Option d is incorrect because limited voices cannot represent all needs for consensus.",
+    "difficulty": "easy",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-003",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "While a hybrid compliance uplift in pharma where handoff expectations are unclear and testing is blocked until alignment, what is the most effective next step to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "b",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "c",
+        "label": "ensure absent decision makers are represented and invited to the discussion"
+      },
+      {
+        "id": "d",
+        "label": "let the sponsor decide unilaterally"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-10-2.",
+    "explanation": "Option c is correct because consensus requires involving all necessary parties. Option a is incorrect because excluding stakeholders undermines agreement. Option b is incorrect because consensus cannot be reached without hearing the parties. Option d is incorrect because one-sided decisions don't build shared ownership.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-004",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Facing a hybrid compliance uplift in pharma where requirements were interpreted differently by teams and testing is blocked until alignment, what should the project manager do first to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "b",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "c",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "d",
+        "label": "facilitate a workshop with key roles to align on priorities"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because bringing the right people together supports consensus. Option a is incorrect because silence is not consent; active input is needed. Option b is incorrect because limited voices cannot represent all needs for consensus. Option c is incorrect because excluding stakeholders undermines agreement.",
+    "difficulty": "easy",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-005",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "In a hybrid data migration in energy where priority orders conflict and executives want clarity quickly, what should the project manager do to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "validate a proposed approach with each group before finalizing"
+      },
+      {
+        "id": "b",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "c",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "d",
+        "label": "rely on an email thread and ignore those who stay silent"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because checking acceptance with all parties solidifies consensus. Option b is incorrect because consensus cannot be reached without hearing the parties. Option c is incorrect because one-sided decisions don't build shared ownership. Option d is incorrect because silence is not consent; active input is needed.",
+    "difficulty": "easy",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-006",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Given a vendor-led infrastructure refresh in energy where handoff expectations are unclear and testing is blocked until alignment, which action best helps survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "b",
+        "label": "engage all impacted groups to collect their perspectives before proposing a fix"
+      },
+      {
+        "id": "c",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "d",
+        "label": "skip consultation to save time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because inclusive input is required to reach informed consensus. Option a is incorrect because limited voices cannot represent all needs for consensus. Option c is incorrect because excluding stakeholders undermines agreement. Option d is incorrect because consensus cannot be reached without hearing the parties.",
+    "difficulty": "easy",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-007",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "While a matrixed platform modernization in retail where terminology differs across units and testing is blocked until alignment, what is the most effective next step to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "b",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "c",
+        "label": "run structured interviews or a poll to capture needs and constraints from each party"
+      },
+      {
+        "id": "d",
+        "label": "ask only the most vocal stakeholders for input"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because systematic surveying gathers the data needed for agreement. Option a is incorrect because one-sided decisions don't build shared ownership. Option b is incorrect because silence is not consent; active input is needed. Option d is incorrect because limited voices cannot represent all needs for consensus.",
+    "difficulty": "easy",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-008",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Facing a matrixed data migration in public sector where stakeholders assume different scope boundaries and a release cutoff is near, what should the project manager do first to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "b",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "c",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "d",
+        "label": "ensure absent decision makers are represented and invited to the discussion"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because consensus requires involving all necessary parties. Option a is incorrect because excluding stakeholders undermines agreement. Option b is incorrect because consensus cannot be reached without hearing the parties. Option c is incorrect because one-sided decisions don't build shared ownership.",
+    "difficulty": "easy",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-009",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "In a cross-functional data migration in retail where priority orders conflict and budget approval depends on agreement, what should the project manager do to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "facilitate a workshop with key roles to align on priorities"
+      },
+      {
+        "id": "b",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "c",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "d",
+        "label": "decide with the core team and inform others later"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because bringing the right people together supports consensus. Option b is incorrect because silence is not consent; active input is needed. Option c is incorrect because limited voices cannot represent all needs for consensus. Option d is incorrect because excluding stakeholders undermines agreement.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-010",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Given a hybrid platform modernization in global SaaS where terminology differs across units and a demo to customers is scheduled, which action best helps survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "b",
+        "label": "validate a proposed approach with each group before finalizing"
+      },
+      {
+        "id": "c",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "d",
+        "label": "rely on an email thread and ignore those who stay silent"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because checking acceptance with all parties solidifies consensus. Option a is incorrect because consensus cannot be reached without hearing the parties. Option c is incorrect because one-sided decisions don't build shared ownership. Option d is incorrect because silence is not consent; active input is needed.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-011",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "While a vendor-led mobile app in energy where requirements were interpreted differently by teams and executives want clarity quickly, what is the most effective next step to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "b",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "c",
+        "label": "engage all impacted groups to collect their perspectives before proposing a fix"
+      },
+      {
+        "id": "d",
+        "label": "skip consultation to save time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because inclusive input is required to reach informed consensus. Option a is incorrect because limited voices cannot represent all needs for consensus. Option b is incorrect because excluding stakeholders undermines agreement. Option d is incorrect because consensus cannot be reached without hearing the parties.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-012",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Facing a cross-functional compliance uplift in pharma where terminology differs across units and a release cutoff is near, what should the project manager do first to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "b",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "c",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "d",
+        "label": "run structured interviews or a poll to capture needs and constraints from each party"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because systematic surveying gathers the data needed for agreement. Option a is incorrect because one-sided decisions don't build shared ownership. Option b is incorrect because silence is not consent; active input is needed. Option c is incorrect because limited voices cannot represent all needs for consensus.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-013",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "In a matrixed platform modernization in pharma where priority orders conflict and budget approval depends on agreement, what should the project manager do to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ensure absent decision makers are represented and invited to the discussion"
+      },
+      {
+        "id": "b",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "c",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "d",
+        "label": "let the sponsor decide unilaterally"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because consensus requires involving all necessary parties. Option b is incorrect because excluding stakeholders undermines agreement. Option c is incorrect because consensus cannot be reached without hearing the parties. Option d is incorrect because one-sided decisions don't build shared ownership.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-014",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Given a hybrid compliance uplift in energy where handoff expectations are unclear and executives want clarity quickly, which action best helps survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "b",
+        "label": "facilitate a workshop with key roles to align on priorities"
+      },
+      {
+        "id": "c",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "d",
+        "label": "decide with the core team and inform others later"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because bringing the right people together supports consensus. Option a is incorrect because silence is not consent; active input is needed. Option c is incorrect because limited voices cannot represent all needs for consensus. Option d is incorrect because excluding stakeholders undermines agreement.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-015",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "While a cross-functional data migration in pharma where handoff expectations are unclear and budget approval depends on agreement, what is the most effective next step to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "b",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "c",
+        "label": "validate a proposed approach with each group before finalizing"
+      },
+      {
+        "id": "d",
+        "label": "rely on an email thread and ignore those who stay silent"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because checking acceptance with all parties solidifies consensus. Option a is incorrect because consensus cannot be reached without hearing the parties. Option b is incorrect because one-sided decisions don't build shared ownership. Option d is incorrect because silence is not consent; active input is needed.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-016",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Facing a cross-functional platform modernization in public sector where terminology differs across units and a release cutoff is near, what should the project manager do first to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "b",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "c",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "d",
+        "label": "engage all impacted groups to collect their perspectives before proposing a fix"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because inclusive input is required to reach informed consensus. Option a is incorrect because limited voices cannot represent all needs for consensus. Option b is incorrect because excluding stakeholders undermines agreement. Option c is incorrect because consensus cannot be reached without hearing the parties.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-017",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "In a matrixed mobile app in public sector where terminology differs across units and budget approval depends on agreement, what should the project manager do to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "run structured interviews or a poll to capture needs and constraints from each party"
+      },
+      {
+        "id": "b",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "c",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "d",
+        "label": "ask only the most vocal stakeholders for input"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because systematic surveying gathers the data needed for agreement. Option b is incorrect because one-sided decisions don't build shared ownership. Option c is incorrect because silence is not consent; active input is needed. Option d is incorrect because limited voices cannot represent all needs for consensus.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-018",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Given a hybrid infrastructure refresh in public sector where priority orders conflict and executives want clarity quickly, which action best helps survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "b",
+        "label": "ensure absent decision makers are represented and invited to the discussion"
+      },
+      {
+        "id": "c",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "d",
+        "label": "let the sponsor decide unilaterally"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because consensus requires involving all necessary parties. Option a is incorrect because excluding stakeholders undermines agreement. Option c is incorrect because consensus cannot be reached without hearing the parties. Option d is incorrect because one-sided decisions don't build shared ownership.",
+    "difficulty": "medium",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-019",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "While a vendor-led mobile app in global SaaS where terminology differs across units and executives want clarity quickly, what is the most effective next step to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "b",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "c",
+        "label": "facilitate a workshop with key roles to align on priorities"
+      },
+      {
+        "id": "d",
+        "label": "decide with the core team and inform others later"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because bringing the right people together supports consensus. Option a is incorrect because silence is not consent; active input is needed. Option b is incorrect because limited voices cannot represent all needs for consensus. Option d is incorrect because excluding stakeholders undermines agreement.",
+    "difficulty": "hard",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-020",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Facing a distributed agile compliance uplift in public sector where requirements were interpreted differently by teams and budget approval depends on agreement, what should the project manager do first to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "b",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "c",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "d",
+        "label": "validate a proposed approach with each group before finalizing"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because checking acceptance with all parties solidifies consensus. Option a is incorrect because consensus cannot be reached without hearing the parties. Option b is incorrect because one-sided decisions don't build shared ownership. Option c is incorrect because silence is not consent; active input is needed.",
+    "difficulty": "hard",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-021",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "In a cross-functional platform modernization in global SaaS where requirements were interpreted differently by teams and executives want clarity quickly, what should the project manager do to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "engage all impacted groups to collect their perspectives before proposing a fix"
+      },
+      {
+        "id": "b",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "c",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "d",
+        "label": "skip consultation to save time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because inclusive input is required to reach informed consensus. Option b is incorrect because limited voices cannot represent all needs for consensus. Option c is incorrect because excluding stakeholders undermines agreement. Option d is incorrect because consensus cannot be reached without hearing the parties.",
+    "difficulty": "hard",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-022",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Given a distributed agile compliance uplift in energy where priority orders conflict and a release cutoff is near, which action best helps survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "b",
+        "label": "run structured interviews or a poll to capture needs and constraints from each party"
+      },
+      {
+        "id": "c",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "d",
+        "label": "ask only the most vocal stakeholders for input"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because systematic surveying gathers the data needed for agreement. Option a is incorrect because one-sided decisions don't build shared ownership. Option c is incorrect because silence is not consent; active input is needed. Option d is incorrect because limited voices cannot represent all needs for consensus.",
+    "difficulty": "hard",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-023",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "While a matrixed compliance uplift in energy where handoff expectations are unclear and testing is blocked until alignment, what is the most effective next step to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "b",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "c",
+        "label": "ensure absent decision makers are represented and invited to the discussion"
+      },
+      {
+        "id": "d",
+        "label": "let the sponsor decide unilaterally"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because consensus requires involving all necessary parties. Option a is incorrect because excluding stakeholders undermines agreement. Option b is incorrect because consensus cannot be reached without hearing the parties. Option d is incorrect because one-sided decisions don't build shared ownership.",
+    "difficulty": "hard",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-024",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "Facing a hybrid data migration in public sector where terminology differs across units and a demo to customers is scheduled, what should the project manager do first to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on an email thread and ignore those who stay silent"
+      },
+      {
+        "id": "b",
+        "label": "ask only the most vocal stakeholders for input"
+      },
+      {
+        "id": "c",
+        "label": "decide with the core team and inform others later"
+      },
+      {
+        "id": "d",
+        "label": "facilitate a workshop with key roles to align on priorities"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because bringing the right people together supports consensus. Option a is incorrect because silence is not consent; active input is needed. Option b is incorrect because limited voices cannot represent all needs for consensus. Option c is incorrect because excluding stakeholders undermines agreement.",
+    "difficulty": "hard",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-2-025",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-2"
+    ],
+    "text": "In a distributed agile infrastructure refresh in retail where handoff expectations are unclear and a demo to customers is scheduled, what should the project manager do to survey all necessary parties to reach consensus?",
+    "options": [
+      {
+        "id": "a",
+        "label": "validate a proposed approach with each group before finalizing"
+      },
+      {
+        "id": "b",
+        "label": "skip consultation to save time"
+      },
+      {
+        "id": "c",
+        "label": "let the sponsor decide unilaterally"
+      },
+      {
+        "id": "d",
+        "label": "rely on an email thread and ignore those who stay silent"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because checking acceptance with all parties solidifies consensus. Option b is incorrect because consensus cannot be reached without hearing the parties. Option c is incorrect because one-sided decisions don't build shared ownership. Option d is incorrect because silence is not consent; active input is needed.",
+    "difficulty": "hard",
+    "topics": [
+      "consensus",
+      "stakeholder input"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
   }
 ]

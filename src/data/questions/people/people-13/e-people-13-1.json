@@ -3,19 +3,900 @@
     "id": "q-people-13-1-001",
     "domainId": "people",
     "taskId": "people-13",
-    "enablerIds": ["e-people-13-1"],
-    "text": "Placeholder question for e-people-13-1 in people-13.",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "In a agile platform rollout in fintech where a new analyst is struggling with stakeholder prep and deadlines are tight, what should the project manager do to allocate time to mentoring?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "block recurring time for mentoring and keep it protected"
+      },
+      {
+        "id": "b",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "c",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "d",
+        "label": "assign mentoring to others without oversight"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because dedicated time ensures mentoring actually happens. Option b is incorrect because waiting indefinitely means mentoring rarely occurs. Option c is incorrect because ad-hoc availability leads to inconsistency. Option d is incorrect because delegating without involvement reduces effectiveness.",
+    "difficulty": "easy",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-002",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Given a cross-functional platform rollout in healthcare where a junior PM is new to the company and several interns started recently, which action best helps allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "b",
+        "label": "set mentoring goals with mentees and review progress"
+      },
+      {
+        "id": "c",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "d",
+        "label": "postpone mentoring until after go-live"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because goals make the time purposeful and effective. Option a is incorrect because frequent cancellations signal low priority. Option c is incorrect because without priority, mentoring value is lost. Option d is incorrect because waiting indefinitely means mentoring rarely occurs.",
+    "difficulty": "easy",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-003",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "While a matrixed omnichannel launch in retail where a new analyst is struggling with stakeholder prep and deadlines are tight, what is the most effective next step to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "b",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "c",
+        "label": "delegate lower-priority tasks to free space for mentoring"
+      },
+      {
+        "id": "d",
+        "label": "cancel mentoring sessions for minor conflicts"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-13-1.",
+    "explanation": "Option c is correct because making room signals commitment to mentoring. Option a is incorrect because ad-hoc availability leads to inconsistency. Option b is incorrect because delegating without involvement reduces effectiveness. Option d is incorrect because frequent cancellations signal low priority.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-004",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Facing a matrixed omnichannel launch in fintech where handoff to operations is coming soon and deadlines are tight, what should the project manager do first to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "b",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "c",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "d",
+        "label": "align mentoring with project cadence, such as pairing during key tasks"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because integrating mentoring into work makes it sustainable. Option a is incorrect because without priority, mentoring value is lost. Option b is incorrect because waiting indefinitely means mentoring rarely occurs. Option c is incorrect because ad-hoc availability leads to inconsistency.",
+    "difficulty": "easy",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-005",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "In a matrixed policy change in retail where handoff to operations is coming soon and a critical release is near, what should the project manager do to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "prioritize mentoring when a team member is at risk of disengagement"
+      },
+      {
+        "id": "b",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "c",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "d",
+        "label": "treat mentoring as optional afterthought"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because timely mentoring can retain and develop talent. Option b is incorrect because delegating without involvement reduces effectiveness. Option c is incorrect because frequent cancellations signal low priority. Option d is incorrect because without priority, mentoring value is lost.",
+    "difficulty": "easy",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-006",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Given a vendor-led omnichannel launch in healthcare where handoff to operations is coming soon and deadlines are tight, which action best helps allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "b",
+        "label": "block recurring time for mentoring and keep it protected"
+      },
+      {
+        "id": "c",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "d",
+        "label": "assign mentoring to others without oversight"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because dedicated time ensures mentoring actually happens. Option a is incorrect because waiting indefinitely means mentoring rarely occurs. Option c is incorrect because ad-hoc availability leads to inconsistency. Option d is incorrect because delegating without involvement reduces effectiveness.",
+    "difficulty": "easy",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-007",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "While a matrixed policy change in consulting where a junior PM is new to the company and several interns started recently, what is the most effective next step to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "b",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "c",
+        "label": "set mentoring goals with mentees and review progress"
+      },
+      {
+        "id": "d",
+        "label": "postpone mentoring until after go-live"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because goals make the time purposeful and effective. Option a is incorrect because frequent cancellations signal low priority. Option b is incorrect because without priority, mentoring value is lost. Option d is incorrect because waiting indefinitely means mentoring rarely occurs.",
+    "difficulty": "easy",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-008",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Facing a vendor-led process redesign in public sector where a junior PM is new to the company and several interns started recently, what should the project manager do first to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "b",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "c",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "d",
+        "label": "delegate lower-priority tasks to free space for mentoring"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because making room signals commitment to mentoring. Option a is incorrect because ad-hoc availability leads to inconsistency. Option b is incorrect because delegating without involvement reduces effectiveness. Option c is incorrect because frequent cancellations signal low priority.",
+    "difficulty": "easy",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-009",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "In a hybrid policy change in consulting where the team needs more depth on risk management and several interns started recently, what should the project manager do to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "align mentoring with project cadence, such as pairing during key tasks"
+      },
+      {
+        "id": "b",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "c",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "d",
+        "label": "offer mentoring only when there is unexpected free time"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because integrating mentoring into work makes it sustainable. Option b is incorrect because without priority, mentoring value is lost. Option c is incorrect because waiting indefinitely means mentoring rarely occurs. Option d is incorrect because ad-hoc availability leads to inconsistency.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-010",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Given a agile process redesign in consulting where the team needs more depth on risk management and leadership visibility is high, which action best helps allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "b",
+        "label": "prioritize mentoring when a team member is at risk of disengagement"
+      },
+      {
+        "id": "c",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "d",
+        "label": "treat mentoring as optional afterthought"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because timely mentoring can retain and develop talent. Option a is incorrect because delegating without involvement reduces effectiveness. Option c is incorrect because frequent cancellations signal low priority. Option d is incorrect because without priority, mentoring value is lost.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-011",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "While a hybrid process redesign in fintech where the team needs more depth on risk management and deadlines are tight, what is the most effective next step to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "b",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "c",
+        "label": "block recurring time for mentoring and keep it protected"
+      },
+      {
+        "id": "d",
+        "label": "assign mentoring to others without oversight"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because dedicated time ensures mentoring actually happens. Option a is incorrect because waiting indefinitely means mentoring rarely occurs. Option b is incorrect because ad-hoc availability leads to inconsistency. Option d is incorrect because delegating without involvement reduces effectiveness.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-012",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Facing a vendor-led policy change in fintech where handoff to operations is coming soon and several interns started recently, what should the project manager do first to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "b",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "c",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "d",
+        "label": "set mentoring goals with mentees and review progress"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because goals make the time purposeful and effective. Option a is incorrect because frequent cancellations signal low priority. Option b is incorrect because without priority, mentoring value is lost. Option c is incorrect because waiting indefinitely means mentoring rarely occurs.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-013",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "In a matrixed process redesign in healthcare where the team needs more depth on risk management and the team is dealing with churn, what should the project manager do to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "delegate lower-priority tasks to free space for mentoring"
+      },
+      {
+        "id": "b",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "c",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "d",
+        "label": "cancel mentoring sessions for minor conflicts"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because making room signals commitment to mentoring. Option b is incorrect because ad-hoc availability leads to inconsistency. Option c is incorrect because delegating without involvement reduces effectiveness. Option d is incorrect because frequent cancellations signal low priority.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-014",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Given a hybrid platform rollout in public sector where a developer wants to grow into leadership and deadlines are tight, which action best helps allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "b",
+        "label": "align mentoring with project cadence, such as pairing during key tasks"
+      },
+      {
+        "id": "c",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "d",
+        "label": "offer mentoring only when there is unexpected free time"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because integrating mentoring into work makes it sustainable. Option a is incorrect because without priority, mentoring value is lost. Option c is incorrect because waiting indefinitely means mentoring rarely occurs. Option d is incorrect because ad-hoc availability leads to inconsistency.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-015",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "While a cross-functional omnichannel launch in consulting where a developer wants to grow into leadership and leadership visibility is high, what is the most effective next step to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "b",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "c",
+        "label": "prioritize mentoring when a team member is at risk of disengagement"
+      },
+      {
+        "id": "d",
+        "label": "treat mentoring as optional afterthought"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because timely mentoring can retain and develop talent. Option a is incorrect because delegating without involvement reduces effectiveness. Option b is incorrect because frequent cancellations signal low priority. Option d is incorrect because without priority, mentoring value is lost.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-016",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Facing a agile platform rollout in fintech where the team needs more depth on risk management and the team is dealing with churn, what should the project manager do first to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "b",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "c",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "d",
+        "label": "block recurring time for mentoring and keep it protected"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because dedicated time ensures mentoring actually happens. Option a is incorrect because waiting indefinitely means mentoring rarely occurs. Option b is incorrect because ad-hoc availability leads to inconsistency. Option c is incorrect because delegating without involvement reduces effectiveness.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-017",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "In a cross-functional policy change in retail where a junior PM is new to the company and leadership visibility is high, what should the project manager do to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "set mentoring goals with mentees and review progress"
+      },
+      {
+        "id": "b",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "c",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "d",
+        "label": "postpone mentoring until after go-live"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because goals make the time purposeful and effective. Option b is incorrect because frequent cancellations signal low priority. Option c is incorrect because without priority, mentoring value is lost. Option d is incorrect because waiting indefinitely means mentoring rarely occurs.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-018",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Given a cross-functional omnichannel launch in fintech where a new analyst is struggling with stakeholder prep and the team is dealing with churn, which action best helps allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "b",
+        "label": "delegate lower-priority tasks to free space for mentoring"
+      },
+      {
+        "id": "c",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "d",
+        "label": "cancel mentoring sessions for minor conflicts"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because making room signals commitment to mentoring. Option a is incorrect because ad-hoc availability leads to inconsistency. Option c is incorrect because delegating without involvement reduces effectiveness. Option d is incorrect because frequent cancellations signal low priority.",
+    "difficulty": "medium",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-019",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "While a agile omnichannel launch in consulting where a developer wants to grow into leadership and a critical release is near, what is the most effective next step to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "b",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "c",
+        "label": "align mentoring with project cadence, such as pairing during key tasks"
+      },
+      {
+        "id": "d",
+        "label": "offer mentoring only when there is unexpected free time"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because integrating mentoring into work makes it sustainable. Option a is incorrect because without priority, mentoring value is lost. Option b is incorrect because waiting indefinitely means mentoring rarely occurs. Option d is incorrect because ad-hoc availability leads to inconsistency.",
+    "difficulty": "hard",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-020",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Facing a cross-functional clinical app in public sector where a junior PM is new to the company and leadership visibility is high, what should the project manager do first to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "b",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "c",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "d",
+        "label": "prioritize mentoring when a team member is at risk of disengagement"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because timely mentoring can retain and develop talent. Option a is incorrect because delegating without involvement reduces effectiveness. Option b is incorrect because frequent cancellations signal low priority. Option c is incorrect because without priority, mentoring value is lost.",
+    "difficulty": "hard",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-021",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "In a hybrid process redesign in fintech where handoff to operations is coming soon and the team is dealing with churn, what should the project manager do to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "block recurring time for mentoring and keep it protected"
+      },
+      {
+        "id": "b",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "c",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "d",
+        "label": "assign mentoring to others without oversight"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because dedicated time ensures mentoring actually happens. Option b is incorrect because waiting indefinitely means mentoring rarely occurs. Option c is incorrect because ad-hoc availability leads to inconsistency. Option d is incorrect because delegating without involvement reduces effectiveness.",
+    "difficulty": "hard",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-022",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Given a matrixed process redesign in fintech where a new analyst is struggling with stakeholder prep and a critical release is near, which action best helps allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "b",
+        "label": "set mentoring goals with mentees and review progress"
+      },
+      {
+        "id": "c",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "d",
+        "label": "postpone mentoring until after go-live"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because goals make the time purposeful and effective. Option a is incorrect because frequent cancellations signal low priority. Option c is incorrect because without priority, mentoring value is lost. Option d is incorrect because waiting indefinitely means mentoring rarely occurs.",
+    "difficulty": "hard",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-023",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "While a cross-functional platform rollout in public sector where handoff to operations is coming soon and the team is dealing with churn, what is the most effective next step to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "b",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "c",
+        "label": "delegate lower-priority tasks to free space for mentoring"
+      },
+      {
+        "id": "d",
+        "label": "cancel mentoring sessions for minor conflicts"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because making room signals commitment to mentoring. Option a is incorrect because ad-hoc availability leads to inconsistency. Option b is incorrect because delegating without involvement reduces effectiveness. Option d is incorrect because frequent cancellations signal low priority.",
+    "difficulty": "hard",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-024",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "Facing a matrixed omnichannel launch in fintech where a new analyst is struggling with stakeholder prep and the team is dealing with churn, what should the project manager do first to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat mentoring as optional afterthought"
+      },
+      {
+        "id": "b",
+        "label": "postpone mentoring until after go-live"
+      },
+      {
+        "id": "c",
+        "label": "offer mentoring only when there is unexpected free time"
+      },
+      {
+        "id": "d",
+        "label": "align mentoring with project cadence, such as pairing during key tasks"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because integrating mentoring into work makes it sustainable. Option a is incorrect because without priority, mentoring value is lost. Option b is incorrect because waiting indefinitely means mentoring rarely occurs. Option c is incorrect because ad-hoc availability leads to inconsistency.",
+    "difficulty": "hard",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-13-1-025",
+    "domainId": "people",
+    "taskId": "people-13",
+    "enablerIds": [
+      "e-people-13-1"
+    ],
+    "text": "In a agile platform rollout in public sector where a developer wants to grow into leadership and several interns started recently, what should the project manager do to allocate time to mentoring?",
+    "options": [
+      {
+        "id": "a",
+        "label": "prioritize mentoring when a team member is at risk of disengagement"
+      },
+      {
+        "id": "b",
+        "label": "assign mentoring to others without oversight"
+      },
+      {
+        "id": "c",
+        "label": "cancel mentoring sessions for minor conflicts"
+      },
+      {
+        "id": "d",
+        "label": "treat mentoring as optional afterthought"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because timely mentoring can retain and develop talent. Option b is incorrect because delegating without involvement reduces effectiveness. Option c is incorrect because frequent cancellations signal low priority. Option d is incorrect because without priority, mentoring value is lost.",
+    "difficulty": "hard",
+    "topics": [
+      "mentoring",
+      "time management"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
   }
 ]

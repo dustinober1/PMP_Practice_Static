@@ -3,19 +3,900 @@
     "id": "q-people-10-4-001",
     "domainId": "people",
     "taskId": "people-10",
-    "enablerIds": ["e-people-10-4"],
-    "text": "Placeholder question for e-people-10-4 in people-10.",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "In a cross-functional compliance uplift in energy where terminology differs across units and a release cutoff is near, what should the project manager do to investigate potential misunderstandings?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "review recent communications and confirm terms with the team"
+      },
+      {
+        "id": "b",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "c",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "d",
+        "label": "reprimand the team for confusion before confirming facts"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because checking artifacts and definitions uncovers misunderstanding. Option b is incorrect because silence can signal confusion or disagreement. Option c is incorrect because progress without understanding risks rework. Option d is incorrect because blame discourages openness and doesn't find causes.",
+    "difficulty": "easy",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-002",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Given a distributed agile infrastructure refresh in public sector where requirements were interpreted differently by teams and testing is blocked until alignment, which action best helps investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "b",
+        "label": "observe discussions and ask playback questions to verify understanding"
+      },
+      {
+        "id": "c",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "d",
+        "label": "assume silence in meetings means agreement"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because active probing reveals gaps in interpretation. Option a is incorrect because a single viewpoint may miss the real misunderstanding. Option c is incorrect because more meetings without investigation won't fix confusion. Option d is incorrect because silence can signal confusion or disagreement.",
+    "difficulty": "easy",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-003",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "While a hybrid compliance uplift in pharma where handoff expectations are unclear and testing is blocked until alignment, what is the most effective next step to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "b",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "c",
+        "label": "check whether timezone, translation, or medium caused confusion"
+      },
+      {
+        "id": "d",
+        "label": "rely on one person's account of the issue"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-10-4.",
+    "explanation": "Option c is correct because investigating channel issues can explain misunderstanding. Option a is incorrect because progress without understanding risks rework. Option b is incorrect because blame discourages openness and doesn't find causes. Option d is incorrect because a single viewpoint may miss the real misunderstanding.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-004",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Facing a hybrid compliance uplift in pharma where requirements were interpreted differently by teams and testing is blocked until alignment, what should the project manager do first to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "b",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "c",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "d",
+        "label": "prototype or demo a small slice to confirm shared meaning"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because testing interpretation exposes misunderstandings early. Option a is incorrect because more meetings without investigation won't fix confusion. Option b is incorrect because silence can signal confusion or disagreement. Option c is incorrect because progress without understanding risks rework.",
+    "difficulty": "easy",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-005",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "In a hybrid data migration in energy where priority orders conflict and executives want clarity quickly, what should the project manager do to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "speak with each group to compare what they believe was agreed"
+      },
+      {
+        "id": "b",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "c",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "d",
+        "label": "increase meeting frequency without changing the content"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because comparing views highlights the misunderstanding point. Option b is incorrect because blame discourages openness and doesn't find causes. Option c is incorrect because a single viewpoint may miss the real misunderstanding. Option d is incorrect because more meetings without investigation won't fix confusion.",
+    "difficulty": "easy",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-006",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Given a vendor-led infrastructure refresh in energy where handoff expectations are unclear and testing is blocked until alignment, which action best helps investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "b",
+        "label": "review recent communications and confirm terms with the team"
+      },
+      {
+        "id": "c",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "d",
+        "label": "reprimand the team for confusion before confirming facts"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because checking artifacts and definitions uncovers misunderstanding. Option a is incorrect because silence can signal confusion or disagreement. Option c is incorrect because progress without understanding risks rework. Option d is incorrect because blame discourages openness and doesn't find causes.",
+    "difficulty": "easy",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-007",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "While a matrixed platform modernization in retail where terminology differs across units and testing is blocked until alignment, what is the most effective next step to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "b",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "c",
+        "label": "observe discussions and ask playback questions to verify understanding"
+      },
+      {
+        "id": "d",
+        "label": "assume silence in meetings means agreement"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because active probing reveals gaps in interpretation. Option a is incorrect because a single viewpoint may miss the real misunderstanding. Option b is incorrect because more meetings without investigation won't fix confusion. Option d is incorrect because silence can signal confusion or disagreement.",
+    "difficulty": "easy",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-008",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Facing a matrixed data migration in public sector where stakeholders assume different scope boundaries and a release cutoff is near, what should the project manager do first to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "b",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "c",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "d",
+        "label": "check whether timezone, translation, or medium caused confusion"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because investigating channel issues can explain misunderstanding. Option a is incorrect because progress without understanding risks rework. Option b is incorrect because blame discourages openness and doesn't find causes. Option c is incorrect because a single viewpoint may miss the real misunderstanding.",
+    "difficulty": "easy",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-009",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "In a cross-functional data migration in retail where priority orders conflict and budget approval depends on agreement, what should the project manager do to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "prototype or demo a small slice to confirm shared meaning"
+      },
+      {
+        "id": "b",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "c",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "d",
+        "label": "push ahead on the schedule without checking clarity"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because testing interpretation exposes misunderstandings early. Option b is incorrect because more meetings without investigation won't fix confusion. Option c is incorrect because silence can signal confusion or disagreement. Option d is incorrect because progress without understanding risks rework.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-010",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Given a hybrid platform modernization in global SaaS where terminology differs across units and a demo to customers is scheduled, which action best helps investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "b",
+        "label": "speak with each group to compare what they believe was agreed"
+      },
+      {
+        "id": "c",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "d",
+        "label": "increase meeting frequency without changing the content"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because comparing views highlights the misunderstanding point. Option a is incorrect because blame discourages openness and doesn't find causes. Option c is incorrect because a single viewpoint may miss the real misunderstanding. Option d is incorrect because more meetings without investigation won't fix confusion.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-011",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "While a vendor-led mobile app in energy where requirements were interpreted differently by teams and executives want clarity quickly, what is the most effective next step to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "b",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "c",
+        "label": "review recent communications and confirm terms with the team"
+      },
+      {
+        "id": "d",
+        "label": "reprimand the team for confusion before confirming facts"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because checking artifacts and definitions uncovers misunderstanding. Option a is incorrect because silence can signal confusion or disagreement. Option b is incorrect because progress without understanding risks rework. Option d is incorrect because blame discourages openness and doesn't find causes.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-012",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Facing a cross-functional compliance uplift in pharma where terminology differs across units and a release cutoff is near, what should the project manager do first to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "b",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "c",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "d",
+        "label": "observe discussions and ask playback questions to verify understanding"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because active probing reveals gaps in interpretation. Option a is incorrect because a single viewpoint may miss the real misunderstanding. Option b is incorrect because more meetings without investigation won't fix confusion. Option c is incorrect because silence can signal confusion or disagreement.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-013",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "In a matrixed platform modernization in pharma where priority orders conflict and budget approval depends on agreement, what should the project manager do to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "check whether timezone, translation, or medium caused confusion"
+      },
+      {
+        "id": "b",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "c",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "d",
+        "label": "rely on one person's account of the issue"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because investigating channel issues can explain misunderstanding. Option b is incorrect because progress without understanding risks rework. Option c is incorrect because blame discourages openness and doesn't find causes. Option d is incorrect because a single viewpoint may miss the real misunderstanding.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-014",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Given a hybrid compliance uplift in energy where handoff expectations are unclear and executives want clarity quickly, which action best helps investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "b",
+        "label": "prototype or demo a small slice to confirm shared meaning"
+      },
+      {
+        "id": "c",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "d",
+        "label": "push ahead on the schedule without checking clarity"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because testing interpretation exposes misunderstandings early. Option a is incorrect because more meetings without investigation won't fix confusion. Option c is incorrect because silence can signal confusion or disagreement. Option d is incorrect because progress without understanding risks rework.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-015",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "While a cross-functional data migration in pharma where handoff expectations are unclear and budget approval depends on agreement, what is the most effective next step to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "b",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "c",
+        "label": "speak with each group to compare what they believe was agreed"
+      },
+      {
+        "id": "d",
+        "label": "increase meeting frequency without changing the content"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because comparing views highlights the misunderstanding point. Option a is incorrect because blame discourages openness and doesn't find causes. Option b is incorrect because a single viewpoint may miss the real misunderstanding. Option d is incorrect because more meetings without investigation won't fix confusion.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-016",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Facing a cross-functional platform modernization in public sector where terminology differs across units and a release cutoff is near, what should the project manager do first to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "b",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "c",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "d",
+        "label": "review recent communications and confirm terms with the team"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because checking artifacts and definitions uncovers misunderstanding. Option a is incorrect because silence can signal confusion or disagreement. Option b is incorrect because progress without understanding risks rework. Option c is incorrect because blame discourages openness and doesn't find causes.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-017",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "In a matrixed mobile app in public sector where terminology differs across units and budget approval depends on agreement, what should the project manager do to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "observe discussions and ask playback questions to verify understanding"
+      },
+      {
+        "id": "b",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "c",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "d",
+        "label": "assume silence in meetings means agreement"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because active probing reveals gaps in interpretation. Option b is incorrect because a single viewpoint may miss the real misunderstanding. Option c is incorrect because more meetings without investigation won't fix confusion. Option d is incorrect because silence can signal confusion or disagreement.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-018",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Given a hybrid infrastructure refresh in public sector where priority orders conflict and executives want clarity quickly, which action best helps investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "b",
+        "label": "check whether timezone, translation, or medium caused confusion"
+      },
+      {
+        "id": "c",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "d",
+        "label": "rely on one person's account of the issue"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because investigating channel issues can explain misunderstanding. Option a is incorrect because progress without understanding risks rework. Option c is incorrect because blame discourages openness and doesn't find causes. Option d is incorrect because a single viewpoint may miss the real misunderstanding.",
+    "difficulty": "medium",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-019",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "While a vendor-led mobile app in global SaaS where terminology differs across units and executives want clarity quickly, what is the most effective next step to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "b",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "c",
+        "label": "prototype or demo a small slice to confirm shared meaning"
+      },
+      {
+        "id": "d",
+        "label": "push ahead on the schedule without checking clarity"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because testing interpretation exposes misunderstandings early. Option a is incorrect because more meetings without investigation won't fix confusion. Option b is incorrect because silence can signal confusion or disagreement. Option d is incorrect because progress without understanding risks rework.",
+    "difficulty": "hard",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-020",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Facing a distributed agile compliance uplift in public sector where requirements were interpreted differently by teams and budget approval depends on agreement, what should the project manager do first to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "b",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "c",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "d",
+        "label": "speak with each group to compare what they believe was agreed"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because comparing views highlights the misunderstanding point. Option a is incorrect because blame discourages openness and doesn't find causes. Option b is incorrect because a single viewpoint may miss the real misunderstanding. Option c is incorrect because more meetings without investigation won't fix confusion.",
+    "difficulty": "hard",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-021",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "In a cross-functional platform modernization in global SaaS where requirements were interpreted differently by teams and executives want clarity quickly, what should the project manager do to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "review recent communications and confirm terms with the team"
+      },
+      {
+        "id": "b",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "c",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "d",
+        "label": "reprimand the team for confusion before confirming facts"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because checking artifacts and definitions uncovers misunderstanding. Option b is incorrect because silence can signal confusion or disagreement. Option c is incorrect because progress without understanding risks rework. Option d is incorrect because blame discourages openness and doesn't find causes.",
+    "difficulty": "hard",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-022",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Given a distributed agile compliance uplift in energy where priority orders conflict and a release cutoff is near, which action best helps investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "b",
+        "label": "observe discussions and ask playback questions to verify understanding"
+      },
+      {
+        "id": "c",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "d",
+        "label": "assume silence in meetings means agreement"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because active probing reveals gaps in interpretation. Option a is incorrect because a single viewpoint may miss the real misunderstanding. Option c is incorrect because more meetings without investigation won't fix confusion. Option d is incorrect because silence can signal confusion or disagreement.",
+    "difficulty": "hard",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-023",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "While a matrixed compliance uplift in energy where handoff expectations are unclear and testing is blocked until alignment, what is the most effective next step to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "b",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "c",
+        "label": "check whether timezone, translation, or medium caused confusion"
+      },
+      {
+        "id": "d",
+        "label": "rely on one person's account of the issue"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because investigating channel issues can explain misunderstanding. Option a is incorrect because progress without understanding risks rework. Option b is incorrect because blame discourages openness and doesn't find causes. Option d is incorrect because a single viewpoint may miss the real misunderstanding.",
+    "difficulty": "hard",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-communications",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-024",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "Facing a hybrid data migration in public sector where terminology differs across units and a demo to customers is scheduled, what should the project manager do first to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "increase meeting frequency without changing the content"
+      },
+      {
+        "id": "b",
+        "label": "assume silence in meetings means agreement"
+      },
+      {
+        "id": "c",
+        "label": "push ahead on the schedule without checking clarity"
+      },
+      {
+        "id": "d",
+        "label": "prototype or demo a small slice to confirm shared meaning"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because testing interpretation exposes misunderstandings early. Option a is incorrect because more meetings without investigation won't fix confusion. Option b is incorrect because silence can signal confusion or disagreement. Option c is incorrect because progress without understanding risks rework.",
+    "difficulty": "hard",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "communications"
+  },
+  {
+    "id": "q-people-10-4-025",
+    "domainId": "people",
+    "taskId": "people-10",
+    "enablerIds": [
+      "e-people-10-4"
+    ],
+    "text": "In a distributed agile infrastructure refresh in retail where handoff expectations are unclear and a demo to customers is scheduled, what should the project manager do to investigate potential misunderstandings?",
+    "options": [
+      {
+        "id": "a",
+        "label": "speak with each group to compare what they believe was agreed"
+      },
+      {
+        "id": "b",
+        "label": "reprimand the team for confusion before confirming facts"
+      },
+      {
+        "id": "c",
+        "label": "rely on one person's account of the issue"
+      },
+      {
+        "id": "d",
+        "label": "increase meeting frequency without changing the content"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because comparing views highlights the misunderstanding point. Option b is incorrect because blame discourages openness and doesn't find causes. Option c is incorrect because a single viewpoint may miss the real misunderstanding. Option d is incorrect because more meetings without investigation won't fix confusion.",
+    "difficulty": "hard",
+    "topics": [
+      "miscommunication",
+      "clarification"
+    ],
+    "process": "monitor-communications",
+    "knowledgeAreaId": "communications"
   }
 ]

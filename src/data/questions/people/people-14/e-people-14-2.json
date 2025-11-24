@@ -3,19 +3,900 @@
     "id": "q-people-14-2-001",
     "domainId": "people",
     "taskId": "people-14",
-    "enablerIds": ["e-people-14-2"],
-    "text": "Placeholder question for e-people-14-2 in people-14.",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "In a cross-functional ecommerce refresh in fintech where team members misread each other's tone and leadership is visiting the team, what should the project manager do to analyze personality indicators and adjust to emotional needs?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "tailor communication style based on the person's preferences and indicator insights"
+      },
+      {
+        "id": "b",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "c",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "d",
+        "label": "treat personality indicators as fixed labels of capability"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because adapting style respects emotional needs and improves reception. Option b is incorrect because one-style-fits-all ignores emotional needs. Option c is incorrect because ignoring stress damages morale and performance. Option d is incorrect because indicators guide style, not capability judgments.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-002",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Given a distributed agile policy modernization in manufacturing where a key contributor reacts strongly to feedback and budget conversations are tense, which action best helps analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "b",
+        "label": "adjust conflict approaches to match how the person processes stress"
+      },
+      {
+        "id": "c",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "d",
+        "label": "use the same style with everyone regardless of preference"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because matching approach reduces defensiveness and improves outcomes. Option a is incorrect because public confrontation can harm trust and safety. Option c is incorrect because overlooking emotions risks disengagement and turnover. Option d is incorrect because one-style-fits-all ignores emotional needs.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-003",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "While a cross-functional process automation in manufacturing where a key contributor reacts strongly to feedback and a difficult customer escalation is pending, what is the most effective next step to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "b",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "c",
+        "label": "deliver feedback in the format the individual absorbs best"
+      },
+      {
+        "id": "d",
+        "label": "confront people publicly even when they prefer private discussion"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-14-2.",
+    "explanation": "Option c is correct because formatting feedback to preferences supports growth. Option a is incorrect because ignoring stress damages morale and performance. Option b is incorrect because indicators guide style, not capability judgments. Option d is incorrect because public confrontation can harm trust and safety.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-004",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Facing a hybrid process automation in retail where stress is high due to rework and budget conversations are tense, what should the project manager do first to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "b",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "c",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "d",
+        "label": "rebalance workload or support when signs of stress appear"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because responding to emotional cues prevents burnout. Option a is incorrect because overlooking emotions risks disengagement and turnover. Option b is incorrect because one-style-fits-all ignores emotional needs. Option c is incorrect because ignoring stress damages morale and performance.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-005",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "In a vendor-led security uplift in manufacturing where stakeholders are tense after a missed demo and leadership is visiting the team, what should the project manager do to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "check in empathetically before pushing for a deadline"
+      },
+      {
+        "id": "b",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "c",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "d",
+        "label": "ignore emotional cues if delivery is on schedule"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because empathy and validation help maintain trust under pressure. Option b is incorrect because indicators guide style, not capability judgments. Option c is incorrect because public confrontation can harm trust and safety. Option d is incorrect because overlooking emotions risks disengagement and turnover.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-006",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Given a distributed agile quality remediation in pharma where stakeholders are tense after a missed demo and leadership is visiting the team, which action best helps analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "b",
+        "label": "tailor communication style based on the person's preferences and indicator insights"
+      },
+      {
+        "id": "c",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "d",
+        "label": "treat personality indicators as fixed labels of capability"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because adapting style respects emotional needs and improves reception. Option a is incorrect because one-style-fits-all ignores emotional needs. Option c is incorrect because ignoring stress damages morale and performance. Option d is incorrect because indicators guide style, not capability judgments.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-007",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "While a matrixed process automation in pharma where team members misread each other's tone and several overtime weeks occurred, what is the most effective next step to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "b",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "c",
+        "label": "adjust conflict approaches to match how the person processes stress"
+      },
+      {
+        "id": "d",
+        "label": "use the same style with everyone regardless of preference"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because matching approach reduces defensiveness and improves outcomes. Option a is incorrect because public confrontation can harm trust and safety. Option b is incorrect because overlooking emotions risks disengagement and turnover. Option d is incorrect because one-style-fits-all ignores emotional needs.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-008",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Facing a hybrid ecommerce refresh in manufacturing where stress is high due to rework and a go-live window is near, what should the project manager do first to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "b",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "c",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "d",
+        "label": "deliver feedback in the format the individual absorbs best"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because formatting feedback to preferences supports growth. Option a is incorrect because ignoring stress damages morale and performance. Option b is incorrect because indicators guide style, not capability judgments. Option c is incorrect because public confrontation can harm trust and safety.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-009",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "In a hybrid quality remediation in pharma where stakeholders are tense after a missed demo and leadership is visiting the team, what should the project manager do to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "rebalance workload or support when signs of stress appear"
+      },
+      {
+        "id": "b",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "c",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "d",
+        "label": "press aggressive timelines despite visible stress"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because responding to emotional cues prevents burnout. Option b is incorrect because overlooking emotions risks disengagement and turnover. Option c is incorrect because one-style-fits-all ignores emotional needs. Option d is incorrect because ignoring stress damages morale and performance.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-010",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Given a hybrid quality remediation in pharma where a key contributor reacts strongly to feedback and several overtime weeks occurred, which action best helps analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "b",
+        "label": "check in empathetically before pushing for a deadline"
+      },
+      {
+        "id": "c",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "d",
+        "label": "ignore emotional cues if delivery is on schedule"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because empathy and validation help maintain trust under pressure. Option a is incorrect because indicators guide style, not capability judgments. Option c is incorrect because public confrontation can harm trust and safety. Option d is incorrect because overlooking emotions risks disengagement and turnover.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-011",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "While a hybrid security uplift in retail where a key contributor reacts strongly to feedback and a go-live window is near, what is the most effective next step to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "b",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "c",
+        "label": "tailor communication style based on the person's preferences and indicator insights"
+      },
+      {
+        "id": "d",
+        "label": "treat personality indicators as fixed labels of capability"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because adapting style respects emotional needs and improves reception. Option a is incorrect because one-style-fits-all ignores emotional needs. Option b is incorrect because ignoring stress damages morale and performance. Option d is incorrect because indicators guide style, not capability judgments.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-012",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Facing a distributed agile security uplift in retail where stress is high due to rework and several overtime weeks occurred, what should the project manager do first to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "b",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "c",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "d",
+        "label": "adjust conflict approaches to match how the person processes stress"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because matching approach reduces defensiveness and improves outcomes. Option a is incorrect because public confrontation can harm trust and safety. Option b is incorrect because overlooking emotions risks disengagement and turnover. Option c is incorrect because one-style-fits-all ignores emotional needs.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-013",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "In a vendor-led security uplift in manufacturing where two leads are in visible conflict and a go-live window is near, what should the project manager do to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "deliver feedback in the format the individual absorbs best"
+      },
+      {
+        "id": "b",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "c",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "d",
+        "label": "confront people publicly even when they prefer private discussion"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because formatting feedback to preferences supports growth. Option b is incorrect because ignoring stress damages morale and performance. Option c is incorrect because indicators guide style, not capability judgments. Option d is incorrect because public confrontation can harm trust and safety.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-014",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Given a matrixed process automation in retail where team members misread each other's tone and a difficult customer escalation is pending, which action best helps analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "b",
+        "label": "rebalance workload or support when signs of stress appear"
+      },
+      {
+        "id": "c",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "d",
+        "label": "press aggressive timelines despite visible stress"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because responding to emotional cues prevents burnout. Option a is incorrect because overlooking emotions risks disengagement and turnover. Option c is incorrect because one-style-fits-all ignores emotional needs. Option d is incorrect because ignoring stress damages morale and performance.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-015",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "While a hybrid quality remediation in pharma where stakeholders are tense after a missed demo and a go-live window is near, what is the most effective next step to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "b",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "c",
+        "label": "check in empathetically before pushing for a deadline"
+      },
+      {
+        "id": "d",
+        "label": "ignore emotional cues if delivery is on schedule"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because empathy and validation help maintain trust under pressure. Option a is incorrect because indicators guide style, not capability judgments. Option b is incorrect because public confrontation can harm trust and safety. Option d is incorrect because overlooking emotions risks disengagement and turnover.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-016",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Facing a matrixed ecommerce refresh in retail where team members misread each other's tone and a difficult customer escalation is pending, what should the project manager do first to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "b",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "c",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "d",
+        "label": "tailor communication style based on the person's preferences and indicator insights"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because adapting style respects emotional needs and improves reception. Option a is incorrect because one-style-fits-all ignores emotional needs. Option b is incorrect because ignoring stress damages morale and performance. Option c is incorrect because indicators guide style, not capability judgments.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-017",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "In a distributed agile security uplift in public sector where team members misread each other's tone and leadership is visiting the team, what should the project manager do to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "adjust conflict approaches to match how the person processes stress"
+      },
+      {
+        "id": "b",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "c",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "d",
+        "label": "use the same style with everyone regardless of preference"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because matching approach reduces defensiveness and improves outcomes. Option b is incorrect because public confrontation can harm trust and safety. Option c is incorrect because overlooking emotions risks disengagement and turnover. Option d is incorrect because one-style-fits-all ignores emotional needs.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-018",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Given a cross-functional ecommerce refresh in fintech where a key contributor reacts strongly to feedback and leadership is visiting the team, which action best helps analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "b",
+        "label": "deliver feedback in the format the individual absorbs best"
+      },
+      {
+        "id": "c",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "d",
+        "label": "confront people publicly even when they prefer private discussion"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because formatting feedback to preferences supports growth. Option a is incorrect because ignoring stress damages morale and performance. Option c is incorrect because indicators guide style, not capability judgments. Option d is incorrect because public confrontation can harm trust and safety.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-019",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "While a hybrid policy modernization in fintech where stress is high due to rework and a go-live window is near, what is the most effective next step to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "b",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "c",
+        "label": "rebalance workload or support when signs of stress appear"
+      },
+      {
+        "id": "d",
+        "label": "press aggressive timelines despite visible stress"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because responding to emotional cues prevents burnout. Option a is incorrect because overlooking emotions risks disengagement and turnover. Option b is incorrect because one-style-fits-all ignores emotional needs. Option d is incorrect because ignoring stress damages morale and performance.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-020",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Facing a distributed agile process automation in retail where a key contributor reacts strongly to feedback and leadership is visiting the team, what should the project manager do first to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "b",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "c",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "d",
+        "label": "check in empathetically before pushing for a deadline"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because empathy and validation help maintain trust under pressure. Option a is incorrect because indicators guide style, not capability judgments. Option b is incorrect because public confrontation can harm trust and safety. Option c is incorrect because overlooking emotions risks disengagement and turnover.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-021",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "In a matrixed security uplift in retail where stakeholders are tense after a missed demo and leadership is visiting the team, what should the project manager do to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "tailor communication style based on the person's preferences and indicator insights"
+      },
+      {
+        "id": "b",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "c",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "d",
+        "label": "treat personality indicators as fixed labels of capability"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because adapting style respects emotional needs and improves reception. Option b is incorrect because one-style-fits-all ignores emotional needs. Option c is incorrect because ignoring stress damages morale and performance. Option d is incorrect because indicators guide style, not capability judgments.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-022",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Given a matrixed policy modernization in pharma where two leads are in visible conflict and budget conversations are tense, which action best helps analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "b",
+        "label": "adjust conflict approaches to match how the person processes stress"
+      },
+      {
+        "id": "c",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "d",
+        "label": "use the same style with everyone regardless of preference"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because matching approach reduces defensiveness and improves outcomes. Option a is incorrect because public confrontation can harm trust and safety. Option c is incorrect because overlooking emotions risks disengagement and turnover. Option d is incorrect because one-style-fits-all ignores emotional needs.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-023",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "While a matrixed security uplift in public sector where two leads are in visible conflict and leadership is visiting the team, what is the most effective next step to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "b",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "c",
+        "label": "deliver feedback in the format the individual absorbs best"
+      },
+      {
+        "id": "d",
+        "label": "confront people publicly even when they prefer private discussion"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because formatting feedback to preferences supports growth. Option a is incorrect because ignoring stress damages morale and performance. Option b is incorrect because indicators guide style, not capability judgments. Option d is incorrect because public confrontation can harm trust and safety.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-024",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "Facing a cross-functional process automation in pharma where stakeholders are tense after a missed demo and a difficult customer escalation is pending, what should the project manager do first to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore emotional cues if delivery is on schedule"
+      },
+      {
+        "id": "b",
+        "label": "use the same style with everyone regardless of preference"
+      },
+      {
+        "id": "c",
+        "label": "press aggressive timelines despite visible stress"
+      },
+      {
+        "id": "d",
+        "label": "rebalance workload or support when signs of stress appear"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because responding to emotional cues prevents burnout. Option a is incorrect because overlooking emotions risks disengagement and turnover. Option b is incorrect because one-style-fits-all ignores emotional needs. Option c is incorrect because ignoring stress damages morale and performance.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-stakeholder-engagement",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-2-025",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-2"
+    ],
+    "text": "In a matrixed security uplift in pharma where stress is high due to rework and a difficult customer escalation is pending, what should the project manager do to analyze personality indicators and adjust to emotional needs?",
+    "options": [
+      {
+        "id": "a",
+        "label": "check in empathetically before pushing for a deadline"
+      },
+      {
+        "id": "b",
+        "label": "treat personality indicators as fixed labels of capability"
+      },
+      {
+        "id": "c",
+        "label": "confront people publicly even when they prefer private discussion"
+      },
+      {
+        "id": "d",
+        "label": "ignore emotional cues if delivery is on schedule"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because empathy and validation help maintain trust under pressure. Option b is incorrect because indicators guide style, not capability judgments. Option c is incorrect because public confrontation can harm trust and safety. Option d is incorrect because overlooking emotions risks disengagement and turnover.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "adaptation"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
   }
 ]

@@ -3,19 +3,900 @@
     "id": "q-people-14-1-001",
     "domainId": "people",
     "taskId": "people-14",
-    "enablerIds": ["e-people-14-1"],
-    "text": "Placeholder question for e-people-14-1 in people-14.",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "In a cross-functional ecommerce refresh in fintech where team members misread each other's tone and leadership is visiting the team, what should the project manager do to assess behavior through the use of personality indicators?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "use a vetted personality indicator and discuss results with team members"
+      },
+      {
+        "id": "b",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "c",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "d",
+        "label": "share indicator results without consent"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because ethical use with discussion improves understanding. Option b is incorrect because rigid labels oversimplify and can bias interactions. Option c is incorrect because stereotypes are unreliable and harmful. Option d is incorrect because violating privacy damages trust.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-002",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Given a distributed agile policy modernization in manufacturing where a key contributor reacts strongly to feedback and budget conversations are tense, which action best helps assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "b",
+        "label": "observe behaviors and compare them with indicator insights"
+      },
+      {
+        "id": "c",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "d",
+        "label": "label people strictly by their indicator type"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because combining observation with tools gives balanced assessment. Option a is incorrect because roles need broader assessment than one tool. Option c is incorrect because gathering data without using it wastes the effort. Option d is incorrect because rigid labels oversimplify and can bias interactions.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-003",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "While a cross-functional process automation in manufacturing where a key contributor reacts strongly to feedback and a difficult customer escalation is pending, what is the most effective next step to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "b",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "c",
+        "label": "ask team members to validate whether the indicator reflects their style"
+      },
+      {
+        "id": "d",
+        "label": "assign roles solely based on an indicator"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-14-1.",
+    "explanation": "Option c is correct because validation prevents mislabeling and improves accuracy. Option a is incorrect because stereotypes are unreliable and harmful. Option b is incorrect because violating privacy damages trust. Option d is incorrect because roles need broader assessment than one tool.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-004",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Facing a hybrid process automation in retail where stress is high due to rework and budget conversations are tense, what should the project manager do first to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "b",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "c",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "d",
+        "label": "note stress triggers suggested by the indicator and watch for them"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because anticipating stress responses helps manage behavior. Option a is incorrect because gathering data without using it wastes the effort. Option b is incorrect because rigid labels oversimplify and can bias interactions. Option c is incorrect because stereotypes are unreliable and harmful.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-005",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "In a vendor-led security uplift in manufacturing where stakeholders are tense after a missed demo and leadership is visiting the team, what should the project manager do to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "combine indicator results with feedback from peers"
+      },
+      {
+        "id": "b",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "c",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "d",
+        "label": "ignore indicator insights once collected"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because multiple inputs create a fuller behavioral view. Option b is incorrect because violating privacy damages trust. Option c is incorrect because roles need broader assessment than one tool. Option d is incorrect because gathering data without using it wastes the effort.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-006",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Given a distributed agile quality remediation in pharma where stakeholders are tense after a missed demo and leadership is visiting the team, which action best helps assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "b",
+        "label": "use a vetted personality indicator and discuss results with team members"
+      },
+      {
+        "id": "c",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "d",
+        "label": "share indicator results without consent"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because ethical use with discussion improves understanding. Option a is incorrect because rigid labels oversimplify and can bias interactions. Option c is incorrect because stereotypes are unreliable and harmful. Option d is incorrect because violating privacy damages trust.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-007",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "While a matrixed process automation in pharma where team members misread each other's tone and several overtime weeks occurred, what is the most effective next step to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "b",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "c",
+        "label": "observe behaviors and compare them with indicator insights"
+      },
+      {
+        "id": "d",
+        "label": "label people strictly by their indicator type"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because combining observation with tools gives balanced assessment. Option a is incorrect because roles need broader assessment than one tool. Option b is incorrect because gathering data without using it wastes the effort. Option d is incorrect because rigid labels oversimplify and can bias interactions.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-008",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Facing a hybrid ecommerce refresh in manufacturing where stress is high due to rework and a go-live window is near, what should the project manager do first to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "b",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "c",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "d",
+        "label": "ask team members to validate whether the indicator reflects their style"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because validation prevents mislabeling and improves accuracy. Option a is incorrect because stereotypes are unreliable and harmful. Option b is incorrect because violating privacy damages trust. Option c is incorrect because roles need broader assessment than one tool.",
+    "difficulty": "easy",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-009",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "In a hybrid quality remediation in pharma where stakeholders are tense after a missed demo and leadership is visiting the team, what should the project manager do to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "note stress triggers suggested by the indicator and watch for them"
+      },
+      {
+        "id": "b",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "c",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "d",
+        "label": "skip assessments and rely on stereotypes"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because anticipating stress responses helps manage behavior. Option b is incorrect because gathering data without using it wastes the effort. Option c is incorrect because rigid labels oversimplify and can bias interactions. Option d is incorrect because stereotypes are unreliable and harmful.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-010",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Given a hybrid quality remediation in pharma where a key contributor reacts strongly to feedback and several overtime weeks occurred, which action best helps assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "b",
+        "label": "combine indicator results with feedback from peers"
+      },
+      {
+        "id": "c",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "d",
+        "label": "ignore indicator insights once collected"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because multiple inputs create a fuller behavioral view. Option a is incorrect because violating privacy damages trust. Option c is incorrect because roles need broader assessment than one tool. Option d is incorrect because gathering data without using it wastes the effort.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-011",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "While a hybrid security uplift in retail where a key contributor reacts strongly to feedback and a go-live window is near, what is the most effective next step to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "b",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "c",
+        "label": "use a vetted personality indicator and discuss results with team members"
+      },
+      {
+        "id": "d",
+        "label": "share indicator results without consent"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because ethical use with discussion improves understanding. Option a is incorrect because rigid labels oversimplify and can bias interactions. Option b is incorrect because stereotypes are unreliable and harmful. Option d is incorrect because violating privacy damages trust.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-012",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Facing a distributed agile security uplift in retail where stress is high due to rework and several overtime weeks occurred, what should the project manager do first to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "b",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "c",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "d",
+        "label": "observe behaviors and compare them with indicator insights"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because combining observation with tools gives balanced assessment. Option a is incorrect because roles need broader assessment than one tool. Option b is incorrect because gathering data without using it wastes the effort. Option c is incorrect because rigid labels oversimplify and can bias interactions.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-013",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "In a vendor-led security uplift in manufacturing where two leads are in visible conflict and a go-live window is near, what should the project manager do to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ask team members to validate whether the indicator reflects their style"
+      },
+      {
+        "id": "b",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "c",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "d",
+        "label": "assign roles solely based on an indicator"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because validation prevents mislabeling and improves accuracy. Option b is incorrect because stereotypes are unreliable and harmful. Option c is incorrect because violating privacy damages trust. Option d is incorrect because roles need broader assessment than one tool.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-014",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Given a matrixed process automation in retail where team members misread each other's tone and a difficult customer escalation is pending, which action best helps assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "b",
+        "label": "note stress triggers suggested by the indicator and watch for them"
+      },
+      {
+        "id": "c",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "d",
+        "label": "skip assessments and rely on stereotypes"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because anticipating stress responses helps manage behavior. Option a is incorrect because gathering data without using it wastes the effort. Option c is incorrect because rigid labels oversimplify and can bias interactions. Option d is incorrect because stereotypes are unreliable and harmful.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-015",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "While a hybrid quality remediation in pharma where stakeholders are tense after a missed demo and a go-live window is near, what is the most effective next step to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "b",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "c",
+        "label": "combine indicator results with feedback from peers"
+      },
+      {
+        "id": "d",
+        "label": "ignore indicator insights once collected"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because multiple inputs create a fuller behavioral view. Option a is incorrect because violating privacy damages trust. Option b is incorrect because roles need broader assessment than one tool. Option d is incorrect because gathering data without using it wastes the effort.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-016",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Facing a matrixed ecommerce refresh in retail where team members misread each other's tone and a difficult customer escalation is pending, what should the project manager do first to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "b",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "c",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "d",
+        "label": "use a vetted personality indicator and discuss results with team members"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because ethical use with discussion improves understanding. Option a is incorrect because rigid labels oversimplify and can bias interactions. Option b is incorrect because stereotypes are unreliable and harmful. Option c is incorrect because violating privacy damages trust.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-017",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "In a distributed agile security uplift in public sector where team members misread each other's tone and leadership is visiting the team, what should the project manager do to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "observe behaviors and compare them with indicator insights"
+      },
+      {
+        "id": "b",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "c",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "d",
+        "label": "label people strictly by their indicator type"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because combining observation with tools gives balanced assessment. Option b is incorrect because roles need broader assessment than one tool. Option c is incorrect because gathering data without using it wastes the effort. Option d is incorrect because rigid labels oversimplify and can bias interactions.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-018",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Given a cross-functional ecommerce refresh in fintech where a key contributor reacts strongly to feedback and leadership is visiting the team, which action best helps assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "b",
+        "label": "ask team members to validate whether the indicator reflects their style"
+      },
+      {
+        "id": "c",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "d",
+        "label": "assign roles solely based on an indicator"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because validation prevents mislabeling and improves accuracy. Option a is incorrect because stereotypes are unreliable and harmful. Option c is incorrect because violating privacy damages trust. Option d is incorrect because roles need broader assessment than one tool.",
+    "difficulty": "medium",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-019",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "While a hybrid policy modernization in fintech where stress is high due to rework and a go-live window is near, what is the most effective next step to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "b",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "c",
+        "label": "note stress triggers suggested by the indicator and watch for them"
+      },
+      {
+        "id": "d",
+        "label": "skip assessments and rely on stereotypes"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because anticipating stress responses helps manage behavior. Option a is incorrect because gathering data without using it wastes the effort. Option b is incorrect because rigid labels oversimplify and can bias interactions. Option d is incorrect because stereotypes are unreliable and harmful.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-020",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Facing a distributed agile process automation in retail where a key contributor reacts strongly to feedback and leadership is visiting the team, what should the project manager do first to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "b",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "c",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "d",
+        "label": "combine indicator results with feedback from peers"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because multiple inputs create a fuller behavioral view. Option a is incorrect because violating privacy damages trust. Option b is incorrect because roles need broader assessment than one tool. Option c is incorrect because gathering data without using it wastes the effort.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-021",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "In a matrixed security uplift in retail where stakeholders are tense after a missed demo and leadership is visiting the team, what should the project manager do to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "use a vetted personality indicator and discuss results with team members"
+      },
+      {
+        "id": "b",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "c",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "d",
+        "label": "share indicator results without consent"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because ethical use with discussion improves understanding. Option b is incorrect because rigid labels oversimplify and can bias interactions. Option c is incorrect because stereotypes are unreliable and harmful. Option d is incorrect because violating privacy damages trust.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-022",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Given a matrixed policy modernization in pharma where two leads are in visible conflict and budget conversations are tense, which action best helps assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "b",
+        "label": "observe behaviors and compare them with indicator insights"
+      },
+      {
+        "id": "c",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "d",
+        "label": "label people strictly by their indicator type"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because combining observation with tools gives balanced assessment. Option a is incorrect because roles need broader assessment than one tool. Option c is incorrect because gathering data without using it wastes the effort. Option d is incorrect because rigid labels oversimplify and can bias interactions.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-023",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "While a matrixed security uplift in public sector where two leads are in visible conflict and leadership is visiting the team, what is the most effective next step to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "b",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "c",
+        "label": "ask team members to validate whether the indicator reflects their style"
+      },
+      {
+        "id": "d",
+        "label": "assign roles solely based on an indicator"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because validation prevents mislabeling and improves accuracy. Option a is incorrect because stereotypes are unreliable and harmful. Option b is incorrect because violating privacy damages trust. Option d is incorrect because roles need broader assessment than one tool.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-024",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "Facing a cross-functional process automation in pharma where stakeholders are tense after a missed demo and a difficult customer escalation is pending, what should the project manager do first to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ignore indicator insights once collected"
+      },
+      {
+        "id": "b",
+        "label": "label people strictly by their indicator type"
+      },
+      {
+        "id": "c",
+        "label": "skip assessments and rely on stereotypes"
+      },
+      {
+        "id": "d",
+        "label": "note stress triggers suggested by the indicator and watch for them"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because anticipating stress responses helps manage behavior. Option a is incorrect because gathering data without using it wastes the effort. Option b is incorrect because rigid labels oversimplify and can bias interactions. Option c is incorrect because stereotypes are unreliable and harmful.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-14-1-025",
+    "domainId": "people",
+    "taskId": "people-14",
+    "enablerIds": [
+      "e-people-14-1"
+    ],
+    "text": "In a matrixed security uplift in pharma where stress is high due to rework and a difficult customer escalation is pending, what should the project manager do to assess behavior through the use of personality indicators?",
+    "options": [
+      {
+        "id": "a",
+        "label": "combine indicator results with feedback from peers"
+      },
+      {
+        "id": "b",
+        "label": "share indicator results without consent"
+      },
+      {
+        "id": "c",
+        "label": "assign roles solely based on an indicator"
+      },
+      {
+        "id": "d",
+        "label": "ignore indicator insights once collected"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because multiple inputs create a fuller behavioral view. Option b is incorrect because violating privacy damages trust. Option c is incorrect because roles need broader assessment than one tool. Option d is incorrect because gathering data without using it wastes the effort.",
+    "difficulty": "hard",
+    "topics": [
+      "emotional intelligence",
+      "personality indicators"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
   }
 ]

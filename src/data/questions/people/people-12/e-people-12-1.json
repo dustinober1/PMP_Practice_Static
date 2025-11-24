@@ -3,19 +3,900 @@
     "id": "q-people-12-1-001",
     "domainId": "people",
     "taskId": "people-12",
-    "enablerIds": ["e-people-12-1"],
-    "text": "Placeholder question for e-people-12-1 in people-12.",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "In a newly formed data integration in healthcare where meeting start times slip and multiple workstreams overlap, what should the project manager do to communicate organizational principles with the team and stakeholders?",
     "options": [
-      {"id": "a", "label": "Option A"},
-      {"id": "b", "label": "Option B"},
-      {"id": "c", "label": "Option C"},
-      {"id": "d", "label": "Option D"}
+      {
+        "id": "a",
+        "label": "explain the organizational principles and relate them to project scenarios"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "c",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "d",
+        "label": "focus only on internal team members and skip partners"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because contextualizing principles makes them meaningful. Option b is incorrect because unspoken expectations lead to inconsistent behavior. Option c is incorrect because without explanation, principles won't guide behavior. Option d is incorrect because partners also need to align to the principles.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-002",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Given a matrixed analytics platform in edtech where some members dominate discussions and several new hires just joined, which action best helps communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "b",
+        "label": "co-create examples of desired behaviors with the team"
+      },
+      {
+        "id": "c",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone already knows the principles"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because shared examples improve understanding and buy-in. Option a is incorrect because people need the why to commit to principles. Option c is incorrect because late communication reduces effectiveness. Option d is incorrect because unspoken expectations lead to inconsistent behavior.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-003",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "While a hybrid mobile app in public sector where some members dominate discussions and vendors are joining the team, what is the most effective next step to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "b",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "c",
+        "label": "publish concise guidelines and make them easy to access"
+      },
+      {
+        "id": "d",
+        "label": "deliver the rules as a list without context"
+      }
     ],
     "correctOptionId": "c",
-    "explanation": "This is a placeholder explanation for e-people-12-1.",
+    "explanation": "Option c is correct because clear, visible principles help everyone follow them. Option a is incorrect because without explanation, principles won't guide behavior. Option b is incorrect because partners also need to align to the principles. Option d is incorrect because people need the why to commit to principles.",
     "difficulty": "easy",
-    "topics": ["placeholder", "people"],
-    "process": "placeholder-process",
-    "knowledgeAreaId": "placeholder-knowledge-area"
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-004",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Facing a cross-functional data integration in healthcare where chat channels are noisy and unstructured and multiple workstreams overlap, what should the project manager do first to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "c",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "d",
+        "label": "include vendors and stakeholders in the principles briefing"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because external parties need to hear and align to principles. Option a is incorrect because late communication reduces effectiveness. Option b is incorrect because unspoken expectations lead to inconsistent behavior. Option c is incorrect because without explanation, principles won't guide behavior.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-005",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "In a agile analytics platform in fintech where chat channels are noisy and unstructured and key milestones are approaching, what should the project manager do to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "reinforce principles during onboarding and reviews"
+      },
+      {
+        "id": "b",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "c",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "d",
+        "label": "wait until a violation occurs before sharing principles"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because repetition and reinforcement improve adoption. Option b is incorrect because partners also need to align to the principles. Option c is incorrect because people need the why to commit to principles. Option d is incorrect because late communication reduces effectiveness.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-006",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Given a cross-functional analytics platform in public sector where documentation expectations are unclear and vendors are joining the team, which action best helps communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "b",
+        "label": "explain the organizational principles and relate them to project scenarios"
+      },
+      {
+        "id": "c",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "d",
+        "label": "focus only on internal team members and skip partners"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because contextualizing principles makes them meaningful. Option a is incorrect because unspoken expectations lead to inconsistent behavior. Option c is incorrect because without explanation, principles won't guide behavior. Option d is incorrect because partners also need to align to the principles.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-007",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "While a hybrid process reengineering in fintech where status updates are often late and a leadership review is upcoming, what is the most effective next step to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "b",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "c",
+        "label": "co-create examples of desired behaviors with the team"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone already knows the principles"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because shared examples improve understanding and buy-in. Option a is incorrect because people need the why to commit to principles. Option b is incorrect because late communication reduces effectiveness. Option d is incorrect because unspoken expectations lead to inconsistent behavior.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-008",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Facing a newly formed product launch in healthcare where chat channels are noisy and unstructured and vendors are joining the team, what should the project manager do first to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "b",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "c",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "d",
+        "label": "publish concise guidelines and make them easy to access"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because clear, visible principles help everyone follow them. Option a is incorrect because without explanation, principles won't guide behavior. Option b is incorrect because partners also need to align to the principles. Option c is incorrect because people need the why to commit to principles.",
+    "difficulty": "easy",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-009",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "In a hybrid data integration in retail where chat channels are noisy and unstructured and key milestones are approaching, what should the project manager do to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "include vendors and stakeholders in the principles briefing"
+      },
+      {
+        "id": "b",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "c",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "d",
+        "label": "keep the principles in a policy document without discussion"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because external parties need to hear and align to principles. Option b is incorrect because late communication reduces effectiveness. Option c is incorrect because unspoken expectations lead to inconsistent behavior. Option d is incorrect because without explanation, principles won't guide behavior.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-010",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Given a cross-functional process reengineering in edtech where documentation expectations are unclear and several new hires just joined, which action best helps communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "b",
+        "label": "reinforce principles during onboarding and reviews"
+      },
+      {
+        "id": "c",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "d",
+        "label": "wait until a violation occurs before sharing principles"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because repetition and reinforcement improve adoption. Option a is incorrect because partners also need to align to the principles. Option c is incorrect because people need the why to commit to principles. Option d is incorrect because late communication reduces effectiveness.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-011",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "While a agile mobile app in public sector where meeting start times slip and a leadership review is upcoming, what is the most effective next step to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "b",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "c",
+        "label": "explain the organizational principles and relate them to project scenarios"
+      },
+      {
+        "id": "d",
+        "label": "focus only on internal team members and skip partners"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because contextualizing principles makes them meaningful. Option a is incorrect because unspoken expectations lead to inconsistent behavior. Option b is incorrect because without explanation, principles won't guide behavior. Option d is incorrect because partners also need to align to the principles.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-012",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Facing a hybrid process reengineering in edtech where status updates are often late and several new hires just joined, what should the project manager do first to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "b",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "c",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "d",
+        "label": "co-create examples of desired behaviors with the team"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because shared examples improve understanding and buy-in. Option a is incorrect because people need the why to commit to principles. Option b is incorrect because late communication reduces effectiveness. Option c is incorrect because unspoken expectations lead to inconsistent behavior.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-013",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "In a cross-functional process reengineering in edtech where documentation expectations are unclear and key milestones are approaching, what should the project manager do to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "publish concise guidelines and make them easy to access"
+      },
+      {
+        "id": "b",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "c",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "d",
+        "label": "deliver the rules as a list without context"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because clear, visible principles help everyone follow them. Option b is incorrect because without explanation, principles won't guide behavior. Option c is incorrect because partners also need to align to the principles. Option d is incorrect because people need the why to commit to principles.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-014",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Given a matrixed mobile app in retail where meeting start times slip and several new hires just joined, which action best helps communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "b",
+        "label": "include vendors and stakeholders in the principles briefing"
+      },
+      {
+        "id": "c",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "d",
+        "label": "keep the principles in a policy document without discussion"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because external parties need to hear and align to principles. Option a is incorrect because late communication reduces effectiveness. Option c is incorrect because unspoken expectations lead to inconsistent behavior. Option d is incorrect because without explanation, principles won't guide behavior.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-015",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "While a agile analytics platform in retail where status updates are often late and several new hires just joined, what is the most effective next step to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "b",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "c",
+        "label": "reinforce principles during onboarding and reviews"
+      },
+      {
+        "id": "d",
+        "label": "wait until a violation occurs before sharing principles"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because repetition and reinforcement improve adoption. Option a is incorrect because partners also need to align to the principles. Option b is incorrect because people need the why to commit to principles. Option d is incorrect because late communication reduces effectiveness.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-016",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Facing a agile data integration in edtech where status updates are often late and several new hires just joined, what should the project manager do first to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "b",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "c",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "d",
+        "label": "explain the organizational principles and relate them to project scenarios"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because contextualizing principles makes them meaningful. Option a is incorrect because unspoken expectations lead to inconsistent behavior. Option b is incorrect because without explanation, principles won't guide behavior. Option c is incorrect because partners also need to align to the principles.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-017",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "In a newly formed product launch in fintech where documentation expectations are unclear and vendors are joining the team, what should the project manager do to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "co-create examples of desired behaviors with the team"
+      },
+      {
+        "id": "b",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "c",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone already knows the principles"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because shared examples improve understanding and buy-in. Option b is incorrect because people need the why to commit to principles. Option c is incorrect because late communication reduces effectiveness. Option d is incorrect because unspoken expectations lead to inconsistent behavior.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-018",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Given a cross-functional mobile app in healthcare where some members dominate discussions and several new hires just joined, which action best helps communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "b",
+        "label": "publish concise guidelines and make them easy to access"
+      },
+      {
+        "id": "c",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "d",
+        "label": "deliver the rules as a list without context"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because clear, visible principles help everyone follow them. Option a is incorrect because without explanation, principles won't guide behavior. Option c is incorrect because partners also need to align to the principles. Option d is incorrect because people need the why to commit to principles.",
+    "difficulty": "medium",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-019",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "While a hybrid analytics platform in fintech where some members dominate discussions and several new hires just joined, what is the most effective next step to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "c",
+        "label": "include vendors and stakeholders in the principles briefing"
+      },
+      {
+        "id": "d",
+        "label": "keep the principles in a policy document without discussion"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because external parties need to hear and align to principles. Option a is incorrect because late communication reduces effectiveness. Option b is incorrect because unspoken expectations lead to inconsistent behavior. Option d is incorrect because without explanation, principles won't guide behavior.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-020",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Facing a agile analytics platform in edtech where some members dominate discussions and vendors are joining the team, what should the project manager do first to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "b",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "c",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "d",
+        "label": "reinforce principles during onboarding and reviews"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because repetition and reinforcement improve adoption. Option a is incorrect because partners also need to align to the principles. Option b is incorrect because people need the why to commit to principles. Option c is incorrect because late communication reduces effectiveness.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-021",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "In a matrixed analytics platform in retail where some members dominate discussions and several new hires just joined, what should the project manager do to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "explain the organizational principles and relate them to project scenarios"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "c",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "d",
+        "label": "focus only on internal team members and skip partners"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because contextualizing principles makes them meaningful. Option b is incorrect because unspoken expectations lead to inconsistent behavior. Option c is incorrect because without explanation, principles won't guide behavior. Option d is incorrect because partners also need to align to the principles.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-022",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Given a hybrid process reengineering in public sector where status updates are often late and key milestones are approaching, which action best helps communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "b",
+        "label": "co-create examples of desired behaviors with the team"
+      },
+      {
+        "id": "c",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "d",
+        "label": "assume everyone already knows the principles"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b is correct because shared examples improve understanding and buy-in. Option a is incorrect because people need the why to commit to principles. Option c is incorrect because late communication reduces effectiveness. Option d is incorrect because unspoken expectations lead to inconsistent behavior.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-023",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "While a matrixed process reengineering in retail where status updates are often late and a leadership review is upcoming, what is the most effective next step to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "b",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "c",
+        "label": "publish concise guidelines and make them easy to access"
+      },
+      {
+        "id": "d",
+        "label": "deliver the rules as a list without context"
+      }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c is correct because clear, visible principles help everyone follow them. Option a is incorrect because without explanation, principles won't guide behavior. Option b is incorrect because partners also need to align to the principles. Option d is incorrect because people need the why to commit to principles.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "develop-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-024",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "Facing a matrixed process reengineering in fintech where status updates are often late and multiple workstreams overlap, what should the project manager do first to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "wait until a violation occurs before sharing principles"
+      },
+      {
+        "id": "b",
+        "label": "assume everyone already knows the principles"
+      },
+      {
+        "id": "c",
+        "label": "keep the principles in a policy document without discussion"
+      },
+      {
+        "id": "d",
+        "label": "include vendors and stakeholders in the principles briefing"
+      }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d is correct because external parties need to hear and align to principles. Option a is incorrect because late communication reduces effectiveness. Option b is incorrect because unspoken expectations lead to inconsistent behavior. Option c is incorrect because without explanation, principles won't guide behavior.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "manage-team",
+    "knowledgeAreaId": "resource"
+  },
+  {
+    "id": "q-people-12-1-025",
+    "domainId": "people",
+    "taskId": "people-12",
+    "enablerIds": [
+      "e-people-12-1"
+    ],
+    "text": "In a cross-functional product launch in healthcare where status updates are often late and key milestones are approaching, what should the project manager do to communicate organizational principles with the team and stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "label": "reinforce principles during onboarding and reviews"
+      },
+      {
+        "id": "b",
+        "label": "focus only on internal team members and skip partners"
+      },
+      {
+        "id": "c",
+        "label": "deliver the rules as a list without context"
+      },
+      {
+        "id": "d",
+        "label": "wait until a violation occurs before sharing principles"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a is correct because repetition and reinforcement improve adoption. Option b is incorrect because partners also need to align to the principles. Option c is incorrect because people need the why to commit to principles. Option d is incorrect because late communication reduces effectiveness.",
+    "difficulty": "hard",
+    "topics": [
+      "ground rules",
+      "principles"
+    ],
+    "process": "plan-resource-management",
+    "knowledgeAreaId": "resource"
   }
 ]
