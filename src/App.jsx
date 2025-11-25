@@ -6,6 +6,7 @@ import Navigation from './components/Navigation'
 import Home from './pages/Home'
 import NotFound from './pages/NotFound'
 import Quiz from './pages/Quiz'
+import Exam from './pages/Exam'
 import Flashcards from './pages/Flashcards'
 import Settings from './pages/Settings'
 import siteConfig from './site-config'
@@ -79,6 +80,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/quiz" element={<Quiz />} />
+            <Route path="/exam" element={<Exam />} />
             <Route path="/flashcards" element={<Flashcards />} />
             <Route path="/settings" element={<Settings />} />
             <Route path="*" element={<NotFound />} />

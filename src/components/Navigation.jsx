@@ -120,6 +120,13 @@ const Navigation = () => {
           Quiz
         </NavLink>
         <NavLink
+          to="/exam"
+          className={navLinkClass}
+          onClick={handleNavClick}
+        >
+          Exam
+        </NavLink>
+        <NavLink
           to="/flashcards"
           className={navLinkClass}
           onClick={handleNavClick}
