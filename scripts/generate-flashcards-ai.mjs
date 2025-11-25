@@ -1,11 +1,12 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import { execSync } from 'node:child_process'
+import { spawnSync } from 'node:child_process'
 
 const rootDir = path.resolve(new URL('.', import.meta.url).pathname, '..')
 const dataDir = path.join(rootDir, 'src', 'data')
 const sourceDir = path.join(dataDir, 'flashcards-source')
 const stateFile = path.join(rootDir, '.flashcards-generation-state.json')
+const defaultModel = process.env.FLASHCARDS_MODEL || 'llama3.1:8b'
 
 const readJson = (filePath) =>
   JSON.parse(fs.readFileSync(filePath, { encoding: 'utf8' }))
@@ -42,16 +43,21 @@ const parseEnablerId = (enablerId) => {
 }
 
 const buildPrompt = (enabler, domain, task) => {
+  const domainLine = `${domain.name} (${domain.id})`
+  const domainSummary = domain.summary ? `DOMAIN SUMMARY: ${domain.summary}\n` : ''
+  const taskLine = `${task.title} (${task.id})`
+  const taskDescription = task.description ? `TASK DESCRIPTION: ${task.description}\n` : ''
+
   return `You are a PMP exam prep expert creating simple concept flashcards.
 
-DOMAIN: ${domain.name}
-TASK: ${task.text}
-ENABLER: ${enabler.text}
+DOMAIN: ${domainLine}
+${domainSummary}TASK: ${taskLine}
+${taskDescription}ENABLER: ${enabler.text}
 
 Create exactly 100 simple concept flashcards with these rules:
 
 1. FORMAT: Each card as JSON object with front/back/tags/difficulty
-   - Front: Clear question starting with "What", "Define", "Explain"
+   - Front: Clear question starting with "What", "Define", or "Explain"
    - Back: Concise answer (1-3 sentences, PMBOK aligned)
    - Tags: 1-3 lowercase hyphen-separated terms
    - Difficulty: easy (50), medium (30), hard (20)
@@ -61,23 +67,27 @@ Create exactly 100 simple concept flashcards with these rules:
    - Common pitfalls and real-world applications
    - Self-contained cards (no ambiguous references)
 
-CRITICAL: Return ONLY the raw JSON array. No explanations, no "Here are", no markdown code blocks. Start directly with [ and end with ].
-
-Example format:
-[{"front":"What is conflict?","back":"A disagreement between parties...", "tags":["conflict"],"difficulty":"easy"}]`
+Return ONLY the raw JSON array. Do not add code fences or commentary. Start with [ and end with ].`
 }
 
 const callOllama = (prompt) => {
-  try {
-    const output = execSync('ollama run llama3.1:8b "' + prompt.replace(/"/g, '\\"') + '"', {
-      encoding: 'utf8',
-      timeout: 300000 // 5 minutes
-    })
-    return output.trim()
-  } catch (error) {
-    console.error('Ollama API call failed:', error.message)
-    throw error
+  const result = spawnSync('ollama', ['run', defaultModel], {
+    input: prompt,
+    encoding: 'utf8',
+    timeout: 300000
+  })
+
+  if (result.error) {
+    console.error('Ollama invocation failed:', result.error.message)
+    throw result.error
   }
+
+  if (result.status !== 0) {
+    const errorOutput = (result.stderr || '').trim() || `Model exited with status ${result.status}`
+    throw new Error(errorOutput)
+  }
+
+  return (result.stdout || '').trim()
 }
 
 const parseAndValidateCards = (jsonStr, enablerId) => {
@@ -159,6 +169,14 @@ const generateForEnabler = async (enabler, domains, tasks) => {
   const { domain, task, enablerNum } = parseEnablerId(enabler.id)
   const domainInfo = domains.find(d => d.id === domain)
   const taskInfo = tasks.find(t => t.id === task)
+
+  if (!domainInfo) {
+    throw new Error(`Domain not found for enabler ${enabler.id}`)
+  }
+
+  if (!taskInfo) {
+    throw new Error(`Task not found for enabler ${enabler.id}`)
+  }
 
   console.log(`\nGenerating cards for ${enabler.id}: ${enabler.text}`)
 
@@ -245,7 +263,10 @@ const main = async () => {
 
         const result = await generateForEnabler(enabler, domains, tasks)
 
-        state.completed.push(enabler.id)
+        if (!state.completed.includes(enabler.id)) {
+          state.completed.push(enabler.id)
+        }
+        state.failed = state.failed.filter(f => f.id !== enabler.id)
         processed++
 
         // Calculate ETA
@@ -259,6 +280,7 @@ const main = async () => {
 
       } catch (error) {
         console.error(`\n❌ Failed to generate cards for ${enabler.id}:`, error.message)
+        state.failed = state.failed.filter(f => f.id !== enabler.id)
         state.failed.push({ id: enabler.id, error: error.message })
       }
 

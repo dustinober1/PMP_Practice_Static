@@ -252,7 +252,7 @@ const main = () => {
     .map(([tag, count]) => `${tag} (${count})`)
 
   topTags.forEach(tagStr => {
-    console.log(`   ${tagStr})`)
+    console.log(`   ${tagStr}`)
   })
 
   // Final result

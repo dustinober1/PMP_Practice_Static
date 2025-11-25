@@ -36,10 +36,14 @@ const parseEnablerId = (filePath) => {
   return { domain, task, enablerNum, enablerId }
 }
 
+const normalizeTaskNumber = (task, domain) => {
+  return task.startsWith(`${domain}-`) ? task.slice(domain.length + 1) : task
+}
+
 const generateCardId = (domain, task, enablerNum, cardIndex) => {
-  // ID format: fc-{domain}-{task}-{enablerNum}-{cardNum}
+  const taskNumber = normalizeTaskNumber(task, domain)
   const cardNum = String(cardIndex + 1).padStart(3, '0')
-  return `fc-${domain}-${task}-${enablerNum}-${cardNum}`
+  return `fc-${domain}-${taskNumber}-${enablerNum}-${cardNum}`
 }
 
 const processCardsFile = (filePath, domain) => {
@@ -130,6 +134,7 @@ const main = () => {
   // Write merged files
   Object.entries(domainCards).forEach(([domain, cards]) => {
     const outputPath = path.join(outputDir, `${domain}.json`)
+    const aiIdPattern = /^fc-(people|process|business)-\d+-\d+-\d{3}$/
 
     // Read existing cards to preserve any manually created ones
     let existingCards = []
@@ -139,10 +144,7 @@ const main = () => {
     }
 
     // Filter out any existing AI-generated cards to avoid duplicates
-    const existingManualCards = existingCards.filter(card => {
-      // Keep cards that don't follow the new 4-segment ID pattern
-      return !card.id.match(/^fc-\w+-\w+-\d+-\d{3}$/)
-    })
+    const existingManualCards = existingCards.filter(card => !aiIdPattern.test(card.id))
 
     const allCards = [...existingManualCards, ...cards]
     writeJson(outputPath, allCards)
