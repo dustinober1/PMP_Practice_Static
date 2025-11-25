@@ -20,16 +20,20 @@ See `REDESIGN_SUMMARY.md` for complete redesign documentation.
 | Run dev server (port 5173) | `npm run dev` |
 | Build for production | `npm run build` |
 | Lint code | `npm run lint` |
+| Preview production build | `npm run preview` |
 | Merge per-enabler questions into main bank | `npm run generate:questions` |
 
 ## Key Project Structure
 
 ```
 src/
-├── App.jsx                    # Top-level router and shell layout
+├── App.jsx                    # Top-level router and theme management
+├── main.jsx                   # Vite entry point
 ├── pages/
 │   ├── Home.jsx              # Homepage; displays domain/task data
 │   ├── Quiz.jsx              # Main quiz experience
+│   ├── Exam.jsx              # Full exam simulator with timer
+│   ├── Flashcards.jsx        # Flashcard study mode
 │   ├── Settings.jsx          # User preferences, data export/import
 │   └── NotFound.jsx          # 404 fallback
 ├── components/
@@ -42,23 +46,45 @@ src/
 │   ├── Toast.jsx             # Auto-dismissing notifications
 │   ├── Skeleton.jsx          # Loading state placeholders
 │   ├── Navigation.jsx        # Mobile hamburger menu + desktop nav
+│   ├── Modal.jsx             # Accessible modal dialogs
 │   ├── QuizCard.jsx          # Single question + options + selection (dark mode)
-│   └── QuizFeedback.jsx      # Correctness feedback + explanation (dark mode)
+│   ├── QuizFeedback.jsx      # Correctness feedback + explanation (dark mode)
+│   ├── ExamTimer.jsx         # Exam countdown timer
+│   ├── ExamNavigator.jsx     # Exam question navigation
+│   ├── ExamProgress.jsx      # Exam completion progress
+│   ├── FlashcardCard.jsx     # Flashcard display with flip animation
+│   ├── FlashcardFilters.jsx  # Flashcard filtering controls
+│   └── FlashcardProgress.jsx # Flashcard study progress
 ├── stores/
 │   ├── useUserStore.js       # User profile, theme, donations (persisted)
-│   └── useProgressStore.js   # Quiz/study progress (persisted)
+│   └── useProgressStore.js   # Quiz/exam/flashcard progress (persisted)
 ├── hooks/
-│   └── useStaticData.js      # Data loader with caching for JSON imports
+│   └── useStaticData.js      # Data loader with caching and flashcard merging
 ├── data/
 │   ├── domains.json          # PMP domains
 │   ├── tasks.json            # Tasks keyed by domain
 │   ├── enablers.json         # Enablers with stable IDs
 │   ├── processes.json        # PMP processes
 │   ├── knowledge_areas.json  # Knowledge area tags
+│   ├── questions.json        # Merged question bank (generated)
 │   ├── questions/            # Per-enabler question source files
 │   │   └── <domain>/<taskId>/*.json  # e.g., people/people-4/e-people-4-1.json
+│   ├── flashcards/           # Flashcard data by domain
+│   │   ├── people.json       # People domain flashcards
+│   │   ├── process.json      # Process domain flashcards
+│   │   └── business.json     # Business domain flashcards
 │   └── questions_templates.json   # Scaffolds for consistent authoring
+├── assets/                   # Static images/icons referenced from React
 └── site-config.js            # Site metadata, donation links
+
+scripts/
+└── generate-questions.mjs    # Question bank generation script
+
+public/                       # Static assets copied to build
+├── favicon.ico
+└── ...
+
+dist/                         # Vite build output (do not edit)
 ```
 
 ## Critical Concepts
@@ -67,7 +93,7 @@ src/
 
 1. **Static Data**: All data lives in `src/data/*.json`. Vite imports these as ES modules (not fetched at runtime).
 2. **Question Generation**: Author questions per-enabler in `src/data/questions/<domain>/<taskId>/<enablerId>.json`, then run `npm run generate:questions` to merge them into the main bank. **Do not hand-edit the merged questions file.**
-3. **User State**: `useUserStore` and `useProgressStore` store data in localStorage. Both use zustand with versioning; bump version if breaking changes occur.
+3. **User State**: `useUserStore` (profile, theme, donations) and `useProgressStore` (quiz, exam, flashcard progress) store data in localStorage. Both use zustand with versioning; bump version if breaking changes occur.
 
 ### Routing
 
@@ -117,7 +143,8 @@ The application is fully accessible and compliant with WCAG 2.1 Level AA standar
 
 The `useStaticData()` hook in `src/hooks/useStaticData.js` loads all JSON data asynchronously with caching:
 - Returns `{ data, loading, error }` state object
-- Data keys: `domains`, `tasks`, `enablers`, `processes`, `knowledgeAreas`, `questions`
+- Data keys: `domains`, `tasks`, `enablers`, `processes`, `knowledgeAreas`, `questions`, `flashcards`
+- Flashcards are merged from three domain-specific files (`people.json`, `process.json`, `business.json`) into a single array
 - Cache is in-memory; cleared only on page reload
 
 Example usage:
@@ -137,7 +164,7 @@ return <div>{data.domains.length} domains loaded</div>
 2. Run `npm run generate:questions` to rebuild the main questions bank
 3. The app automatically loads from the merged `src/data/questions.json`
 
-**Note**: `src/data/questions.json` is generated; do not edit it by hand for People-domain questions.
+**Note**: `src/data/questions.json` is generated; do not edit it by hand. Edit per-enabler files and run `npm run generate:questions`.
 
 ## Reusable Component Library
 
@@ -194,11 +221,17 @@ import Badge from '../components/Badge'
 import Toast from '../components/Toast'
 import LoadingSpinner from '../components/LoadingSpinner'
 import Skeleton from '../components/Skeleton'
+import Modal from '../components/Modal'
 
 <Badge variant="success">Passed</Badge>
 <Toast message="Action completed!" type="success" />
 <LoadingSpinner size="md" label="Loading..." />
 <Skeleton count={3} height="h-6" />
+
+<Modal isOpen={isOpen} onClose={handleClose}>
+  <h2>Modal Title</h2>
+  <p>Modal content</p>
+</Modal>
 ```
 
 All components automatically support:
@@ -219,8 +252,8 @@ All components automatically support:
 
 1. **Page**: Create `src/pages/FeatureName.jsx`, add route to `App.jsx`
 2. **Component**: Create `src/components/ComponentName.jsx`, import into page or other components
-3. **State**: Use `useUserStore` or `useProgressStore` for persistent data; local state via `useState` for transient UI state
-4. **Data**: For new static data, add JSON to `src/data/` and update `useStaticData.js` loaders
+3. **State**: Use `useUserStore` (profile, theme, donations) or `useProgressStore` (quiz, exam, flashcard progress) for persistent data; local state via `useState` for transient UI state
+4. **Data**: For new static data, add JSON to `src/data/` and update loaders in `src/hooks/useStaticData.js`
 
 ### Debugging
 
@@ -231,10 +264,12 @@ All components automatically support:
 
 ### Dark Mode & Theme
 
-The application supports three theme modes:
+The application supports three theme modes (managed in `useUserStore`):
 1. **Light** - White backgrounds with dark text
 2. **Dark** - Zinc-950 backgrounds with light text
 3. **System** - Follows OS preference (default)
+
+Theme is applied via CSS classes on the `<html>` element and synced automatically in `src/App.jsx`. All components include `dark:` Tailwind variants for seamless theme switching.
 
 To test:
 ```bash
@@ -361,7 +396,15 @@ Key points:
 - `src/site-config.js` — site name, tagline, donation links
 - `src/data/questions_templates.json` — template for new questions
 - `src/data/enablers.json` — canonical enabler IDs (do not modify without updating questions)
+- `scripts/generate-questions.mjs` — merges per-enabler question files into main questions bank
+
+### Core Application Files
+- `src/App.jsx` — top-level router, theme management, and page layout
+- `src/hooks/useStaticData.js` — data loading hook with caching and flashcard merging
+- `src/stores/useUserStore.js` — user preferences, theme, and donation settings
+- `src/stores/useProgressStore.js` — quiz, exam, and flashcard progress tracking
 
 ### Styling
 - `src/index.css` — global styles, CSS variables, animations, and utilities
 - `src/App.css` — application shell styles (minimal)
+- Allways git commit and git push after every updated

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Expand the PMP Practice app's flashcard system to **100 simple concept flashcards per enabler** (13,000 total) using AI-assisted generation with a local LLM.
+Expand the PMP Practice app's flashcard system to **100 simple concept flashcards per enabler** (13,000 total) using AI-assisted generation. This plan details the file structure, data schema, AI prompt design, script creation, quality standards, implementation phases, risk management, and success metrics.
 
 **Current State:**
 - 130 total enablers (People: 50, Process: 60, Business: 20)
@@ -12,7 +12,6 @@ Expand the PMP Practice app's flashcard system to **100 simple concept flashcard
 **Target State:**
 - 13,000 flashcards (100 per enabler)
 - Simple concept format (term/definition, Q&A)
-- Generated using local LLM (Ollama with llama3.1:8b)
 - Organized in per-enabler source files, merged into 3 domain files
 
 ---
@@ -25,7 +24,7 @@ Expand the PMP Practice app's flashcard system to **100 simple concept flashcard
 ```
 src/data/flashcards-source/
 ├── people/
-│   ├── people-1/
+│   ├── people-1/  
 │   │   ├── e-people-1-1.json (100 cards)
 │   │   ├── e-people-1-2.json (100 cards)
 │   │   └── e-people-1-3.json (100 cards)
@@ -80,11 +79,6 @@ src/data/flashcards/
 
 ### 3. AI Generation Approach
 
-**Local LLM Setup:**
-- Tool: Ollama (https://ollama.ai)
-- Model: `llama3.1:8b` (good balance of speed/quality)
-- No API keys, no rate limits, no cost
-
 **Generation Prompt Template:**
 ```
 You are a PMP exam prep expert creating simple concept flashcards.
@@ -132,7 +126,6 @@ Return ONLY valid JSON array: [{"front": "...", "back": "...", "tags": [...], "d
 - Load enablers from `src/data/enablers.json`
 - For each enabler:
   - Build context-enriched AI prompt
-  - Call Ollama CLI or API
   - Parse JSON response
   - Validate structure (100 cards, 50/30/20 difficulty, required fields)
   - Write to `src/data/flashcards-source/<domain>/<task>/<enabler>.json`
@@ -271,14 +264,11 @@ Add to `package.json`:
 ### Phase 1: Setup & Tooling (2-4 hours)
 
 **Tasks:**
-1. Install Ollama: `brew install ollama` (macOS)
-2. Pull model: `ollama pull llama3.1:8b`
-3. Test: `ollama run llama3.1:8b "Hello"`
-4. Create `scripts/generate-flashcards-ai.mjs` (~500-800 lines)
-5. Create `scripts/generate-flashcards-merge.mjs` (~150-200 lines)
-6. Create `scripts/validate-flashcards.mjs` (~200-300 lines)
-7. Add NPM scripts to `package.json`
-8. Create directory: `src/data/flashcards-source/`
+1. Create `scripts/generate-flashcards-ai.mjs` (~500-800 lines)
+2. Create `scripts/generate-flashcards-merge.mjs` (~150-200 lines)
+3. Create `scripts/validate-flashcards.mjs` (~200-300 lines)
+4. Add NPM scripts to `package.json`
+5. Create directory: `src/data/flashcards-source/`
 
 **Validation:**
 - Test on 1 enabler: `npm run generate:flashcards:ai -- --enabler e-people-1-1`
@@ -469,11 +459,10 @@ The existing flashcard system already supports this expansion:
 ## Next Steps
 
 After plan approval:
-1. Install Ollama and test LLM connection
-2. Create AI generation script with prompt template
-3. Create merge and validation scripts
-4. Test on 1 enabler end-to-end
-5. Run pilot on 10 enablers
-6. Refine prompts based on pilot results
-7. Execute full-scale generation
-8. Merge, test, and deploy
+1. Create AI generation script with prompt template
+2. Create merge and validation scripts
+3. Test on 1 enabler end-to-end
+4. Run pilot on 10 enablers
+5. Refine prompts based on pilot results
+6. Execute full-scale generation
+7. Merge, test, and deploy

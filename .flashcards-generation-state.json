@@ -1,0 +1,10 @@
+{
+  "completed": [],
+  "failed": [
+    {
+      "id": "e-people-1-1",
+      "error": "Expected 100 cards, got 26"
+    }
+  ],
+  "current": null
+}
