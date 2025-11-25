@@ -3,7 +3,7 @@
   "failed": [
     {
       "id": "e-people-1-1",
-      "error": "Expected 100 cards, got 26"
+      "error": "Bad control character in string literal in JSON at position 3053 (line 58 column 147)"
     }
   ],
   "current": null
