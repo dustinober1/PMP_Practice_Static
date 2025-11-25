@@ -1,10 +1,6 @@
 {
-  "completed": [],
-  "failed": [
-    {
-      "id": "e-people-1-1",
-      "error": "Bad control character in string literal in JSON at position 3053 (line 58 column 147)"
-    }
+  "completed": [
+    "e-people-1-1"
   ],
-  "current": null
+  "failed": []
 }

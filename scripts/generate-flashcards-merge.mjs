@@ -1,170 +1,108 @@
-import fs from 'node:fs'
-import path from 'node:path'
+#!/usr/bin/env node
 
-const rootDir = path.resolve(new URL('.', import.meta.url).pathname, '..')
-const dataDir = path.join(rootDir, 'src', 'data')
-const sourceDir = path.join(dataDir, 'flashcards-source')
-const outputDir = path.join(dataDir, 'flashcards')
+import fs from 'fs/promises';
+import path from 'path';
 
-const readJson = (filePath) =>
-  JSON.parse(fs.readFileSync(filePath, { encoding: 'utf8' }))
+const FLASHCARDS_SOURCE_DIR = path.resolve('src/data/flashcards-source');
+const FLASHCARDS_OUTPUT_DIR = path.resolve('src/data/flashcards');
 
-const writeJson = (filePath, data) => {
-  fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, {
-    encoding: 'utf8'
-  })
-}
-
-const ensureDir = (dirPath) => {
-  if (!fs.existsSync(dirPath)) {
-    fs.mkdirSync(dirPath, { recursive: true })
-  }
-}
-
-const parseEnablerId = (filePath) => {
-  // Extract from: src/data/flashcards-source/people/people-1/e-people-1-1.json
-  const parts = filePath.split(path.sep)
-  const enablerFile = parts[parts.length - 1] // e-people-1-1.json
-  const enablerId = path.basename(enablerFile, '.json') // e-people-1-1
-  const domain = parts[parts.length - 3] // people
-  const task = parts[parts.length - 2] // people-1
-
-  // Extract enabler number from e-people-1-1 -> 1
-  const enablerParts = enablerId.split('-')
-  const enablerNum = enablerParts[enablerParts.length - 1]
-
-  return { domain, task, enablerNum, enablerId }
-}
-
-const normalizeTaskNumber = (task, domain) => {
-  return task.startsWith(`${domain}-`) ? task.slice(domain.length + 1) : task
-}
-
-const generateCardId = (domain, task, enablerNum, cardIndex) => {
-  const taskNumber = normalizeTaskNumber(task, domain)
-  const cardNum = String(cardIndex + 1).padStart(3, '0')
-  return `fc-${domain}-${taskNumber}-${enablerNum}-${cardNum}`
-}
-
-const processCardsFile = (filePath, domain) => {
-  const { domain: fileDomain, task, enablerNum } = parseEnablerId(filePath)
-  const sourceCards = readJson(filePath)
-
-  if (!Array.isArray(sourceCards)) {
-    console.warn(`Skipping invalid file (not an array): ${filePath}`)
-    return []
-  }
-
-  const processedCards = sourceCards.map((card, index) => {
-    const enhancedCard = {
-      id: generateCardId(fileDomain, task, enablerNum, index),
-      domainId: fileDomain,
-      taskId: task,
-      type: "concept", // All AI-generated cards are concept type
-      front: card.front,
-      back: card.back,
-      tags: Array.isArray(card.tags) ? card.tags : [],
-      difficulty: card.difficulty || "medium"
+/**
+ * Reads a JSON file and returns its content, or an empty array if it doesn't exist.
+ * @param {string} filePath - The path to the JSON file.
+ * @returns {Promise<object[]>} The parsed JSON data.
+ */
+async function readJsonSafe(filePath) {
+  try {
+    const content = await fs.readFile(filePath, 'utf-8');
+    return JSON.parse(content);
+  } catch (error) {
+    if (error.code === 'ENOENT') {
+      return []; // Return empty array if file doesn't exist
     }
-
-    return enhancedCard
-  })
-
-  console.log(`📝 Processed ${processedCards.length} cards from ${path.basename(filePath)}`)
-  return processedCards
+    throw error;
+  }
 }
 
-const main = () => {
-  console.log('🔄 Merging flashcard files from source directory...')
+async function main() {
+  await fs.mkdir(FLASHCARDS_OUTPUT_DIR, { recursive: true });
 
-  if (!fs.existsSync(sourceDir)) {
-    console.error(`❌ Source directory not found: ${sourceDir}`)
-    console.log('Run the AI generation script first to create source files.')
-    process.exit(1)
-  }
-
-  ensureDir(outputDir)
-
-  const domainCards = {
+  const mergedFlashcards = {
     people: [],
     process: [],
-    business: []
+    business: [],
+  };
+
+  // 1. Read existing flashcards and preserve manually-created ones
+  for (const domain in mergedFlashcards) {
+    const existingPath = path.join(FLASHCARDS_OUTPUT_DIR, `${domain}.json`);
+    const existingCards = await readJsonSafe(existingPath);
+    const manualCards = existingCards.filter(card => !card.id.startsWith('fc-'));
+    mergedFlashcards[domain] = manualCards;
+    console.log(`Preserving ${manualCards.length} manual flashcards for domain: ${domain}`);
   }
 
-  let totalFiles = 0
-  let totalCards = 0
+  // 2. Walk the source directory and merge AI-generated cards
+  try {
+    const domains = await fs.readdir(FLASHCARDS_SOURCE_DIR);
 
-  // Walk the source directory tree
-  const walk = (dir) => {
-    fs.readdirSync(dir, { withFileTypes: true }).forEach((entry) => {
-      const fullPath = path.join(dir, entry.name)
+    for (const domain of domains) {
+      if (!mergedFlashcards[domain]) continue;
 
-      if (entry.isDirectory()) {
-        walk(fullPath)
-      } else if (entry.isFile() && entry.name.endsWith('.json')) {
-        totalFiles++
+      const domainPath = path.join(FLASHCARDS_SOURCE_DIR, domain);
+      if (!(await fs.stat(domainPath)).isDirectory()) continue;
 
-        // Determine domain from file path
-        const relativePath = path.relative(sourceDir, fullPath)
-        const domain = relativePath.split(path.sep)[0]
+      const taskDirs = await fs.readdir(domainPath);
+      for (const taskDir of taskDirs) {
+        const taskPath = path.join(domainPath, taskDir);
+        if (!(await fs.stat(taskPath)).isDirectory()) continue;
 
-        if (!domainCards[domain]) {
-          console.warn(`⚠️  Unknown domain "${domain}" in file: ${fullPath}`)
-          return
-        }
+        const enablerFiles = await fs.readdir(taskPath);
+        for (const enablerFile of enablerFiles) {
+          if (!enablerFile.endsWith('.json')) continue;
 
-        try {
-          const cards = processCardsFile(fullPath, domain)
-          domainCards[domain].push(...cards)
-          totalCards += cards.length
-        } catch (error) {
-          console.error(`❌ Error processing file ${fullPath}:`, error.message)
+          const enablerPath = path.join(taskPath, enablerFile);
+          const content = await fs.readFile(enablerPath, 'utf-8');
+          const newCards = JSON.parse(content);
+
+          const enablerId = path.basename(enablerFile, '.json'); // e.g., "e-people-1-1"
+          const taskId = taskDir; // e.g., "people-1"
+
+          const taskNumber = taskId.split('-')[1];
+          const enablerNumber = enablerId.split('-')[3];
+
+          newCards.forEach((card, index) => {
+            const cardNum = String(index + 1).padStart(3, '0');
+
+            card.id = `fc-${domain}-${taskNumber}-${enablerNumber}-${cardNum}`;
+            card.domainId = domain;
+            card.taskId = taskId;
+            card.type = 'concept';
+
+            mergedFlashcards[domain].push(card);
+          });
         }
       }
-    })
-  }
-
-  walk(sourceDir)
-
-  // Sort all cards by ID for consistency
-  Object.keys(domainCards).forEach(domain => {
-    domainCards[domain].sort((a, b) => a.id.localeCompare(b.id))
-  })
-
-  // Write merged files
-  Object.entries(domainCards).forEach(([domain, cards]) => {
-    const outputPath = path.join(outputDir, `${domain}.json`)
-    const aiIdPattern = /^fc-(people|process|business)-\d+-\d+-\d{3}$/
-
-    // Read existing cards to preserve any manually created ones
-    let existingCards = []
-    if (fs.existsSync(outputPath)) {
-      existingCards = readJson(outputPath)
-      console.log(`📖 Found ${existingCards.length} existing cards in ${domain}.json`)
     }
 
-    // Filter out any existing AI-generated cards to avoid duplicates
-    const existingManualCards = existingCards.filter(card => !aiIdPattern.test(card.id))
+    // 3. Write the final merged files
+    for (const domain in mergedFlashcards) {
+      const outputPath = path.join(FLASHCARDS_OUTPUT_DIR, `${domain}.json`);
+      // Sort by ID for consistent output
+      mergedFlashcards[domain].sort((a, b) => a.id.localeCompare(b.id));
+      await fs.writeFile(outputPath, JSON.stringify(mergedFlashcards[domain], null, 2));
+      console.log(`Wrote ${mergedFlashcards[domain].length} total flashcards to ${outputPath}`);
+    }
 
-    const allCards = [...existingManualCards, ...cards]
-    writeJson(outputPath, allCards)
+    console.log('Flashcard merging complete.');
 
-    console.log(`✅ ${domain}: ${existingManualCards.length} manual + ${cards.length} AI = ${allCards.length} total cards`)
-  })
-
-  console.log('\n📊 Merge Summary:')
-  console.log(`📁 Files processed: ${totalFiles}`)
-  console.log(`🃏 Total cards generated: ${totalCards}`)
-  console.log(`🏗️  Domain breakdown:`)
-  Object.entries(domainCards).forEach(([domain, cards]) => {
-    console.log(`   ${domain}: ${cards.length} cards`)
-  })
-
-  console.log('\n🎉 Flashcard merge completed successfully!')
-  console.log('\nNext steps:')
-  console.log('1. Run: npm run dev')
-  console.log('2. Navigate to /flashcards to test the application')
-  console.log('3. Verify cards load correctly and filters work')
+  } catch (error) {
+    if (error.code === 'ENOENT') {
+      console.log('No new flashcards to merge. Skipping.');
+      return;
+    }
+    console.error('An unexpected error occurred during merging:', error);
+    process.exit(1);
+  }
 }
 
-main()
+main();
