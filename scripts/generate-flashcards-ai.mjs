@@ -48,31 +48,23 @@ DOMAIN: ${domain.name}
 TASK: ${task.text}
 ENABLER: ${enabler.text}
 
-Create exactly 100 simple concept flashcards with:
+Create exactly 100 simple concept flashcards with these rules:
 
-1. FORMAT: Term/definition or concept/explanation
-   - Front: Clear question (e.g., "What is X?", "Define Y", "Explain Z")
-   - Back: Concise answer (1-3 sentences max)
+1. FORMAT: Each card as JSON object with front/back/tags/difficulty
+   - Front: Clear question starting with "What", "Define", "Explain"
+   - Back: Concise answer (1-3 sentences, PMBOK aligned)
+   - Tags: 1-3 lowercase hyphen-separated terms
+   - Difficulty: easy (50), medium (30), hard (20)
 
-2. DIFFICULTY DISTRIBUTION:
-   - 50 cards: easy (basic definitions)
-   - 30 cards: medium (application, relationships)
-   - 20 cards: hard (nuances, edge cases, comparisons)
+2. CONTENT FOCUS:
+   - Core terminology, techniques, best practices
+   - Common pitfalls and real-world applications
+   - Self-contained cards (no ambiguous references)
 
-3. CONTENT COVERAGE:
-   - Key terminology specific to this enabler
-   - Core techniques and tools
-   - Best practices and principles
-   - Common pitfalls
-   - Real-world applications
+CRITICAL: Return ONLY the raw JSON array. No explanations, no "Here are", no markdown code blocks. Start directly with [ and end with ].
 
-4. QUALITY:
-   - Each card self-contained (no ambiguous references)
-   - PMBOK 7th Edition aligned
-   - No duplicates within the set
-   - 1-3 relevant tags per card (lowercase, hyphen-separated)
-
-Return ONLY valid JSON array: [{"front": "...", "back": "...", "tags": [...], "difficulty": "easy"}, ...]`
+Example format:
+[{"front":"What is conflict?","back":"A disagreement between parties...", "tags":["conflict"],"difficulty":"easy"}]`
 }
 
 const callOllama = (prompt) => {
@@ -90,7 +82,16 @@ const callOllama = (prompt) => {
 
 const parseAndValidateCards = (jsonStr, enablerId) => {
   try {
-    const cards = JSON.parse(jsonStr)
+    // Try to extract JSON from response if it contains extra text
+    let jsonToParse = jsonStr.trim()
+
+    // Look for JSON array pattern in the response
+    const jsonMatch = jsonStr.match(/\[.*\]/s)
+    if (jsonMatch) {
+      jsonToParse = jsonMatch[0]
+    }
+
+    const cards = JSON.parse(jsonToParse)
 
     if (!Array.isArray(cards)) {
       throw new Error('Response is not an array')
