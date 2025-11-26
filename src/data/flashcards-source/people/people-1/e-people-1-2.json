@@ -1,0 +1,602 @@
+[
+{
+"front": "What is the primary purpose of analyzing the context of a conflict?",
+"back": "To understand the surrounding environment, constraints, and dynamics to select the most effective resolution strategy.",
+"tags": ["context", "purpose"],
+"difficulty": "easy"
+},
+{
+"front": "How does the 'Team Charter' help in analyzing conflict context?",
+"back": "It provides the agreed-upon values, decision-making guidelines, and conflict resolution processes established by the team.",
+"tags": ["team-charter", "context"],
+"difficulty": "easy"
+},
+{
+"front": "What are 'Ground Rules' in the context of conflict?",
+"back": "Explicit agreements made by the team regarding acceptable behavior, communication, and how to handle disagreements.",
+"tags": ["ground-rules", "context"],
+"difficulty": "easy"
+},
+{
+"front": "What role does 'Project Life Cycle' play in conflict context?",
+"back": "The stage of the project (e.g., storming phase vs. closing phase) influences the frequency and nature of conflicts.",
+"tags": ["lifecycle", "context"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Psychological Safety'?",
+"back": "A shared belief that the team is safe for interpersonal risk-taking, allowing members to voice dissent without fear of punishment.",
+"tags": ["context", "psychological-safety"],
+"difficulty": "easy"
+},
+{
+"front": "How do tight deadlines influence the context of conflict resolution?",
+"back": "Severe time constraints often limit the ability to collaborate, pushing the manager toward 'Competing' or 'Compromising'.",
+"tags": ["constraints", "schedule"],
+"difficulty": "easy"
+},
+{
+"front": "What is BATNA in the context of negotiation and conflict?",
+"back": "Best Alternative To a Negotiated Agreement; knowing what you will do if a resolution cannot be reached.",
+"tags": ["negotiation", "batna"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Distributive Negotiation'?",
+"back": "A negotiation approach that treats resources as fixed (zero-sum), where one party's gain is another's loss.",
+"tags": ["negotiation", "distributive"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Integrative Negotiation'?",
+"back": "A negotiation approach that focuses on expanding the 'pie' to create value and mutual gain (win-win).",
+"tags": ["negotiation", "integrative"],
+"difficulty": "easy"
+},
+{
+"front": "How does a 'Functional Organization' structure affect conflict context?",
+"back": "Project managers often have limited authority, leading to resource conflicts with functional managers who control the staff.",
+"tags": ["organization", "structure"],
+"difficulty": "easy"
+},
+{
+"front": "What is the impact of 'cultural diversity' on conflict context?",
+"back": "It introduces variations in communication styles and values, requiring higher cultural awareness to interpret disputes correctly.",
+"tags": ["context", "culture"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Servant Leader’s' role in conflict contexts?",
+"back": "To remove impediments, facilitate communication, and coach the team to resolve their own conflicts constructively.",
+"tags": ["leadership", "servant-leadership"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Facilitation'?",
+"back": "The process of guiding a group through a structured discussion to solve problems or resolve conflicts effectively.",
+"tags": ["tools", "facilitation"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Mediation'?",
+"back": "A conflict resolution process where a neutral third party assists disputing parties in reaching a mutually acceptable solution.",
+"tags": ["tools", "mediation"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Arbitration'?",
+"back": "A conflict resolution method where a neutral third party hears evidence and makes a binding decision for the parties.",
+"tags": ["tools", "arbitration"],
+"difficulty": "easy"
+},
+{
+"front": "When analyzing context, what does 'Stakeholder Power' refer to?",
+"back": "The ability of a stakeholder to influence project outcomes, which impacts how a Project Manager addresses their conflicts.",
+"tags": ["stakeholders", "power"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Active Listening'?",
+"back": "Fully concentrating, understanding, responding, and remembering what is being said to validate the speaker's perspective.",
+"tags": ["communication", "active-listening"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Halo Effect' bias in conflict context?",
+"back": "Allowing a positive impression of a person in one area to influence opinion in another area, potentially masking their role in conflict.",
+"tags": ["bias", "psychology"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Confirmation Bias' in conflict analysis?",
+"back": "The tendency to search for or interpret information in a way that confirms one's preexisting beliefs about the conflict.",
+"tags": ["bias", "psychology"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Agile Retrospective' role in conflict?",
+"back": "A regular meeting specifically designed to inspect team dynamics and resolve process or interaction conflicts.",
+"tags": ["agile", "ceremonies"],
+"difficulty": "easy"
+},
+{
+"front": "How does 'Geographic Dispersion' impact conflict context?",
+"back": "It increases the risk of miscommunication due to lack of visual cues and time zone delays.",
+"tags": ["context", "virtual-teams"],
+"difficulty": "easy"
+},
+{
+"front": "What is the primary risk of using email to resolve conflict?",
+"back": "Tone is easily misinterpreted, often escalating the conflict (the 'disinhibition effect').",
+"tags": ["communication", "risk"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'EQ' or 'Emotional Intelligence'?",
+"back": "The ability to identify, assess, and control the emotions of oneself, of others, and of groups.",
+"tags": ["skills", "emotional-intelligence"],
+"difficulty": "easy"
+},
+{
+"front": "What defines a 'High-Context' culture in conflict?",
+"back": "Communication relies heavily on non-verbal cues and relationships; conflict is often handled indirectly to save face.",
+"tags": ["culture", "communication"],
+"difficulty": "easy"
+},
+{
+"front": "What defines a 'Low-Context' culture in conflict?",
+"back": "Communication is explicit and direct; conflict is usually handled by addressing the facts openly.",
+"tags": ["culture", "communication"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Fist of Five' voting technique?",
+"back": "A consensus-building tool where team members show fingers (1-5) to indicate their level of agreement.",
+"tags": ["decision-making", "tools"],
+"difficulty": "easy"
+},
+{
+"front": "What constitutes 'Ethical Conflict'?",
+"back": "Disagreements arising from differing moral principles or adherence to the PMI Code of Ethics.",
+"tags": ["ethics", "types"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Project Management Plan' role in conflict?",
+"back": "It serves as the factual baseline (scope, schedule, cost) to resolve disputes based on data rather than opinion.",
+"tags": ["artifacts", "baseline"],
+"difficulty": "easy"
+},
+{
+"front": "How does 'Resource Scarcity' define the conflict context?",
+"back": "It creates a structural environment of competition where one party's gain of a resource is another's loss.",
+"tags": ["context", "resources"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Groupthink'?",
+"back": "A phenomenon where the desire for harmony results in irrational decision-making and suppression of dissenting conflict.",
+"tags": ["group-dynamics", "risk"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Zone of Possible Agreement' (ZOPA)?",
+"back": "The range in a negotiation where two parties' interests overlap and a deal can be made.",
+"tags": ["negotiation", "zopa"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Social Loafing' as a context for conflict?",
+"back": "When team members exert less effort in a group than when working alone, causing resentment among high performers.",
+"tags": ["team-dynamics", "performance"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Internal' vs 'External' conflict context?",
+"back": "Internal is within the project team; External involves vendors, customers, or regulatory bodies.",
+"tags": ["context", "scope"],
+"difficulty": "easy"
+},
+{
+"front": "Why is 'Self-Regulation' important for a PM in conflict?",
+"back": "It prevents the PM from reacting impulsively to provocation, allowing for a measured, professional response.",
+"tags": ["emotional-intelligence", "leadership"],
+"difficulty": "easy"
+},
+{
+"front": "What is the outcome of a 'Consensus' decision?",
+"back": "A decision where everyone agrees to support the outcome, even if it wasn't their first choice.",
+"tags": ["decision-making", "consensus"],
+"difficulty": "easy"
+},
+{
+"front": "How does 'Project Scope' clarity affect conflict?",
+"back": "Clear scope reduces conflict; ambiguous scope increases conflict regarding 'what' needs to be done.",
+"tags": ["scope", "ambiguity"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Constructive Feedback'?",
+"back": "Specific, issue-focused information given to help improve performance, not to attack the person.",
+"tags": ["communication", "feedback"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Nonverbal Communication' in conflict analysis?",
+"back": "Body language, facial expressions, and tone of voice that often convey the true emotional state behind words.",
+"tags": ["communication", "nonverbal"],
+"difficulty": "easy"
+},
+{
+"front": "What is the benefit of 'Face-to-Face' communication in conflict?",
+"back": "It allows for the richest transmission of data (verbal + nonverbal), reducing misunderstandings.",
+"tags": ["communication", "methods"],
+"difficulty": "easy"
+},
+{
+"front": "How does 'Seniority' impact conflict context?",
+"back": "Hierarchical gaps can silence junior members, requiring the PM to actively encourage their input.",
+"tags": ["context", "hierarchy"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Conflict Escalation'?",
+"back": "The process where a conflict grows in severity, moving from a simple disagreement to a major dispute or relationship breakdown.",
+"tags": ["process", "escalation"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Positional Bargaining'?",
+"back": "Negotiating by holding onto a fixed idea (position) rather than exploring underlying interests.",
+"tags": ["negotiation", "pitfalls"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Interest-Based Bargaining'?",
+"back": "Negotiating by focusing on the 'why' (interests) behind the demands to find mutual value.",
+"tags": ["negotiation", "best-practices"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'escalation path' in a project?",
+"back": "The defined chain of command for resolving issues that the project team cannot resolve themselves.",
+"tags": ["governance", "escalation"],
+"difficulty": "easy"
+},
+{
+"front": "What does it mean to 'agree to disagree'?",
+"back": "Accepting that a resolution cannot be reached on a specific point, but moving forward with the relationship intact.",
+"tags": ["resolution", "acceptance"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Assertiveness' in conflict contexts?",
+"back": "The ability to state your needs and rights clearly and confidently without being aggressive.",
+"tags": ["skills", "assertiveness"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Cooperativeness' in conflict contexts?",
+"back": "The degree to which one party attempts to satisfy the other party's concerns.",
+"tags": ["skills", "cooperativeness"],
+"difficulty": "easy"
+},
+{
+"front": "How does 'Trust' influence conflict resolution?",
+"back": "High trust leads to faster, more open resolution; low trust leads to defensiveness and hiding information.",
+"tags": ["team-dynamics", "trust"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Nominal Group Technique'?",
+"back": "A structured brainstorming process used to prioritize ideas and reduce conflict by giving everyone an equal voice.",
+"tags": ["tools", "decision-making"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'issue log' role in conflict?",
+"back": "It documents the active issues/conflicts to ensure they are tracked, assigned an owner, and resolved.",
+"tags": ["artifacts", "issue-log"],
+"difficulty": "easy"
+},
+{
+"front": "When analyzing context, why does the PM consider the 'Relative Importance' of the issue?",
+"back": "To decide whether to Compete (high importance) or Accommodate (low importance/social credit).",
+"tags": ["strategy", "prioritization"],
+"difficulty": "medium"
+},
+{
+"front": "How does a 'Matrix' environment complicate conflict resolution?",
+"back": "Team members have dual reporting lines (Project Manager vs. Functional Manager), often causing 'Who do I listen to?' conflicts.",
+"tags": ["context", "matrix-organization"],
+"difficulty": "medium"
+},
+{
+"front": "If a conflict is caused by a 'Personality Clash', why is 'Force/Direct' often ineffective?",
+"back": "Forcing a behavioral change rarely changes the underlying emotional dislike; it only suppresses the symptom.",
+"tags": ["application", "personality"],
+"difficulty": "medium"
+},
+{
+"front": "When is 'Escalation' to a sponsor the appropriate recommendation?",
+"back": "When the conflict involves resources or decisions outside the PM's authority, or when the team cannot resolve it after multiple attempts.",
+"tags": ["application", "escalation"],
+"difficulty": "medium"
+},
+{
+"front": "Why might a PM choose 'Smoothing' in a high-stress context?",
+"back": "To lower the emotional temperature and preserve relationships temporarily so the actual problem can be solved later.",
+"tags": ["application", "smoothing"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Time Pressure' specifically inhibit 'Collaboration'?",
+"back": "Collaboration requires extensive dialogue and consensus-building, which is impossible if a decision is needed in 1 hour.",
+"tags": ["context", "constraints"],
+"difficulty": "medium"
+},
+{
+"front": "What is the risk of using 'Voting' to resolve a deep conflict?",
+"back": "It creates 'winners' and 'losers', potentially leading to resentment and lack of commitment from the losing side.",
+"tags": ["pitfalls", "decision-making"],
+"difficulty": "medium"
+},
+{
+"front": "In a Virtual Team context, how should a PM handle a flame war in chat?",
+"back": "Move the conversation immediately to a synchronous channel (video/voice) to re-establish human connection and tone.",
+"tags": ["application", "virtual-teams"],
+"difficulty": "medium"
+},
+{
+"front": "How does the 'Sponsor’s' attitude affect the PM's conflict strategy?",
+"back": "If the sponsor is risk-averse, the PM might avoid bold confrontations; if aggressive, the PM might be pushed toward Competing.",
+"tags": ["context", "stakeholder-engagement"],
+"difficulty": "medium"
+},
+{
+"front": "What is the relationship between 'Quality' requirements and conflict?",
+"back": "High quality usually costs more or takes longer; this 'Triple Constraint' tension is a permanent structural context for conflict.",
+"tags": ["context", "constraints"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Private Meeting' preferred over 'Team Meeting' for interpersonal conflict?",
+"back": "It prevents public shaming (saving face) and allows parties to be vulnerable without an audience.",
+"tags": ["application", "best-practices"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Ambiguity' in the project charter lead to later conflict?",
+"back": "Vague objectives allow stakeholders to form different mental models of success, leading to disappointment and dispute.",
+"tags": ["root-cause", "planning"],
+"difficulty": "medium"
+},
+{
+"front": "When does a PM act as a 'Mediator' vs. a 'Judge'?",
+"back": "PMs mediate (facilitate solution) usually; they judge (decide outcome) only when consensus fails or time is critical.",
+"tags": ["role", "leadership"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Cultural Awareness' impact the interpretation of silence during a conflict?",
+"back": "In some cultures, silence means agreement; in others, it means strong disapproval. Context is key.",
+"tags": ["culture", "communication"],
+"difficulty": "medium"
+},
+{
+"front": "Why must a PM analyze 'Hidden Agendas'?",
+"back": "A stakeholder may create conflict ostensibly over 'schedule' to actually delay a project they dislike personally.",
+"tags": ["analysis", "politics"],
+"difficulty": "medium"
+},
+{
+"front": "What is the 'cooling off period' strategy?",
+"back": "A tactical use of 'Avoiding/Withdrawing' to let emotions settle before attempting resolution.",
+"tags": ["tactics", "avoiding"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Resource Leveling' software often trigger conflict?",
+"back": "It automatically moves dates or people based on logic, ignoring human preferences or commitments.",
+"tags": ["tools", "scheduling"],
+"difficulty": "medium"
+},
+{
+"front": "What is the danger of 'premature consensus'?",
+"back": "The team agrees too quickly to avoid conflict (Groupthink), missing critical risks or better solutions.",
+"tags": ["pitfalls", "group-dynamics"],
+"difficulty": "medium"
+},
+{
+"front": "How do 'Agile Values' influence conflict resolution?",
+"back": "They prioritize 'Individuals and interactions', suggesting conflicts should be resolved by the team members themselves, face-to-face.",
+"tags": ["agile", "values"],
+"difficulty": "medium"
+},
+{
+"front": "If a team member is a 'brilliant jerk', why is context analysis critical?",
+"back": "The PM must weigh their technical contribution against the toxic impact on the team (Context: Short term gain vs Long term damage).",
+"tags": ["analysis", "team-dynamics"],
+"difficulty": "medium"
+},
+{
+"front": "What implies that a conflict resolution was 'Superficial'?",
+"back": "The same issue re-emerges shortly after, indicating only the symptoms were addressed (e.g., Smoothing).",
+"tags": ["diagnosis", "effectiveness"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Asking open-ended questions' a key technique in conflict analysis?",
+"back": "It forces parties to explain their 'Why' (interests) rather than just stating their 'What' (positions).",
+"tags": ["techniques", "communication"],
+"difficulty": "medium"
+},
+{
+"front": "When is 'Third-Party Mediation' (external) recommended?",
+"back": "When the conflict is deep-seated, the PM is biased or involved, or the team is in a 'World War' (Level 5) state.",
+"tags": ["application", "escalation"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Change Management' relate to conflict?",
+"back": "Change disrupts the status quo; resistance to change is a natural and expected source of conflict.",
+"tags": ["context", "change"],
+"difficulty": "medium"
+},
+{
+"front": "What is the 'Fixed Pie' assumption?",
+"back": "The incorrect belief that value is static (Win-Lose), which prevents creative, integrative (Win-Win) solutions.",
+"tags": ["negotiation", "mindset"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Role Ambiguity' act as a context for conflict?",
+"back": "If R&R (Roles & Responsibilities) are not defined (e.g., RACI), people fight over who decides vs. who does the work.",
+"tags": ["context", "roles"],
+"difficulty": "medium"
+},
+{
+"front": "When is 'Force' (Competing) legally required?",
+"back": "When the issue involves compliance with laws, safety regulations, or ethical breaches.",
+"tags": ["application", "legal"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Active Listening' difficult during conflict?",
+"back": "High emotion triggers the 'fight or flight' response, reducing cognitive ability to process what the other person is saying.",
+"tags": ["psychology", "challenges"],
+"difficulty": "medium"
+},
+{
+"front": "What is the strategic value of 'Giving Concessions'?",
+"back": "In a negotiation, giving a small concession can build trust and encourage reciprocation from the other side.",
+"tags": ["negotiation", "tactics"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: A vendor demands a price hike due to supply chain issues. You have a fixed budget. What is your BATNA?",
+"back": "Finding an alternative vendor, reducing scope, or cancelling the procurement. Knowing this gives you leverage.",
+"tags": ["scenario", "negotiation"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: Two key experts threaten to quit if they have to work together. The project is halfway done. What is the immediate context priority?",
+"back": "Project Survival. The PM must separate them (process/structure change) to keep the project moving while addressing the HR issue.",
+"tags": ["scenario", "crisis-management"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A functional manager pulls a resource. The project will be delayed. You have no authority over the FM. What is the context-appropriate action?",
+"back": "Negotiate using 'Influence' (impact on business goals) or Escalate to the sponsor who has the authority.",
+"tags": ["scenario", "matrix-organization"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: In a multi-cultural team, a member says 'Yes' to a deadline but misses it. The team is angry. How do you analyze the context?",
+"back": "Consider 'High Context' culture; 'Yes' may have meant 'I hear you' or 'I want to please you', not 'I promise to do it'.",
+"tags": ["scenario", "culture"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: The product owner and technical lead are shouting. You (PM) intervene. They tell you to 'stay out of it'. What do you do?",
+"back": "Analyze if the conflict is constructive (passionate debate) or destructive. If constructive, step back and monitor. If destructive, enforce ground rules.",
+"tags": ["scenario", "judgment"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A stakeholder with low power/high interest is causing conflict by sending daily complaints. What is the strategy?",
+"back": "Keep Informed/Manage Closely. Address their anxiety with regular, structured updates to reduce their need for disruptive conflict.",
+"tags": ["scenario", "stakeholders"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You are mediating a conflict. One party suggests a solution. The other rolls their eyes. What is your move?",
+"back": "Pause and address the non-verbal behavior immediately ('I noticed a reaction there...'), as it indicates contempt and blocks resolution.",
+"tags": ["scenario", "facilitation"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: Team A (Agile) conflicts with Team B (Waterfall) over documentation. What is the root context?",
+"back": "Methodology mismatch. Resolution requires a 'Hybrid' agreement on the minimum viable interface between the two teams.",
+"tags": ["scenario", "methodology"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A conflict arises over a requirement that was 'gold plated' by a developer. The client loves it, but it blew the budget. Who is at fault?",
+"back": "The Context: Lack of scope control. Resolution: Negotiate with client to pay for the extra value or absorb cost, then fix the process.",
+"tags": ["scenario", "scope-creep"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: During a retrospective, the team complains about 'Management'. As a PM, you represent management. What is the context challenge?",
+"back": "Conflict of Interest/Role. You must facilitate the team's voice without being defensive, acting as a bridge rather than a barrier.",
+"tags": ["scenario", "servant-leadership"],
+"difficulty": "hard"
+},
+{
+"front": "Why is 'Compromise' often considered a 'Lose-Lose' in game theory contexts?",
+"back": "Because it leaves value on the table. Both sides accept less than they wanted, often missing an Integrative (Win-Win) solution.",
+"tags": ["theory", "game-theory"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A critical path task is delayed due to a conflict. The parties act 'Avoidant'. What is the PM's obligation?",
+"back": "The PM must force the issue (bring it to Manifest stage) because the project success is threatened. Avoidance is not an option here.",
+"tags": ["scenario", "critical-path"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You discover two team members are dating, which violates company policy and is causing favoritism complaints. What is the context?",
+"back": "HR/Legal Context. The PM must refer this to HR/Management immediately rather than trying to 'fix' it personally.",
+"tags": ["scenario", "compliance"],
+"difficulty": "hard"
+},
+{
+"front": "How does 'Anchoring' bias affect conflict negotiation?",
+"back": "The first number or option put on the table sets a psychological anchor, skewing the entire subsequent negotiation around that point.",
+"tags": ["psychology", "negotiation"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A conflict involves a breach of the 'Code of Ethics' (e.g., bribery). The culprit is a high performer. What is the recommendation?",
+"back": "Zero Tolerance. The context of 'Ethics' overrides 'Performance'. Report and remove.",
+"tags": ["scenario", "ethics"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: An external regulatory change forces a rework. The team is furious at the client. What is the PM's role in this context?",
+"back": "Reality Testing. Help the team accept the external constraint (Non-negotiable) and channel energy into solving the 'How', not fighting the 'Why'.",
+"tags": ["scenario", "change-management"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You use 'Collaborating' to resolve a technical dispute, but the decision takes 3 weeks. The project misses the deadline. Was this the right choice?",
+"back": "No. You failed to Analyze Context (Schedule Constraints). A faster method (Compromise/Force) was required despite being less optimal technically.",
+"tags": ["scenario", "trade-offs"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: Two stakeholders give contradictory orders. Both are VP level. You cannot bring them together. What do you do?",
+"back": "Write down the conflict and the impact, and send it to both simultaneously (or a higher authority), forcing them to align or choose.",
+"tags": ["scenario", "power-dynamics"],
+"difficulty": "hard"
+},
+{
+"front": "What is the difference between 'cognitive conflict' and 'affective conflict'?",
+"back": "Cognitive is task-oriented (constructive); Affective is emotional/relational (destructive). The PM's goal is to keep it Cognitive.",
+"tags": ["theory", "psychology"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A team member agrees to a solution in the meeting but sabotages it afterward. What is this behavior called and how do you handle it?",
+"back": "Passive-Aggressive behavior. Confront the discrepancy between words and actions directly using concrete examples.",
+"tags": ["scenario", "behavior"],
+"difficulty": "hard"
+},
+{
+"front": "Why is 'Appeal to Superordinate Goals' a powerful conflict resolution tactic?",
+"back": "It shifts focus from individual differences to a shared, higher-level objective (e.g., 'We both want the company to survive').",
+"tags": ["tactics", "alignment"],
+"difficulty": "hard"
+}
+]

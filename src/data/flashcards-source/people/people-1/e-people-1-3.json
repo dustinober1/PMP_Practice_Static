@@ -1,0 +1,596 @@
+[
+{
+"front": "What is the primary criterion for selecting the 'Collaborating' resolution strategy?",
+"back": "The need for a high-quality solution that integrates different perspectives, requiring time and trust.",
+"tags": ["strategy", "collaborating"],
+"difficulty": "easy"
+},
+{
+"front": "When is the 'Force/Direct' resolution strategy the most appropriate choice?",
+"back": "When quick, decisive action is vital (e.g., emergencies, safety issues) or when an unpopular decision must be implemented.",
+"tags": ["strategy", "forcing"],
+"difficulty": "easy"
+},
+{
+"front": "What is the key benefit of the 'Compromising' resolution strategy?",
+"back": "It provides a temporary or expedient settlement to complex issues when time is limited.",
+"tags": ["strategy", "compromising"],
+"difficulty": "easy"
+},
+{
+"front": "When evaluating a conflict, when should you recommend 'Smoothing/Accommodating'?",
+"back": "When the issue is more important to the other party than to you, or to build social credits for later.",
+"tags": ["strategy", "accommodating"],
+"difficulty": "easy"
+},
+{
+"front": "When is 'Withdraw/Avoid' the recommended immediate action?",
+"back": "When tempers are too high to be productive, or when more information is needed before making a decision.",
+"tags": ["strategy", "avoiding"],
+"difficulty": "easy"
+},
+{
+"front": "What is the main drawback of the 'Force/Direct' solution?",
+"back": "It creates a win-lose situation that can damage relationships and reduce team commitment.",
+"tags": ["pros-cons", "forcing"],
+"difficulty": "easy"
+},
+{
+"front": "What is the main drawback of 'Withdraw/Avoid' as a long-term solution?",
+"back": "It does not resolve the underlying problem, which often festers and recurs later.",
+"tags": ["pros-cons", "avoiding"],
+"difficulty": "easy"
+},
+{
+"front": "Which conflict resolution strategy is considered the most effective for long-term team performance?",
+"back": "Collaborating (Problem Solving), as it resolves the root cause and builds commitment.",
+"tags": ["strategy", "best-practices"],
+"difficulty": "easy"
+},
+{
+"front": "In what scenario is 'Compromising' often the best recommendation?",
+"back": "When two parties of equal power are committed to mutually exclusive goals (e.g., labor negotiations).",
+"tags": ["strategy", "compromising"],
+"difficulty": "easy"
+},
+{
+"front": "What does 'Reconciling' a conflict generally involve?",
+"back": "Finding a way for two opposing views to coexist or merging them into a single agreed-upon path.",
+"tags": ["definition", "reconcile"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Win-Win' outcome?",
+"back": "A resolution where both parties feel their core needs and interests have been met.",
+"tags": ["outcomes", "win-win"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Win-Lose' outcome?",
+"back": "A resolution where one party gets what they want at the expense of the other.",
+"tags": ["outcomes", "win-lose"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Lose-Lose' outcome?",
+"back": "A resolution where neither party is satisfied, often resulting from rigid compromise or avoidance.",
+"tags": ["outcomes", "lose-lose"],
+"difficulty": "easy"
+},
+{
+"front": "If maintaining the relationship is the highest priority, which two strategies are best?",
+"back": "Collaborating (best) or Smoothing/Accommodating (good for minor issues).",
+"tags": ["strategy", "relationships"],
+"difficulty": "easy"
+},
+{
+"front": "If 'Time' is the most critical constraint, which strategies should be avoided?",
+"back": "Collaborating, as it is time-intensive.",
+"tags": ["constraints", "time"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Consensus'?",
+"back": "A decision-making outcome where the entire group agrees to support the decision, even if it wasn't everyone's first choice.",
+"tags": ["resolution", "consensus"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Unanimity'?",
+"back": "A decision-making outcome where everyone agrees on the same course of action (100% agreement).",
+"tags": ["resolution", "voting"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Majority Rule'?",
+"back": "A decision-making method where the option with more than 50% of the vote wins.",
+"tags": ["resolution", "voting"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Plurality'?",
+"back": "A decision-making method where the option with the largest block of votes wins, even if it's not a majority.",
+"tags": ["resolution", "voting"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Autocratic' decision making in conflict?",
+"back": "One individual (e.g., the Project Manager) makes the final decision for the group.",
+"tags": ["resolution", "autocratic"],
+"difficulty": "easy"
+},
+{
+"front": "Why is 'Collaborating' recommended for technical disputes?",
+"back": "It merges insights from different experts to find the optimal technical solution.",
+"tags": ["application", "technical"],
+"difficulty": "easy"
+},
+{
+"front": "What is the risk of over-relying on 'Smoothing'?",
+"back": "The root cause of the conflict is never addressed, leading to recurrence.",
+"tags": ["risks", "smoothing"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Mediation' primarily used for?",
+"back": "To help disputing parties reach their own mutually acceptable resolution with the help of a neutral facilitator.",
+"tags": ["tools", "mediation"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Arbitration' used for?",
+"back": "To settle a dispute by having a neutral third party hear evidence and make a binding decision.",
+"tags": ["tools", "arbitration"],
+"difficulty": "easy"
+},
+{
+"front": "Which resolution strategy is also known as 'Confronting' (in older PMBOK versions)?",
+"back": "Collaborating / Problem Solving.",
+"tags": ["terminology", "collaborating"],
+"difficulty": "easy"
+},
+{
+"front": "Which resolution strategy requires the highest level of 'Emotional Intelligence'?",
+"back": "Collaborating, as it requires active listening, empathy, and patience.",
+"tags": ["skills", "collaborating"],
+"difficulty": "easy"
+},
+{
+"front": "What is the best conflict solution when you realize you are wrong?",
+"back": "Accommodating (Yielding).",
+"tags": ["strategy", "accommodating"],
+"difficulty": "easy"
+},
+{
+"front": "What is the primary goal of 'Reconciling' stakeholder interests?",
+"back": "To align differing stakeholder needs with the project objectives.",
+"tags": ["stakeholders", "alignment"],
+"difficulty": "easy"
+},
+{
+"front": "When is 'Dictatorship' (Autocratic) a valid conflict resolution method?",
+"back": "When the project manager has the specific authority and responsibility for the decision, or in a crisis.",
+"tags": ["styles", "autocratic"],
+"difficulty": "easy"
+},
+{
+"front": "How does 'Shared Vision' help reconcile conflict?",
+"back": "It reminds parties of the 'Big Picture', making individual disagreements seem less significant.",
+"tags": ["technique", "vision"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Fist of Five' used for in conflict resolution?",
+"back": "To gauge the level of consensus and identify if further discussion is needed.",
+"tags": ["tools", "consensus"],
+"difficulty": "easy"
+},
+{
+"front": "What does 'Splitting the difference' refer to?",
+"back": "Compromising.",
+"tags": ["terminology", "compromising"],
+"difficulty": "easy"
+},
+{
+"front": "If a conflict is about 'facts', which resource helps reconcile it?",
+"back": "The Project Management Plan or project documents (data-driven resolution).",
+"tags": ["tools", "data"],
+"difficulty": "easy"
+},
+{
+"front": "What is the first step before recommending a solution?",
+"back": "Analyze the source and context of the conflict.",
+"tags": ["process", "steps"],
+"difficulty": "easy"
+},
+{
+"front": "Why is 'Avoiding' generally poor for 'High Stakes' issues?",
+"back": "Because the consequences of the issue will happen regardless of whether you address them, likely causing failure.",
+"tags": ["strategy", "risks"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Negotiation'?",
+"back": "A discussion aimed at reaching an agreement.",
+"tags": ["definition", "negotiation"],
+"difficulty": "easy"
+},
+{
+"front": "When should a Project Manager use 'Facilitation'?",
+"back": "When a group needs help structuring their discussion to reach a decision effectively.",
+"tags": ["role", "facilitation"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Constructive Confrontation'?",
+"back": "Addressing the issue directly and openly but with respect for the people involved.",
+"tags": ["technique", "communication"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Superordinate Goal' technique?",
+"back": "Focusing on a shared goal that neither party can achieve alone to force cooperation.",
+"tags": ["technique", "psychology"],
+"difficulty": "easy"
+},
+{
+"front": "What is the main advantage of 'Force'?",
+"back": "Speed and clarity of outcome.",
+"tags": ["pros-cons", "forcing"],
+"difficulty": "easy"
+},
+{
+"front": "What is the main advantage of 'Compromise'?",
+"back": "It resolves the issue relatively quickly and is perceived as 'fair' since both sides give up something.",
+"tags": ["pros-cons", "compromising"],
+"difficulty": "easy"
+},
+{
+"front": "What is the main advantage of 'Collaborating'?",
+"back": "It produces long-lasting solutions and strengthens relationships.",
+"tags": ["pros-cons", "collaborating"],
+"difficulty": "easy"
+},
+{
+"front": "What is the main advantage of 'Smoothing'?",
+"back": "It de-escalates hostility and buys time.",
+"tags": ["pros-cons", "smoothing"],
+"difficulty": "easy"
+},
+{
+"front": "What is the main advantage of 'Avoiding'?",
+"back": "It allows people to cool down and prevents immediate escalation of dangerous situations.",
+"tags": ["pros-cons", "avoiding"],
+"difficulty": "easy"
+},
+{
+"front": "True or False: The Project Manager should always try to resolve conflicts personally.",
+"back": "False. Often the team members should be encouraged to resolve it themselves first.",
+"tags": ["role", "empowerment"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Logrolling' in negotiation?",
+"back": "Trading off issues of different importance to each party (I give you this, you give me that).",
+"tags": ["negotiation", "technique"],
+"difficulty": "easy"
+},
+{
+"front": "How does 'Transparency' aid in reconciling conflict?",
+"back": "It builds trust by ensuring all parties have the same information, removing suspicion.",
+"tags": ["values", "transparency"],
+"difficulty": "easy"
+},
+{
+"front": "When evaluating solutions, why consider 'Cultural Norms'?",
+"back": "A solution that works in one culture (e.g., open debate) might be offensive in another (e.g., saving face).",
+"tags": ["context", "culture"],
+"difficulty": "easy"
+},
+{
+"front": "What is the outcome of 'Integrative' bargaining?",
+"back": "Win-Win (Collaborating).",
+"tags": ["negotiation", "terminology"],
+"difficulty": "easy"
+},
+{
+"front": "What is the outcome of 'Distributive' bargaining?",
+"back": "Win-Lose or Compromise (Fixed Pie).",
+"tags": ["negotiation", "terminology"],
+"difficulty": "easy"
+},
+{
+"front": "If two stakeholders have valid but opposing requirements, and 'Collaborating' is not possible due to time, what is the next best rational choice?",
+"back": "Compromising (giving each a partial win) or Escalate (if it affects project constraints beyond PM authority).",
+"tags": ["decision-logic", "trade-offs"],
+"difficulty": "medium"
+},
+{
+"front": "Why might a PM choose 'Force' over 'Collaborate' regarding a regulatory compliance issue?",
+"back": "Regulations are non-negotiable constraints; collaboration implies there is room for adjustment, which doesn't exist here.",
+"tags": ["application", "compliance"],
+"difficulty": "medium"
+},
+{
+"front": "When reconciling a conflict between 'Scope' and 'Schedule', which document guides the decision?",
+"back": "The Project Charter or Project Management Plan (specifically the baselines and success criteria priorities).",
+"tags": ["reconciliation", "baselines"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Cost-Benefit Analysis' help evaluate a conflict resolution?",
+"back": "It quantifies the trade-offs (e.g., cost of delay vs. cost of the proposed solution) to make an objective decision.",
+"tags": ["tools", "analysis"],
+"difficulty": "medium"
+},
+{
+"front": "If a team member is emotionally compromised (shouting/crying), why is 'Problem Solving' (Collaborating) ineffective immediately?",
+"back": "Collaboration requires rational cognitive processing, which is impaired during high emotional arousal. 'Cooling off' (Avoiding) is needed first.",
+"tags": ["psychology", "timing"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: A functional manager refuses to release a resource. You have tried negotiating and failed. What is the appropriate next step?",
+"back": "Escalate to the Project Sponsor or Governance Board.",
+"tags": ["process", "escalation"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Voting' often a poor reconciliation method for complex technical decisions?",
+"back": "It relies on popularity or majority opinion rather than technical merit or data.",
+"tags": ["pitfalls", "voting"],
+"difficulty": "medium"
+},
+{
+"front": "How can 'Multi-Criteria Decision Analysis' (MCDA) be used to reconcile conflicting vendor bids?",
+"back": "It evaluates options against a set of weighted criteria (price, quality, risk) to remove subjectivity.",
+"tags": ["tools", "decision-making"],
+"difficulty": "medium"
+},
+{
+"front": "When evaluating a solution, why must you consider 'Precedent'?",
+"back": "A solution granted to one stakeholder (e.g., extending a deadline) may lead others to expect the same, causing scope creep.",
+"tags": ["strategy", "impact"],
+"difficulty": "medium"
+},
+{
+"front": "If a conflict arises during the 'Closing' phase, why might 'Compromise' or 'Force' be preferred over 'Collaborate'?",
+"back": "Time is usually exhausted, and the focus is on finishing/handover rather than deep process improvement.",
+"tags": ["lifecycle", "closing"],
+"difficulty": "medium"
+},
+{
+"front": "What does 'Reconciling' imply about the final solution?",
+"back": "It implies that the solution is consistent with the overall project goals, even if individual parties had to adjust.",
+"tags": ["definition", "alignment"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: Team A wants Solution X. Team B wants Solution Y. The PM suggests Solution Z that uses parts of both. What is this?",
+"back": "Collaborating (Synthesis) if it meets all needs, or Compromising if it meets only some needs.",
+"tags": ["diagnosis", "application"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Compromise' sometimes called a 'Lose-Lose' in a negative sense?",
+"back": "Because the solution might be a 'Frankenstein' creation that doesn't fully work for anyone, leading to project failure.",
+"tags": ["critique", "compromising"],
+"difficulty": "medium"
+},
+{
+"front": "How do you reconcile a conflict where 'Quality' is pitted against 'Speed'?",
+"back": "Refer to the project's 'Success Criteria' to see which constraint has higher priority.",
+"tags": ["prioritization", "constraints"],
+"difficulty": "medium"
+},
+{
+"front": "What role does 'Influence' play in recommending a solution?",
+"back": "The PM often lacks formal authority over stakeholders and must use influence/persuasion to get them to accept the recommendation.",
+"tags": ["soft-skills", "influence"],
+"difficulty": "medium"
+},
+{
+"front": "When is 'Accommodating' a strategic move in a negotiation?",
+"back": "When you give up on a low-priority item to gain leverage (goodwill) for a high-priority item later (Logrolling).",
+"tags": ["negotiation", "strategy"],
+"difficulty": "medium"
+},
+{
+"front": "What is the risk of using 'Force' with a high-power stakeholder?",
+"back": "Political suicide; the PM likely lacks the power to enforce it, leading to loss of credibility.",
+"tags": ["politics", "power"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Agile' reconcile the conflict between fixed scope and changing needs?",
+"back": "By fixing time and cost (sprints/teams) and allowing scope to vary (backlog reprioritization).",
+"tags": ["agile", "scope"],
+"difficulty": "medium"
+},
+{
+"front": "If a solution requires 'Behavioral Change', what must accompany the recommendation?",
+"back": "Coaching, training, or a change management plan to ensure the solution sticks.",
+"tags": ["implementation", "change"],
+"difficulty": "medium"
+},
+{
+"front": "What is the difference between 'Resolution' and 'Management' of conflict?",
+"back": "Resolution ends the conflict (e.g., an agreement); Management minimizes the negative impact even if the conflict continues.",
+"tags": ["nuance", "definitions"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Consensus' effectively a form of 'Collaborating'?",
+"back": "It requires the group to work together until everyone can support the outcome, ensuring high commitment.",
+"tags": ["connections", "consensus"],
+"difficulty": "medium"
+},
+{
+"front": "When evaluating solutions, what is the 'Implementation Lag'?",
+"back": "The time it takes for a decision to actually take effect; if too long, the solution might be obsolete.",
+"tags": ["constraints", "timing"],
+"difficulty": "medium"
+},
+{
+"front": "How does a 'Working Agreement' help reconcile future conflicts?",
+"back": "It provides a pre-agreed standard to refer back to, depersonalizing the resolution process.",
+"tags": ["prevention", "tools"],
+"difficulty": "medium"
+},
+{
+"front": "In a virtual team, why is 'Video On' recommended during conflict resolution?",
+"back": "To capture non-verbal cues that are essential for evaluating honesty, emotion, and agreement.",
+"tags": ["virtual-teams", "communication"],
+"difficulty": "medium"
+},
+{
+"front": "What is the 'PM's Authority' limit in conflict resolution?",
+"back": "The PM cannot resolve conflicts that change the project charter (e.g., budget caps) without sponsor approval.",
+"tags": ["governance", "authority"],
+"difficulty": "medium"
+},
+{
+"front": "Why might 'Avoiding' be a valid strategic choice in a 'Hostile' environment?",
+"back": "To protect the team from political crossfire while the PM works on a backdoor solution.",
+"tags": ["strategy", "politics"],
+"difficulty": "medium"
+},
+{
+"front": "What indicates that a 'Reconciled' conflict has flared up again?",
+"back": "Passive-aggressive behavior, missed deadlines related to the issue, or rehashing settled arguments.",
+"tags": ["monitoring", "aftermath"],
+"difficulty": "medium"
+},
+{
+"front": "How do you evaluate if a conflict solution was successful?",
+"back": "Check if the problem is solved, if relationships are intact, and if the team has moved on to productive work.",
+"tags": ["evaluation", "success-metrics"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Collaborating' sometimes called 'Confronting'?",
+"back": "Because it involves facing the problem directly (confronting the issue), not the person.",
+"tags": ["terminology", "clarification"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: You have a fixed deadline (tomorrow). The team is arguing over two technical approaches. Both work. One is slightly better but takes longer to decide. What do you do?",
+"back": "Use 'Force/Direct' (make the call yourself) or 'Majority Vote' to move immediately. Analysis paralysis is the enemy here.",
+"tags": ["scenario", "urgency"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A stakeholder demands a change that violates a safety regulation. They threaten to cancel the project. How do you reconcile this?",
+"back": "You cannot reconcile with a violation. You must Refuse (Force) based on legal/safety codes and Escalate the threat to senior management.",
+"tags": ["scenario", "ethics"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: Two team members hate each other personally but are critical experts. Project is short-term. What is the best strategy?",
+"back": "Structure the work to minimize interaction (Process/Spatial separation) and Smooth over friction. Deep 'Collaboration' therapy isn't worth the time/risk.",
+"tags": ["scenario", "pragmatism"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: The client wants Feature A. The Engineering Lead says Feature A is impossible. How do you reconcile?",
+"back": "Facilitate a 'Collaborative' workshop to understand the 'Need' behind Feature A and find a technical alternative that meets that need (Integrative negotiation).",
+"tags": ["scenario", "requirements"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You used 'Compromise' to resolve a budget dispute. Now, quality is suffering because funds are too tight. What was the error?",
+"back": "The compromise violated a constraint boundary (Quality). The correct earlier step was to re-scope or finding efficiency (Collaborate), not just cut the baby in half.",
+"tags": ["scenario", "root-cause-analysis"],
+"difficulty": "hard"
+},
+{
+"front": "Why is 'Graduated Reciprocation in Tension-Reduction' (GRIT) used?",
+"back": "A strategy in high-conflict situations where one side makes a small unilateral concession to invite the other side to do the same, de-escalating the spiral.",
+"tags": ["technique", "de-escalation"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A PM resolves a conflict by telling the team 'Do it my way.' The team obeys but morale tanks. How do you evaluate this outcome?",
+"back": "Short-term success (task done) but Long-term failure (relationship damage). The PM must now use 'Relationship building' to repair trust.",
+"tags": ["scenario", "evaluation"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: In a hybrid project, the Agile team refuses to provide detailed reports to the Waterfall PMO. How do you reconcile?",
+"back": "Create an 'Adapter' solution: Automate the report generation from the backlog tools so the team doesn't do extra work, but the PMO gets their data.",
+"tags": ["scenario", "hybrid"],
+"difficulty": "hard"
+},
+{
+"front": "What is the 'Shadow Negotiation'?",
+"back": "The hidden game regarding how the negotiation will be conducted (power moves, agenda setting) that happens in parallel with the actual discussion.",
+"tags": ["negotiation", "advanced"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You act as a mediator. One party is lying about data. You know it. What do you do?",
+"back": "Pause the session. In a private caucus, confront the party with the discrepancy. Do not humiliate them publicly, or the resolution will fail.",
+"tags": ["scenario", "ethics"],
+"difficulty": "hard"
+},
+{
+"front": "How does 'Game Theory' (Prisoner's Dilemma) apply to conflict evaluation?",
+"back": "It shows that while cooperation (Collaborating) yields the best group outcome, rational self-interest often drives parties to defect (Compete/Avoid), causing mutual loss.",
+"tags": ["theory", "strategy"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: The team reaches a 'Consensus', but you (PM) see a fatal flaw they missed. Do you accept the consensus?",
+"back": "No. As the accountable leader, you must intervene (influence) to highlight the risk. Consensus does not absolve the PM of responsibility for failure.",
+"tags": ["scenario", "leadership"],
+"difficulty": "hard"
+},
+{
+"front": "When evaluating a solution, what is the concept of 'Procedural Justice'?",
+"back": "People are more likely to accept an unfavorable outcome if they believe the process used to reach it was fair and transparent.",
+"tags": ["psychology", "acceptance"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: An external vendor and an internal lead are in conflict. The contract is ambiguous. What is the reconciliation basis?",
+"back": "The legal interpretation of the contract takes precedence. The PM must involve Procurement/Legal to clarify before negotiating.",
+"tags": ["scenario", "procurement"],
+"difficulty": "hard"
+},
+{
+"front": "Why is 'Collaborating' effectively impossible in a 'Zero-Sum' resource game?",
+"back": "Collaboration requires expanding the pie. If the pie is strictly fixed (e.g., exactly $1000 budget), you can only Compromise or Compete.",
+"tags": ["theory", "constraints"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A high-performing team has frequent, loud debates. A new member complains it is 'hostile'. What do you recommend?",
+"back": "Evaluate if it's 'Cognitive' or 'Affective' conflict. If it's just passionate debate (Cognitive), coach the new member on the team culture rather than stopping the debate.",
+"tags": ["scenario", "team-culture"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You smooth over a conflict to get a deliverable out. The deliverable fails quality checks because of the unresolved issue. What is the lesson?",
+"back": "Debt accumulation. Avoiding the conflict created 'Conflict Debt' that converted into 'Technical Debt'.",
+"tags": ["scenario", "lessons-learned"],
+"difficulty": "hard"
+},
+{
+"front": "How does 'BATNA' influence your recommendation to 'Compete' or 'Collaborate'?",
+"back": "If you have a strong BATNA (alternative), you can afford to Compete/Stand firm. If your BATNA is weak, you are forced to Accommodate or Compromise.",
+"tags": ["negotiation", "strategy"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A decision must be made. The team is deadlocked 50/50. Deadlock Breaker rule in Charter says 'Coin Toss'. Is this acceptable?",
+"back": "Yes. If the team agreed to the Ground Rules (Charter) beforehand, a random breaker is a valid, fair way to resolve low-stakes deadlocks quickly.",
+"tags": ["scenario", "governance"],
+"difficulty": "hard"
+},
+{
+"front": "What is the 'Thomas-Kilmann' implication of shifting from 'Positions' to 'Interests'?",
+"back": "It moves the conflict from 'Competing' (My Position vs. Your Position) to 'Collaborating' (My Need + Your Need).",
+"tags": ["model", "application"],
+"difficulty": "hard"
+}
+]
