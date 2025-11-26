@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Flashcard generation state
+.flashcard-generation-state.json
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

@@ -6,7 +6,9 @@
     "type": "definition",
     "front": "What is business value?",
     "back": "Benefits, competitive advantage, or positive outcomes delivered to the organization through a project. Measured in financial returns, market share, efficiency gains, or strategic alignment.",
-    "tags": ["value"],
+    "tags": [
+      "value"
+    ],
     "difficulty": "easy"
   },
   {
@@ -16,7 +18,9 @@
     "type": "concept",
     "front": "What is a project business case?",
     "back": "Document justifying the investment in a project. Contains:\n1. Business need or opportunity\n2. Proposed solution\n3. Benefits analysis\n4. Cost-benefit analysis\n5. Risk assessment\n6. Timeline and resources",
-    "tags": ["business-case"],
+    "tags": [
+      "business-case"
+    ],
     "difficulty": "medium"
   },
   {
@@ -26,7 +30,9 @@
     "type": "definition",
     "front": "What is stakeholder engagement?",
     "back": "Involving and communicating with stakeholders throughout the project. Ensures their interests are understood and expectations are managed.",
-    "tags": ["stakeholders"],
+    "tags": [
+      "stakeholders"
+    ],
     "difficulty": "easy"
   },
   {
@@ -36,7 +42,9 @@
     "type": "concept",
     "front": "What is a stakeholder engagement matrix?",
     "back": "Tool mapping stakeholder influence vs. interest levels:\nManage closely: High influence, high interest\nKeep satisfied: High influence, low interest\nKeep informed: Low influence, high interest\nMonitor: Low influence, low interest",
-    "tags": ["stakeholders"],
+    "tags": [
+      "stakeholders"
+    ],
     "difficulty": "medium"
   },
   {
@@ -46,7 +54,9 @@
     "type": "definition",
     "front": "What is product-focused vs. project-focused scope?",
     "back": "Product scope: features and functions of the product itself. Project scope: work needed to deliver the product. Both must be defined and managed.",
-    "tags": ["scope"],
+    "tags": [
+      "scope"
+    ],
     "difficulty": "medium"
   },
   {
@@ -56,7 +66,9 @@
     "type": "concept",
     "front": "What is an Acceptance Criteria?",
     "back": "Conditions that must be met for deliverables to be accepted. Includes:\n1. Performance standards\n2. Functional requirements\n3. Quality attributes\n4. Success metrics\nMust be clear, measurable, and agreed upon",
-    "tags": ["acceptance"],
+    "tags": [
+      "acceptance"
+    ],
     "difficulty": "medium"
   },
   {
@@ -66,7 +78,9 @@
     "type": "definition",
     "front": "What is a Lessons Learned Register?",
     "back": "Repository of project knowledge including what worked well, what didn't, and recommendations. Captured throughout and at end of project. Shared across organization for continuous improvement.",
-    "tags": ["lessons-learned"],
+    "tags": [
+      "lessons-learned"
+    ],
     "difficulty": "easy"
   },
   {
@@ -76,7 +90,9 @@
     "type": "concept",
     "front": "What is knowledge transfer in project context?",
     "back": "Process of sharing project knowledge with team and organization. Includes:\n1. Documentation\n2. Training\n3. Mentoring\n4. Lessons learned sessions\n5. Community of practice\nEnsures organizational learning and capability building",
-    "tags": ["knowledge"],
+    "tags": [
+      "knowledge"
+    ],
     "difficulty": "medium"
   }
 ]

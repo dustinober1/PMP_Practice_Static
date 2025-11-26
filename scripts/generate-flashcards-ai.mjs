@@ -4,77 +4,149 @@ import { spawnSync } from 'node:child_process'
 
 const rootDir = path.resolve(new URL('.', import.meta.url).pathname, '..')
 const dataDir = path.join(rootDir, 'src', 'data')
-const sourceDir = path.join(dataDir, 'flashcards-source')
-const stateFile = path.join(rootDir, '.flashcards-generation-state.json')
-const defaultModel = process.env.FLASHCARDS_MODEL || 'llama3.1:8b'
+const outputDir = path.join(dataDir, 'flashcards-source')
+const stateFile = path.join(rootDir, '.flashcard-generation-state.json')
+const ollamaModel = process.env.FLASHCARDS_MODEL || 'gpt-oss:20b'
 
 const readJson = (filePath) =>
   JSON.parse(fs.readFileSync(filePath, { encoding: 'utf8' }))
 
 const writeJson = (filePath, data) => {
+  const dir = path.dirname(filePath)
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true })
+  }
   fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, {
     encoding: 'utf8'
   })
 }
 
-const ensureDir = (dirPath) => {
-  if (!fs.existsSync(dirPath)) {
-    fs.mkdirSync(dirPath, { recursive: true })
-  }
-}
-
+// Load state from file or return empty state
 const loadState = () => {
   if (fs.existsSync(stateFile)) {
     return readJson(stateFile)
   }
-  return { completed: [], failed: [], current: null }
+  return {
+    completed: [],
+    failed: [],
+    startTime: new Date().toISOString()
+  }
 }
 
+// Save state to file
 const saveState = (state) => {
   writeJson(stateFile, state)
 }
 
-const parseEnablerId = (enablerId) => {
-  const parts = enablerId.split('-')
-  const domain = parts[1] // people, process, business
-  const task = `${domain}-${parts[2]}` // people-1, process-1, etc.
-  const enablerNum = parts[3] // 1, 2, 3...
-  return { domain, task, enablerNum }
-}
-
+// Build context-enriched AI prompt
 const buildPrompt = (enabler, domain, task) => {
-  const domainLine = `${domain.name} (${domain.id})`
-  const domainSummary = domain.summary ? `DOMAIN SUMMARY: ${domain.summary}\n` : ''
-  const taskLine = `${task.title} (${task.id})`
-  const taskDescription = task.description ? `TASK DESCRIPTION: ${task.description}\n` : ''
-
   return `You are a PMP exam prep expert creating simple concept flashcards.
 
-DOMAIN: ${domainLine}
-${domainSummary}TASK: ${taskLine}
-${taskDescription}ENABLER: ${enabler.text}
+DOMAIN: ${domain.name}
+TASK: ${task.title}
+ENABLER: ${enabler.text}
 
-Create exactly 100 simple concept flashcards with these rules:
+Create exactly 100 simple concept flashcards with:
 
-1. FORMAT: Each card as JSON object with front/back/tags/difficulty
-   - Front: Clear question starting with "What", "Define", or "Explain"
-   - Back: Concise answer (1-3 sentences, PMBOK aligned)
-   - Tags: 1-3 lowercase hyphen-separated terms
-   - Difficulty: easy (50), medium (30), hard (20)
+1. FORMAT: Term/definition or concept/explanation
+   - Front: Clear question (e.g., "What is X?", "Define Y", "Explain Z")
+   - Back: Concise answer (1-3 sentences max)
 
-2. CONTENT FOCUS:
-   - Core terminology, techniques, best practices
-   - Common pitfalls and real-world applications
-   - Self-contained cards (no ambiguous references)
+2. DIFFICULTY DISTRIBUTION:
+   - 50 cards: easy (basic definitions)
+   - 30 cards: medium (application, relationships)
+   - 20 cards: hard (nuances, edge cases, comparisons)
 
-Return ONLY the raw JSON array. Do not add code fences or commentary. Start with [ and end with ].`
+3. CONTENT COVERAGE:
+   - Key terminology specific to this enabler
+   - Core techniques and tools
+   - Best practices and principles
+   - Common pitfalls
+   - Real-world applications
+
+4. QUALITY:
+   - Each card self-contained (no ambiguous references)
+   - PMBOK 7th Edition aligned
+   - No duplicates within the set
+   - 1-3 relevant tags per card (lowercase, hyphen-separated)
+
+Return ONLY valid JSON array: [{"front": "...", "back": "...", "tags": [...], "difficulty": "easy"}, ...]
+
+DO NOT include any markdown code blocks or explanatory text. Return ONLY the raw JSON array.`
 }
 
+// Validate flashcard structure
+const validateFlashcards = (cards, enablerId) => {
+  const errors = []
+
+  if (!Array.isArray(cards)) {
+    errors.push('Response is not an array')
+    return { valid: false, errors }
+  }
+
+  if (cards.length !== 100) {
+    errors.push(`Expected 100 cards, got ${cards.length}`)
+  }
+
+  const difficulties = { easy: 0, medium: 0, hard: 0 }
+  const fronts = new Set()
+
+  cards.forEach((card, index) => {
+    if (!card.front || typeof card.front !== 'string') {
+      errors.push(`Card ${index}: missing or invalid 'front'`)
+    } else {
+      if (card.front.length < 10 || card.front.length > 200) {
+        errors.push(`Card ${index}: front length must be 10-200 chars`)
+      }
+      if (fronts.has(card.front)) {
+        errors.push(`Card ${index}: duplicate front "${card.front}"`)
+      }
+      fronts.add(card.front)
+    }
+
+    if (!card.back || typeof card.back !== 'string') {
+      errors.push(`Card ${index}: missing or invalid 'back'`)
+    } else if (card.back.length < 10 || card.back.length > 500) {
+      errors.push(`Card ${index}: back length must be 10-500 chars`)
+    }
+
+    if (!Array.isArray(card.tags) || card.tags.length < 1 || card.tags.length > 3) {
+      errors.push(`Card ${index}: must have 1-3 tags`)
+    }
+
+    if (!['easy', 'medium', 'hard'].includes(card.difficulty)) {
+      errors.push(`Card ${index}: invalid difficulty "${card.difficulty}"`)
+    } else {
+      difficulties[card.difficulty]++
+    }
+  })
+
+  // Check difficulty distribution (±5 tolerance)
+  if (Math.abs(difficulties.easy - 50) > 5) {
+    errors.push(`Expected ~50 easy cards, got ${difficulties.easy}`)
+  }
+  if (Math.abs(difficulties.medium - 30) > 5) {
+    errors.push(`Expected ~30 medium cards, got ${difficulties.medium}`)
+  }
+  if (Math.abs(difficulties.hard - 20) > 5) {
+    errors.push(`Expected ~20 hard cards, got ${difficulties.hard}`)
+  }
+
+  return {
+    valid: errors.length === 0,
+    errors
+  }
+}
+
+// Call Ollama to generate flashcards
 const callOllama = (prompt) => {
-  const result = spawnSync('ollama', ['run', defaultModel], {
+  console.log(`Calling Ollama with model: ${ollamaModel}`)
+
+  const result = spawnSync('ollama', ['run', ollamaModel], {
     input: prompt,
     encoding: 'utf8',
-    timeout: 300000
+    timeout: 1800000, // 30 minutes for larger models
+    maxBuffer: 20 * 1024 * 1024 // 20MB buffer
   })
 
   if (result.error) {
@@ -83,226 +155,193 @@ const callOllama = (prompt) => {
   }
 
   if (result.status !== 0) {
-    const errorOutput = (result.stderr || '').trim() || `Model exited with status ${result.status}`
+    const errorOutput = (result.stderr || '').trim() || `Ollama exited with status ${result.status}`
     throw new Error(errorOutput)
   }
 
   return (result.stdout || '').trim()
 }
 
-const parseAndValidateCards = (jsonStr, enablerId) => {
+// Generate flashcards for a single enabler
+const generateFlashcardsForEnabler = async (enabler, domain, task) => {
+  const prompt = buildPrompt(enabler, domain, task)
+
   try {
-    // Try to extract JSON from response if it contains extra text
-    let jsonToParse = jsonStr.trim()
+    console.log(`Generating flashcards for ${enabler.id}...`)
 
-    // Look for JSON array pattern in the response
-    const jsonMatch = jsonStr.match(/\[.*\]/s)
-    if (jsonMatch) {
-      jsonToParse = jsonMatch[0]
-    }
+    const text = callOllama(prompt)
 
-    const cards = JSON.parse(jsonToParse)
-
-    if (!Array.isArray(cards)) {
-      throw new Error('Response is not an array')
-    }
-
-    if (cards.length !== 100) {
-      throw new Error(`Expected 100 cards, got ${cards.length}`)
-    }
-
-    const difficultyCount = { easy: 0, medium: 0, hard: 0 }
-    const fronts = new Set()
-
-    for (const [index, card] of cards.entries()) {
-      if (!card.front || typeof card.front !== 'string') {
-        throw new Error(`Card ${index + 1}: missing or invalid front`)
-      }
-      if (!card.back || typeof card.back !== 'string') {
-        throw new Error(`Card ${index + 1}: missing or invalid back`)
-      }
-      if (!card.tags || !Array.isArray(card.tags)) {
-        throw new Error(`Card ${index + 1}: missing or invalid tags`)
-      }
-      if (!card.difficulty || !['easy', 'medium', 'hard'].includes(card.difficulty)) {
-        throw new Error(`Card ${index + 1}: invalid difficulty`)
-      }
-
-      if (card.front.length < 10 || card.front.length > 200) {
-        throw new Error(`Card ${index + 1}: front must be 10-200 characters`)
-      }
-      if (card.back.length < 10 || card.back.length > 500) {
-        throw new Error(`Card ${index + 1}: back must be 10-500 characters`)
-      }
-
-      if (fronts.has(card.front)) {
-        throw new Error(`Card ${index + 1}: duplicate front: "${card.front}"`)
-      }
-      fronts.add(card.front)
-
-      difficultyCount[card.difficulty]++
-
-      for (const tag of card.tags) {
-        if (typeof tag !== 'string' || !/^[a-z0-9-]+$/.test(tag)) {
-          throw new Error(`Card ${index + 1}: invalid tag format: "${tag}"`)
-        }
-      }
-    }
-
-    // Check difficulty distribution (±5 tolerance)
-    const easyDiff = Math.abs(difficultyCount.easy - 50)
-    const mediumDiff = Math.abs(difficultyCount.medium - 30)
-    const hardDiff = Math.abs(difficultyCount.hard - 20)
-
-    if (easyDiff > 5 || mediumDiff > 5 || hardDiff > 5) {
-      throw new Error(`Invalid difficulty distribution: easy=${difficultyCount.easy}, medium=${difficultyCount.medium}, hard=${difficultyCount.hard}`)
-    }
-
-    return cards
-  } catch (error) {
-    console.error(`Failed to parse/validate cards for ${enablerId}:`, error.message)
-    throw error
-  }
-}
-
-const generateForEnabler = async (enabler, domains, tasks) => {
-  const { domain, task, enablerNum } = parseEnablerId(enabler.id)
-  const domainInfo = domains.find(d => d.id === domain)
-  const taskInfo = tasks.find(t => t.id === task)
-
-  if (!domainInfo) {
-    throw new Error(`Domain not found for enabler ${enabler.id}`)
-  }
-
-  if (!taskInfo) {
-    throw new Error(`Task not found for enabler ${enabler.id}`)
-  }
-
-  console.log(`\nGenerating cards for ${enabler.id}: ${enabler.text}`)
-
-  const prompt = buildPrompt(enabler, domainInfo, taskInfo)
-
-  let attempts = 0
-  const maxAttempts = 3
-
-  while (attempts < maxAttempts) {
+    // Try to extract JSON from the response
+    let cards
     try {
-      attempts++
-      console.log(`Attempt ${attempts}/${maxAttempts}...`)
+      // Remove markdown code blocks if present
+      const jsonMatch = text.match(/```(?:json)?\s*([\s\S]*?)\s*```/)
+      const jsonText = jsonMatch ? jsonMatch[1] : text
 
-      const response = callOllama(prompt)
-      const cards = parseAndValidateCards(response, enabler.id)
+      // Also try to extract just the array if there's extra text
+      const arrayMatch = jsonText.match(/\[[\s\S]*\]/)
+      const finalText = arrayMatch ? arrayMatch[0] : jsonText
 
-      // Create output directory
-      const outputDir = path.join(sourceDir, domain, task)
-      ensureDir(outputDir)
-
-      // Write cards file
-      const outputFile = path.join(outputDir, `${enabler.id}.json`)
-      writeJson(outputFile, cards)
-
-      console.log(`✅ Generated ${cards.length} cards for ${enabler.id}`)
-      return { success: true, count: cards.length }
-
-    } catch (error) {
-      console.log(`❌ Attempt ${attempts} failed: ${error.message}`)
-      if (attempts === maxAttempts) {
-        throw error
-      }
+      cards = JSON.parse(finalText)
+    } catch (parseError) {
+      console.error(`Failed to parse JSON for ${enabler.id}`)
+      console.error('Response preview:', text.substring(0, 500))
+      throw new Error('Invalid JSON response')
     }
+
+    // Validate cards
+    const validation = validateFlashcards(cards, enabler.id)
+    if (!validation.valid) {
+      console.error(`Validation failed for ${enabler.id}:`)
+      validation.errors.forEach((err) => console.error(`  - ${err}`))
+      throw new Error('Validation failed')
+    }
+
+    // Extract domain and task from enabler ID
+    // e-people-1-1 -> domain: people, taskNum: 1, enablerNum: 1
+    const parts = enabler.id.split('-')
+    const domainId = parts[1]
+    const taskNum = parts[2]
+    const enablerNum = parts[3]
+
+    // Build output path
+    const taskFolder = `${domainId}-${taskNum}`
+    const outputPath = path.join(outputDir, domainId, taskFolder, `${enabler.id}.json`)
+
+    // Write to file
+    writeJson(outputPath, cards)
+    console.log(`✓ Generated 100 flashcards for ${enabler.id}`)
+
+    return { success: true }
+  } catch (error) {
+    console.error(`✗ Failed to generate flashcards for ${enabler.id}:`, error.message)
+    return { success: false, error: error.message }
   }
 }
 
+// Main function
 const main = async () => {
   const args = process.argv.slice(2)
   const resume = args.includes('--resume')
-  const singleEnabler = args.find(arg => arg.startsWith('--enabler='))
-  const enablerId = singleEnabler ? singleEnabler.split('=')[1] : null
+  const singleEnabler = args.find((arg) => arg.startsWith('--enabler='))?.split('=')[1]
 
-  try {
-    // Load data
-    const enablers = readJson(path.join(dataDir, 'enablers.json'))
-    const domains = readJson(path.join(dataDir, 'domains.json'))
-    const tasks = readJson(path.join(dataDir, 'tasks.json'))
+  // Load data
+  const enablers = readJson(path.join(dataDir, 'enablers.json'))
+  const domains = readJson(path.join(dataDir, 'domains.json'))
+  const tasks = readJson(path.join(dataDir, 'tasks.json'))
 
-    let state = loadState()
+  // Create lookup maps
+  const domainMap = Object.fromEntries(domains.map((d) => [d.id, d]))
+  const taskMap = Object.fromEntries(tasks.map((t) => [t.id, t]))
 
-    if (resume) {
-      console.log('🔄 Resuming from previous state...')
-      console.log(`Completed: ${state.completed.length}`)
-      console.log(`Failed: ${state.failed.length}`)
-    }
-
-    let enablersToProcess = enablers
-
-    if (enablerId) {
-      // Test single enabler
-      const enabler = enablers.find(e => e.id === enablerId)
-      if (!enabler) {
-        console.error(`Enabler not found: ${enablerId}`)
-        process.exit(1)
-      }
-      enablersToProcess = [enabler]
-      console.log(`🧪 Testing single enabler: ${enablerId}`)
-    } else {
-      // Filter out completed enablers
-      if (resume) {
-        enablersToProcess = enablers.filter(e => !state.completed.includes(e.id))
-      }
-    }
-
-    console.log(`\n📚 Processing ${enablersToProcess.length} enablers...`)
-
-    let startTime = Date.now()
-    let processed = 0
-
-    for (const enabler of enablersToProcess) {
-      try {
-        state.current = enabler.id
-        saveState(state)
-
-        const result = await generateForEnabler(enabler, domains, tasks)
-
-        if (!state.completed.includes(enabler.id)) {
-          state.completed.push(enabler.id)
-        }
-        state.failed = state.failed.filter(f => f.id !== enabler.id)
-        processed++
-
-        // Calculate ETA
-        const elapsed = Date.now() - startTime
-        const avgTimePerEnabler = elapsed / processed
-        const remaining = enablersToProcess.length - processed
-        const eta = Math.round((remaining * avgTimePerEnabler) / 1000 / 60)
-
-        console.log(`\nProgress: ${processed}/${enablersToProcess.length} (${Math.round(processed/enablersToProcess.length*100)}%)`)
-        console.log(`ETA: ~${eta} minutes`)
-
-      } catch (error) {
-        console.error(`\n❌ Failed to generate cards for ${enabler.id}:`, error.message)
-        state.failed = state.failed.filter(f => f.id !== enabler.id)
-        state.failed.push({ id: enabler.id, error: error.message })
-      }
-
-      saveState(state)
-    }
-
-    state.current = null
-    saveState(state)
-
-    console.log('\n🎉 Generation complete!')
-    console.log(`✅ Successfully generated: ${state.completed.length} enablers`)
-    console.log(`❌ Failed: ${state.failed.length} enablers`)
-
-    if (state.failed.length > 0) {
-      console.log('\nFailed enablers:')
-      state.failed.forEach(f => console.log(`  - ${f.id}: ${f.error}`))
-    }
-
-  } catch (error) {
-    console.error('\n💥 Fatal error:', error.message)
+  // Check if Ollama is available
+  console.log(`Using Ollama model: ${ollamaModel}`)
+  const ollamaCheck = spawnSync('ollama', ['list'], { encoding: 'utf8' })
+  if (ollamaCheck.error) {
+    console.error('Error: Ollama is not installed or not in PATH')
+    console.error('Install Ollama from: https://ollama.ai')
     process.exit(1)
   }
+
+  // Check if the model is available
+  const modelList = ollamaCheck.stdout
+  if (!modelList.includes('gpt-oss') && !modelList.includes(ollamaModel)) {
+    console.error(`Error: Model "${ollamaModel}" not found in Ollama`)
+    console.error('Available models:')
+    console.error(modelList)
+    console.error(`\nTo pull the model, run: ollama pull ${ollamaModel}`)
+    process.exit(1)
+  }
+
+  // Load or initialize state
+  let state = loadState()
+  if (!resume) {
+    state = {
+      completed: [],
+      failed: [],
+      startTime: new Date().toISOString()
+    }
+    saveState(state)
+  }
+
+  // Filter enablers based on arguments
+  let enablersToProcess = enablers
+  if (singleEnabler) {
+    enablersToProcess = enablers.filter((e) => e.id === singleEnabler)
+    if (enablersToProcess.length === 0) {
+      console.error(`Error: Enabler ${singleEnabler} not found`)
+      process.exit(1)
+    }
+  } else if (resume) {
+    enablersToProcess = enablers.filter(
+      (e) => !state.completed.includes(e.id) && !state.failed.includes(e.id)
+    )
+  }
+
+  console.log(`Processing ${enablersToProcess.length} enablers...`)
+  if (resume) {
+    console.log(`Resuming from previous run (${state.completed.length} completed, ${state.failed.length} failed)`)
+  }
+
+  // Process enablers one at a time (sequential to ensure quality)
+  const startTime = Date.now()
+  for (let i = 0; i < enablersToProcess.length; i++) {
+    const enabler = enablersToProcess[i]
+    const domain = domainMap[enabler.taskId.split('-')[0]]
+    const task = taskMap[enabler.taskId]
+
+    console.log(`\n[${i + 1}/${enablersToProcess.length}] Processing ${enabler.id}`)
+
+    const result = await generateFlashcardsForEnabler(enabler, domain, task)
+
+    if (result.success) {
+      state.completed.push(enabler.id)
+    } else {
+      state.failed.push(enabler.id)
+    }
+
+    saveState(state)
+
+    // Calculate and display ETA
+    if (i > 0) {
+      const elapsed = Date.now() - startTime
+      const avgTimePerEnabler = elapsed / (i + 1)
+      const remaining = enablersToProcess.length - (i + 1)
+      const etaMinutes = Math.round((remaining * avgTimePerEnabler) / 1000 / 60)
+      const etaHours = Math.floor(etaMinutes / 60)
+      const etaMins = etaMinutes % 60
+
+      if (etaHours > 0) {
+        console.log(`ETA: ~${etaHours}h ${etaMins}m remaining`)
+      } else {
+        console.log(`ETA: ~${etaMins}m remaining`)
+      }
+    }
+
+    // Small delay between requests
+    await new Promise((resolve) => setTimeout(resolve, 500))
+  }
+
+  // Print summary
+  console.log('\n' + '='.repeat(60))
+  console.log('GENERATION COMPLETE')
+  console.log('='.repeat(60))
+  console.log(`Total enablers: ${enablers.length}`)
+  console.log(`Completed: ${state.completed.length}`)
+  console.log(`Failed: ${state.failed.length}`)
+
+  if (state.failed.length > 0) {
+    console.log('\nFailed enablers:')
+    state.failed.forEach((id) => console.log(`  - ${id}`))
+    console.log('\nRe-run with --resume to retry failed enablers')
+  }
+
+  // Calculate total cards
+  const totalCards = state.completed.length * 100
+  console.log(`\nTotal flashcards generated: ${totalCards}`)
 }
 
-main()
+main().catch((error) => {
+  console.error('Fatal error:', error)
+  process.exit(1)
+})

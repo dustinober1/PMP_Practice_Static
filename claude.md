@@ -9,8 +9,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 **Modern Design & Accessibility**: The UI has been redesigned with a professional dark theme, responsive mobile navigation, and full WCAG 2.1 Level AA accessibility compliance. All interactions are keyboard accessible, screen reader compatible, and support system dark mode preferences.
 
 See `AGENTS.md` for comprehensive project architecture, question authoring standards, and data layout.
-See `ACCESSIBILITY.md` for accessibility testing procedures and standards.
-See `REDESIGN_SUMMARY.md` for complete redesign documentation.
+See `docs/ACCESSIBILITY.md` for accessibility testing procedures and standards.
+See `docs/REDESIGN_SUMMARY.md` for complete redesign documentation.
+See `docs/FLASHCARDS.md` for AI-powered flashcard generation guide.
 
 ## Quick Start Commands
 
@@ -22,6 +23,11 @@ See `REDESIGN_SUMMARY.md` for complete redesign documentation.
 | Lint code | `npm run lint` |
 | Preview production build | `npm run preview` |
 | Merge per-enabler questions into main bank | `npm run generate:questions` |
+| Generate flashcards with AI (all enablers) | `npm run generate:flashcards:ai` |
+| Generate flashcards for single enabler | `npm run generate:flashcards:ai -- --enabler=e-people-1-1` |
+| Validate flashcard source files | `npm run generate:flashcards:validate` |
+| Merge flashcard source files into domain files | `npm run generate:flashcards:merge` |
+| Validate and merge flashcards (full workflow) | `npm run generate:flashcards` |
 
 ## Key Project Structure
 
@@ -69,16 +75,24 @@ src/
 │   ├── questions.json        # Merged question bank (generated)
 │   ├── questions/            # Per-enabler question source files
 │   │   └── <domain>/<taskId>/*.json  # e.g., people/people-4/e-people-4-1.json
-│   ├── flashcards/           # Flashcard data by domain
-│   │   ├── people.json       # People domain flashcards
-│   │   ├── process.json      # Process domain flashcards
-│   │   └── business.json     # Business domain flashcards
+│   ├── flashcards/           # Flashcard data by domain (generated)
+│   │   ├── people.json       # People domain flashcards (merged)
+│   │   ├── process.json      # Process domain flashcards (merged)
+│   │   └── business.json     # Business domain flashcards (merged)
+│   ├── flashcards-source/    # Per-enabler flashcard source files
+│   │   ├── people/           # People domain source files
+│   │   │   └── <taskId>/<enablerId>.json  # e.g., people-1/e-people-1-1.json
+│   │   ├── process/          # Process domain source files
+│   │   └── business/         # Business domain source files
 │   └── questions_templates.json   # Scaffolds for consistent authoring
 ├── assets/                   # Static images/icons referenced from React
 └── site-config.js            # Site metadata, donation links
 
 scripts/
-└── generate-questions.mjs    # Question bank generation script
+├── generate-questions.mjs         # Question bank generation script
+├── generate-flashcards-ai.mjs     # AI flashcard generation (Ollama)
+├── generate-flashcards-merge.mjs  # Merge flashcard sources into domain files
+└── validate-flashcards.mjs        # Validate flashcard source files
 
 public/                       # Static assets copied to build
 ├── favicon.ico
@@ -93,7 +107,8 @@ dist/                         # Vite build output (do not edit)
 
 1. **Static Data**: All data lives in `src/data/*.json`. Vite imports these as ES modules (not fetched at runtime).
 2. **Question Generation**: Author questions per-enabler in `src/data/questions/<domain>/<taskId>/<enablerId>.json`, then run `npm run generate:questions` to merge them into the main bank. **Do not hand-edit the merged questions file.**
-3. **User State**: `useUserStore` (profile, theme, donations) and `useProgressStore` (quiz, exam, flashcard progress) store data in localStorage. Both use zustand with versioning; bump version if breaking changes occur.
+3. **Flashcard Generation**: Generate flashcards per-enabler using AI in `src/data/flashcards-source/<domain>/<taskId>/<enablerId>.json`, then run `npm run generate:flashcards` to validate and merge them into domain files. **Do not hand-edit the merged flashcard files.**
+4. **User State**: `useUserStore` (profile, theme, donations) and `useProgressStore` (quiz, exam, flashcard progress) store data in localStorage. Both use zustand with versioning; bump version if breaking changes occur.
 
 ### Routing
 
@@ -165,6 +180,114 @@ return <div>{data.domains.length} domains loaded</div>
 3. The app automatically loads from the merged `src/data/questions.json`
 
 **Note**: `src/data/questions.json` is generated; do not edit it by hand. Edit per-enabler files and run `npm run generate:questions`.
+
+## Flashcard Generation with AI
+
+**Overview**: The app includes AI-powered flashcard generation using Ollama to create 100 flashcards per enabler (13,000 total across all 130 enablers).
+
+### Prerequisites
+
+1. **Install Ollama**: Download from [ollama.ai](https://ollama.ai)
+2. **Pull the model**: Run `ollama pull gpt-oss:20b` (or use a different model)
+
+### Flashcard Generation Workflow
+
+**Generate Flashcards**:
+```bash
+# Test single enabler
+npm run generate:flashcards:ai -- --enabler=e-people-1-1
+
+# Generate all enablers (takes 6-11 hours with gpt-oss:20b)
+npm run generate:flashcards:ai
+
+# Resume from interruption
+npm run generate:flashcards:ai -- --resume
+
+# Use different model
+FLASHCARDS_MODEL=llama3.1:8b npm run generate:flashcards:ai
+```
+
+**Validate and Merge**:
+```bash
+# Validate all source files
+npm run generate:flashcards:validate
+
+# Merge source files into domain files
+npm run generate:flashcards:merge
+
+# Validate + merge (full workflow)
+npm run generate:flashcards
+```
+
+### Flashcard Data Structure
+
+**Source Files** (`src/data/flashcards-source/<domain>/<task>/<enabler>.json`):
+```json
+[
+  {
+    "front": "What is progressive elaboration?",
+    "back": "The iterative process of continuously improving and detailing a plan as more information becomes available.",
+    "tags": ["planning", "iterative"],
+    "difficulty": "easy"
+  }
+]
+```
+
+**Merged Files** (`src/data/flashcards/<domain>.json`):
+```json
+[
+  {
+    "id": "fc-people-1-1-001",
+    "domainId": "people",
+    "taskId": "people-1",
+    "type": "concept",
+    "front": "What is progressive elaboration?",
+    "back": "The iterative process of continuously improving...",
+    "tags": ["planning", "iterative"],
+    "difficulty": "easy"
+  }
+]
+```
+
+### Quality Standards
+
+- **Quantity**: Exactly 100 cards per enabler
+- **Difficulty Distribution**: 50 easy, 30 medium, 20 hard (±5 tolerance)
+- **Content**:
+  - Front: 10-200 characters, clear question format
+  - Back: 10-500 characters, 1-3 sentences
+  - Tags: 1-3 lowercase, hyphen-separated tags
+- **No Duplicates**: Within each enabler
+- **PMBOK Aligned**: All content follows PMBOK 7th Edition
+
+### Scripts
+
+- **`scripts/generate-flashcards-ai.mjs`**: AI generation using Ollama
+  - Context-enriched prompts with domain/task/enabler info
+  - Comprehensive validation
+  - State persistence with resume capability
+  - Progress tracking with ETA
+
+- **`scripts/generate-flashcards-merge.mjs`**: Merge source files into domain files
+  - Adds metadata (id, domainId, taskId, type)
+  - Preserves manually created cards
+  - Generates 4-segment IDs (e.g., `fc-people-1-1-001`)
+
+- **`scripts/validate-flashcards.mjs`**: Validate source files
+  - Checks card count, difficulty distribution
+  - Validates field requirements and formats
+  - Generates detailed validation reports
+
+### Troubleshooting
+
+| Issue | Solution |
+|-------|----------|
+| Model not found | Run `ollama pull gpt-oss:20b` |
+| Generation too slow | Use faster model: `FLASHCARDS_MODEL=llama3.1:8b` |
+| Validation errors | Regenerate failed enabler: `npm run generate:flashcards:ai -- --enabler=e-xxx` |
+| State file corrupt | Delete `.flashcard-generation-state.json` and restart |
+
+**Note**: Generated flashcard files in `src/data/flashcards/` should not be edited manually. Always edit source files in `src/data/flashcards-source/` and run the merge script.
 
 ## Reusable Component Library
 

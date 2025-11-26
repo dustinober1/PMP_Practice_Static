@@ -6,7 +6,9 @@
     "type": "definition",
     "front": "What is planning?",
     "back": "The process of defining project scope, objectives, and approach. Includes developing the project management plan and subsidiary plans. Foundation for project execution.",
-    "tags": ["planning"],
+    "tags": [
+      "planning"
+    ],
     "difficulty": "easy"
   },
   {
@@ -16,7 +18,10 @@
     "type": "process",
     "front": "List the main inputs for Project Scope Planning",
     "back": "1. Project charter\n2. Stakeholder register\n3. Business documents (business case, benefits management plan)\n4. Enterprise environmental factors\n5. Organizational process assets",
-    "tags": ["planning", "scope"],
+    "tags": [
+      "planning",
+      "scope"
+    ],
     "difficulty": "medium"
   },
   {
@@ -26,7 +31,9 @@
     "type": "definition",
     "front": "What is execution?",
     "back": "The process of performing the actual project work to accomplish project objectives. Produces project deliverables and manages project performance.",
-    "tags": ["execution"],
+    "tags": [
+      "execution"
+    ],
     "difficulty": "easy"
   },
   {
@@ -36,7 +43,9 @@
     "type": "concept",
     "front": "What are the key execution process groups?",
     "back": "1. Direct and Manage Project Work - executing work\n2. Manage Project Knowledge - capturing and sharing learning\n3. Manage Communications - delivering project information\n4. Manage Stakeholder Engagement - keeping stakeholders involved\n5. Manage Quality - assuring quality standards",
-    "tags": ["execution"],
+    "tags": [
+      "execution"
+    ],
     "difficulty": "medium"
   },
   {
@@ -46,7 +55,10 @@
     "type": "definition",
     "front": "What is monitoring and controlling?",
     "back": "The process of tracking, reviewing, and regulating progress to meet performance objectives. Includes measuring, assessing, and modifying to stay on track.",
-    "tags": ["monitoring", "control"],
+    "tags": [
+      "monitoring",
+      "control"
+    ],
     "difficulty": "easy"
   },
   {
@@ -56,7 +68,10 @@
     "type": "concept",
     "front": "What are Earned Value (EV) metrics?",
     "back": "PV: Planned Value - budgeted work\nEV: Earned Value - actual work completed (value)\nAC: Actual Cost - money spent\nSV = EV - PV (schedule variance)\nCV = EV - AC (cost variance)",
-    "tags": ["earned-value", "metrics"],
+    "tags": [
+      "earned-value",
+      "metrics"
+    ],
     "difficulty": "hard"
   },
   {
@@ -66,7 +81,9 @@
     "type": "definition",
     "front": "What is closing?",
     "back": "Finalizing all activities and formally completing the project or phase. Includes archiving documents, releasing resources, and capturing lessons learned.",
-    "tags": ["closing"],
+    "tags": [
+      "closing"
+    ],
     "difficulty": "easy"
   },
   {
@@ -76,7 +93,9 @@
     "type": "concept",
     "front": "What should be included in lessons learned documentation?",
     "back": "1. What went well - successes\n2. What could be improved - challenges\n3. Why - root causes\n4. Recommendations - future actions\n5. Action items - who, what, when\nPurpose: organizational learning and continuous improvement",
-    "tags": ["lessons-learned"],
+    "tags": [
+      "lessons-learned"
+    ],
     "difficulty": "medium"
   },
   {
@@ -86,7 +105,9 @@
     "type": "definition",
     "front": "What is quality?",
     "back": "The degree to which a set of inherent characteristics fulfills stated or implied needs. Meeting or exceeding stakeholder expectations.",
-    "tags": ["quality"],
+    "tags": [
+      "quality"
+    ],
     "difficulty": "easy"
   },
   {
@@ -96,7 +117,10 @@
     "type": "concept",
     "front": "What are quality tools (7 basic tools)?",
     "back": "1. Cause and effect diagram (fishbone)\n2. Flowchart\n3. Checksheet\n4. Pareto chart (80/20)\n5. Histogram\n6. Scatter diagram\n7. Control chart",
-    "tags": ["quality", "tools"],
+    "tags": [
+      "quality",
+      "tools"
+    ],
     "difficulty": "hard"
   },
   {
@@ -106,7 +130,9 @@
     "type": "definition",
     "front": "What is project scope?",
     "back": "The work required to produce the project deliverables. Defines what is included and excluded from the project.",
-    "tags": ["scope"],
+    "tags": [
+      "scope"
+    ],
     "difficulty": "easy"
   },
   {
@@ -116,7 +142,9 @@
     "type": "definition",
     "front": "What is scope creep?",
     "back": "Uncontrolled expansion of project scope without corresponding increases in schedule or budget. Caused by unclear requirements, poor change control, or stakeholder requests.",
-    "tags": ["scope"],
+    "tags": [
+      "scope"
+    ],
     "difficulty": "medium"
   },
   {
@@ -126,7 +154,9 @@
     "type": "definition",
     "front": "What is a schedule baseline?",
     "back": "The approved schedule that serves as reference for measuring schedule performance. Includes all activities, durations, dependencies, and resource allocations.",
-    "tags": ["schedule"],
+    "tags": [
+      "schedule"
+    ],
     "difficulty": "medium"
   },
   {
@@ -136,7 +166,10 @@
     "type": "concept",
     "front": "What is the Critical Path Method (CPM)?",
     "back": "Identifies the longest sequence of dependent activities from start to finish. Activities on critical path have zero slack/float. Any delay on critical path delays project.",
-    "tags": ["schedule", "cpm"],
+    "tags": [
+      "schedule",
+      "cpm"
+    ],
     "difficulty": "hard"
   },
   {
@@ -146,7 +179,9 @@
     "type": "definition",
     "front": "What is resource management?",
     "back": "Planning, acquiring, and managing project resources (people, equipment, materials). Ensures resources are available when needed and used efficiently.",
-    "tags": ["resources"],
+    "tags": [
+      "resources"
+    ],
     "difficulty": "easy"
   },
   {
@@ -156,7 +191,10 @@
     "type": "concept",
     "front": "What is resource leveling?",
     "back": "Adjusting schedule to accommodate resource constraints. Shifts activities to use available resources efficiently without exceeding limits. May extend project timeline.",
-    "tags": ["resources", "scheduling"],
+    "tags": [
+      "resources",
+      "scheduling"
+    ],
     "difficulty": "hard"
   },
   {
@@ -166,7 +204,9 @@
     "type": "definition",
     "front": "What is risk management?",
     "back": "Identifying, analyzing, and responding to project uncertainties. Proactive approach to address threats and opportunities.",
-    "tags": ["risk"],
+    "tags": [
+      "risk"
+    ],
     "difficulty": "easy"
   },
   {
@@ -176,7 +216,9 @@
     "type": "concept",
     "front": "List the risk response strategies",
     "back": "Threats: Avoid (eliminate), Mitigate (reduce probability/impact), Accept (contingency), Escalate. Opportunities: Exploit (maximize), Enhance (increase probability/impact), Accept, Escalate.",
-    "tags": ["risk"],
+    "tags": [
+      "risk"
+    ],
     "difficulty": "medium"
   }
 ]
