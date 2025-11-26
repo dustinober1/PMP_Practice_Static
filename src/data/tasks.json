@@ -2,211 +2,169 @@
   {
     "id": "people-1",
     "domainId": "people",
-    "title": "Manage conflict",
-    "description": "Interpret the source and stage of the conflict and recommend appropriate resolution solutions."
+    "title": "Develop a common vision",
+    "description": "Help ensure a shared vision with key stakeholders., Promote the shared vision., and 2 more actions."
   },
   {
     "id": "people-2",
     "domainId": "people",
-    "title": "Lead a team",
-    "description": "Set a clear vision and mission, support diversity and inclusion, and determine appropriate leadership style."
+    "title": "Manage conflicts",
+    "description": "Identify conflict sources., Analyze the context for the conflict., and 4 more actions."
   },
   {
     "id": "people-3",
     "domainId": "people",
-    "title": "Support team performance",
-    "description": "Appraise team member performance against KPIs and provide feedback to verify improvements."
+    "title": "Lead the project team",
+    "description": "Establish expectations at the team level., Empower the team., and 5 more actions."
   },
   {
     "id": "people-4",
     "domainId": "people",
-    "title": "Empower team members and stakeholders",
-    "description": "Organize around team strengths, support accountability, and evaluate demonstration of task accountability."
+    "title": "Engage stakeholders",
+    "description": "Identify stakeholders., Analyze stakeholders., and 4 more actions."
   },
   {
     "id": "people-5",
     "domainId": "people",
-    "title": "Ensure team members/stakeholders are trained",
-    "description": "Determine required competencies, allocate resources for training, and measure training outcomes."
+    "title": "Align stakeholder expectations",
+    "description": "Categorize stakeholders., Identify stakeholder expectations., and 2 more actions."
   },
   {
     "id": "people-6",
     "domainId": "people",
-    "title": "Build a team",
-    "description": "Appraise stakeholder skills, deduce project resource requirements, and continuously assess team knowledge transfer."
+    "title": "Manage stakeholder expectations",
+    "description": "Identify internal and external customer expectations., Align and maintain outcomes to internal and external customer expectations., and 1 more actions."
   },
   {
     "id": "people-7",
     "domainId": "people",
-    "title": "Address and remove impediments, obstacles, and blockers",
-    "description": "Determine critical impediments for the team and prioritize solutions to remove them."
+    "title": "Develop and manage the project team",
+    "description": "Assess current team structure and skills., Plan for team development., and 4 more actions."
   },
   {
     "id": "people-8",
     "domainId": "people",
-    "title": "Negotiate project agreements",
-    "description": "Analyze the bounds of negotiations for agreements and determine the ultimate objective."
-  },
-  {
-    "id": "people-9",
-    "domainId": "people",
-    "title": "Collaborate with stakeholders",
-    "description": "Evaluate engagement needs, optimize alignment between stakeholder needs and project objectives, and build trust."
-  },
-  {
-    "id": "people-10",
-    "domainId": "people",
-    "title": "Build shared understanding",
-    "description": "Break down the situation to identify the root cause of a misunderstanding and survey parties to reach consensus."
-  },
-  {
-    "id": "people-11",
-    "domainId": "people",
-    "title": "Engage and support virtual teams",
-    "description": "Examine virtual team member needs (environment, geography, culture) and implement options for engagement."
-  },
-  {
-    "id": "people-12",
-    "domainId": "people",
-    "title": "Define team ground rules",
-    "description": "Communicate organizational principles and establish an environment that fosters adherence to ground rules."
-  },
-  {
-    "id": "people-13",
-    "domainId": "people",
-    "title": "Mentor relevant stakeholders",
-    "description": "Allocate time to mentoring and recognize and act on mentoring opportunities."
-  },
-  {
-    "id": "people-14",
-    "domainId": "people",
-    "title": "Promote team performance through emotional intelligence",
-    "description": "Assess behavior through the use of personality indicators and adjust to the emotional needs of key stakeholders."
+    "title": "Help ensure knowledge transfer",
+    "description": "Identify knowledge critical to the project., Gather knowledge., and 1 more actions."
   },
   {
     "id": "process-1",
     "domainId": "process",
-    "title": "Execute project with urgency",
-    "description": "Assess opportunities to deliver value incrementally and support the team to subdivide tasks to find the Minimum Viable Product."
+    "title": "Develop an integrated project management plan and plan delivery",
+    "description": "Assess project needs, complexity, and magnitude., Recommend a project management development approach (i.e., predictive, adaptive/agile, or hybrid management)., and 7 more actions."
   },
   {
     "id": "process-2",
     "domainId": "process",
-    "title": "Manage communications",
-    "description": "Analyze communication needs of all stakeholders and determine communication methods, channels, and frequency."
+    "title": "Develop and manage project scope",
+    "description": "Define scope., Obtain stakeholder agreement on project scope., and 1 more actions."
   },
   {
     "id": "process-3",
     "domainId": "process",
-    "title": "Assess and manage risks",
-    "description": "Determine risk management options and iteratively assess and prioritize risks."
+    "title": "Help ensure value-based delivery",
+    "description": "Identify value components with key stakeholders., Prioritize work based on value and stakeholder feedback., and 4 more actions."
   },
   {
     "id": "process-4",
     "domainId": "process",
-    "title": "Engage stakeholders",
-    "description": "Analyze stakeholders (power, interest, influence) and categorize them to manage expectations."
+    "title": "Plan and manage resources",
+    "description": "Define and plan resources based on requirements., Manage and optimize resource needs and availability."
   },
   {
     "id": "process-5",
     "domainId": "process",
-    "title": "Plan and manage budget and resources",
-    "description": "Estimate budgetary needs based on project scope and monitor budget variations and governance."
+    "title": "Plan and manage procurement",
+    "description": "Plan procurement., Execute a procurement management plan., and 8 more actions."
   },
   {
     "id": "process-6",
     "domainId": "process",
-    "title": "Plan and manage schedule",
-    "description": "Estimate project tasks (milestones, dependencies, story points) and coordinate with other projects and operations."
+    "title": "Plan and manage budget",
+    "description": "Estimate budget., Create a project budget., and 4 more actions."
   },
   {
     "id": "process-7",
     "domainId": "process",
-    "title": "Plan and manage quality of products/deliverables",
-    "description": "Determine quality standards required for project deliverables and recommend options for improvement."
+    "title": "Plan and optimize quality of products/deliverables",
+    "description": "Gather quality requirements for project deliverables., Plan quality processes and tools., and 5 more actions."
   },
   {
     "id": "process-8",
     "domainId": "process",
-    "title": "Plan and manage scope",
-    "description": "Determine and prioritize requirements, break down scope (WBS, backlog), and monitor scope creep."
+    "title": "Plan and manage schedule",
+    "description": "Prepare a schedule based on the selected development approach., Coordinate with other projects and operations., and 6 more actions."
   },
   {
     "id": "process-9",
     "domainId": "process",
-    "title": "Integrate project planning activities",
-    "description": "Consolidate project/phase plans, assess dependencies, and analyze data to make informed project decisions."
+    "title": "Evaluate project status",
+    "description": "Develop project metrics, analysis, and reconciliation., Identify and tailor needed artifacts., and 6 more actions."
   },
   {
     "id": "process-10",
     "domainId": "process",
-    "title": "Manage project changes",
-    "description": "Anticipate and embrace the need for change (e.g., follow change management practices) and determine strategy to handle changes."
+    "title": "Manage project closure",
+    "description": "Obtain project stakeholder approval of project completion., Determine criteria to successfully close the project or phase., and 2 more actions."
   },
   {
     "id": "process-11",
     "domainId": "process",
-    "title": "Plan and manage procurement",
-    "description": "Define resource requirements and needs, communicate resource requirements, and manage suppliers/contracts."
+    "title": "Plan and manage communications",
+    "description": "Determine communication needs., Create a communication plan., and 2 more actions."
   },
   {
     "id": "process-12",
     "domainId": "process",
     "title": "Manage project artifacts",
-    "description": "Determine the requirements (what, when, where, who) for managing project artifacts and ensure they are accessible."
-  },
-  {
-    "id": "process-13",
-    "domainId": "process",
-    "title": "Determine appropriate project methods",
-    "description": "Assess project needs, complexity, and magnitude to recommend appropriate execution strategy (Predictive, Agile, Hybrid)."
-  },
-  {
-    "id": "process-14",
-    "domainId": "process",
-    "title": "Establish project governance structure",
-    "description": "Determine appropriate governance for a project (e.g., replicate organizational governance) and define escalation paths."
-  },
-  {
-    "id": "process-15",
-    "domainId": "process",
-    "title": "Manage project issues",
-    "description": "Recognize when a risk becomes an issue and attack the issue with the optimal action to achieve project success."
-  },
-  {
-    "id": "process-16",
-    "domainId": "process",
-    "title": "Ensure knowledge transfer for project continuity",
-    "description": "Discuss project responsibilities within the team and outline expectations for the working environment."
-  },
-  {
-    "id": "process-17",
-    "domainId": "process",
-    "title": "Plan and manage project/phase closure or transitions",
-    "description": "Determine criteria to successfully close the project or phase and validate readiness for transition."
+    "description": "Identify needed artifacts., Help ensure artifacts are created, reviewed, updated, and documented., and 1 more actions."
   },
   {
     "id": "business-1",
     "domainId": "business",
-    "title": "Plan and manage project compliance",
-    "description": "Confirm project compliance requirements (e.g., security, health and safety, regulatory) and classify potential threats."
+    "title": "Define and establish project governance",
+    "description": "Describe and establish the structure, rules, procedures, reporting, ethics, and policies through the use of organizational process assets (OPAs)., Define success metrics., and 1 more actions."
   },
   {
     "id": "business-2",
     "domainId": "business",
-    "title": "Evaluate and deliver project benefits and value",
-    "description": "Investigate that benefits are identified and document agreement on ownership for ongoing benefit realization."
+    "title": "Plan and manage project compliance",
+    "description": "Confirm project compliance requirements (e.g., security, health and safety, sustainability, regulatory compliance)., Classify compliance categories., and 5 more actions."
   },
   {
     "id": "business-3",
     "domainId": "business",
-    "title": "Evaluate external business environment changes",
-    "description": "Survey external business environment changes (e.g., regulations, technology, geopolitical) and recommend options for scope/backlog changes."
+    "title": "Manage and control changes",
+    "description": "Execute the change control process., Communicate the status of proposed changes., and 2 more actions."
   },
   {
     "id": "business-4",
     "domainId": "business",
+    "title": "Remove impediments and manage issues",
+    "description": "Evaluate the impact of impediments., Prioritize and highlight impediments., and 4 more actions."
+  },
+  {
+    "id": "business-5",
+    "domainId": "business",
+    "title": "Plan and manage risk",
+    "description": "Identify risks., Analyze risks., and 5 more actions."
+  },
+  {
+    "id": "business-6",
+    "domainId": "business",
+    "title": "Continuous improvement",
+    "description": "Utilize lessons learned., Help ensure continuous improvement processes are updated., and 1 more actions."
+  },
+  {
+    "id": "business-7",
+    "domainId": "business",
     "title": "Support organizational change",
-    "description": "Assess organizational culture and evaluate the impact of organizational change to project and vice versa."
+    "description": "Assess organizational culture., Evaluate the impact of organizational change on the project and determine required actions."
+  },
+  {
+    "id": "business-8",
+    "domainId": "business",
+    "title": "Evaluate external business environment changes",
+    "description": "Survey changes to the external business environment (e.g., regulations, technology, geopolitical, market)., Assess and prioritize the impact on project scope/backlog based on changes in the external business environment., and 1 more actions."
   }
 ]
