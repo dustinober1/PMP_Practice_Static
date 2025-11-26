@@ -1,1 +1,602 @@
-[]
+[
+{
+"front": "What is the difference between 'intrinsic' and 'extrinsic' motivation?",
+"back": "Intrinsic motivation comes from inside the individual (enjoyment, growth); extrinsic motivation comes from outside (money, rewards, praise).",
+"tags": ["motivation", "definitions"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Team Charter'?",
+"back": "A document developed by the team that outlines the team's values, agreements, and ground rules for working together.",
+"tags": ["artifacts", "team-charter"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Social Contract' in a project team?",
+"back": "An agreement (often part of the Team Charter) regarding expected behaviors, communication norms, and how the team will treat each other.",
+"tags": ["artifacts", "social-contract"],
+"difficulty": "easy"
+},
+{
+"front": "According to Maslow's Hierarchy of Needs, what is the highest level of need?",
+"back": "Self-Actualization (realizing one's full potential).",
+"tags": ["theory", "maslow"],
+"difficulty": "easy"
+},
+{
+"front": "According to Maslow, what needs must be met before 'Social' needs?",
+"back": "Physiological and Safety needs.",
+"tags": ["theory", "maslow"],
+"difficulty": "easy"
+},
+{
+"front": "What are 'Hygiene Factors' in Herzberg's theory?",
+"back": "Factors that do not motivate if present, but cause dissatisfaction if missing (e.g., salary, working conditions, job security).",
+"tags": ["theory", "herzberg"],
+"difficulty": "easy"
+},
+{
+"front": "What are 'Motivators' in Herzberg's theory?",
+"back": "Factors that actually create satisfaction and motivation (e.g., recognition, achievement, growth, responsibility).",
+"tags": ["theory", "herzberg"],
+"difficulty": "easy"
+},
+{
+"front": "What is McGregor's 'Theory X'?",
+"back": "The view that employees are inherently lazy, dislike work, and must be strictly controlled or forced to perform.",
+"tags": ["theory", "mcgregor"],
+"difficulty": "easy"
+},
+{
+"front": "What is McGregor's 'Theory Y'?",
+"back": "The view that employees are self-motivated, enjoy work, and seek responsibility if given the right conditions.",
+"tags": ["theory", "mcgregor"],
+"difficulty": "easy"
+},
+{
+"front": "What are the three needs in McClelland's Theory of Needs?",
+"back": "Need for Achievement, Need for Power, and Need for Affiliation.",
+"tags": ["theory", "mcclelland"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Expectancy Theory' (Vroom)?",
+"back": "The theory that motivation depends on the expectation that effort will lead to performance, and performance will lead to a valued reward.",
+"tags": ["theory", "expectancy"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Halo Effect'?",
+"back": "A cognitive bias where a positive impression of a person in one area influences the opinion of them in other areas.",
+"tags": ["bias", "psychology"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Reward Power'?",
+"back": "The ability to influence others by providing items of value (bonuses, time off, praise).",
+"tags": ["power", "rewards"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Expert Power'?",
+"back": "Influence based on the team's perception that the leader has specialized knowledge or skill.",
+"tags": ["power", "influence"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Referent Power'?",
+"back": "Influence based on the leader's personality, charisma, and the respect they command from others.",
+"tags": ["power", "influence"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Ground Rule'?",
+"back": "A specific rule of conduct agreed upon by the team to guide behavior (e.g., 'No interruptions', 'Start on time').",
+"tags": ["team-charter", "rules"],
+"difficulty": "easy"
+},
+{
+"front": "What is the primary purpose of a reward system?",
+"back": "To reinforce desirable behaviors and outcomes aligned with the project goals.",
+"tags": ["rewards", "purpose"],
+"difficulty": "easy"
+},
+{
+"front": "True or False: Money is the most effective long-term motivator for creative work.",
+"back": "False. Intrinsic factors (autonomy, mastery, purpose) are generally more effective for cognitive/creative tasks.",
+"tags": ["motivation", "best-practices"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'active listening' as an influencing tool?",
+"back": "Listening to understand rather than to respond, which builds trust and opens the other party to your influence.",
+"tags": ["influence", "communication"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Ouchi's Theory Z'?",
+"back": "A management theory focused on long-term employment, employee well-being, and holistic concern for workers (Japanese management style).",
+"tags": ["theory", "ouchi"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Gamification' in the context of motivation?",
+"back": "Applying game-design elements (points, badges, leaderboards) to non-game contexts to motivate participation.",
+"tags": ["motivation", "technique"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Pygmalion Effect'?",
+"back": "The phenomenon where higher expectations placed on individuals lead to an increase in performance.",
+"tags": ["psychology", "motivation"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'KPI' in a reward system?",
+"back": "Key Performance Indicator; a measurable value that demonstrates how effectively a person/team is achieving objectives.",
+"tags": ["rewards", "metrics"],
+"difficulty": "easy"
+},
+{
+"front": "Who should participate in creating the Team Charter?",
+"back": "The entire team.",
+"tags": ["team-charter", "roles"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Reciprocity' as an influence tactic?",
+"back": "The social norm that people feel obliged to return a favor; 'I help you, so you help me'.",
+"tags": ["influence", "tactics"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Autonomy' (Daniel Pink)?",
+"back": "The desire to direct our own lives; a key component of intrinsic motivation.",
+"tags": ["theory", "pink"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Mastery' (Daniel Pink)?",
+"back": "The urge to get better and better at something that matters.",
+"tags": ["theory", "pink"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Purpose' (Daniel Pink)?",
+"back": "The yearning to do what we do in the service of something larger than ourselves.",
+"tags": ["theory", "pink"],
+"difficulty": "easy"
+},
+{
+"front": "What is the difference between 'Influence' and 'Power'?",
+"back": "Power is the capacity to force or direct; Influence is the ability to change behavior without force.",
+"tags": ["definitions", "influence"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Coercive Power'?",
+"back": "Power derived from the ability to punish or penalize others (fear-based).",
+"tags": ["power", "coercive"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Legitimate Power'?",
+"back": "Power derived from a formal position or title within the organization.",
+"tags": ["power", "legitimate"],
+"difficulty": "easy"
+},
+{
+"front": "When is the best time to establish the Team Contract?",
+"back": "As early as possible, typically during the Initiating or Planning phase (e.g., Kickoff).",
+"tags": ["process", "timing"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Emotional Intelligence' (EI) role in inspiration?",
+"back": "High EI helps leaders connect emotionally with the team, understanding what drives them personally.",
+"tags": ["skills", "emotional-intelligence"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Vision' as a motivational tool?",
+"back": "A clear, inspiring picture of the future that motivates the team to work toward a common goal.",
+"tags": ["motivation", "vision"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Empowerment'?",
+"back": "Giving team members the authority and resources to make decisions and take action, increasing motivation.",
+"tags": ["motivation", "empowerment"],
+"difficulty": "easy"
+},
+{
+"front": "True or False: Team contracts are legally binding documents.",
+"back": "False. They are social agreements among team members, not legal contracts.",
+"tags": ["team-charter", "legal"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Recognition'?",
+"back": "Acknowledging and appreciating a person's contribution, which reinforces positive behavior.",
+"tags": ["rewards", "recognition"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Rational Persuasion'?",
+"back": "Using logical arguments and factual evidence to influence others.",
+"tags": ["influence", "tactics"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Inspirational Appeal'?",
+"back": "Making a request that connects with the person's values, ideals, and emotions to generate enthusiasm.",
+"tags": ["influence", "tactics"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Consultation' as an influence tactic?",
+"back": "Asking others to participate in planning a strategy or activity to gain their support.",
+"tags": ["influence", "tactics"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Perk'?",
+"back": "A non-wage benefit (e.g., gym membership, free food) used to motivate or retain employees.",
+"tags": ["rewards", "types"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Self-Efficacy'?",
+"back": "An individual's belief in their capacity to execute behaviors necessary to produce specific performance attainments.",
+"tags": ["psychology", "motivation"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Transactional Leadership' mostly based on?",
+"back": "Exchanges of rewards for performance (contingent reward).",
+"tags": ["leadership", "transactional"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Transformational Leadership' mostly based on?",
+"back": "Inspiring followers to transcend their own self-interests for the good of the organization.",
+"tags": ["leadership", "transformational"],
+"difficulty": "easy"
+},
+{
+"front": "Why is 'Fairness' critical in a reward system?",
+"back": "If rewards are perceived as unfair or biased, they demotivate the team and breed resentment.",
+"tags": ["rewards", "ethics"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Need for Affiliation' (McClelland)?",
+"back": "The desire for friendly and close interpersonal relationships.",
+"tags": ["theory", "mcclelland"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Need for Power' (McClelland)?",
+"back": "The need to make others behave in a way that they would not have behaved otherwise.",
+"tags": ["theory", "mcclelland"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Contingent Reward'?",
+"back": "A reward that is only given if a specific condition or performance goal is met.",
+"tags": ["rewards", "types"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Management by Objectives' (MBO)?",
+"back": "A management model that aims to improve performance by clearly defining objectives that are agreed to by both management and employees.",
+"tags": ["management", "objectives"],
+"difficulty": "easy"
+},
+{
+"front": "What is the role of 'Feedback' in motivation?",
+"back": "Constructive feedback helps individuals track progress and feel a sense of achievement.",
+"tags": ["motivation", "feedback"],
+"difficulty": "easy"
+},
+{
+"front": "How does Herzberg's theory suggest you handle 'Salary'?",
+"back": "Pay enough to remove dissatisfaction (hygiene), but don't expect higher pay alone to create long-term motivation.",
+"tags": ["theory", "application"],
+"difficulty": "medium"
+},
+{
+"front": "If a team member is high in 'Need for Achievement' (McClelland), what kind of tasks should you assign them?",
+"back": "Challenging but achievable goals with frequent feedback on their progress.",
+"tags": ["application", "mcclelland"],
+"difficulty": "medium"
+},
+{
+"front": "Which motivation theory aligns best with Agile's emphasis on self-organizing teams?",
+"back": "Theory Y (people are self-motivated) or Daniel Pink's Autonomy/Mastery/Purpose.",
+"tags": ["application", "agile"],
+"difficulty": "medium"
+},
+{
+"front": "How does a 'Team Contract' help resolve future conflicts?",
+"back": "It provides a pre-agreed reference point for behavior, making it impersonal to enforce rules like 'be on time'.",
+"tags": ["team-charter", "conflict"],
+"difficulty": "medium"
+},
+{
+"front": "Why might a 'Team Bonus' be better than an 'Individual Bonus' in Agile?",
+"back": "It fosters collaboration and prevents team members from competing against each other.",
+"tags": ["rewards", "agile"],
+"difficulty": "medium"
+},
+{
+"front": "According to Expectancy Theory, what happens if the 'Instrumentality' is low?",
+"back": "The employee believes that even if they perform well, they won't actually get the reward, so motivation drops.",
+"tags": ["theory", "expectancy"],
+"difficulty": "medium"
+},
+{
+"front": "How can a PM influence a stakeholder over whom they have no authority?",
+"back": "By using 'Referent' or 'Expert' power, building relationships, and focusing on 'What's in it for them' (WIIFM).",
+"tags": ["influence", "stakeholders"],
+"difficulty": "medium"
+},
+{
+"front": "What is the risk of using 'Coercive Power' frequently?",
+"back": "It creates compliance but kills commitment, destroys trust, and increases turnover.",
+"tags": ["power", "risks"],
+"difficulty": "medium"
+},
+{
+"front": "If a team member is motivated by 'Affiliation', how should you reward them?",
+"back": "Create opportunities for collaboration, social interaction, and public praise within the group.",
+"tags": ["application", "mcclelland"],
+"difficulty": "medium"
+},
+{
+"front": "What is 'Servant Leadership's' role in motivation?",
+"back": "The leader serves the team's needs, removing blockers and empowering them, which increases intrinsic motivation.",
+"tags": ["leadership", "motivation"],
+"difficulty": "medium"
+},
+{
+"front": "How do you apply 'Maslow's Hierarchy' to a project team in a crisis?",
+"back": "Focus on the base levels first—ensure job security (Safety) and reasonable hours (Physiological)—before asking for 'creativity'.",
+"tags": ["application", "maslow"],
+"difficulty": "medium"
+},
+{
+"front": "What is the relationship between 'Cultural Diversity' and 'Reward Systems'?",
+"back": "Different cultures value different rewards (e.g., individual praise vs. group harmony); rewards must be tailored.",
+"tags": ["rewards", "culture"],
+"difficulty": "medium"
+},
+{
+"front": "What is 'Idiosyncrasy Credits' in influence?",
+"back": "The 'goodwill' bank account a leader builds by conforming to group norms, which can later be 'spent' to challenge norms.",
+"tags": ["influence", "theory"],
+"difficulty": "medium"
+},
+{
+"front": "Why should 'Ground Rules' be reviewed periodically?",
+"back": "Because team dynamics change (e.g., Storming to Norming), and rules may need to evolve.",
+"tags": ["team-charter", "maintenance"],
+"difficulty": "medium"
+},
+{
+"front": "What motivates a 'Theory X' manager to micromanage?",
+"back": "The belief that the team will not work unless constantly watched and directed.",
+"tags": ["theory", "mcgregor"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Transparency' influence stakeholders?",
+"back": "Sharing information openly builds trust, reducing resistance and making stakeholders more amenable to requests.",
+"tags": ["influence", "transparency"],
+"difficulty": "medium"
+},
+{
+"front": "What is the 'Social Proof' principle of influence?",
+"back": "People look to what others are doing to determine their own actions (e.g., 'Everyone else has approved this').",
+"tags": ["influence", "psychology"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Goal Setting Theory' (Locke) relate to motivation?",
+"back": "Specific, difficult (but attainable) goals lead to higher performance than vague 'do your best' goals.",
+"tags": ["theory", "locke"],
+"difficulty": "medium"
+},
+{
+"front": "What is the difference between a 'Hygiene Factor' and a 'Demotivator'?",
+"back": "Hygiene factors become demotivators if they are absent or poor; their presence creates neutral satisfaction.",
+"tags": ["theory", "herzberg"],
+"difficulty": "medium"
+},
+{
+"front": "In a 'Virtual Team', how can you use the 'Social Contract' effectively?",
+"back": "Explicitly define communication response times, video-on/off norms, and timezone etiquette.",
+"tags": ["virtual-teams", "contracts"],
+"difficulty": "medium"
+},
+{
+"front": "What is 'Ingratiation' as an influence tactic?",
+"back": "Getting someone in a good mood (flattery, praise) prior to making a request.",
+"tags": ["influence", "tactics"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Empowerment' risky if the team lacks competence?",
+"back": "It can lead to failure and anxiety; empowerment requires a matching level of skill/support (Situational Leadership).",
+"tags": ["empowerment", "risks"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Storytelling' inspire stakeholders?",
+"back": "It connects data to human emotion, making the project vision memorable and compelling.",
+"tags": ["communication", "storytelling"],
+"difficulty": "medium"
+},
+{
+"front": "What is 'Cognitive Dissonance' in the context of influence?",
+"back": "The discomfort felt when actions contradict beliefs; effective influence aligns the request with the person's existing values.",
+"tags": ["psychology", "influence"],
+"difficulty": "medium"
+},
+{
+"front": "How can 'training' act as a reward?",
+"back": "It satisfies the need for growth and mastery, signaling that the organization values the person's future.",
+"tags": ["rewards", "growth"],
+"difficulty": "medium"
+},
+{
+"front": "What is the 'equity theory' of motivation?",
+"back": "People are motivated when they perceive their inputs/outputs ratio is fair compared to others.",
+"tags": ["theory", "equity"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'public recognition' sometimes a bad idea?",
+"back": "Some individuals are introverted or come from cultures where individual spotlight is embarrassing.",
+"tags": ["rewards", "culture"],
+"difficulty": "medium"
+},
+{
+"front": "What is 'Valence' in Vroom's Expectancy Theory?",
+"back": "The value an individual places on the reward. If they don't care about the reward, motivation is zero.",
+"tags": ["theory", "expectancy"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Job Enrichment' differ from 'Job Enlargement'?",
+"back": "Enrichment adds depth/responsibility (motivator); Enlargement just adds more tasks (horizontal loading).",
+"tags": ["motivation", "job-design"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: A team member is consistently late. How do you use the Team Contract?",
+"back": "Refer to the agreed-upon ground rule regarding punctuality. Ask, 'How can we honor the agreement we made?'",
+"tags": ["application", "accountability"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: You have zero budget for rewards. How do you motivate the team?",
+"back": "Use intrinsic motivators: public recognition, flexible hours, 'employee of the month', or growth opportunities.",
+"tags": ["scenario", "rewards"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A stakeholder refuses to approve a necessary change. Using 'Reciprocity', what might you do?",
+"back": "Remind them of a time you helped them with a favor, or offer to solve a pain point for them in exchange for the approval.",
+"tags": ["scenario", "influence"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: Your team is diverse. Some want money, others want time off. What reward system do you recommend?",
+"back": "A 'Cafeteria-style' benefit plan where team members can choose the reward that fits their personal valence.",
+"tags": ["scenario", "rewards"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: High turnover in a high-stress project. Exit interviews show 'Lack of Appreciation'. Which Herzberg factor is missing?",
+"back": "Motivator (Recognition). Even if salary (Hygiene) is high, lack of appreciation causes lack of satisfaction.",
+"tags": ["diagnosis", "herzberg"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A team member is brilliant but toxic. They deliver results but violate the Social Contract. What do you do?",
+"back": "Prioritize the Social Contract. Toxic behavior destroys team performance. Coaching first, then removal if behavior persists.",
+"tags": ["scenario", "culture"],
+"difficulty": "hard"
+},
+{
+"front": "How does 'Authority' differ from 'Leadership' in an influence context?",
+"back": "Authority is the right to command (assigned); Leadership is the ability to inspire compliance (earned).",
+"tags": ["definitions", "nuance"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You are a Project Manager in a Matrix org. Functional managers control the bonus. How do you influence performance?",
+"back": "Provide specific performance feedback to the functional manager to influence the appraisal; use 'Project' perks like recognition.",
+"tags": ["scenario", "matrix-org"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A team member says 'I don't think I can do this task'. Which Expectancy Theory factor is low?",
+"back": "Expectancy (Self-Efficacy). They don't believe Effort -> Performance. You need to provide training or coaching.",
+"tags": ["diagnosis", "expectancy"],
+"difficulty": "hard"
+},
+{
+"front": "Why is 'Management by Exception' (Passive) considered ineffective for inspiration?",
+"back": "It is reactive. The leader only appears when things go wrong, creating a culture of fear rather than inspiration.",
+"tags": ["critique", "leadership"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You want to use 'Gamification'. What is a potential pitfall?",
+"back": "If the game incentivizes the wrong behavior (e.g., quantity of bugs fixed vs. quality), it will degrade the project.",
+"tags": ["scenario", "risks"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: The team ignores the Ground Rules they wrote. What is the leadership failure here?",
+"back": "Failure to enforce or model the rules. The leader must hold the team accountable, or the charter becomes useless.",
+"tags": ["diagnosis", "accountability"],
+"difficulty": "hard"
+},
+{
+"front": "How does 'Self-Determination Theory' refine Maslow's ideas?",
+"back": "It focuses specifically on three psychological needs: Autonomy, Competence, and Relatedness, rather than a rigid hierarchy.",
+"tags": ["theory", "advanced"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A stakeholder is 'Resistant'. Using the 'Salience Model', they are High Power / Low Legitimacy / High Urgency. What are they?",
+"back": "Dangerous Stakeholder. You must influence them carefully to prevent damage, likely using 'Consultation' or 'Coalition' tactics.",
+"tags": ["analysis", "stakeholders"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You praise a team member for working all weekend. What is the unintended consequence?",
+"back": "You are reinforcing 'overwork' and potential burnout. This violates the principle of sustainable pace.",
+"tags": ["scenario", "ethics"],
+"difficulty": "hard"
+},
+{
+"front": "What is the 'Benjamin Franklin Effect' in influence?",
+"back": "A person who has performed a favor for you is more likely to do another favor for you than if you had done a favor for them.",
+"tags": ["psychology", "influence"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: The team is demoralized by a sudden scope change. How do you use 'Reframing' to motivate?",
+"back": "Frame the change as a 'challenge' or 'opportunity' to deliver better value, rather than a failure of the previous plan.",
+"tags": ["technique", "reframing"],
+"difficulty": "hard"
+},
+{
+"front": "Why is 'Coalition Tactics' (ganging up) risky for a PM?",
+"back": "It can be seen as political maneuvering or bullying, damaging long-term trust with the target stakeholder.",
+"tags": ["influence", "risks"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A vendor is delaying delivery. You have no contract penalty. How do you influence them?",
+"back": "Use 'Reputation' or 'Future Business' (Exchange/Apprising). Remind them that their performance determines future contracts.",
+"tags": ["scenario", "procurement"],
+"difficulty": "hard"
+},
+{
+"front": "How does 'Psychological Safety' act as a prerequisite for 'Inspiration'?",
+"back": "People cannot be inspired to take risks or innovate if they are afraid of being punished for mistakes.",
+"tags": ["theory", "foundation"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You implement an 'Employee of the Month' award. The team mocks it. Why?",
+"back": "It may be seen as a 'Zero-Sum' game or favoritism. In high-collaboration teams, individual awards can be toxic.",
+"tags": ["diagnosis", "rewards"],
+"difficulty": "hard"
+}
+]

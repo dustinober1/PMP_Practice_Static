@@ -1,0 +1,602 @@
+[
+{
+"front": "What is a 'Stakeholder'?",
+"back": "An individual, group, or organization that may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project.",
+"tags": ["definition", "stakeholders"],
+"difficulty": "easy"
+},
+{
+"front": "What is the primary purpose of 'Stakeholder Analysis'?",
+"back": "To identify stakeholders and determine their potential impact, influence, and requirements to manage them effectively.",
+"tags": ["process", "analysis"],
+"difficulty": "easy"
+},
+{
+"front": "What are the two axes of the standard 'Power/Interest Grid'?",
+"back": "Power (Authority/Ability to influence) and Interest (Concern/Active involvement).",
+"tags": ["models", "power-interest-grid"],
+"difficulty": "easy"
+},
+{
+"front": "On the Power/Interest Grid, how do you manage a stakeholder with High Power and High Interest?",
+"back": "Manage Closely.",
+"tags": ["models", "power-interest-grid"],
+"difficulty": "easy"
+},
+{
+"front": "On the Power/Interest Grid, how do you manage a stakeholder with High Power and Low Interest?",
+"back": "Keep Satisfied.",
+"tags": ["models", "power-interest-grid"],
+"difficulty": "easy"
+},
+{
+"front": "On the Power/Interest Grid, how do you manage a stakeholder with Low Power and High Interest?",
+"back": "Keep Informed.",
+"tags": ["models", "power-interest-grid"],
+"difficulty": "easy"
+},
+{
+"front": "On the Power/Interest Grid, how do you manage a stakeholder with Low Power and Low Interest?",
+"back": "Monitor (minimum effort).",
+"tags": ["models", "power-interest-grid"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Salience Model'?",
+"back": "A stakeholder analysis framework that classifies stakeholders based on three attributes: Power, Legitimacy, and Urgency.",
+"tags": ["models", "salience"],
+"difficulty": "easy"
+},
+{
+"front": "In the Salience Model, what is 'Legitimacy'?",
+"back": "The perception that the stakeholder's actions are appropriate, proper, or desirable within the organizational system.",
+"tags": ["models", "salience"],
+"difficulty": "easy"
+},
+{
+"front": "In the Salience Model, what is 'Urgency'?",
+"back": "The degree to which the stakeholder's claim calls for immediate attention.",
+"tags": ["models", "salience"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Definitive Stakeholder' in the Salience Model?",
+"back": "A stakeholder who possesses all three attributes: Power, Legitimacy, and Urgency.",
+"tags": ["models", "salience"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Stakeholder Engagement Assessment Matrix' (SEAM)?",
+"back": "A tool that compares the current engagement levels of stakeholders (C) with the desired engagement levels (D).",
+"tags": ["tools", "seam"],
+"difficulty": "easy"
+},
+{
+"front": "What are the five classification levels in the Stakeholder Engagement Assessment Matrix?",
+"back": "Unaware, Resistant, Neutral, Supportive, Leading.",
+"tags": ["tools", "seam"],
+"difficulty": "easy"
+},
+{
+"front": "What defines an 'Unaware' stakeholder?",
+"back": "They are not aware of the project or its potential impacts.",
+"tags": ["classification", "engagement"],
+"difficulty": "easy"
+},
+{
+"front": "What defines a 'Resistant' stakeholder?",
+"back": "They are aware of the project but resistant to change or the project outcomes.",
+"tags": ["classification", "engagement"],
+"difficulty": "easy"
+},
+{
+"front": "What defines a 'Neutral' stakeholder?",
+"back": "They are aware of the project but are neither supportive nor resistant.",
+"tags": ["classification", "engagement"],
+"difficulty": "easy"
+},
+{
+"front": "What defines a 'Supportive' stakeholder?",
+"back": "They are aware of the project and supportive of change and its outcomes.",
+"tags": ["classification", "engagement"],
+"difficulty": "easy"
+},
+{
+"front": "What defines a 'Leading' stakeholder?",
+"back": "They are aware of the project and actively engaged in ensuring its success.",
+"tags": ["classification", "engagement"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Upward Influence'?",
+"back": "Managing relationships with senior management, the sponsor, or the steering committee.",
+"tags": ["directions", "influence"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Downward Influence'?",
+"back": "Managing and leading the project team members and direct reports.",
+"tags": ["directions", "influence"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Sideward Influence'?",
+"back": "Influencing peers, functional managers, and other project managers.",
+"tags": ["directions", "influence"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Outward Influence'?",
+"back": "Influencing external stakeholders such as suppliers, government bodies, the public, and customers.",
+"tags": ["directions", "influence"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Stakeholder Cube'?",
+"back": "A 3D model combining three dimensions (e.g., Power, Interest, Attitude) to map stakeholders more granularly.",
+"tags": ["models", "cube"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Stakeholder Register'?",
+"back": "A project document including the identification, assessment, and classification of project stakeholders.",
+"tags": ["artifacts", "stakeholder-register"],
+"difficulty": "easy"
+},
+{
+"front": "When should stakeholder analysis be conducted?",
+"back": "Ideally at the very start (Initiating) and continuously throughout the project.",
+"tags": ["process", "timing"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Political Awareness'?",
+"back": "Understanding the power relationships, hidden agendas, and alliances within an organization.",
+"tags": ["skills", "politics"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Negative Stakeholder'?",
+"back": "A stakeholder who perceives the project outcomes as detrimental to their interests and may try to impede success.",
+"tags": ["stakeholders", "negative"],
+"difficulty": "easy"
+},
+{
+"front": "Why is it important to identify 'Gatekeepers'?",
+"back": "Because they control access to key decision-makers or resources.",
+"tags": ["roles", "influence"],
+"difficulty": "easy"
+},
+{
+"front": "What does the direction of influence 'Lateral' refer to?",
+"back": "Same as Sideward Influence; interacting with peers or functional managers at the same level.",
+"tags": ["directions", "lateral"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Formal Power'?",
+"back": "Authority derived from a person's position in the organizational hierarchy.",
+"tags": ["power", "formal"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Informal Power'?",
+"back": "Influence derived from relationships, expertise, or personality, regardless of job title.",
+"tags": ["power", "informal"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Influence/Impact Grid'?",
+"back": "A matrix grouping stakeholders based on their active involvement (influence) vs. their ability to cause changes (impact).",
+"tags": ["models", "grids"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Champion' in stakeholder analysis?",
+"back": "A high-power, high-interest stakeholder who actively promotes and fights for the project's success.",
+"tags": ["roles", "champion"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Stakeholder Mapping'?",
+"back": "The visual representation of stakeholders' relationships to the project and to each other.",
+"tags": ["tools", "mapping"],
+"difficulty": "easy"
+},
+{
+"front": "Why is 'Proximity' analyzed for stakeholders?",
+"back": "To understand how close a stakeholder is to the project (e.g., works with the team daily vs. remote external).",
+"tags": ["analysis", "proximity"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Dormant Stakeholder' in the Salience Model?",
+"back": "A stakeholder with Power but no Legitimacy or Urgency; they have little interaction unless provoked.",
+"tags": ["models", "salience"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Discretionary Stakeholder' in the Salience Model?",
+"back": "A stakeholder with Legitimacy but no Power or Urgency; likely to be recipients of corporate social responsibility.",
+"tags": ["models", "salience"],
+"difficulty": "easy"
+},
+{
+"front": "What is a 'Demanding Stakeholder' in the Salience Model?",
+"back": "A stakeholder with Urgency but no Power or Legitimacy; often the 'mosquitoes buzzing in your ear'.",
+"tags": ["models", "salience"],
+"difficulty": "easy"
+},
+{
+"front": "What is the primary risk of misidentifying a stakeholder's power?",
+"back": "You might under-manage a powerful opponent or waste effort on someone with no influence.",
+"tags": ["risks", "analysis"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Brainstorming' used for in this context?",
+"back": "Generating a comprehensive list of potential stakeholders with the team.",
+"tags": ["tools", "brainstorming"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Expert Judgment' in stakeholder analysis?",
+"back": "Consulting with individuals who have specialized knowledge or previous experience with similar stakeholders.",
+"tags": ["tools", "expert-judgment"],
+"difficulty": "easy"
+},
+{
+"front": "How does 'Organizational Structure' affect stakeholder influence?",
+"back": "In a functional org, the functional manager has more influence; in a projectized org, the PM has more influence.",
+"tags": ["context", "structure"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Cultural Analysis' of stakeholders?",
+"back": "Assessing stakeholders' cultural background to tailor communication and influence strategies.",
+"tags": ["analysis", "culture"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Stakeholder Engagement Plan'?",
+"back": "A component of the project management plan that identifies strategies to involve stakeholders effectively.",
+"tags": ["artifacts", "planning"],
+"difficulty": "easy"
+},
+{
+"front": "True or False: All stakeholders have the same level of influence throughout the project.",
+"back": "False. Influence levels fluctuate as the project progresses through different phases.",
+"tags": ["concepts", "dynamics"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Networking'?",
+"back": "Interacting with others to exchange information and develop professional or social contacts to aid the project.",
+"tags": ["tools", "networking"],
+"difficulty": "easy"
+},
+{
+"front": "What is the 'Power/Influence Grid'?",
+"back": "Similar to Power/Interest, but maps Authority (Power) against Active Involvement (Influence).",
+"tags": ["models", "grids"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Context Diagram'?",
+"back": "A visual scope model that can help identify external stakeholders by showing data flows in and out of the system.",
+"tags": ["tools", "diagrams"],
+"difficulty": "easy"
+},
+{
+"front": "Who is the 'Sponsor'?",
+"back": "A stakeholder who provides resources and support for the project and is accountable for enabling success.",
+"tags": ["roles", "sponsor"],
+"difficulty": "easy"
+},
+{
+"front": "What is 'Interest' in stakeholder analysis?",
+"back": "The level of concern or desire a stakeholder has regarding the project outcomes.",
+"tags": ["concepts", "interest"],
+"difficulty": "easy"
+},
+{
+"front": "If a stakeholder is classified as 'High Power, Low Interest', why must they be 'Kept Satisfied'?",
+"back": "Because if they become dissatisfied, they have the power to severely damage or stop the project.",
+"tags": ["strategy", "power-interest"],
+"difficulty": "medium"
+},
+{
+"front": "How do you handle a stakeholder who moves from 'Unaware' to 'Resistant'?",
+"back": "Investigate the cause of resistance immediately and engage them to address concerns (move to Neutral/Supportive).",
+"tags": ["strategy", "seam"],
+"difficulty": "medium"
+},
+{
+"front": "In the Salience Model, what makes a stakeholder 'Dangerous'?",
+"back": "They have Power and Urgency but lack Legitimacy (e.g., a powerful rogue employee or protester).",
+"tags": ["models", "salience"],
+"difficulty": "medium"
+},
+{
+"front": "Why is the 'Monitor' quadrant (Low Power/Low Interest) not simply 'Ignore'?",
+"back": "Because their status can change; they might gain power or interest later, so periodic checks are required.",
+"tags": ["strategy", "monitoring"],
+"difficulty": "medium"
+},
+{
+"front": "How does a 'Dominant' stakeholder (Salience Model) differ from a 'Definitive' one?",
+"back": "Dominant has Power and Legitimacy but lacks Urgency; they are key but not currently demanding attention.",
+"tags": ["models", "salience"],
+"difficulty": "medium"
+},
+{
+"front": "What is the strategic goal for a 'High Interest, Low Power' stakeholder?",
+"back": "Keep Informed. They can be valuable allies and early warning systems, even if they lack decision authority.",
+"tags": ["strategy", "power-interest"],
+"difficulty": "medium"
+},
+{
+"front": "Why might a Project Manager use a 'private' version of the Stakeholder Register?",
+"back": "To record sensitive political or personality analysis that would be damaging if made public.",
+"tags": ["ethics", "documentation"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Network Analysis' help in stakeholder influence?",
+"back": "It visualizes who talks to whom, revealing informal communication paths and hidden influencers.",
+"tags": ["tools", "network-analysis"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: A stakeholder supports the project but has no power. Suddenly, they are promoted to VP. What do you do?",
+"back": "Update the Stakeholder Analysis immediately. Shift strategy from 'Keep Informed' to 'Manage Closely' (High Power/High Interest).",
+"tags": ["scenario", "dynamics"],
+"difficulty": "medium"
+},
+{
+"front": "What indicates that a stakeholder has 'Legitimacy' but is 'Dependent' (Salience Model)?",
+"back": "They have Legitimacy and Urgency but lack Power; they rely on others (like the PM) to advocate for them.",
+"tags": ["models", "salience"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Agile' differ in stakeholder influence analysis?",
+"back": "It emphasizes direct, frequent collaboration (e.g., Product Owner) rather than static documentation and reporting.",
+"tags": ["agile", "stakeholders"],
+"difficulty": "medium"
+},
+{
+"front": "What is the danger of having too many 'Leading' stakeholders?",
+"back": "Potential conflict over direction; too many cooks in the kitchen.",
+"tags": ["dynamics", "risks"],
+"difficulty": "medium"
+},
+{
+"front": "If the SEAM shows 'Current: Neutral' and 'Desired: Neutral', what is the action?",
+"back": "Maintain current engagement levels; no special action is needed to change their attitude.",
+"tags": ["tools", "seam"],
+"difficulty": "medium"
+},
+{
+"front": "How do you analyze the influence of a 'Subject Matter Expert' (SME)?",
+"back": "They typically have High Expert Power but may have Low Positional Power; their influence is high on technical decisions.",
+"tags": ["analysis", "expert-power"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Interest' sometimes harder to gauge than 'Power'?",
+"back": "Interest is internal and subjective (motivation), whereas Power is often visible in the org chart.",
+"tags": ["analysis", "challenges"],
+"difficulty": "medium"
+},
+{
+"front": "What is the relationship between 'Stakeholder Influence' and 'Project Cost' over time?",
+"back": "Stakeholder influence is highest at the start; the cost of changes is lowest at the start.",
+"tags": ["concepts", "lifecycle"],
+"difficulty": "medium"
+},
+{
+"front": "How does a 'Coalition' affect stakeholder analysis?",
+"back": "Individual low-power stakeholders may band together to form a high-power group, changing their classification.",
+"tags": ["dynamics", "coalition"],
+"difficulty": "medium"
+},
+{
+"front": "What role does 'Personality Profiling' play in influence analysis?",
+"back": "Understanding traits (e.g., introversion, dominance) helps in tailoring the influence strategy (e.g., face-to-face vs. email).",
+"tags": ["analysis", "psychology"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: A stakeholder is legally required to sign off (Legitimacy) but doesn't care (Low Urgency) and has little authority (Low Power). What are they?",
+"back": "Discretionary (Salience). You must engage them simply to get the signature, but they won't drive the project.",
+"tags": ["scenario", "salience"],
+"difficulty": "medium"
+},
+{
+"front": "What implies a stakeholder is in the 'Manage Closely' quadrant?",
+"back": "They can stop the project (High Power) and they care deeply about the outcome (High Interest).",
+"tags": ["strategy", "grid"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Virtual Teams' impact stakeholder influence analysis?",
+"back": "Influence is harder to read without physical cues; analysis must rely more on communication frequency and responsiveness.",
+"tags": ["context", "virtual"],
+"difficulty": "medium"
+},
+{
+"front": "Why must you analyze 'Competing Constraints' of stakeholders?",
+"back": "Stakeholder A wants speed, Stakeholder B wants quality. Identifying this early prevents unresolvable conflict later.",
+"tags": ["analysis", "constraints"],
+"difficulty": "medium"
+},
+{
+"front": "What is the 'Prioritization' benefit of the Salience Model?",
+"back": "It separates those who need immediate attention (Definitive/Dangerous) from those who can wait (Dormant/Discretionary).",
+"tags": ["benefits", "salience"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Reviewing Past Projects' help influence analysis?",
+"back": "It reveals how specific stakeholders behaved previously, predicting their likely influence on the current project.",
+"tags": ["tools", "opas"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: The CEO's administrative assistant has no formal rank but controls the CEO's calendar. How do you analyze their influence?",
+"back": "High Informal Power (Gatekeeper). They must be treated with high respect despite low formal rank.",
+"tags": ["scenario", "informal-power"],
+"difficulty": "medium"
+},
+{
+"front": "What is the 'Influence Strategy' for a Resistant stakeholder with High Power?",
+"back": "This is a critical threat. Strategy: heavy engagement, negotiation, finding win-win scenarios, or utilizing a Sponsor's influence.",
+"tags": ["strategy", "resistance"],
+"difficulty": "medium"
+},
+{
+"front": "How does 'Groupthink' bias stakeholder analysis?",
+"back": "The team might assume everyone supports the project because they do, failing to identify silent dissenters.",
+"tags": ["bias", "analysis"],
+"difficulty": "medium"
+},
+{
+"front": "What is 'Stakeholder Identity'?",
+"back": "How the stakeholder sees themselves (e.g., 'Guardian of Quality'). Aligning with this identity increases influence.",
+"tags": ["analysis", "psychology"],
+"difficulty": "medium"
+},
+{
+"front": "Why is 'Updating' the Power/Interest grid crucial during a crisis?",
+"back": "Crisis shifts priorities; a low-interest stakeholder (e.g., Legal) might suddenly become High Power/High Interest.",
+"tags": ["process", "monitoring"],
+"difficulty": "medium"
+},
+{
+"front": "How do you categorize a stakeholder who provides funding?",
+"back": "Typically High Power (Sponsor/Customer), regardless of their daily interest.",
+"tags": ["classification", "funding"],
+"difficulty": "medium"
+},
+{
+"front": "Scenario: A 'Dangerous' stakeholder (High Power, High Urgency, No Legitimacy) is threatening to strike. What is the strategy?",
+"back": "De-escalation. Since they lack Legitimacy, you may not be able to satisfy them, but you must mitigate their damage or involve Legal/HR.",
+"tags": ["scenario", "salience"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: Two High Power stakeholders have opposing goals. The Sponsor refuses to intervene. How do you analyze this influence deadlock?",
+"back": "Analyze their 'Interest' drivers. Use 'Integrative Negotiation' to find common ground. If unresolved, this is a project risk.",
+"tags": ["scenario", "conflict"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A team member is a 'Star Performer' but refuses to follow process. They have immense informal power. How do you manage?",
+"back": "Recognize their influence. Co-opt them to help design the process so they own it. Direct confrontation may cause team revolt.",
+"tags": ["scenario", "team-dynamics"],
+"difficulty": "hard"
+},
+{
+"front": "How does the 'Salience Model' handle 'Non-Stakeholders'?",
+"back": "It identifies 'Non-Stakeholders' as those with none of the three attributes (Power, Legitimacy, Urgency), saving effort.",
+"tags": ["models", "efficiency"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You identify a 'Sleeping Giant' (Dormant: High Power, Low Urgency/Legitimacy). What is the specific danger?",
+"back": "If they acquire 'Urgency' (e.g., something annoys them), they instantly become 'Dominant' or 'Dangerous'. Strategy: Keep Satisfied/Informed.",
+"tags": ["scenario", "salience"],
+"difficulty": "hard"
+},
+{
+"front": "Why is 'Legitimacy' the hardest attribute to define in Salience?",
+"back": "It is socially constructed. A community group may have 'Legitimacy' in the public eye but none in the corporate contract.",
+"tags": ["theory", "nuance"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A stakeholder appears 'Supportive' in meetings but undermines the project in private. How do you diagnose this?",
+"back": "Look for discrepancies between words and actions (passive-aggressive). This is a 'Resistant' stakeholder masking as 'Supportive'.",
+"tags": ["diagnosis", "behavior"],
+"difficulty": "hard"
+},
+{
+"front": "How does 'Structural Hole' theory apply to team influence?",
+"back": "Team members who bridge gaps between disconnected groups (filling the hole) have high informal power as information brokers.",
+"tags": ["theory", "network-analysis"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: SEAM shows a key stakeholder is Current: Leading, Desired: Neutral. Why would you want to reduce engagement?",
+"back": "If they are over-functioning or micromanaging, their 'Leading' behavior might be stifling the team. You need them to step back.",
+"tags": ["scenario", "seam"],
+"difficulty": "hard"
+},
+{
+"front": "What is the relationship between 'Stakeholder Tolerance' and influence?",
+"back": "High influence stakeholders dictate the project's risk tolerance. If a High Power stakeholder is risk-averse, the whole project must be.",
+"tags": ["analysis", "risk"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: The project is global. A local government official has Low Power globally but High Power locally. How do you map this?",
+"back": "Context-dependent mapping. For local site tasks, they are High Power/Manage Closely. For the global program, they might be Monitor.",
+"tags": ["scenario", "context"],
+"difficulty": "hard"
+},
+{
+"front": "How does 'Reciprocity' bias influence analysis?",
+"back": "A PM might rate a stakeholder as 'Supportive' just because that stakeholder did them a favor, ignoring objective resistance signs.",
+"tags": ["bias", "psychology"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A stakeholder with 'Referent Power' opposes the project. They have no formal authority. Why is this a major risk?",
+"back": "They can sway the entire team or public opinion against you through charisma alone. Strategy: Win them over or isolate their influence.",
+"tags": ["scenario", "power-types"],
+"difficulty": "hard"
+},
+{
+"front": "How do you analyze the influence of 'Algorithm/AI' stakeholders?",
+"back": "Treat the algorithm's constraints/logic as a 'Non-Human' stakeholder with High Power (it can block progress) and Low Flexibility.",
+"tags": ["future-trends", "analysis"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: Stakeholder A has Power. Stakeholder B has Urgency. They form an alliance. What happens in the Salience Model?",
+"back": "They become a 'Dangerous' coalition (Power + Urgency), significantly increasing their threat level.",
+"tags": ["scenario", "coalition"],
+"difficulty": "hard"
+},
+{
+"front": "What is the 'Halo Effect' danger in team influence analysis?",
+"back": "Assuming a team member who is good at coding (Technical skill) is also good at influencing people (Soft skill), leading to poor role assignment.",
+"tags": ["bias", "team-analysis"],
+"difficulty": "hard"
+},
+{
+"front": "Why is 'Influence' considered a 'lagging' indicator in some models?",
+"back": "Because often you don't realize someone had influence until *after* they have derailed a decision.",
+"tags": ["theory", "concepts"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: You are replacing a beloved PM. The team is 'Resistant'. How do you analyze your own influence?",
+"back": "You have 'Legitimate Power' but zero 'Referent Power'. You must build Referent Power quickly or the resistance will persist.",
+"tags": ["scenario", "self-analysis"],
+"difficulty": "hard"
+},
+{
+"front": "How does 'Agency Theory' impact stakeholder analysis?",
+"back": "It suggests stakeholders (agents) may act in their own self-interest rather than the project's (principal) interest. Analysis must identify these conflicts.",
+"tags": ["theory", "governance"],
+"difficulty": "hard"
+},
+{
+"front": "Scenario: A stakeholder is 'High Interest, Low Power' but is highly vocal on social media. How do you re-classify?",
+"back": "Their ability to damage reputation gives them 'High Power' (Informal/Reputational). Move to Manage Closely.",
+"tags": ["scenario", "reputation"],
+"difficulty": "hard"
+}
+]
