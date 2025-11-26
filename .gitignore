@@ -25,3 +25,22 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# RAG environment and data
+references/
+pmbok_rag_env/
+pmbok_vectordb/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+venv_bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
