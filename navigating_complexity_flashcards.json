@@ -1,0 +1,570 @@
+[
+  {
+    "id": "navigating_complexity_001",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Complexity?",
+    "back": "A characteristic of a program or project or its environment, which is difficult to manage due to human behavior, system behavior, and ambiguity.",
+    "original_term": "Complexity"
+  },
+  {
+    "id": "navigating_complexity_002",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Ambiguity?",
+    "back": "A state of being unclear, of not knowing what to expect or how to comprehend a situation. It is one of the three categories of complexity identified in this practice guide.",
+    "original_term": "Ambiguity"
+  },
+  {
+    "id": "navigating_complexity_003",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Emergent Complexity?",
+    "back": "The spontaneous, unanticipated change that occurs in a program or project and which acts as a major source of uncertainty.",
+    "original_term": "Emergent Complexity"
+  },
+  {
+    "id": "navigating_complexity_004",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Uncertainty?",
+    "back": "A lack of awareness and understanding of issues, events, path to follow, or solutions to pursue. Uncertainty may increase and amplify issues, risks, behaviors, or situations, which are internal and external to a program or project.",
+    "original_term": "Uncertainty"
+  },
+  {
+    "id": "navigating_complexity_005",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Unpredictability?",
+    "back": "A common outcome of programs and projects in a complex environment. Social and political interactions and interconnectedness can create issues and/or results that are unable to be predetermined.",
+    "original_term": "Unpredictability"
+  },
+  {
+    "id": "navigating_complexity_006",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Anchoring?",
+    "back": "A cognitive bias that causes people to fixate on an early piece of data even when contradicted by more accurate subsequent data.",
+    "original_term": "Anchoring"
+  },
+  {
+    "id": "navigating_complexity_007",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Critical Thinking?",
+    "back": "A process in which one applies observation, analysis, inference, context, reflective thinking, and the like, in order to reach judgments. Such judgments should be open to alternative perspectives that may not normally be otherwise considered.",
+    "original_term": "Critical Thinking"
+  },
+  {
+    "id": "navigating_complexity_008",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Framing Effect?",
+    "back": "A cognitive bias in which the manner that information is presented or an experiment is conducted irrationally affects the interpretation of data.",
+    "original_term": "Framing Effect"
+  },
+  {
+    "id": "navigating_complexity_009",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Loss Aversion?",
+    "back": "A cognitive bias in which people continue to support a clearly failing endeavor for which significant resources have already been expended. Also called sunk cost bias.",
+    "original_term": "Loss Aversion"
+  },
+  {
+    "id": "navigating_complexity_010",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Paradoxical Thinking?",
+    "back": "The ability to hold two contradictory thoughts about a single issue (e.g., relaxing while sprinting, loosening control amidst instability).",
+    "original_term": "Paradoxical Thinking"
+  },
+  {
+    "id": "navigating_complexity_011",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Planning Fallacy?",
+    "back": "The natural tendency of people to underestimate probable costs or time and to overestimate probable benefits of the required efforts to complete a task.",
+    "original_term": "Planning Fallacy"
+  },
+  {
+    "id": "navigating_complexity_012",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Reflective Thinking?",
+    "back": "A part of the critical thinking process, the process of considering and elucidating one’s self experiences, which is best used to apply knowledge to future activities.",
+    "original_term": "Reflective Thinking"
+  },
+  {
+    "id": "navigating_complexity_013",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a System?",
+    "back": "A collection of various components that together can produce results not obtainable by the components alone.",
+    "original_term": "System"
+  },
+  {
+    "id": "navigating_complexity_014",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is System Behavior?",
+    "back": "One of the three categories of complexity used in this practice guide to describe a source of complexity that may arise from the interactions and interdependence of various structures through connections among their parts or components.",
+    "original_term": "System Behavior"
+  },
+  {
+    "id": "navigating_complexity_015",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is System Dynamics?",
+    "back": "The interactions of connected and interdependent components, which may cause change over time and give rise to interconnected risks; emerging, unforeseeable issues; and unclear, disproportional cause-and-effect relationships.",
+    "original_term": "System Dynamics"
+  },
+  {
+    "id": "navigating_complexity_016",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Human Behavior?",
+    "back": "One of the three categories of complexity used in this practice guide to describe a source of complexity that occurs from the interplay of conducts, demeanors, and attitudes of people.",
+    "original_term": "Human Behavior"
+  },
+  {
+    "id": "navigating_complexity_017",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Interconnectedness?",
+    "back": "The interdependence of one individual, component, or objective on other individuals, components, or objectives in a program or project.",
+    "original_term": "Interconnectedness"
+  },
+  {
+    "id": "navigating_complexity_018",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Interdependency?",
+    "back": "The state of mutual reliance between two or more entities, that is, the relationship in which each program or project component is mutually dependent on others. This characteristic differs from a dependence relationship, where some components are dependent and some are not.",
+    "original_term": "Interdependency"
+  },
+  {
+    "id": "navigating_complexity_019",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Component?",
+    "back": "An identifiable element within the program or project that provides a particular function or group of related functions.",
+    "original_term": "Component"
+  },
+  {
+    "id": "navigating_complexity_020",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Part?",
+    "back": "A complete, integrated set of components and/or subsystems capable of accomplishing an operational role or function.",
+    "original_term": "Part"
+  },
+  {
+    "id": "navigating_complexity_021",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Governance?",
+    "back": "The framework for directing and enabling an organization through its established policies, practices, and other relevant documentation.",
+    "original_term": "Governance"
+  },
+  {
+    "id": "navigating_complexity_022",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Portfolio Management?",
+    "back": "The centralized management of one or more portfolios to achieve strategic objectives.",
+    "original_term": "Portfolio Management"
+  },
+  {
+    "id": "navigating_complexity_023",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Program Management?",
+    "back": "The application of knowledge, skills, tools, and techniques to a program to meet the program requirements and to obtain benefits and control not available by managing projects individually.",
+    "original_term": "Program Management"
+  },
+  {
+    "id": "navigating_complexity_024",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Program Management Office?",
+    "back": "A management structure that standardizes the program-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques.",
+    "original_term": "Program Management Office"
+  },
+  {
+    "id": "navigating_complexity_025",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Project Management?",
+    "back": "The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements.",
+    "original_term": "Project Management"
+  },
+  {
+    "id": "navigating_complexity_026",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Project Management Office?",
+    "back": "An organizational structure that standardizes the project-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques.",
+    "original_term": "Project Management Office"
+  },
+  {
+    "id": "navigating_complexity_027",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Change Control?",
+    "back": "A process whereby modifications to documents, deliverables, or baselines associated with the project are identified, documented, approved, or rejected.",
+    "original_term": "Change Control"
+  },
+  {
+    "id": "navigating_complexity_028",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Go/No-Go Decision?",
+    "back": "The process of determining if an initiative should continue or be stopped. This process usually involves analysis of the current state of the initiative. A 'go' permits the release of the solution in whole or in part. A 'no-go' either delays or disapproves the release of the solution.",
+    "original_term": "Go/No-Go Decision"
+  },
+  {
+    "id": "navigating_complexity_029",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Flat Organization?",
+    "back": "An organization in which many management levels between the highest and lowest levels have been minimized.",
+    "original_term": "Flat Organization"
+  },
+  {
+    "id": "navigating_complexity_030",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Groupthink?",
+    "back": "The phenomenon in which the group's desire to achieve conformity and harmony affects the rationality of its decisions.",
+    "original_term": "Groupthink"
+  },
+  {
+    "id": "navigating_complexity_031",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Groupshift?",
+    "back": "The phenomenon in which the interactions among members of a group cause it to take more extreme positions than its members would normally take individually.",
+    "original_term": "Groupshift"
+  },
+  {
+    "id": "navigating_complexity_032",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Misrepresentation?",
+    "back": "The deliberate presentation of false information in order to achieve personal gain.",
+    "original_term": "Misrepresentation"
+  },
+  {
+    "id": "navigating_complexity_033",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Opacity?",
+    "back": "The unclear, secretive manner in which an organization conducts its business, such as making decisions, determining strategies, and setting priorities, which causes a lack of trust among stakeholders.",
+    "original_term": "Opacity"
+  },
+  {
+    "id": "navigating_complexity_034",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Self-Organization?",
+    "back": "A spontaneous act where people come together and establish a structure or function in a purposeful manner.",
+    "original_term": "Self-Organization"
+  },
+  {
+    "id": "navigating_complexity_035",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Tribal Mindset?",
+    "back": "The 'us vs. them' mentality that causes groups to take positions that ultimately thwart common goals and objectives.",
+    "original_term": "Tribal Mindset"
+  },
+  {
+    "id": "navigating_complexity_036",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What does NGO stand for?",
+    "back": "Nongovernmental organization.",
+    "original_term": "NGO"
+  },
+  {
+    "id": "navigating_complexity_037",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Portfolio?",
+    "back": "Projects, programs, subportfolios, and operations managed as a group to achieve strategic objectives.",
+    "original_term": "Portfolio"
+  },
+  {
+    "id": "navigating_complexity_038",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Program?",
+    "back": "A group of related projects, subprograms, and program activities that are managed in a coordinated way to obtain benefits not available from managing them individually.",
+    "original_term": "Program"
+  },
+  {
+    "id": "navigating_complexity_039",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Project?",
+    "back": "A temporary endeavor undertaken to create a unique product, service, or result.",
+    "original_term": "Project"
+  },
+  {
+    "id": "navigating_complexity_040",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Project Life Cycle?",
+    "back": "The series of phases that a project passes through from its initiation to its closure.",
+    "original_term": "Project Life Cycle"
+  },
+  {
+    "id": "navigating_complexity_041",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Requirement?",
+    "back": "A condition or capability that is required to be present in a product, service, or result to satisfy a contract or other formally imposed specification.",
+    "original_term": "Requirement"
+  },
+  {
+    "id": "navigating_complexity_042",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Risk?",
+    "back": "An uncertain event or condition that, if it occurs, has a positive or negative effect on one or more project objectives.",
+    "original_term": "Risk"
+  },
+  {
+    "id": "navigating_complexity_043",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Scope?",
+    "back": "The work performed to deliver a project, service, or result with the specified features and functions.",
+    "original_term": "Scope"
+  },
+  {
+    "id": "navigating_complexity_044",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Sponsor?",
+    "back": "A person or group who provides resources and support for the project, program, or portfolio and is accountable for enabling success.",
+    "original_term": "Sponsor"
+  },
+  {
+    "id": "navigating_complexity_045",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Stakeholder?",
+    "back": "An individual, group, or organization who may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project.",
+    "original_term": "Stakeholder"
+  },
+  {
+    "id": "navigating_complexity_046",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is RACI?",
+    "back": "A common type of responsibility assignment matrix that uses responsible, accountable, consult, and inform statuses to define the involvement of stakeholders in project activities.",
+    "original_term": "RACI"
+  },
+  {
+    "id": "navigating_complexity_047",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is an Environmental Scan?",
+    "back": "A process that thoroughly reviews and interprets environmental data in order to develop SWOT analysis.",
+    "original_term": "Environmental Scan"
+  },
+  {
+    "id": "navigating_complexity_048",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What are External Audits?",
+    "back": "These activities involve commissioning a team of objective experts to assess the validity of senior management expectations regarding program or project costs and benefits. These experts could be internal or external to the organization.",
+    "original_term": "External Audits"
+  },
+  {
+    "id": "navigating_complexity_049",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Feasibility Analysis?",
+    "back": "A study that produces a potential recommendation to address business needs. It examines feasibility using one or more of the following variables: operational, technology/system, cost-effectiveness, and timeliness of the potential solution.",
+    "original_term": "Feasibility Analysis"
+  },
+  {
+    "id": "navigating_complexity_050",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Gap Analysis?",
+    "back": "A technique for understanding the gap between current capabilities and needed capabilities. Filling the gap is what comprises a solution recommendation.",
+    "original_term": "Gap Analysis"
+  },
+  {
+    "id": "navigating_complexity_051",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Resource Gap Analysis?",
+    "back": "An assessment comparing available resources with those needed for a program or project. The assessment may include reviewing areas such as resources, talent, software, alliances, processes, and practices readily available to successfully complete a program or project.",
+    "original_term": "Resource Gap Analysis"
+  },
+  {
+    "id": "navigating_complexity_052",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Premortem Review?",
+    "back": "These are detailed reviews by experts to consider potential risks that could ultimately cause the failure of a program or project. Risk remediation effort estimates are added to original estimates to reset the budget, scope, and schedule expectations.",
+    "original_term": "Premortem Review"
+  },
+  {
+    "id": "navigating_complexity_053",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Reference-Class Forecasting?",
+    "back": "A method for taking an outside view of preliminary program or project estimates in order to correct the mistakes brought on by cognitive biases.",
+    "original_term": "Reference-Class Forecasting"
+  },
+  {
+    "id": "navigating_complexity_054",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is SWOT Analysis?",
+    "back": "The analysis of strengths, weaknesses, opportunities, and threats of an organization, project, or option.",
+    "original_term": "SWOT Analysis"
+  },
+  {
+    "id": "navigating_complexity_055",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Adaptability?",
+    "back": "The ability to adapt to a changing environment and/or situation and to adopt a flexible approach that shifts according to the situation.",
+    "original_term": "Adaptability"
+  },
+  {
+    "id": "navigating_complexity_056",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Holistic?",
+    "back": "Reviewing, relating, or treating entire systems and their environments, rather than separately reviewing or investigating the components of these systems.",
+    "original_term": "Holistic"
+  },
+  {
+    "id": "navigating_complexity_057",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Resilience?",
+    "back": "The ability to cope with adversity and recover quickly from setbacks.",
+    "original_term": "Resilience"
+  },
+  {
+    "id": "navigating_complexity_058",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What are Leadership Skills?",
+    "back": "One of the three key skill sets that is considered as required for successful management of projects. Leadership skills include: negotiation, communication, motivation, problem solving, and related competencies.",
+    "original_term": "Leadership Skills"
+  },
+  {
+    "id": "navigating_complexity_059",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What are Strategic and Business Management Skills?",
+    "back": "One of the three key skill sets that is considered as required for successful management of projects. Strategic and business management skills include: strategy alignment, innovation, finance, marketing, and operational functions, etc.",
+    "original_term": "Strategic and Business Management Skills"
+  },
+  {
+    "id": "navigating_complexity_060",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Technical Project Management?",
+    "back": "One of the three key skill sets that is considered as required for successful management of projects. Technical project management skills include project management knowledge, product knowledge, and industry expertise.",
+    "original_term": "Technical Project Management"
+  },
+  {
+    "id": "navigating_complexity_061",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Key Performance Indicator (KPI)?",
+    "back": "A high-level measurement meant to indicate how well an individual or group is performing a set of activities that is considered critical to the overall success of an endeavor.",
+    "original_term": "Key Performance Indicator (KPI)"
+  },
+  {
+    "id": "navigating_complexity_062",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Skills Assessment?",
+    "back": "A part of the resource gap analysis comparing available talents with those needed for a program or project.",
+    "original_term": "Skills Assessment"
+  },
+  {
+    "id": "navigating_complexity_063",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Communications Method?",
+    "back": "A systematic procedure, technique, or process used to transfer information among project stakeholders.",
+    "original_term": "Communications Method"
+  },
+  {
+    "id": "navigating_complexity_064",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Feedback?",
+    "back": "A process in which the effect or output of an action is 'returned' (fed back) to modify the next action.",
+    "original_term": "Feedback"
+  },
+  {
+    "id": "navigating_complexity_065",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Go Fever?",
+    "back": "The overall attitude of being in a hurry to complete a solution, project, or task while overlooking potential problems or mistakes.",
+    "original_term": "Go Fever"
+  },
+  {
+    "id": "navigating_complexity_066",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is an Implementation Approach?",
+    "back": "A plan that outlines the steps intended to be taken to reach a solution.",
+    "original_term": "Implementation Approach"
+  },
+  {
+    "id": "navigating_complexity_067",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Interdisciplinary Process Integration?",
+    "back": "The effective integration of processes from multiple disciplines.",
+    "original_term": "Interdisciplinary Process Integration"
+  },
+  {
+    "id": "navigating_complexity_068",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What are Lessons Learned?",
+    "back": "The knowledge gained during a project, which shows how project events were addressed or should be addressed in the future for the purpose of improving future performance.",
+    "original_term": "Lessons Learned"
+  },
+  {
+    "id": "navigating_complexity_069",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is Oversimplification?",
+    "back": "Simplifying something to a point where its meaning is misrepresented or no longer accurate.",
+    "original_term": "Oversimplification"
+  },
+  {
+    "id": "navigating_complexity_070",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is an Overlooked Dependency?",
+    "back": "The potentially hidden connections among individual components in a hierarchical system.",
+    "original_term": "Overlooked Dependency"
+  },
+  {
+    "id": "navigating_complexity_071",
+    "type": "definition",
+    "category": "COMPLEXITY_MANAGEMENT",
+    "front": "What is a Stand-Up Meeting?",
+    "back": "A face-to-face meeting that is usually held in a location with no available chairs in order to facilitate a brief, focused meeting; however, the same outcome can be obtained by using the same technique and holding the meeting in a virtual environment.",
+    "original_term": "Stand-Up Meeting"
+  }
+]
