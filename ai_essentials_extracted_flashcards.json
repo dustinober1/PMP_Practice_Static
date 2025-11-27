@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ai_essentials_extracted_001",
+    "type": "definition",
+    "category": "AI_ESSENTIALS_TERM",
+    "front": "What is Artificial Intelligence (AI)?",
+    "back": "Machine behavior and function that exhibits human intelligence and behavior. More specifically, it is the ability of machines to perceive, understand, learn, make decisions, converse, and develop intuition.",
+    "original_term": "Artificial Intelligence (AI)"
+  },
+  {
+    "id": "ai_essentials_extracted_002",
+    "type": "definition",
+    "category": "AI_ESSENTIALS_TERM",
+    "front": "What is Artificial General Intelligence (AGI)?",
+    "back": "Also known as 'strong AI,' this refers to systems enabled with cognitive capabilities and mental dexterity that mimic humans, allowing them to generalize knowledge across domains and adapt to changes.",
+    "original_term": "Artificial General Intelligence (AGI)"
+  },
+  {
+    "id": "ai_essentials_extracted_003",
+    "type": "definition",
+    "category": "AI_ESSENTIALS_TERM",
+    "front": "What is Narrow AI (Weak AI)?",
+    "back": "AI systems designed to use technologies to perform specific, limited tasks (e.g., chatbots, facial recognition) and cannot be applied to other tasks.",
+    "original_term": "Narrow AI (Weak AI)"
+  },
+  {
+    "id": "ai_essentials_extracted_004",
+    "type": "definition",
+    "category": "AI_ESSENTIALS_TERM",
+    "front": "What is Augmented Intelligence?",
+    "back": "The idea of machines and humans working together to enhance, rather than replace, human tasks.",
+    "original_term": "Augmented Intelligence"
+  }
+]

@@ -73,6 +73,7 @@ The application organizes PMP content into:
   - **General PMP Flashcards**: Core PMP concepts and terminology
   - **Agile Practice Guide Flashcards**: 85 terms from the Agile Practice Guide glossary (added from references/AgilePracticeGuide.pdf)
   - **AI Essentials Flashcards**: 45 terms from the AI Essentials for Project Professionals document (added manually curated content)
+  - **AI Essentials Extracted Flashcards**: 4 terms from the AI Essentials for Project Professionals document (added from manual extraction of key terms)
   - **Business Analysis Flashcards**: 62 terms from the Business Analysis for Practitioners: A Practice Guide - Second Edition (added manually curated content)
   - **Leading AI Transformation Flashcards**: 49 terms from the Leading AI Transformation document (added manually curated content)
   - **Leading and Managing AI Projects Flashcards**: 40 terms from the Leading and Managing AI Projects guide (added manually curated content)
