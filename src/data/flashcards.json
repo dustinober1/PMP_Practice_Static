@@ -8163,5 +8163,325 @@
     "front": "What is the Value-generating PMO Flywheel?",
     "back": "A model that breaks down the PMO customer experience cycle into 10 actionable steps.",
     "original_term": "Value-generating PMO flywheel"
+  },
+  {
+    "id": "config_mgmt_001",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Accept?",
+    "back": "The act of formally receiving or acknowledging something and regarding it as being true, sound, suitable, or complete.",
+    "original_term": "Accept"
+  },
+  {
+    "id": "config_mgmt_002",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is an Activity?",
+    "back": "A component of work performed during the course of a project.",
+    "original_term": "Activity"
+  },
+  {
+    "id": "config_mgmt_003",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Approve?",
+    "back": "The act of formally confirming, sanctioning, ratifying, or agreeing to something.",
+    "original_term": "Approve"
+  },
+  {
+    "id": "config_mgmt_004",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is an Artifact?",
+    "back": "Information that is both concrete and tangible, such as a document or electronic file.",
+    "original_term": "Artifact"
+  },
+  {
+    "id": "config_mgmt_005",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is an Audit?",
+    "back": "A planned and documented activity performed by qualified personnel to determine by investigation, examination, or evaluation of objective evidence, the adequacy and compliance with established procedures or applicable documents and the effectiveness of implementation.",
+    "original_term": "Audit"
+  },
+  {
+    "id": "config_mgmt_006",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Baseline?",
+    "back": "The approved time phased plan (for a project, a work breakdown structure component, a work package, or a schedule activity), plus or minus approved project scope, cost, schedule, and technical changes.",
+    "original_term": "Baseline"
+  },
+  {
+    "id": "config_mgmt_007",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Change?",
+    "back": "Any occurrence of deviation from expected outcomes, where the deliverable is performing to specifications and the specifications are in error.",
+    "original_term": "Change"
+  },
+  {
+    "id": "config_mgmt_008",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Change Control?",
+    "back": "Identifying, documenting, approving or rejecting, and controlling changes to the project baselines.",
+    "original_term": "Change Control"
+  },
+  {
+    "id": "config_mgmt_009",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Change Control Board (CCB)?",
+    "back": "A formally constituted group of stakeholders responsible for reviewing, evaluating, approving, delaying, or rejecting changes to the project, with all decisions and recommendations being recorded.",
+    "original_term": "Change Control Board (CCB)"
+  },
+  {
+    "id": "config_mgmt_010",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Change History?",
+    "back": "A description of how and why a revision of a configuration item differs from its prior version.",
+    "original_term": "Change History"
+  },
+  {
+    "id": "config_mgmt_011",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Change Implementation Board?",
+    "back": "A formally constituted group of stakeholders responsible for reviewing, evaluating, approving, delaying, or rejecting changes to the project based on implementation reasons such as schedule or cost.",
+    "original_term": "Change Implementation Board"
+  },
+  {
+    "id": "config_mgmt_012",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Change Notice?",
+    "back": "A grouping of change requests, normally based on like changes or changes to the same area of the project's deliverables.",
+    "original_term": "Change Notice"
+  },
+  {
+    "id": "config_mgmt_013",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Change Review Board?",
+    "back": "A formally constituted group of stakeholders responsible for reviewing, evaluating, approving, delaying, or rejecting changes to the project based on business reasons such as strategic focus or business implementation plans.",
+    "original_term": "Change Review Board"
+  },
+  {
+    "id": "config_mgmt_014",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Change Request?",
+    "back": "Requests to expand or reduce the project scope, modify policies, processes, plans, or procedures, modify costs or budgets, or revise schedules.",
+    "original_term": "Change Request"
+  },
+  {
+    "id": "config_mgmt_015",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Configuration?",
+    "back": "Physical and functional arrangement of interconnected parts that form a system, a piece of equipment or a product.",
+    "original_term": "Configuration"
+  },
+  {
+    "id": "config_mgmt_016",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Configuration Change Management?",
+    "back": "Ensures (1) regulation of the flow of proposed changes, (2) documentation of the complete impact of the proposed changes, and (3) release only of approved configuration changes into project products and their related configuration documentation.",
+    "original_term": "Configuration Change Management"
+  },
+  {
+    "id": "config_mgmt_017",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Configuration Control?",
+    "back": "The application of agreed upon rules in order to ensure that all modifications to configuration items are submitted and analyzed prior to providing a disposition and that all such requests and changes are recorded in a traceable manner.",
+    "original_term": "Configuration Control"
+  },
+  {
+    "id": "config_mgmt_018",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Configuration Identification?",
+    "back": "Selection of configuration items, and identification of their functional and physical characteristics.",
+    "original_term": "Configuration Identification"
+  },
+  {
+    "id": "config_mgmt_019",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Configuration Item?",
+    "back": "Aggregation of hardware, software, processed materials, services, or any of its discrete portions, which satisfy an end-use function, and whose requirements are specific and designated for separate configuration management.",
+    "original_term": "Configuration Item"
+  },
+  {
+    "id": "config_mgmt_020",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Configuration Management (CM)?",
+    "back": "Management process to establish and maintain consistency of a product's performance, functional and physical attributes with its requirements, design, and operational information throughout its life.",
+    "original_term": "Configuration Management (CM)"
+  },
+  {
+    "id": "config_mgmt_021",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Configuration Management Harmonization?",
+    "back": "Describes a condition where the configuration management system on a project manages unique configuration items in a way to ensure they do not conflict in practice, schedule, or resource usage; and where they share a common vocabulary needed for effective communications among stakeholders.",
+    "original_term": "Configuration Management Harmonization"
+  },
+  {
+    "id": "config_mgmt_022",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Configuration Management Plan?",
+    "back": "Configuration planning which outlines the overall processes and procedures to be employed for configuration management.",
+    "original_term": "Configuration Management Plan"
+  },
+  {
+    "id": "config_mgmt_023",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Configuration Management Planning?",
+    "back": "The development and planning of configuration management processes for the context and environment in which they are to be performed.",
+    "original_term": "Configuration Management Planning"
+  },
+  {
+    "id": "config_mgmt_024",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Configuration Status Accounting?",
+    "back": "An element of configuration management that consists of the recording and reporting of information needed to effectively manage a configuration item.",
+    "original_term": "Configuration Status Accounting"
+  },
+  {
+    "id": "config_mgmt_025",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Configuration Verification and Audit?",
+    "back": "The process of ensuring the result of a configuration item meets pre-defined criteria (requirements).",
+    "original_term": "Configuration Verification and Audit"
+  },
+  {
+    "id": "config_mgmt_026",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Effectivity?",
+    "back": "Specification of the point at which a change will be effective.",
+    "original_term": "Effectivity"
+  },
+  {
+    "id": "config_mgmt_027",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is an Enhancement?",
+    "back": "Any condition where a stakeholder (customer, user, developer, etc.) finds an area that may be enhanced or improved.",
+    "original_term": "Enhancement"
+  },
+  {
+    "id": "config_mgmt_028",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is an Enterprise Configuration Management Plan?",
+    "back": "Configuration planning which outlines the overall processes and procedures to be employed for configuration management at an organization or portfolio level.",
+    "original_term": "Enterprise Configuration Management Plan"
+  },
+  {
+    "id": "config_mgmt_029",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Functional Configuration Audit?",
+    "back": "An audit conducted to verify that the development of a configuration item has been completed satisfactorily; that it is operational or useable; and that the support documents are complete and satisfactory.",
+    "original_term": "Functional Configuration Audit"
+  },
+  {
+    "id": "config_mgmt_030",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Integrated Change Control [Process]?",
+    "back": "The process of reviewing all change requests, approving changes and controlling changes to deliverables and organizational process assets.",
+    "original_term": "Integrated Change Control [Process]"
+  },
+  {
+    "id": "config_mgmt_031",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Physical Configuration Audit?",
+    "back": "An audit conducted to verify that a configuration item (or group of configuration items) matches documented descriptions and requirements.",
+    "original_term": "Physical Configuration Audit"
+  },
+  {
+    "id": "config_mgmt_032",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Problem?",
+    "back": "Any occurrence of deviation from expected outcomes, where the deliverable is not performing to defined specifications.",
+    "original_term": "Problem"
+  },
+  {
+    "id": "config_mgmt_033",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Project Configuration Management?",
+    "back": "A subset of project management that comprises the collective body of processes, activities, tools, and methods used to manage designated project deliverables or artifacts throughout the project life cycle.",
+    "original_term": "Project Configuration Management"
+  },
+  {
+    "id": "config_mgmt_034",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Project Configuration Management Plan?",
+    "back": "A subsidiary of the project management plan that can also be a subset of the enterprise configuration management plan, and will use the enterprise plan as a guideline to ensure compliance and integration with an organization's overall plans.",
+    "original_term": "Project Configuration Management Plan"
+  },
+  {
+    "id": "config_mgmt_035",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Release?",
+    "back": "An action whereby a particular version of a configuration item or group of configuration items is made available.",
+    "original_term": "Release"
+  },
+  {
+    "id": "config_mgmt_036",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Stakeholder?",
+    "back": "Person or organization (e.g., customer, sponsor, performing organization, or the public) that is actively involved in the project, or whose interests may be positively or negatively affected by execution or completion of the project.",
+    "original_term": "Stakeholder"
+  },
+  {
+    "id": "config_mgmt_037",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Technical Review Board?",
+    "back": "A formally or informally constituted group of subject matter experts within the project responsible for reviewing, evaluating, approving, delaying, or rejecting changes to the project based on technical reasons such as capabilities and functionality.",
+    "original_term": "Technical Review Board"
+  },
+  {
+    "id": "config_mgmt_038",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Verification [Technique]?",
+    "back": "The technique of evaluating a component or product at the end of a phase or project to assure or confirm it satisfies the conditions imposed.",
+    "original_term": "Verification [Technique]"
+  },
+  {
+    "id": "config_mgmt_039",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is a Version?",
+    "back": "A uniquely identified instance of a configuration item.",
+    "original_term": "Version"
+  },
+  {
+    "id": "config_mgmt_040",
+    "type": "definition",
+    "category": "CONFIGURATION_MANAGEMENT",
+    "front": "What is Version Control?",
+    "back": "A means to identify and manage configuration items as they change over time.",
+    "original_term": "Version Control"
   }
 ]
