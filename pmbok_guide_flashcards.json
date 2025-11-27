@@ -1,0 +1,378 @@
+[
+  {
+    "id": "pmbok_guide_001",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Project?",
+    "back": "A temporary endeavor undertaken to create a unique product, service, or result.",
+    "original_term": "Project"
+  },
+  {
+    "id": "pmbok_guide_002",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Program?",
+    "back": "A group of related projects, subsidiary programs, and program activities managed in a coordinated manner to obtain benefits not available from managing them individually.",
+    "original_term": "Program"
+  },
+  {
+    "id": "pmbok_guide_003",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Portfolio?",
+    "back": "Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.",
+    "original_term": "Portfolio"
+  },
+  {
+    "id": "pmbok_guide_004",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Project Management?",
+    "back": "The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements.",
+    "original_term": "Project Management"
+  },
+  {
+    "id": "pmbok_guide_005",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Project Manager?",
+    "back": "The person assigned by the performing organization to lead the team that is responsible for achieving the project objectives.",
+    "original_term": "Project Manager"
+  },
+  {
+    "id": "pmbok_guide_006",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Project Team?",
+    "back": "A set of individuals who support the project manager in performing the work of the project to achieve its objectives.",
+    "original_term": "Project Team"
+  },
+  {
+    "id": "pmbok_guide_007",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Project Life Cycle?",
+    "back": "The series of phases that a project passes through from its start to its completion.",
+    "original_term": "Project Life Cycle"
+  },
+  {
+    "id": "pmbok_guide_008",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Phase?",
+    "back": "A collection of logically related project activities that culminates in the completion of one or more deliverables.",
+    "original_term": "Phase"
+  },
+  {
+    "id": "pmbok_guide_009",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Deliverable?",
+    "back": "Any unique and verifiable product, result, or capability to perform a service that is required to be produced to complete a process, phase, or project.",
+    "original_term": "Deliverable"
+  },
+  {
+    "id": "pmbok_guide_010",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is an Outcome?",
+    "back": "An end result or consequence of a process or project.",
+    "original_term": "Outcome"
+  },
+  {
+    "id": "pmbok_guide_011",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Value?",
+    "back": "The worth, importance, or usefulness of something.",
+    "original_term": "Value"
+  },
+  {
+    "id": "pmbok_guide_012",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Scope?",
+    "back": "The sum of the products, services, and results to be provided as a project.",
+    "original_term": "Scope"
+  },
+  {
+    "id": "pmbok_guide_013",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Requirement?",
+    "back": "A condition or capability that is necessary to be present in a product, service, or result to satisfy a business need.",
+    "original_term": "Requirement"
+  },
+  {
+    "id": "pmbok_guide_014",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Work Breakdown Structure (WBS)?",
+    "back": "A hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables.",
+    "original_term": "Work Breakdown Structure (WBS)"
+  },
+  {
+    "id": "pmbok_guide_015",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Baseline?",
+    "back": "The approved version of a work product that can be changed only through formal change control procedures and is used as a basis for comparison to actual results.",
+    "original_term": "Baseline"
+  },
+  {
+    "id": "pmbok_guide_016",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Milestone?",
+    "back": "A significant point or event in a project, program, or portfolio.",
+    "original_term": "Milestone"
+  },
+  {
+    "id": "pmbok_guide_017",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Schedule?",
+    "back": "A model that presents linked activities with planned dates, durations, milestones, and resources.",
+    "original_term": "Schedule"
+  },
+  {
+    "id": "pmbok_guide_018",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Metric?",
+    "back": "A description of a project or product attribute and how to measure it.",
+    "original_term": "Metric"
+  },
+  {
+    "id": "pmbok_guide_019",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Key Performance Indicator (KPI)?",
+    "back": "A set of quantifiable measures used to evaluate the success of an organization, employee, etc., in meeting objectives for performance.",
+    "original_term": "Key Performance Indicator (KPI)"
+  },
+  {
+    "id": "pmbok_guide_020",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Earned Value (EV)?",
+    "back": "The measure of work performed expressed in terms of the budget authorized for that work.",
+    "original_term": "Earned Value (EV)"
+  },
+  {
+    "id": "pmbok_guide_021",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Velocity?",
+    "back": "A measure of a team's productivity rate at which the deliverables are produced, validated, and accepted within a given time interval.",
+    "original_term": "Velocity"
+  },
+  {
+    "id": "pmbok_guide_022",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Lag?",
+    "back": "The amount of time whereby a successor activity will be delayed with respect to a predecessor activity.",
+    "original_term": "Lag"
+  },
+  {
+    "id": "pmbok_guide_023",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Lead?",
+    "back": "The amount of time whereby a successor activity can be advanced with respect to a predecessor activity.",
+    "original_term": "Lead"
+  },
+  {
+    "id": "pmbok_guide_024",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Variance?",
+    "back": "A quantifiable deviation, departure, or divergence away from a known baseline or expected value.",
+    "original_term": "Variance"
+  },
+  {
+    "id": "pmbok_guide_025",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is an Artifact?",
+    "back": "A template, document, output, or project deliverable.",
+    "original_term": "Artifact"
+  },
+  {
+    "id": "pmbok_guide_026",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is an Adaptive Approach?",
+    "back": "A development approach in which the requirements are subject to a high level of uncertainty and volatility and are likely to change throughout the project.",
+    "original_term": "Adaptive Approach"
+  },
+  {
+    "id": "pmbok_guide_027",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Predictive Approach?",
+    "back": "A development approach in which the project scope, time, and cost are determined in the early phases of the life cycle.",
+    "original_term": "Predictive Approach"
+  },
+  {
+    "id": "pmbok_guide_028",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Hybrid Approach?",
+    "back": "A combination of two or more agile and non-agile elements, having a non-agile end result.",
+    "original_term": "Hybrid Approach"
+  },
+  {
+    "id": "pmbok_guide_029",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Tailoring?",
+    "back": "The deliberate adaptation of the project management approach, governance, and processes to make them more suitable for the given environment and the work at hand.",
+    "original_term": "Tailoring"
+  },
+  {
+    "id": "pmbok_guide_030",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a User Story?",
+    "back": "An informal, general explanation of a software feature written from the perspective of the end user.",
+    "original_term": "User Story"
+  },
+  {
+    "id": "pmbok_guide_031",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is an Epic?",
+    "back": "A large user story that cannot be delivered as defined within a single iteration or is large enough that it can be split into smaller user stories.",
+    "original_term": "Epic"
+  },
+  {
+    "id": "pmbok_guide_032",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Backlog?",
+    "back": "An ordered list of work to be done.",
+    "original_term": "Backlog"
+  },
+  {
+    "id": "pmbok_guide_033",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Stakeholder?",
+    "back": "An individual, group, or organization that may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project, program, or portfolio.",
+    "original_term": "Stakeholder"
+  },
+  {
+    "id": "pmbok_guide_034",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Sponsor?",
+    "back": "A person or group who provides resources and support for the project, program, or portfolio and is accountable for enabling success.",
+    "original_term": "Sponsor"
+  },
+  {
+    "id": "pmbok_guide_035",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Governance?",
+    "back": "The framework for directing and enabling an organization through its established policies, practices, and other relevant documentation.",
+    "original_term": "Governance"
+  },
+  {
+    "id": "pmbok_guide_036",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Change Control?",
+    "back": "A process whereby modifications to documents, deliverables, or baselines associated with the project are identified, documented, approved, or rejected.",
+    "original_term": "Change Control"
+  },
+  {
+    "id": "pmbok_guide_037",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Change Control Board (CCB)?",
+    "back": "A formally chartered group responsible for reviewing, evaluating, approving, delaying, or rejecting changes to the project, and for recording and communicating such decisions.",
+    "original_term": "Change Control Board (CCB)"
+  },
+  {
+    "id": "pmbok_guide_038",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is Risk?",
+    "back": "An uncertain event or condition that, if it occurs, has a positive or negative effect on one or more project objectives.",
+    "original_term": "Risk"
+  },
+  {
+    "id": "pmbok_guide_039",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Threat?",
+    "back": "A risk that would have a negative effect on one or more project objectives.",
+    "original_term": "Threat"
+  },
+  {
+    "id": "pmbok_guide_040",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is an Opportunity?",
+    "back": "A risk that would have a positive effect on one or more project objectives.",
+    "original_term": "Opportunity"
+  },
+  {
+    "id": "pmbok_guide_041",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is an Issue?",
+    "back": "A current condition or situation that may have an impact on the project objectives.",
+    "original_term": "Issue"
+  },
+  {
+    "id": "pmbok_guide_042",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is an Assumption?",
+    "back": "A factor in the planning process that is considered to be true, real, or certain, without proof or demonstration.",
+    "original_term": "Assumption"
+  },
+  {
+    "id": "pmbok_guide_043",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Constraint?",
+    "back": "A limiting factor that affects the execution of a project, program, portfolio, or process.",
+    "original_term": "Constraint"
+  },
+  {
+    "id": "pmbok_guide_044",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is an Information Radiator?",
+    "back": "A visible, physical display that provides information to the rest of the organization, enabling up-to-the-minute knowledge sharing without having to disturb the team.",
+    "original_term": "Information Radiator"
+  },
+  {
+    "id": "pmbok_guide_045",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Burn Chart?",
+    "back": "A graphic representation of the work remaining in a timebox or the work completed toward the release of a product or project deliverable.",
+    "original_term": "Burn Chart"
+  },
+  {
+    "id": "pmbok_guide_046",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Dashboard?",
+    "back": "A set of charts and graphs showing progress or performance against important measures of the project.",
+    "original_term": "Dashboard"
+  },
+  {
+    "id": "pmbok_guide_047",
+    "type": "definition",
+    "category": "PMBOK_GUIDE",
+    "front": "What is a Gantt Chart?",
+    "back": "A bar chart of schedule information where activities are listed on the vertical axis, dates are shown on the horizontal axis, and activity durations are shown as horizontal bars placed according to start and finish dates.",
+    "original_term": "Gantt Chart"
+  }
+]
