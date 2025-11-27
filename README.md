@@ -25,5 +25,8 @@ Zero-cost PMP prep site built with React + Vite + Tailwind. Data lives in static
 - `data/reference/exam-outline/2026_structure.json` – extracted PMP 2026 ECO outline used by generator scripts
 - `data/reference/extracted/` – raw text notes pulled from reference PDFs for future processing
 
+## Contributing
+- See `AGENTS.md` for contributor guidelines, coding style, and data workflows.
+
 ## Deployment
 Connect the repo to Vercel or Netlify and use `npm run build` with `dist` as the publish/output directory. Everything is static; no server or database required.

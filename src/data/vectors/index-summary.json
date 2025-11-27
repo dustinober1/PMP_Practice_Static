@@ -1,0 +1,35 @@
+{
+  "totalChunks": 111,
+  "totalVectorized": 111,
+  "embeddingModel": "all-MiniLM-L6-v2",
+  "embeddingDimension": 384,
+  "sourceFiles": [
+    "processgroupspracticeguide_flashcarddata.md",
+    "leading_managing_ai_flashcards.json",
+    "ai_essentials_flashcards.json",
+    "pmi_ba_glossary_flashcards.json",
+    "ba_practitioners_flashcards.json",
+    "ai_essentials_extracted_flashcards.json",
+    "config_management_flashcards.json",
+    "pmo_practice_guide_flashcards.json",
+    "leading_ai_flashcards.json",
+    "navigating_complexity_flashcards.json",
+    "agile_flashcards.json",
+    "pmbok_guide_flashcards.json"
+  ],
+  "chapters": [
+    "COMPLEXITY_MANAGEMENT",
+    "AGILE_TERM",
+    "AI_PROJECT_MANAGEMENT",
+    "AI_ESSENTIALS",
+    "PMI_BA_GLOSSARY",
+    "PMBOK_GUIDE",
+    "BUSINESS_ANALYSIS",
+    "AI_ESSENTIALS_TERM",
+    "AI_TRANSFORMATION",
+    "CONFIGURATION_MANAGEMENT",
+    "PMO_PRACTICE_GUIDE"
+  ],
+  "createdAt": "2025-11-26T22:18:06.400458",
+  "status": "complete"
+}

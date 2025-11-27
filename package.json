@@ -15,7 +15,10 @@
     "generate:flashcards": "npm run generate:flashcards:validate && npm run generate:flashcards:merge",
     "extract:definitions": "node scripts/extract-definitions-ai.mjs",
     "format:definitions": "node scripts/format-definition-flashcards.mjs",
-    "generate:definitions": "npm run extract:definitions && npm run format:definitions"
+    "generate:definitions": "npm run extract:definitions && npm run format:definitions",
+    "vectorize": "node scripts/vectorize-references.mjs",
+    "vectorize:full": "node scripts/vectorize-full.mjs",
+    "vectorize:python": "python3 scripts/vectorize-with-python.py"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.0",
