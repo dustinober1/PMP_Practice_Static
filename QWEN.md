@@ -79,6 +79,7 @@ The application organizes PMP content into:
   - **Navigating Complexity Flashcards**: 71 terms from the Navigating Complexity: A Practice Guide (added manually curated content)
   - **PMBOK Guide 8th Edition Flashcards**: 47 terms from the PMBOK Guide 8th Edition glossary (added manually curated content)
   - **PMI Guide to Business Analysis Glossary Flashcards**: 517 terms from the PMI Guide to Business Analysis glossary (added manually curated content)
+  - **PMO Practice Guide Flashcards**: 94 terms from the PMO Practice Guide glossary (added manually curated content)
 
 ## Development Commands
 - `npm install` - Install project dependencies
