@@ -1,0 +1,498 @@
+[
+  {
+    "id": "ba_practitioners_001",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Business Analysis?",
+    "back": "The set of activities performed to support delivery of solutions that align to business objectives and provide continuous value to the organization. It encompasses value-oriented approaches, practices, disciplines, and mindsets.",
+    "original_term": "Business Analysis"
+  },
+  {
+    "id": "ba_practitioners_002",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Business Analysis Practitioner?",
+    "back": "Any individual doing the work of business analysis, regardless of title.",
+    "original_term": "Business Analysis Practitioner"
+  },
+  {
+    "id": "ba_practitioners_003",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Business Need?",
+    "back": "The impetus for a change in an organization, based on an existing problem or opportunity, which provides the rationale for initiating a program or project.",
+    "original_term": "Business Need"
+  },
+  {
+    "id": "ba_practitioners_004",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Business Value?",
+    "back": "A concept unique to each organization involving tangible and intangible elements; considered the return (time, money, goods, or intangibles) for something exchanged.",
+    "original_term": "Business Value"
+  },
+  {
+    "id": "ba_practitioners_005",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Capability?",
+    "back": "The ability to add value or achieve objectives in an organization through a function, process, service, or other proficiency.",
+    "original_term": "Capability"
+  },
+  {
+    "id": "ba_practitioners_006",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is an Initiative?",
+    "back": "A project or action taken to attain an opportunity or solve a problem.",
+    "original_term": "Initiative"
+  },
+  {
+    "id": "ba_practitioners_007",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Problem in business analysis?",
+    "back": "An internal or external environmental area causing detriment to the organization (e.g., lost revenue, dissatisfied customers, noncompliance).",
+    "original_term": "Problem"
+  },
+  {
+    "id": "ba_practitioners_008",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is an Opportunity in business analysis?",
+    "back": "An uncertainty that would have a positive effect on a product or solution.",
+    "original_term": "Opportunity"
+  },
+  {
+    "id": "ba_practitioners_009",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Solution?",
+    "back": "Something produced to deliver measurable business value to meet the business need and stakeholder expectations.",
+    "original_term": "Solution"
+  },
+  {
+    "id": "ba_practitioners_010",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Product?",
+    "back": "An artifact that is produced, is quantifiable, and can be either an end item in itself or a component item.",
+    "original_term": "Product"
+  },
+  {
+    "id": "ba_practitioners_011",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Stakeholder?",
+    "back": "Individuals, groups, or organizations that may impact, are impacted by, or have yet to be impacted by a problem or opportunity under assessment.",
+    "original_term": "Stakeholder"
+  },
+  {
+    "id": "ba_practitioners_012",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Requirement?",
+    "back": "A condition or capability that is necessary to be present in a product, service, or result to satisfy a business need.",
+    "original_term": "Requirement"
+  },
+  {
+    "id": "ba_practitioners_013",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What are Business Requirements?",
+    "back": "Describe the higher-level needs of the organization, such as business issues or opportunities, reasons for a project, and measurable goals.",
+    "original_term": "Business Requirements"
+  },
+  {
+    "id": "ba_practitioners_014",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What are Stakeholder Requirements?",
+    "back": "Describe the needs of a stakeholder or stakeholder group.",
+    "original_term": "Stakeholder Requirements"
+  },
+  {
+    "id": "ba_practitioners_015",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What are Solution Requirements?",
+    "back": "Describe the features, functions, and characteristics of the product, service, or result that will meet business and stakeholder requirements.",
+    "original_term": "Solution Requirements"
+  },
+  {
+    "id": "ba_practitioners_016",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What are Functional Requirements?",
+    "back": "Describe the behaviors of the product, including actions, processes, and interactions.",
+    "original_term": "Functional Requirements"
+  },
+  {
+    "id": "ba_practitioners_017",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What are Nonfunctional Requirements?",
+    "back": "Describe the environmental conditions or qualities required for the product to be effective (e.g., security, reliability).",
+    "original_term": "Nonfunctional Requirements"
+  },
+  {
+    "id": "ba_practitioners_018",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What are Transition Requirements?",
+    "back": "Describe temporary capabilities (e.g., data conversion, training) needed to transition from the current state to the future state.",
+    "original_term": "Transition Requirements"
+  },
+  {
+    "id": "ba_practitioners_019",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What are Acceptance Criteria?",
+    "back": "A set of conditions that are defined and must be met before deliverables or features captured in user stories are accepted.",
+    "original_term": "Acceptance Criteria"
+  },
+  {
+    "id": "ba_practitioners_020",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Definition of Done (DoD)?",
+    "back": "A series of conditions the entire team agrees to complete before an item is considered sufficiently developed for acceptance by business stakeholders.",
+    "original_term": "Definition of Done (DoD)"
+  },
+  {
+    "id": "ba_practitioners_021",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Feature?",
+    "back": "A set of related requirements typically described by a short phrase.",
+    "original_term": "Feature"
+  },
+  {
+    "id": "ba_practitioners_022",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a User Story?",
+    "back": "A one- or two-sentence description written from the viewpoint of the actor that describes a needed function, usually in the format 'as an <actor>, I want to <function>, so that I can <benefit>'.",
+    "original_term": "User Story"
+  },
+  {
+    "id": "ba_practitioners_023",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is an Epic?",
+    "back": "A large user story that is too big to construct in an iteration.",
+    "original_term": "Epic"
+  },
+  {
+    "id": "ba_practitioners_024",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Product Scope?",
+    "back": "The features and functions that characterize a product, service, or result.",
+    "original_term": "Product Scope"
+  },
+  {
+    "id": "ba_practitioners_025",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Situation Statement?",
+    "back": "An objective statement about a problem or opportunity that includes the statement itself, the situation facing the organization, and the resulting impact.",
+    "original_term": "Situation Statement"
+  },
+  {
+    "id": "ba_practitioners_026",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Business Case?",
+    "back": "A documented economic feasibility study used to establish validity of the benefits to be delivered by a portfolio component, program, or project.",
+    "original_term": "Business Case"
+  },
+  {
+    "id": "ba_practitioners_027",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Business Objective?",
+    "back": "Measurable representation of the goals the business is seeking to achieve.",
+    "original_term": "Business Objective"
+  },
+  {
+    "id": "ba_practitioners_028",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Gap Analysis?",
+    "back": "A technique for understanding the difference between current capabilities and needed capabilities.",
+    "original_term": "Gap Analysis"
+  },
+  {
+    "id": "ba_practitioners_029",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Readiness Assessment?",
+    "back": "An assessment occurring as the organization approaches solution deployment to evaluate if the organization is prepared for transition and to integrate the solution.",
+    "original_term": "Readiness Assessment"
+  },
+  {
+    "id": "ba_practitioners_030",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Feasibility Analysis?",
+    "back": "An in-depth analysis of proposed solutions based on factors like operational, technology, cost-effectiveness, and time feasibility.",
+    "original_term": "Feasibility Analysis"
+  },
+  {
+    "id": "ba_practitioners_031",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Transition Plan?",
+    "back": "Defines the activities required to transition from the current to a future state.",
+    "original_term": "Transition Plan"
+  },
+  {
+    "id": "ba_practitioners_032",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Transition Strategy?",
+    "back": "A guiding framework for conducting activities needed to transition from a current state to a future state.",
+    "original_term": "Transition Strategy"
+  },
+  {
+    "id": "ba_practitioners_033",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Elicitation?",
+    "back": "The activity of drawing out information from stakeholders and other sources to understand business needs, problems, or opportunities.",
+    "original_term": "Elicitation"
+  },
+  {
+    "id": "ba_practitioners_034",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is an Affinity Diagram?",
+    "back": "A group creativity technique that allows large numbers of ideas to be classified into groups for review and analysis.",
+    "original_term": "Affinity Diagram"
+  },
+  {
+    "id": "ba_practitioners_035",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Brainstorming?",
+    "back": "A group elicitation technique led by a facilitator to quickly identify a list of ideas for a specific topic.",
+    "original_term": "Brainstorming"
+  },
+  {
+    "id": "ba_practitioners_036",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Brainwriting?",
+    "back": "An approach to brainstorming where participants contribute ideas by writing them down individually and sharing anonymously to encourage broader participation.",
+    "original_term": "Brainwriting"
+  },
+  {
+    "id": "ba_practitioners_037",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Buy-a-Feature?",
+    "back": "A collaborative game where participants use imaginary cash to 'buy' preferred features, helping to prioritize requirements.",
+    "original_term": "Buy-a-Feature"
+  },
+  {
+    "id": "ba_practitioners_038",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Capability Table?",
+    "back": "A model used to analyze capabilities in a current or future state, mapping problems to root causes and proposed capabilities.",
+    "original_term": "Capability Table"
+  },
+  {
+    "id": "ba_practitioners_039",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Five Whys?",
+    "back": "A method of identifying possible root causes of a problem by iteratively asking 'why'.",
+    "original_term": "Five Whys"
+  },
+  {
+    "id": "ba_practitioners_040",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Focus Group?",
+    "back": "An elicitation technique bringing together prequalified stakeholders to learn about their expectations and attitudes toward a proposed product.",
+    "original_term": "Focus Group"
+  },
+  {
+    "id": "ba_practitioners_041",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Force Field Analysis?",
+    "back": "A tool used to identify and analyze driving forces (supporting change) and restraining forces (opposing change) impacting a decision.",
+    "original_term": "Force Field Analysis"
+  },
+  {
+    "id": "ba_practitioners_042",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is an Interview?",
+    "back": "A formal or informal approach to elicit information by asking prepared or spontaneous questions.",
+    "original_term": "Interview"
+  },
+  {
+    "id": "ba_practitioners_043",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is MoSCoW?",
+    "back": "A prioritization technique standing for 'Must have,' 'Should have,' 'Could have,' and 'Won't have'.",
+    "original_term": "MoSCoW"
+  },
+  {
+    "id": "ba_practitioners_044",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Observation (Job Shadowing)?",
+    "back": "A technique to view people in their environments to see how they perform tasks or processes.",
+    "original_term": "Observation (Job Shadowing)"
+  },
+  {
+    "id": "ba_practitioners_045",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is an Onion Diagram?",
+    "back": "A visual representation of stakeholder analysis showing multiple layers of engagement (e.g., core team, affected groups, external stakeholders).",
+    "original_term": "Onion Diagram"
+  },
+  {
+    "id": "ba_practitioners_046",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Persona?",
+    "back": "A fictional character representing a particular user profile or stakeholder segment to generate empathy and understanding.",
+    "original_term": "Persona"
+  },
+  {
+    "id": "ba_practitioners_047",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Product Tree?",
+    "back": "A visual tool where the trunk represents infrastructure/requirements, branches represent primary functions, and leaves represent features.",
+    "original_term": "Product Tree"
+  },
+  {
+    "id": "ba_practitioners_048",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Prototyping?",
+    "back": "Obtaining early feedback by providing a model (low-fidelity or high-fidelity) of the expected product before building it.",
+    "original_term": "Prototyping"
+  },
+  {
+    "id": "ba_practitioners_049",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Real Options?",
+    "back": "A decision-making process for dealing with uncertainty by delaying decisions until the last responsible moment.",
+    "original_term": "Real Options"
+  },
+  {
+    "id": "ba_practitioners_050",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Story Mapping?",
+    "back": "A method that arranges user activities along a horizontal axis (narrative flow) and tasks/stories along a vertical axis (priority) to provide context for the backlog.",
+    "original_term": "Story Mapping"
+  },
+  {
+    "id": "ba_practitioners_051",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Survey?",
+    "back": "A method of collecting information using sets of questions from a large number of respondents.",
+    "original_term": "Survey"
+  },
+  {
+    "id": "ba_practitioners_052",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Wireframe?",
+    "back": "A low-fidelity drawing of a proposed application showing key elements of the user interface and layout.",
+    "original_term": "Wireframe"
+  },
+  {
+    "id": "ba_practitioners_053",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What are Business Rules?",
+    "back": "Policies, standards, or regulations that constrain how the business operates (e.g., calculations, limits).",
+    "original_term": "Business Rules"
+  },
+  {
+    "id": "ba_practitioners_054",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Product Backlog?",
+    "back": "An ordered list of product backlog items, typically expressed as user stories, representing stakeholder requirements.",
+    "original_term": "Product Backlog"
+  },
+  {
+    "id": "ba_practitioners_055",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Product Roadmap?",
+    "back": "A high-level view of features and functionality along with the sequence in which they will be delivered.",
+    "original_term": "Product Roadmap"
+  },
+  {
+    "id": "ba_practitioners_056",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Requirements Traceability Matrix (RTM)?",
+    "back": "A grid identifying bidirectional links between solution requirements, their origin (business/stakeholder requirements), and deliverables.",
+    "original_term": "Requirements Traceability Matrix (RTM)"
+  },
+  {
+    "id": "ba_practitioners_057",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Stakeholder Engagement Assessment Matrix?",
+    "back": "A matrix comparing current stakeholder engagement levels against desired levels (e.g., Unaware, Resistant, Neutral, Supportive, Leading).",
+    "original_term": "Stakeholder Engagement Assessment Matrix"
+  },
+  {
+    "id": "ba_practitioners_058",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Benchmarking?",
+    "back": "Comparison of actual/planned practices to those of comparable organizations to identify best practices and measure performance.",
+    "original_term": "Benchmarking"
+  },
+  {
+    "id": "ba_practitioners_059",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Cost-Benefit Analysis?",
+    "back": "Financial analysis tool determining benefits provided by a project against its costs.",
+    "original_term": "Cost-Benefit Analysis"
+  },
+  {
+    "id": "ba_practitioners_060",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What are Key Performance Indicators (KPIs)?",
+    "back": "Metrics defined by leadership used to evaluate progress toward meeting targets or objectives.",
+    "original_term": "Key Performance Indicators (KPIs)"
+  },
+  {
+    "id": "ba_practitioners_061",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is a Go/No-Go Decision?",
+    "back": "The process of determining if an initiative should continue, be stopped, or if a solution should be released.",
+    "original_term": "Go/No-Go Decision"
+  },
+  {
+    "id": "ba_practitioners_062",
+    "type": "definition",
+    "category": "BUSINESS_ANALYSIS",
+    "front": "What is Go Fever?",
+    "back": "The attitude of being in a hurry to complete a solution while overlooking potential problems or mistakes.",
+    "original_term": "Go Fever"
+  }
+]
