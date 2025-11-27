@@ -6,12 +6,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **PMP Practice (Static)** is a zero-cost PMP exam prep application built with React, Vite, and Tailwind CSS. The app is entirely client-side with no server or database—all data is static JSON files in `src/data/`, and user progress is persisted locally via zustand + localStorage.
 
-**Modern Design & Accessibility**: The UI has been redesigned with a professional dark theme, responsive mobile navigation, and full WCAG 2.1 Level AA accessibility compliance. All interactions are keyboard accessible, screen reader compatible, and support system dark mode preferences.
+**Modern Design & Accessibility**: The UI features a professional dark theme, responsive mobile navigation, and WCAG 2.1 Level AA accessibility compliance. All interactions are keyboard accessible, screen reader compatible, and support system dark mode preferences.
 
-See `AGENTS.md` for comprehensive project architecture, question authoring standards, and data layout.
-See `docs/ACCESSIBILITY.md` for accessibility testing procedures and standards.
-See `docs/REDESIGN_SUMMARY.md` for complete redesign documentation.
-See `docs/FLASHCARDS.md` for AI-powered flashcard generation guide.
+**AI-Powered Content Generation**: The app includes workflows for:
+- Extracting PMP terminology and definitions from reference PDFs using AI vision
+- Generating scenario-based practice questions per enabler
+- Creating flashcards with difficulty distribution
+- Building exam simulators with timed sessions
+
+See `QWEN.md` for project context and recent updates.
+See `docs/FLASHCARD_DEFINITIONS.md` for AI-powered definition extraction from PDFs.
+See `docs/RUNNING_EXTRACTION.md` for executing definition extraction workflows.
 
 ## Quick Start Commands
 
@@ -28,6 +33,9 @@ See `docs/FLASHCARDS.md` for AI-powered flashcard generation guide.
 | Validate flashcard source files | `npm run generate:flashcards:validate` |
 | Merge flashcard source files into domain files | `npm run generate:flashcards:merge` |
 | Validate and merge flashcards (full workflow) | `npm run generate:flashcards` |
+| Extract definitions from reference PDFs (priority docs) | `npm run extract:definitions` |
+| Format extracted definitions into flashcards | `npm run format:definitions` |
+| Extract + format definitions (full workflow) | `npm run generate:definitions` |
 
 ## Key Project Structure
 
@@ -89,16 +97,39 @@ src/
 └── site-config.js            # Site metadata, donation links
 
 scripts/
-├── generate-questions.mjs         # Question bank generation script
-├── generate-flashcards-ai.mjs     # AI flashcard generation (Ollama)
-├── generate-flashcards-merge.mjs  # Merge flashcard sources into domain files
-└── validate-flashcards.mjs        # Validate flashcard source files
+├── generate-questions.mjs              # Question bank generation script
+├── generate-flashcards-ai.mjs          # AI flashcard generation (Ollama)
+├── generate-flashcards-merge.mjs       # Merge flashcard sources into domain files
+├── validate-flashcards.mjs             # Validate flashcard source files
+├── extract-definitions-ai.mjs          # Extract PMP definitions from reference PDFs
+├── format-definition-flashcards.mjs    # Format extracted definitions into flashcards
+├── extract-pdf-page-by-page.mjs        # PDF to images converter
+├── extract_2026_structure.py           # Extract 2026 exam structure from PDF
+├── generate_2026_files.py              # Generate 2026 structure JSON files
+├── pdf_to_flashcards_agent.py          # PDF processing agent using Claude vision
+└── test-extraction.mjs                 # Test extraction workflows
 
-public/                       # Static assets copied to build
+references/                   # Source PDFs for definition extraction
+├── AgilePracticeGuide.pdf
+├── AI Essentials for Project Professionals.pdf
+└── ...
+
+data-extraction/             # Extracted data output directory
+├── definitions-raw/         # Raw extracted definitions from PDFs
+└── definitions-formatted/   # Formatted definitions as flashcards
+
+data/
+├── reference/              # Auxiliary reference data (not bundled into app)
+│   ├── exam-outline/2026_structure.json    # 2026 PMP exam structure
+│   ├── flashcards/                        # Manual/curated flashcard banks
+│   └── extracted/                         # Raw text notes from PDFs
+└── ...
+
+public/                      # Static assets copied to build
 ├── favicon.ico
 └── ...
 
-dist/                         # Vite build output (do not edit)
+dist/                        # Vite build output (do not edit)
 ```
 
 ## Critical Concepts
@@ -170,9 +201,75 @@ if (error) return <div>Error: {error.message}</div>
 return <div>{data.domains.length} domains loaded</div>
 ```
 
+## Definition & Terminology Extraction
+
+The project includes AI-powered workflows to extract PMP terminology and definitions from reference PDFs using vision models.
+
+### Setup
+
+**Choose Your AI Provider**:
+
+- **Ollama (Recommended - Free & Local)**:
+  ```bash
+  # Install Ollama from https://ollama.ai
+  ollama pull llama3.2-vision:11b
+  ollama serve  # In one terminal
+  ```
+
+- **Anthropic Claude (Cloud - Paid)**:
+  ```bash
+  # Create .env file
+  echo "USE_OLLAMA=false" > .env
+  echo "ANTHROPIC_API_KEY=sk-ant-..." >> .env
+  ```
+
+### Definition Extraction Workflow
+
+**Extract from Priority Documents** (PMBOK, Agile Guide, 2026 Outline, BA Guide):
+```bash
+npm run extract:definitions
+```
+
+**Format Extracted Definitions as Flashcards**:
+```bash
+npm run format:definitions
+```
+
+**Full Workflow** (extract + format):
+```bash
+npm run generate:definitions
+```
+
+**Test Single PDF**:
+```bash
+node scripts/test-extraction.mjs
+```
+
+### Output Locations
+
+- **Raw Definitions**: `data-extraction/definitions-raw/` — Term/definition pairs extracted from PDFs
+- **Formatted Flashcards**: `data-extraction/definitions-formatted/` — Ready-to-import flashcard JSON
+- **Reference Data**: `data/reference/extracted/` — Additional auxiliary extracts
+
+### Key Scripts
+
+- **`scripts/extract-definitions-ai.mjs`**: Extracts definitions from PDFs using vision
+  - Supports Ollama or Anthropic Claude
+  - Processes multiple PDFs in sequence
+  - Generates structured term/definition pairs
+
+- **`scripts/format-definition-flashcards.mjs`**: Converts raw definitions to flashcard format
+  - Validates term/definition structure
+  - Generates flashcard metadata
+  - Groups by source document
+
+- **`scripts/extract-pdf-page-by-page.mjs`**: Converts PDF pages to PNG images for vision processing
+
 ## Question Authoring & Data
 
-**Critical**: Follow the structure in `AGENTS.md` for question standards, enabler coverage (25 per enabler), scenario-based format, and distractor balance.
+**Structure**: Questions are organized per-enabler with 25 questions per enabler (scalable).
+
+**Format**: Scenario-based questions with realistic PMP contexts; 4 distractors with similar plausibility.
 
 **Workflow**:
 1. Edit `src/data/questions/<domain>/<taskId>/<enablerId>.json`
@@ -506,28 +603,72 @@ Key points:
 | Focus ring not visible | Verify `.focus-ring` class is applied; check CSS in DevTools Inspector |
 | Animations not smooth | Check for `prefers-reduced-motion` system setting; animations respect this preference |
 
+## Key Architecture Patterns
+
+### Data Generation Pipeline
+
+The project has three separate data generation workflows:
+
+1. **Questions** → Scenario-based practice questions per enabler
+   - Source: `src/data/questions/<domain>/<taskId>/<enablerId>.json` (hand-authored)
+   - Merge: `npm run generate:questions`
+   - Output: `src/data/questions.json` (bundled into app)
+
+2. **Flashcards** → Concept mastery cards per enabler
+   - Source: `src/data/flashcards-source/<domain>/<taskId>/<enablerId>.json` (AI or manual)
+   - Validate & Merge: `npm run generate:flashcards`
+   - Output: `src/data/flashcards/<domain>.json` (bundled into app)
+
+3. **Definitions** → Terminology flashcards from reference PDFs
+   - Source: Reference PDF files in `references/`
+   - Extract: `npm run extract:definitions`
+   - Format: `npm run format:definitions`
+   - Output: `data-extraction/definitions-formatted/` (auxiliary, not bundled)
+
+**Key Rule**: Only edit source files. Generated files in `src/data/questions.json` and `src/data/flashcards/*.json` are overwritten by scripts.
+
+### State Management Pattern
+
+Two persistent stores (zustand + localStorage):
+
+- **`useUserStore`**: User preferences, theme, donations (key: `pmp-user`)
+- **`useProgressStore`**: Quiz, exam, flashcard progress (key: `pmp-progress`)
+
+Both stores have versioning; increment version if breaking changes occur to trigger localStorage reset.
+
 ## Files to Know
 
 ### Documentation
-- `AGENTS.md` — comprehensive guide to data structures, question standards, and project phase milestones
-- `ACCESSIBILITY.md` — WCAG 2.1 AA standards, testing procedures, and validation checklists
-- `REDESIGN_SUMMARY.md` — complete UI redesign documentation, component list, and deployment checklist
+- `QWEN.md` — project context and recent updates
 - `CLAUDE.md` — this file; guidance for working in the codebase
+- `docs/FLASHCARD_DEFINITIONS.md` — AI-powered definition extraction setup and usage
+- `docs/RUNNING_EXTRACTION.md` — step-by-step extraction workflow instructions
+- `README.md` — quick project overview
 
 ### Configuration & Data
-- `tailwind.config.js` — Tailwind theme configuration with dark mode, colors, and animations
+- `tailwind.config.js` — Tailwind theme with dark mode, WCAG-compliant colors
+- `vite.config.js` — Vite build configuration
+- `eslint.config.js` — ESLint rules for project
 - `src/site-config.js` — site name, tagline, donation links
-- `src/data/questions_templates.json` — template for new questions
-- `src/data/enablers.json` — canonical enabler IDs (do not modify without updating questions)
-- `scripts/generate-questions.mjs` — merges per-enabler question files into main questions bank
+- `src/data/enablers.json` — canonical PMP enabler IDs (source of truth)
+- `src/data/questions_templates.json` — template structure for new questions
 
 ### Core Application Files
-- `src/App.jsx` — top-level router, theme management, and page layout
-- `src/hooks/useStaticData.js` — data loading hook with caching and flashcard merging
-- `src/stores/useUserStore.js` — user preferences, theme, and donation settings
-- `src/stores/useProgressStore.js` — quiz, exam, and flashcard progress tracking
+- `src/App.jsx` — top-level router, theme management, global layout
+- `src/hooks/useStaticData.js` — data loading with caching and flashcard merging
+- `src/stores/useUserStore.js` — user preferences, theme, donation settings (persisted)
+- `src/stores/useProgressStore.js` — quiz, exam, flashcard progress (persisted)
+- `src/main.jsx` — Vite entry point
+- `index.html` — HTML shell
 
 ### Styling
-- `src/index.css` — global styles, CSS variables, animations, and utilities
+- `src/index.css` — global styles, CSS variables, animations, utilities
 - `src/App.css` — application shell styles (minimal)
-- Allways git commit and git push after every updated
+- Tailwind utilities in components (prefer Tailwind classes over CSS files)
+
+### Scripts & Build
+- `scripts/generate-questions.mjs` — merge per-enabler questions into main bank
+- `scripts/generate-flashcards-ai.mjs` — AI flashcard generation (Ollama)
+- `scripts/extract-definitions-ai.mjs` — extract definitions from PDFs
+- `scripts/format-definition-flashcards.mjs` — format extracted definitions as flashcards
+- `package.json` — dependencies, scripts, project metadata
