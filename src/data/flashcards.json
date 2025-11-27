@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "agile-001",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Cadence?",
+    "back": "A rhythm of execution.",
+    "original_term": "Cadence",
+    "original_definition": "A rhythm of execution"
+  },
+  {
+    "id": "agile-002",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Collective Code Ownership?",
+    "back": "A project acceleration and collaboration technique whereby any team member is authorized to modify any project work product or deliverable, thus emphasizing team-wide ownership and accountability.",
+    "original_term": "Collective Code Ownership",
+    "original_definition": "A project acceleration and collaboration technique whereby any team member is authorized to modify any project work product or deliverable, thus emphasizing team-wide ownership and accountability"
+  },
+  {
+    "id": "agile-003",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Continuous Delivery?",
+    "back": "The practice of delivering feature increments immediately to customers, often through the use of small batches of work and automation technology.",
+    "original_term": "Continuous Delivery",
+    "original_definition": "The practice of delivering feature increments immediately to customers, often through the use of small batches of work and automation technology"
+  },
+  {
+    "id": "agile-004",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Continuous Integration?",
+    "back": "A practice in which each team member\u2019s work products are frequently integrated and validated with one another.",
+    "original_term": "Continuous Integration",
+    "original_definition": "A practice in which each team member\u2019s work products are frequently integrated and validated with one another"
+  },
+  {
+    "id": "agile-005",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Cross-Functional Team?",
+    "back": "A team that includes practitioners with all the skills necessary to deliver valuable product increments.",
+    "original_term": "Cross-Functional Team",
+    "original_definition": "A team that includes practitioners with all the skills necessary to deliver valuable product increments"
+  },
+  {
+    "id": "agile-006",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Crystal Family of Methodologies?",
+    "back": "A collection of lightweight agile software development methods focused on adaptability to a particular circumstance.",
+    "original_term": "Crystal Family of Methodologies",
+    "original_definition": "A collection of lightweight agile software development methods focused on adaptability to a particular circumstance"
+  },
+  {
+    "id": "agile-007",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Daily Scrum?",
+    "back": "A brief, daily collaboration meeting in which the team reviews progress from the previous day, declares intentions for the current day, and highlights any obstacles encountered or anticipated.",
+    "original_term": "Daily Scrum",
+    "original_definition": "A brief, daily collaboration meeting in which the team reviews progress from the previous day, declares intentions for the current day, and highlights any obstacles encountered or anticipated"
+  },
+  {
+    "id": "agile-008",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Definition of Done (DoD)?",
+    "back": "A team\u2019s checklist of all the criteria required to be met so that a deliverable can be considered ready for customer use.",
+    "original_term": "Definition of Done (DoD)",
+    "original_definition": "A team\u2019s checklist of all the criteria required to be met so that a deliverable can be considered ready for customer use"
+  },
+  {
+    "id": "agile-009",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Definition of Ready (DoR)?",
+    "back": "A team\u2019s checklist for a user-centric requirement that has all the information the team needs to be able to begin working on it.",
+    "original_term": "Definition of Ready (DoR)",
+    "original_definition": "A team\u2019s checklist for a user-centric requirement that has all the information the team needs to be able to begin working on it"
+  },
+  {
+    "id": "agile-010",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is DevOps?",
+    "back": "A collection of practices for creating a smooth flow of delivery by improving collaboration between development and operations staff.",
+    "original_term": "DevOps",
+    "original_definition": "A collection of practices for creating a smooth flow of delivery by improving collaboration between development and operations staff"
+  },
+  {
+    "id": "agile-011",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Disciplined Agile (DA)?",
+    "back": "A process decision framework that enables simplified process decisions around incremental and iterative solution delivery.",
+    "original_term": "Disciplined Agile (DA)",
+    "original_definition": "A process decision framework that enables simplified process decisions around incremental and iterative solution delivery"
+  },
+  {
+    "id": "agile-012",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Double Loop Learning?",
+    "back": "A process that challenges underlying values and assumptions in order to better elaborate root causes and devise improved countermeasures rather than focusing only on symptoms.",
+    "original_term": "Double Loop Learning",
+    "original_definition": "A process that challenges underlying values and assumptions in order to better elaborate root causes and devise improved countermeasures rather than focusing only on symptoms"
+  },
+  {
+    "id": "agile-013",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Dynamic Systems Development Method (DSDM)?",
+    "back": "An agile project delivery framework.",
+    "original_term": "Dynamic Systems Development Method (DSDM)",
+    "original_definition": "An agile project delivery framework"
+  },
+  {
+    "id": "agile-014",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Evolutionary Value Delivery (EVO)?",
+    "back": "Openly credited as the first agile method that contains a specific component no other methods have: the focus on delivering multiple measurable value requirements to stakeholders.",
+    "original_term": "Evolutionary Value Delivery (EVO)",
+    "original_definition": "Openly credited as the first agile method that contains a specific component no other methods have: the focus on delivering multiple measurable value requirements to stakeholders"
+  },
+  {
+    "id": "agile-015",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is eXtreme Programming?",
+    "back": "An agile software development method that leads to higher quality software, a greater responsiveness to changing customer requirements, and more frequent releases in shorter cycles.",
+    "original_term": "eXtreme Programming",
+    "original_definition": "An agile software development method that leads to higher quality software, a greater responsiveness to changing customer requirements, and more frequent releases in shorter cycles"
+  },
+  {
+    "id": "agile-016",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Feature-Driven Development?",
+    "back": "A lightweight agile software development method driven from the perspective of features valued by clients.",
+    "original_term": "Feature-Driven Development",
+    "original_definition": "A lightweight agile software development method driven from the perspective of features valued by clients"
+  },
+  {
+    "id": "agile-017",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Fit for Purpose?",
+    "back": "A product that is suitable for its intended purpose.",
+    "original_term": "Fit for Purpose",
+    "original_definition": "A product that is suitable for its intended purpose"
+  },
+  {
+    "id": "agile-018",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Fit for Use?",
+    "back": "A product that is usable in its current form to achieve its intended purpose.",
+    "original_term": "Fit for Use",
+    "original_definition": "A product that is usable in its current form to achieve its intended purpose"
+  },
+  {
+    "id": "agile-019",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Flow Master?",
+    "back": "The coach for a team and service request manager working in a continuous flow or Kanban context.",
+    "original_term": "Flow Master",
+    "original_definition": "The coach for a team and service request manager working in a continuous flow or Kanban context"
+  },
+  {
+    "id": "agile-020",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Framework?",
+    "back": "A basic system or structure of ideas or facts that support an approach.",
+    "original_term": "Framework",
+    "original_definition": "A basic system or structure of ideas or facts that support an approach"
+  },
+  {
+    "id": "agile-021",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Functional Requirement?",
+    "back": "A specific behavior that a product or service should perform.",
+    "original_term": "Functional Requirement",
+    "original_definition": "A specific behavior that a product or service should perform"
+  },
+  {
+    "id": "agile-022",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Functional Specification?",
+    "back": "A specific function that a system or application is required to perform. Typically represented in a functional specifications document.",
+    "original_term": "Functional Specification",
+    "original_definition": "A specific function that a system or application is required to perform. Typically represented in a functional specifications document"
+  },
+  {
+    "id": "agile-023",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Hoshin Kanri?",
+    "back": "A strategy or policy deployment method.",
+    "original_term": "Hoshin Kanri",
+    "original_definition": "A strategy or policy deployment method"
+  },
+  {
+    "id": "agile-024",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Hybrid Approach?",
+    "back": "A combination of two or more agile and non-agile elements, having a non-agile end result.",
+    "original_term": "Hybrid Approach",
+    "original_definition": "A combination of two or more agile and non-agile elements, having a non-agile end result"
+  },
+  {
+    "id": "agile-025",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is IDEAL?",
+    "back": "An organizational improvement model that is named for the five phases it describes: initiating, diagnosing, establishing, acting, and learning.",
+    "original_term": "IDEAL",
+    "original_definition": "An organizational improvement model that is named for the five phases it describes: initiating, diagnosing, establishing, acting, and learning"
+  },
+  {
+    "id": "agile-026",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Impact Mapping?",
+    "back": "A strategic planning technique that acts as a roadmap to the organization while building new products.",
+    "original_term": "Impact Mapping",
+    "original_definition": "A strategic planning technique that acts as a roadmap to the organization while building new products"
+  },
+  {
+    "id": "agile-027",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Impediment?",
+    "back": "An obstacle that prevents the team from achieving its objectives.",
+    "original_term": "Impediment",
+    "original_definition": "An obstacle that prevents the team from achieving its objectives"
+  },
+  {
+    "id": "agile-028",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Increment?",
+    "back": "A functional, tested, and accepted deliverable that is a subset of the overall project outcome.",
+    "original_term": "Increment",
+    "original_definition": "A functional, tested, and accepted deliverable that is a subset of the overall project outcome"
+  },
+  {
+    "id": "agile-029",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Incremental Life Cycle?",
+    "back": "An approach that provides finished deliverables that the customer may be able to use immediately.",
+    "original_term": "Incremental Life Cycle",
+    "original_definition": "An approach that provides finished deliverables that the customer may be able to use immediately"
+  },
+  {
+    "id": "agile-030",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Information Radiator?",
+    "back": "A visible, physical display that provides information to the rest of the organization enabling up- to-the-minute knowledge sharing without having to disturb the team.",
+    "original_term": "Information Radiator",
+    "original_definition": "A visible, physical display that provides information to the rest of the organization enabling up- to-the-minute knowledge sharing without having to disturb the team"
+  },
+  {
+    "id": "agile-031",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is I-shaped?",
+    "back": "Refers to a person with a single deep area of specialization and no interest or skill in the rest of the skills required by the team.",
+    "original_term": "I-shaped",
+    "original_definition": "Refers to a person with a single deep area of specialization and no interest or skill in the rest of the skills required by the team"
+  },
+  {
+    "id": "agile-032",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Iteration?",
+    "back": "A timeboxed cycle of development on a product or deliverable in which all of the work that is needed to deliver value is performed.",
+    "original_term": "Iteration",
+    "original_definition": "A timeboxed cycle of development on a product or deliverable in which all of the work that is needed to deliver value is performed"
+  },
+  {
+    "id": "agile-033",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Iterative Life Cycle?",
+    "back": "An approach that allows feedback for unfinished work to improve and modify that work.",
+    "original_term": "Iterative Life Cycle",
+    "original_definition": "An approach that allows feedback for unfinished work to improve and modify that work"
+  },
+  {
+    "id": "agile-034",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Kaizen Events?",
+    "back": "Events aimed at improvement of the system.",
+    "original_term": "Kaizen Events",
+    "original_definition": "Events aimed at improvement of the system"
+  },
+  {
+    "id": "agile-035",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Kanban Board?",
+    "back": "A visualization tool that enables improvements to the flow of work by making bottlenecks and work quantities visible.",
+    "original_term": "Kanban Board",
+    "original_definition": "A visualization tool that enables improvements to the flow of work by making bottlenecks and work quantities visible"
+  },
+  {
+    "id": "agile-036",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Kanban Method?",
+    "back": "An agile method inspired by the original Kanban inventory control system and used specifically for knowledge work.",
+    "original_term": "Kanban Method",
+    "original_definition": "An agile method inspired by the original Kanban inventory control system and used specifically for knowledge work"
+  },
+  {
+    "id": "agile-037",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Large Scale Scrum (LeSS)?",
+    "back": "Large-Scale Scrum is a product development framework that extends Scrum with scaling guidelines while preserving the original purposes of Scrum.",
+    "original_term": "Large Scale Scrum (LeSS)",
+    "original_definition": "Large-Scale Scrum is a product development framework that extends Scrum with scaling guidelines while preserving the original purposes of Scrum"
+  },
+  {
+    "id": "agile-038",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Lean Software Development (LSD)?",
+    "back": "Lean software development is an adaptation of lean manufacturing principles and practices to the software development domain and is based on a set of principles and practices for achieving quality, speed, and customer alignment.",
+    "original_term": "Lean Software Development (LSD)",
+    "original_definition": "Lean software development is an adaptation of lean manufacturing principles and practices to the software development domain and is based on a set of principles and practices for achieving quality, speed, and customer alignment"
+  },
+  {
+    "id": "agile-039",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Life Cycle?",
+    "back": "The process through which a product is imagined, created, and put into use.",
+    "original_term": "Life Cycle",
+    "original_definition": "The process through which a product is imagined, created, and put into use"
+  },
+  {
+    "id": "agile-040",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Mobbing?",
+    "back": "A technique in which multiple team members focus simultaneously and coordinate their contributions on a particular work item.",
+    "original_term": "Mobbing",
+    "original_definition": "A technique in which multiple team members focus simultaneously and coordinate their contributions on a particular work item"
+  },
+  {
+    "id": "agile-041",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Organizational Bias?",
+    "back": "The preferences of an organization on a set of scales characterized by the following core values: exploration versus execution, speed versus stability, quantity versus quality, and flexibility versus predictability.",
+    "original_term": "Organizational Bias",
+    "original_definition": "The preferences of an organization on a set of scales characterized by the following core values: exploration versus execution, speed versus stability, quantity versus quality, and flexibility versus predictability"
+  },
+  {
+    "id": "agile-042",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Organizational Change Management?",
+    "back": "A comprehensive, cyclic, and structured approach for transitioning individuals, groups, and organizations from the current state to a future state with intended business benefits.",
+    "original_term": "Organizational Change Management",
+    "original_definition": "A comprehensive, cyclic, and structured approach for transitioning individuals, groups, and organizations from the current state to a future state with intended business benefits"
+  },
+  {
+    "id": "agile-043",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Pair Programming?",
+    "back": "Pair work that is focused on programming.",
+    "original_term": "Pair Programming",
+    "original_definition": "Pair work that is focused on programming"
+  },
+  {
+    "id": "agile-044",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Pair Work?",
+    "back": "A technique of pairing two team members to work simultaneously on the same work item.",
+    "original_term": "Pair Work",
+    "original_definition": "A technique of pairing two team members to work simultaneously on the same work item"
+  },
+  {
+    "id": "agile-045",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Personas?",
+    "back": "An archetype user representing a set of similar end users described with their goals, motivations, and representative personal characteristics.",
+    "original_term": "Personas",
+    "original_definition": "An archetype user representing a set of similar end users described with their goals, motivations, and representative personal characteristics"
+  },
+  {
+    "id": "agile-046",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Pivot?",
+    "back": "A planned course correction designed to test a new hypothesis about the product or strategy.",
+    "original_term": "Pivot",
+    "original_definition": "A planned course correction designed to test a new hypothesis about the product or strategy"
+  },
+  {
+    "id": "agile-047",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Plan-Do-Check-Act (PDCA)?",
+    "back": "An iterative management method used in organizations to facilitate the control and continual improvement of processes and products.",
+    "original_term": "Plan-Do-Check-Act (PDCA)",
+    "original_definition": "An iterative management method used in organizations to facilitate the control and continual improvement of processes and products"
+  },
+  {
+    "id": "agile-048",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Predictive Approach?",
+    "back": "An approach to work management that utilizes a work plan and management of that work plan throughout the life cycle of a project.",
+    "original_term": "Predictive Approach",
+    "original_definition": "An approach to work management that utilizes a work plan and management of that work plan throughout the life cycle of a project"
+  },
+  {
+    "id": "agile-049",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Predictive Life Cycle?",
+    "back": "A more traditional approach, with the bulk of planning occurring up-front, then executing in a single pass; a sequential process.",
+    "original_term": "Predictive Life Cycle",
+    "original_definition": "A more traditional approach, with the bulk of planning occurring up-front, then executing in a single pass; a sequential process"
+  },
+  {
+    "id": "agile-050",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Project Management Office (PMO)?",
+    "back": "A management structure that standardizes the project-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques.",
+    "original_term": "Project Management Office (PMO)",
+    "original_definition": "A management structure that standardizes the project-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques"
+  },
+  {
+    "id": "agile-051",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Product Backlog?",
+    "back": "An ordered list of user-centric requirements that a team maintains for a product.",
+    "original_term": "Product Backlog",
+    "original_definition": "An ordered list of user-centric requirements that a team maintains for a product"
+  },
+  {
+    "id": "agile-052",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Product Owner?",
+    "back": "A person responsible for maximizing the value of the product and who is ultimately responsible and accountable for the end product that is built.",
+    "original_term": "Product Owner",
+    "original_definition": "A person responsible for maximizing the value of the product and who is ultimately responsible and accountable for the end product that is built"
+  },
+  {
+    "id": "agile-053",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Progressive Elaboration?",
+    "back": "The iterative process of increasing the level of detail in a project management plan as greater amounts of information and more accurate estimates become available.",
+    "original_term": "Progressive Elaboration",
+    "original_definition": "The iterative process of increasing the level of detail in a project management plan as greater amounts of information and more accurate estimates become available"
+  },
+  {
+    "id": "agile-054",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Refactoring?",
+    "back": "A product quality technique whereby the design of a product is improved by enhancing its maintainability and other desired attributes without altering its expected behavior.",
+    "original_term": "Refactoring",
+    "original_definition": "A product quality technique whereby the design of a product is improved by enhancing its maintainability and other desired attributes without altering its expected behavior"
+  },
+  {
+    "id": "agile-055",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Retrospective?",
+    "back": "A regularly occurring workshop in which participants explore their work and results in order to improve both process and product.",
+    "original_term": "Retrospective",
+    "original_definition": "A regularly occurring workshop in which participants explore their work and results in order to improve both process and product"
+  },
+  {
+    "id": "agile-056",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Rolling Wave Planning?",
+    "back": "An iterative planning technique in which the work to be accomplished in the near term is planned in detail, while the work in the future is planned at a higher level.",
+    "original_term": "Rolling Wave Planning",
+    "original_definition": "An iterative planning technique in which the work to be accomplished in the near term is planned in detail, while the work in the future is planned at a higher level"
+  },
+  {
+    "id": "agile-057",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Scaled Agile Framework (SAFe\u00ae)?",
+    "back": "A knowledge base of integrated patterns for enterprise-scale lean\u2013agile development.",
+    "original_term": "Scaled Agile Framework (SAFe\u00ae)",
+    "original_definition": "A knowledge base of integrated patterns for enterprise-scale lean\u2013agile development"
+  },
+  {
+    "id": "agile-058",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Scrum?",
+    "back": "An agile framework for developing and sustaining complex products, with specific roles, events, and artifacts.",
+    "original_term": "Scrum",
+    "original_definition": "An agile framework for developing and sustaining complex products, with specific roles, events, and artifacts"
+  },
+  {
+    "id": "agile-059",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Scrumban?",
+    "back": "A management framework that emerges when teams employ Scrum as the chosen way of working and use the Kanban Method as a lens through which to view, understand, and continuously improve how they work.",
+    "original_term": "Scrumban",
+    "original_definition": "A management framework that emerges when teams employ Scrum as the chosen way of working and use the Kanban Method as a lens through which to view, understand, and continuously improve how they work"
+  },
+  {
+    "id": "agile-060",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Scrum Board?",
+    "back": "An information radiator that is utilized to manage the product and sprint backlogs and show the flow of work and its bottlenecks.",
+    "original_term": "Scrum Board",
+    "original_definition": "An information radiator that is utilized to manage the product and sprint backlogs and show the flow of work and its bottlenecks"
+  },
+  {
+    "id": "agile-061",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Scrum Master?",
+    "back": "The coach of the development team and process owner in the Scrum framework. Removes obstacles, facilitates productive events and defends the team from disruptions.",
+    "original_term": "Scrum Master",
+    "original_definition": "The coach of the development team and process owner in the Scrum framework. Removes obstacles, facilitates productive events and defends the team from disruptions"
+  },
+  {
+    "id": "agile-062",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Scrum of Scrums?",
+    "back": "A technique to operate Scrum at scale for multiple teams working on the same product, coordinating discussions of progress on their interdependencies, and focusing on how to integrate the delivery of software, especially in areas of overlap.",
+    "original_term": "Scrum of Scrums",
+    "original_definition": "A technique to operate Scrum at scale for multiple teams working on the same product, coordinating discussions of progress on their interdependencies, and focusing on how to integrate the delivery of software, especially in areas of overlap"
+  },
+  {
+    "id": "agile-063",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Scrum Team?",
+    "back": "Describes the combination of development team, scrum master, and product owner used in Scrum.",
+    "original_term": "Scrum Team",
+    "original_definition": "Describes the combination of development team, scrum master, and product owner used in Scrum"
+  },
+  {
+    "id": "agile-064",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Self-Organizing Team?",
+    "back": "A cross-functional team in which people fluidly assume leadership as needed to achieve the team\u2019s objectives.",
+    "original_term": "Self-Organizing Team",
+    "original_definition": "A cross-functional team in which people fluidly assume leadership as needed to achieve the team\u2019s objectives"
+  },
+  {
+    "id": "agile-065",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Servant Leadership?",
+    "back": "The practice of leading through service to the team, by focusing on understanding and addressing the needs and development of team members in order to enable the highest possible team performance.",
+    "original_term": "Servant Leadership",
+    "original_definition": "The practice of leading through service to the team, by focusing on understanding and addressing the needs and development of team members in order to enable the highest possible team performance"
+  },
+  {
+    "id": "agile-066",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Service Request Manager?",
+    "back": "The person responsible for ordering service requests to maximize value in a continuous flow or Kanban environment.",
+    "original_term": "Service Request Manager",
+    "original_definition": "The person responsible for ordering service requests to maximize value in a continuous flow or Kanban environment"
+  },
+  {
+    "id": "agile-067",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Siloed Organization?",
+    "back": "An organization structured in such a way that it only manages to contribute a subset of the aspects required for delivering value to customers. For contrast, see Value Stream.",
+    "original_term": "Siloed Organization",
+    "original_definition": "An organization structured in such a way that it only manages to contribute a subset of the aspects required for delivering value to customers. For contrast, see Value Stream"
+  },
+  {
+    "id": "agile-068",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Single Loop Learning?",
+    "back": "The practice of attempting to solve problems by just using specific predefined methods, without challenging the methods in light of experience.",
+    "original_term": "Single Loop Learning",
+    "original_definition": "The practice of attempting to solve problems by just using specific predefined methods, without challenging the methods in light of experience"
+  },
+  {
+    "id": "agile-069",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Smoke Testing?",
+    "back": "The practice of using a lightweight set of tests to ensure that the most important functions of the system under development work as intended.",
+    "original_term": "Smoke Testing",
+    "original_definition": "The practice of using a lightweight set of tests to ensure that the most important functions of the system under development work as intended"
+  },
+  {
+    "id": "agile-070",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Specification by Example (SBE)?",
+    "back": "A collaborative approach to defining requirements and business-oriented functional tests for software products based on capturing and illustrating requirements using realistic examples instead of abstract statements.",
+    "original_term": "Specification by Example (SBE)",
+    "original_definition": "A collaborative approach to defining requirements and business-oriented functional tests for software products based on capturing and illustrating requirements using realistic examples instead of abstract statements"
+  },
+  {
+    "id": "agile-071",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Spike?",
+    "back": "A short time interval within a project, usually of fixed length, during which a team conducts research or prototypes an aspect of a solution to prove its viability.",
+    "original_term": "Spike",
+    "original_definition": "A short time interval within a project, usually of fixed length, during which a team conducts research or prototypes an aspect of a solution to prove its viability"
+  },
+  {
+    "id": "agile-072",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Sprint?",
+    "back": "Describes a timeboxed iteration in Scrum.",
+    "original_term": "Sprint",
+    "original_definition": "Describes a timeboxed iteration in Scrum"
+  },
+  {
+    "id": "agile-073",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Sprint Backlog?",
+    "back": "A list of work items identified by the Scrum team to be completed during the Scrum sprint.",
+    "original_term": "Sprint Backlog",
+    "original_definition": "A list of work items identified by the Scrum team to be completed during the Scrum sprint"
+  },
+  {
+    "id": "agile-074",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Sprint Planning?",
+    "back": "A collaborative event in Scrum in which the Scrum team plans the work for the current sprint.",
+    "original_term": "Sprint Planning",
+    "original_definition": "A collaborative event in Scrum in which the Scrum team plans the work for the current sprint"
+  },
+  {
+    "id": "agile-075",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Story Point?",
+    "back": "A unit-less measure used in relative user story estimation techniques.",
+    "original_term": "Story Point",
+    "original_definition": "A unit-less measure used in relative user story estimation techniques"
+  },
+  {
+    "id": "agile-076",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Swarming?",
+    "back": "A technique in which multiple team members focus collectively on resolving a specific impediment.",
+    "original_term": "Swarming",
+    "original_definition": "A technique in which multiple team members focus collectively on resolving a specific impediment"
+  },
+  {
+    "id": "agile-077",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Technical Debt?",
+    "back": "The deferred cost of work not done at an earlier point in the product life cycle.",
+    "original_term": "Technical Debt",
+    "original_definition": "The deferred cost of work not done at an earlier point in the product life cycle"
+  },
+  {
+    "id": "agile-078",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Test-Driven Development?",
+    "back": "A technique where tests are defined before work is begun, so that work in progress is validated continuously, enabling work with a zero defect mindset.",
+    "original_term": "Test-Driven Development",
+    "original_definition": "A technique where tests are defined before work is begun, so that work in progress is validated continuously, enabling work with a zero defect mindset"
+  },
+  {
+    "id": "agile-079",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Timebox?",
+    "back": "A fixed period of time, for example, 1 week, 1 fortnight, 3 weeks, or 1 month.",
+    "original_term": "Timebox",
+    "original_definition": "A fixed period of time, for example, 1 week, 1 fortnight, 3 weeks, or 1 month"
+  },
+  {
+    "id": "agile-080",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is T-shaped?",
+    "back": "Refers to a person with one deep area of specialization and broad ability in the rest of the skills required by the team.",
+    "original_term": "T-shaped",
+    "original_definition": "Refers to a person with one deep area of specialization and broad ability in the rest of the skills required by the team"
+  },
+  {
+    "id": "agile-081",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is User Story?",
+    "back": "A brief description of deliverable value for a specific user. It is a promise for a conversation to clarify details.",
+    "original_term": "User Story",
+    "original_definition": "A brief description of deliverable value for a specific user. It is a promise for a conversation to clarify details"
+  },
+  {
+    "id": "agile-082",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is User Story Mapping?",
+    "back": "A visual practice for organizing work into a useful model to help understand the sets of high- value features to be created over time, identify omissions in the backlog, and effectively plan releases that deliver value to users.",
+    "original_term": "User Story Mapping",
+    "original_definition": "A visual practice for organizing work into a useful model to help understand the sets of high- value features to be created over time, identify omissions in the backlog, and effectively plan releases that deliver value to users"
+  },
+  {
+    "id": "agile-083",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is UX Design?",
+    "back": "The process of enhancing the user experience by focusing on improving the usability and accessibility to be found in the interaction between the user and the product.",
+    "original_term": "UX Design",
+    "original_definition": "The process of enhancing the user experience by focusing on improving the usability and accessibility to be found in the interaction between the user and the product"
+  },
+  {
+    "id": "agile-084",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Value Stream?",
+    "back": "An organizational construct that focuses on the flow of value to customers through the delivery of specific products or services.",
+    "original_term": "Value Stream",
+    "original_definition": "An organizational construct that focuses on the flow of value to customers through the delivery of specific products or services"
+  },
+  {
+    "id": "agile-085",
+    "type": "definition",
+    "category": "AGILE_TERM",
+    "front": "What is Value Stream Mapping?",
+    "back": "A lean enterprise technique used to document, analyze, and improve the flow of information or materials required to produce a product or service for a customer.",
+    "original_term": "Value Stream Mapping",
+    "original_definition": "A lean enterprise technique used to document, analyze, and improve the flow of information or materials required to produce a product or service for a customer"
+  },
+  {
+    "id": "ai_essentials_001",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Artificial Intelligence (AI)?",
+    "back": "Machine behavior and function that exhibits human intelligence and behavior. More specifically, it is the ability of machines to perceive, understand, learn, make decisions, converse, and develop intuition.",
+    "original_term": "Artificial Intelligence (AI)"
+  },
+  {
+    "id": "ai_essentials_002",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Artificial General Intelligence (AGI)?",
+    "back": "Also known as 'strong AI,' this refers to systems enabled with cognitive capabilities and mental dexterity that mimic humans, allowing them to generalize knowledge across domains and adapt to changes.",
+    "original_term": "Artificial General Intelligence (AGI)"
+  },
+  {
+    "id": "ai_essentials_003",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Narrow AI (Weak AI)?",
+    "back": "AI systems designed to use technologies to perform specific, limited tasks (e.g., chatbots, facial recognition) and cannot be applied to other tasks.",
+    "original_term": "Narrow AI (Weak AI)"
+  },
+  {
+    "id": "ai_essentials_004",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Augmented Intelligence?",
+    "back": "The concept of machines and humans working together to enhance, rather than replace, human tasks.",
+    "original_term": "Augmented Intelligence"
+  },
+  {
+    "id": "ai_essentials_005",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Automation?",
+    "back": "The act of repetition focused on handling the same inputs to produce the same outputs; it does not require intelligence and cannot handle variability.",
+    "original_term": "Automation"
+  },
+  {
+    "id": "ai_essentials_006",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Perception in AI?",
+    "back": "The ability to understand the environment and process the data provided by that environment.",
+    "original_term": "Perception"
+  },
+  {
+    "id": "ai_essentials_007",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Prediction in AI?",
+    "back": "Enabling a machine to recognize patterns and use that recognition to forecast future events.",
+    "original_term": "Prediction"
+  },
+  {
+    "id": "ai_essentials_008",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Planning in AI?",
+    "back": "Using perceived information and lessons from pattern observation to make decisions and develop plans.",
+    "original_term": "Planning"
+  },
+  {
+    "id": "ai_essentials_009",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Machine Learning (ML)?",
+    "back": "A set of methods and processes that enable computer systems to learn patterns from stored data using algorithms.",
+    "original_term": "Machine Learning (ML)"
+  },
+  {
+    "id": "ai_essentials_010",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Supervised Learning?",
+    "back": "Algorithms learn by being trained on examples of labeled data (e.g., email filtering).",
+    "original_term": "Supervised Learning"
+  },
+  {
+    "id": "ai_essentials_011",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Unsupervised Learning?",
+    "back": "Algorithms are provided with unlabeled data and must discover hidden patterns or groupings without human intervention.",
+    "original_term": "Unsupervised Learning"
+  },
+  {
+    "id": "ai_essentials_012",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Reinforcement Learning?",
+    "back": "A method where machines learn through trial-and-error approaches.",
+    "original_term": "Reinforcement Learning"
+  },
+  {
+    "id": "ai_essentials_013",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What are Neural Networks?",
+    "back": "An ML algorithm simulating the human brain's neural connections to encode learning.",
+    "original_term": "Neural Networks"
+  },
+  {
+    "id": "ai_essentials_014",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Deep Learning?",
+    "back": "The use of many layers of interconnected artificial neurons in a neural network to enable complicated learning.",
+    "original_term": "Deep Learning"
+  },
+  {
+    "id": "ai_essentials_015",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Computer Vision?",
+    "back": "The ability of systems to accurately identify and classify images, recognize faces, and detect specific objects within images or videos.",
+    "original_term": "Computer Vision"
+  },
+  {
+    "id": "ai_essentials_016",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Natural Language Processing (NLP)?",
+    "back": "Applications that understand and process speech and written words.",
+    "original_term": "Natural Language Processing (NLP)"
+  },
+  {
+    "id": "ai_essentials_017",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Natural Language Generation (NLG)?",
+    "back": "Allows computers to communicate with humans in a conversational flow.",
+    "original_term": "Natural Language Generation (NLG)"
+  },
+  {
+    "id": "ai_essentials_018",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What are Autonomous Systems?",
+    "back": "Physical and virtual systems that can accomplish a task, reach a goal, and interact with surroundings with minimal human involvement.",
+    "original_term": "Autonomous Systems"
+  },
+  {
+    "id": "ai_essentials_019",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Conversation and Human Interaction in AI?",
+    "back": "Machines and humans interacting in conversational ways via voice, text, or image.",
+    "original_term": "Conversation and Human Interaction"
+  },
+  {
+    "id": "ai_essentials_020",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What are Goal-Driven Systems?",
+    "back": "Systems that learn through trial and error to achieve a specific objective or goal (e.g., game playing, resource optimization).",
+    "original_term": "Goal-Driven Systems"
+  },
+  {
+    "id": "ai_essentials_021",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Hyper-Personalization?",
+    "back": "Using ML to develop a profile of an individual that adapts over time to provide personalized services or content.",
+    "original_term": "Hyper-Personalization"
+  },
+  {
+    "id": "ai_essentials_022",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Pattern and Anomaly Detection?",
+    "back": "Using ML to review patterns in data to identify outliers or anomalies (e.g., fraud detection).",
+    "original_term": "Pattern and Anomaly Detection"
+  },
+  {
+    "id": "ai_essentials_023",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Predictive Analytics?",
+    "back": "Using ML to understand past behaviors to determine the probability of a future outcome.",
+    "original_term": "Predictive Analytics"
+  },
+  {
+    "id": "ai_essentials_024",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Recognition in AI?",
+    "back": "Distinguishing and classifying different images, video, audio, and objects.",
+    "original_term": "Recognition"
+  },
+  {
+    "id": "ai_essentials_025",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Generative AI (GenAI)?",
+    "back": "The application of ML techniques to create new data or content based on learned patterns.",
+    "original_term": "Generative AI (GenAI)"
+  },
+  {
+    "id": "ai_essentials_026",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What are Foundation Models?",
+    "back": "Large, pretrained models focused on a general domain (like language or vision) that serve as a starting base for AI systems.",
+    "original_term": "Foundation Models"
+  },
+  {
+    "id": "ai_essentials_027",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What are Large Language Models (LLMs)?",
+    "back": "Deep learning neural network models trained on massive data sets to understand, summarize, generate, and predict new content.",
+    "original_term": "Large Language Models (LLMs)"
+  },
+  {
+    "id": "ai_essentials_028",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What are Transformer Models?",
+    "back": "Models that track relationships in sequential data (like a sentence) to learn order and meaning.",
+    "original_term": "Transformer Models"
+  },
+  {
+    "id": "ai_essentials_029",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Generative Pretrained Transformer (GPT)?",
+    "back": "Foundational models utilizing neural networks to transform input prompts into text, images, or audio.",
+    "original_term": "Generative Pretrained Transformer (GPT)"
+  },
+  {
+    "id": "ai_essentials_030",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is a Prompt?",
+    "back": "A request or natural language instruction a user submits to a GenAI system to perform a task.",
+    "original_term": "Prompt"
+  },
+  {
+    "id": "ai_essentials_031",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Prompt Engineering?",
+    "back": "The process of training staff to write effective prompts and using specialists to fine-tune underlying LLMs to optimize response quality.",
+    "original_term": "Prompt Engineering"
+  },
+  {
+    "id": "ai_essentials_032",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Hallucination in AI?",
+    "back": "When a GenAI system provides an incorrect, nonsensical, or false output not based on training data or reality.",
+    "original_term": "Hallucination"
+  },
+  {
+    "id": "ai_essentials_033",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Retrieval-Augmented Generation (RAG)?",
+    "back": "An approach leveraging a data repository of custom/proprietary information to enhance the accuracy and relevance of AI-generated content.",
+    "original_term": "Retrieval-Augmented Generation (RAG)"
+  },
+  {
+    "id": "ai_essentials_034",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Fine-Tuning?",
+    "back": "The process of training a model on a specific data set to adjust parameters so it aligns better with specific tasks or domains.",
+    "original_term": "Fine-Tuning"
+  },
+  {
+    "id": "ai_essentials_035",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Regression Analysis?",
+    "back": "A statistical technique studying relationships among dependent and independent variables.",
+    "original_term": "Regression Analysis"
+  },
+  {
+    "id": "ai_essentials_036",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What are Decision Trees?",
+    "back": "Classification models that categorize data based on variables, resembling a tree structure where branches are options and leaves are results.",
+    "original_term": "Decision Trees"
+  },
+  {
+    "id": "ai_essentials_037",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Time Series in AI?",
+    "back": "A subset of forecasting where a model attempts to predict an event over a time range.",
+    "original_term": "Time Series"
+  },
+  {
+    "id": "ai_essentials_038",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Clustering?",
+    "back": "Grouping data that share characteristics or qualities.",
+    "original_term": "Clustering"
+  },
+  {
+    "id": "ai_essentials_039",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Human in the Loop (HITL)?",
+    "back": "The integration of human oversight and judgment in AI processes to interpret outputs and ensure alignment with goals.",
+    "original_term": "Human in the Loop (HITL)"
+  },
+  {
+    "id": "ai_essentials_040",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Explainable AI (XAI)?",
+    "back": "Systems that provide insights into how AI decisions are made to allow for scrutiny.",
+    "original_term": "Explainable AI (XAI)"
+  },
+  {
+    "id": "ai_essentials_041",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Inference in the context of AI privacy?",
+    "back": "Using seemingly innocuous data to predict private attributes about an individual.",
+    "original_term": "Inference"
+  },
+  {
+    "id": "ai_essentials_042",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Misinformation in AI?",
+    "back": "Incorrect or misleading information provided by AI due to errors in processing, data quality, or algorithms (unintentional).",
+    "original_term": "Misinformation"
+  },
+  {
+    "id": "ai_essentials_043",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Disinformation?",
+    "back": "Intentionally spreading false information or manipulating data sources to steer AI toward incorrect outputs.",
+    "original_term": "Disinformation"
+  },
+  {
+    "id": "ai_essentials_044",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What are Deepfakes?",
+    "back": "Hyper-realistic audio, video, and images created using deep learning to make it appear individuals are saying or doing things they never did.",
+    "original_term": "Deepfakes"
+  },
+  {
+    "id": "ai_essentials_045",
+    "type": "definition",
+    "category": "AI_ESSENTIALS",
+    "front": "What is Adversarial Training?",
+    "back": "Techniques where models are exposed to malicious inputs (adversarial examples) during training to enhance resilience against attacks.",
+    "original_term": "Adversarial Training"
+  }
+]

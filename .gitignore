@@ -33,5 +33,4 @@ data-extraction/
 references/
 plans/
 .claude/
-.agents/
-scripts/
+.agent/
