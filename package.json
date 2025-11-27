@@ -18,7 +18,8 @@
     "generate:definitions": "npm run extract:definitions && npm run format:definitions",
     "vectorize": "node scripts/vectorize-references.mjs",
     "vectorize:full": "node scripts/vectorize-full.mjs",
-    "vectorize:python": "python3 scripts/vectorize-with-python.py"
+    "vectorize:python": "python3 scripts/vectorize-with-python.py",
+    "vectorize:references": "python3 scripts/vectorize-reference-pdfs.py"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.0",

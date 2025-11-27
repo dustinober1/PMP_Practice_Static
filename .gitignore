@@ -34,3 +34,5 @@ references/
 plans/
 .claude/
 .agent/
+
+data/txt/
