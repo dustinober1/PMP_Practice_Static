@@ -78,6 +78,7 @@ The application organizes PMP content into:
   - **Leading and Managing AI Projects Flashcards**: 40 terms from the Leading and Managing AI Projects guide (added manually curated content)
   - **Navigating Complexity Flashcards**: 71 terms from the Navigating Complexity: A Practice Guide (added manually curated content)
   - **PMBOK Guide 8th Edition Flashcards**: 47 terms from the PMBOK Guide 8th Edition glossary (added manually curated content)
+  - **PMI Guide to Business Analysis Glossary Flashcards**: 517 terms from the PMI Guide to Business Analysis glossary (added manually curated content)
 
 ## Development Commands
 - `npm install` - Install project dependencies
