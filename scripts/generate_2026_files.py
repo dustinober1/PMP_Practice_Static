@@ -1,7 +1,13 @@
 import json
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parent.parent
+OUTLINE_PATH = ROOT_DIR / "data" / "reference" / "exam-outline" / "2026_structure.json"
+TASKS_PATH = ROOT_DIR / "src" / "data" / "tasks.json"
+ENABLERS_PATH = ROOT_DIR / "src" / "data" / "enablers.json"
 
 # Load the 2026 structure
-with open('2026_structure.json', 'r') as f:
+with OUTLINE_PATH.open('r', encoding='utf-8') as f:
     structure_2026 = json.load(f)
 
 # Generate tasks.json
@@ -35,12 +41,12 @@ for domain_id, domain_data in structure_2026.items():
             })
 
 # Save tasks.json
-with open('src/data/tasks.json', 'w') as f:
+with TASKS_PATH.open('w', encoding='utf-8') as f:
     json.dump(tasks, f, indent=2)
     f.write('\n')
 
 # Save enablers.json
-with open('src/data/enablers.json', 'w') as f:
+with ENABLERS_PATH.open('w', encoding='utf-8') as f:
     json.dump(enablers, f, indent=2)
     f.write('\n')
 

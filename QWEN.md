@@ -19,7 +19,11 @@ This is a zero-cost PMP (Project Management Professional) preparation site built
 PMP_Practice_Static/
 ├── .agent/                 # Agent-specific files
 ├── .claude/               # Claude-specific files
-├── data-extraction/       # Data processing scripts
+├── data/                  # Reference/auxiliary data that is not bundled into the app
+│   └── reference/
+│       ├── exam-outline/2026_structure.json   # PMP 2026 outline extracted from the ECO
+│       ├── flashcards/                        # Manual/curated flashcard banks by source
+│       └── extracted/                         # Raw text extracts from reference PDFs
 ├── docs/                  # Documentation files
 ├── plans/                 # Planning documents
 ├── public/                # Public assets
@@ -39,7 +43,6 @@ PMP_Practice_Static/
 │   ├── index.css         # Global styles
 │   └── site-config.js    # Site configuration
 ├── .flashcard-generation-state.json  # State tracking for flashcard generation
-├── 2026_structure.json    # PMP 2026 exam structure data
 ├── .gitignore
 ├── README.md
 ├── eslint.config.js
@@ -82,6 +85,7 @@ The application organizes PMP content into:
   - **PMI Guide to Business Analysis Glossary Flashcards**: 517 terms from the PMI Guide to Business Analysis glossary (added manually curated content)
   - **PMO Practice Guide Flashcards**: 94 terms from the PMO Practice Guide glossary (added manually curated content)
   - **Project Configuration Management Flashcards**: 40 terms from the Project Configuration Management Practice Standard (added manually curated content)
+  - Manual flashcard banks above live in `data/reference/flashcards/` for reference/import.
 
 ## Development Commands
 - `npm install` - Install project dependencies
@@ -131,6 +135,6 @@ The `src/site-config.js` file contains site-specific configuration:
 
 ## Data Sources
 - Static JSON files in `src/data/` for core PMP content
-- PMP 2026 structure defined in `2026_structure.json`
+- PMP 2026 structure defined in `data/reference/exam-outline/2026_structure.json`
 - Questions and flashcards can be AI-generated using the provided scripts
 - Local storage for user progress and preferences

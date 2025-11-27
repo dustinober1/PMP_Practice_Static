@@ -1,5 +1,10 @@
 import json
+from pathlib import Path
 import fitz
+
+ROOT_DIR = Path(__file__).resolve().parent.parent
+OUTLINE_DIR = ROOT_DIR / "data" / "reference" / "exam-outline"
+OUTLINE_PATH = OUTLINE_DIR / "2026_structure.json"
 
 # Open the 2026 PDF
 doc = fitz.open('references/New-PMP-Examination-Content-Outline-2026.pdf')
@@ -355,7 +360,8 @@ for domain_id, domain_data in domains_2026.items():
         print(f"  {task['id']}: {task['title']} ({len(task['enablers'])} enablers)")
 
 # Save to JSON file for reference
-with open('2026_structure.json', 'w') as f:
+OUTLINE_DIR.mkdir(parents=True, exist_ok=True)
+with OUTLINE_PATH.open('w', encoding='utf-8') as f:
     json.dump(domains_2026, f, indent=2)
 
-print("\n\nSaved to 2026_structure.json")
+print(f"\n\nSaved to {OUTLINE_PATH.relative_to(ROOT_DIR)}")

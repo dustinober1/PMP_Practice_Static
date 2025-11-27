@@ -8515,5 +8515,680 @@
     "front": "What is Augmented Intelligence?",
     "back": "The idea of machines and humans working together to enhance, rather than replace, human tasks.",
     "original_term": "Augmented Intelligence"
+  },
+  {
+    "id": "standard_for_opm_001",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is Capability?",
+    "back": "A specific competency that an organization needs to have in order to implement and sustain OPM.",
+    "original_term": "Capability",
+    "original_definition": "A specific competency that an organization needs to have in order to implement and sustain OPM."
+  },
+  {
+    "id": "standard_for_opm_002",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is Methodology?",
+    "back": "A system of practices, techniques, procedures, and rules used by those who work in a discipline.",
+    "original_term": "Methodology",
+    "original_definition": "A system of practices, techniques, procedures, and rules used by those who work in a discipline."
+  },
+  {
+    "id": "standard_for_opm_003",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is an Organization?",
+    "back": "An entity that may include all levels of the enterprise and may transcend business lines or divisions, including any area or business unit that has impact, influence, or involvement in project and business operations.",
+    "original_term": "Organization",
+    "original_definition": "An entity that may include all levels of the enterprise and may transcend business lines or divisions, including any area/business unit that has impact, influence, or involvement in project and business operations."
+  },
+  {
+    "id": "standard_for_opm_004",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is an Organizational Enabler?",
+    "back": "A structural, cultural, technological, or human-resource practice that the performing organization can use to achieve strategic objectives.",
+    "original_term": "Organizational Enabler",
+    "original_definition": "A structural, cultural, technological, or human-resource practice that the performing organization can use to achieve strategic objectives."
+  },
+  {
+    "id": "standard_for_opm_005",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What are Organizational Process Assets (OPAs)?",
+    "back": "Plans, processes, policies, procedures, and knowledge bases specific to and used by the performing organization.",
+    "original_term": "Organizational Process Assets (OPAs)",
+    "original_definition": "Plans, processes, policies, procedures, and knowledge bases specific to and used by the performing organization."
+  },
+  {
+    "id": "standard_for_opm_006",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is Organizational Project Management (OPM)?",
+    "back": "A framework in which portfolio, program, and project management are integrated with organizational enablers in order to achieve strategic objectives.",
+    "original_term": "Organizational Project Management (OPM)",
+    "original_definition": "A framework in which portfolio, program, and project management are integrated with organizational enablers in order to achieve strategic objectives."
+  },
+  {
+    "id": "standard_for_opm_007",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is Organizational Project Management Maturity (OPM Maturity)?",
+    "back": "The level of an organization's ability to deliver the desired strategic outcomes in a predictable, controllable, and reliable manner.",
+    "original_term": "Organizational Project Management Maturity (OPM Maturity)",
+    "original_definition": "The level of an organization's ability to deliver the desired strategic outcomes in a predictable, controllable, and reliable manner."
+  },
+  {
+    "id": "standard_for_opm_008",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is an Organizational Project Management Methodology (OPM Methodology)?",
+    "back": "A system of practices, techniques, procedures, and rules used by those who work in OPM.",
+    "original_term": "Organizational Project Management Methodology (OPM Methodology)",
+    "original_definition": "A system of practices, techniques, procedures, and rules used by those who work in OPM."
+  },
+  {
+    "id": "standard_for_opm_009",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is a Portfolio?",
+    "back": "Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.",
+    "original_term": "Portfolio",
+    "original_definition": "Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives."
+  },
+  {
+    "id": "standard_for_opm_010",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is Portfolio Management?",
+    "back": "The centralized management of one or more portfolios to achieve strategic objectives.",
+    "original_term": "Portfolio Management",
+    "original_definition": "The centralized management of one or more portfolios to achieve strategic objectives."
+  },
+  {
+    "id": "standard_for_opm_011",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is a Program?",
+    "back": "Related projects, subsidiary programs, and program activities managed in a coordinated manner to obtain benefits not available from managing them individually.",
+    "original_term": "Program",
+    "original_definition": "Related projects, subsidiary programs, and program activities managed in a coordinated manner to obtain benefits not available from managing them individually."
+  },
+  {
+    "id": "standard_for_opm_012",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is Program Management?",
+    "back": "The application of knowledge, skills, and principles to a program to achieve the program objectives and to obtain benefits and control not available by managing program components individually.",
+    "original_term": "Program Management",
+    "original_definition": "The application of knowledge, skills, and principles to a program to achieve the program objectives and to obtain benefits and control not available by managing program components individually."
+  },
+  {
+    "id": "standard_for_opm_013",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is a Program Management Office?",
+    "back": "A management structure that standardizes the program-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques.",
+    "original_term": "Program Management Office",
+    "original_definition": "A management structure that standardizes the program-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques."
+  },
+  {
+    "id": "standard_for_opm_014",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is a Project?",
+    "back": "A temporary endeavor undertaken to create a unique product, service, or result.",
+    "original_term": "Project",
+    "original_definition": "A temporary endeavor undertaken to create a unique product, service, or result."
+  },
+  {
+    "id": "standard_for_opm_015",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is Project Management?",
+    "back": "The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements.",
+    "original_term": "Project Management",
+    "original_definition": "The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements."
+  },
+  {
+    "id": "standard_for_opm_016",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is a Project Management Methodology?",
+    "back": "A system of practices, techniques, procedures, and rules used by those who work in portfolios, programs, and projects.",
+    "original_term": "Project Management Methodology",
+    "original_definition": "A system of practices, techniques, procedures, and rules used by those who work in portfolios, programs, and projects."
+  },
+  {
+    "id": "standard_for_opm_017",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is a Project Management Office (PMO)?",
+    "back": "A management structure that standardizes the program-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques.",
+    "original_term": "Project Management Office (PMO)",
+    "original_definition": "A management structure that standardizes the program-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques."
+  },
+  {
+    "id": "standard_for_opm_018",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "Who is a Sponsor?",
+    "back": "An individual or a group that provides resources and support for the project, program, or portfolio, and is accountable for enabling success.",
+    "original_term": "Sponsor",
+    "original_definition": "An individual or a group that provides resources and support for the project, program, or portfolio, and is accountable for enabling success."
+  },
+  {
+    "id": "standard_for_opm_019",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "Who is a Stakeholder?",
+    "back": "An individual, group, or organization that may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project, program, or portfolio.",
+    "original_term": "Stakeholder",
+    "original_definition": "An individual, group, or organization that may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project, program, or portfolio."
+  },
+  {
+    "id": "standard_for_opm_020",
+    "type": "definition",
+    "category": "STANDARD_FOR_OPM_TERM",
+    "front": "What is Sustainability?",
+    "back": "A characteristic of a process or state that can be maintained indefinitely.",
+    "original_term": "Sustainability",
+    "original_definition": "A characteristic of a process or state that can be maintained indefinitely."
+  },
+  {
+    "id": "standard_for_risk_mgmt_001",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is an Assumption?",
+    "back": "A factor in the planning process considered to be true, real, or certain, without proof or demonstration.",
+    "original_term": "Assumption",
+    "original_definition": "A factor in the planning process considered to be true, real, or certain, without proof or demonstration."
+  },
+  {
+    "id": "standard_for_risk_mgmt_002",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Cause in risk management?",
+    "back": "Events or circumstances that currently exist or are certain to exist in the future, which might give rise to risks.",
+    "original_term": "Cause",
+    "original_definition": "Events or circumstances that currently exist or are certain to exist in the future, which might give rise to risks."
+  },
+  {
+    "id": "standard_for_risk_mgmt_003",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Component?",
+    "back": "A predetermined element of a portfolio or program that is work related to the achievement of the portfolio's or program's strategic objectives.",
+    "original_term": "Component",
+    "original_definition": "A predetermined element of a portfolio or program that is work related to the achievement of the portfolio's or program's strategic objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_004",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Constraint?",
+    "back": "A factor that limits the options for managing a project, program, portfolio, or process.",
+    "original_term": "Constraint",
+    "original_definition": "A factor that limits the options for managing a project, program, portfolio, or process."
+  },
+  {
+    "id": "standard_for_risk_mgmt_005",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Contingency Plan?",
+    "back": "A document that describes actions to take if predetermined trigger conditions occur.",
+    "original_term": "Contingency Plan",
+    "original_definition": "A document that describes actions to take if predetermined trigger conditions occur."
+  },
+  {
+    "id": "standard_for_risk_mgmt_006",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Contingency Reserve?",
+    "back": "Time or money allocated in the schedule or cost baseline for known risks with active response strategies.",
+    "original_term": "Contingency Reserve",
+    "original_definition": "Time or money allocated in the schedule or cost baseline for known risks with active response strategies."
+  },
+  {
+    "id": "standard_for_risk_mgmt_007",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is an Emergent Risk?",
+    "back": "A risk that arises which could not have been identified earlier on.",
+    "original_term": "Emergent Risk",
+    "original_definition": "A risk that arises which could not have been identified earlier on."
+  },
+  {
+    "id": "standard_for_risk_mgmt_008",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Enterprise Risk Management?",
+    "back": "An approach to managing risk that reflects the organization's culture, capability, and strategy to create and sustain value.",
+    "original_term": "Enterprise Risk Management",
+    "original_definition": "An approach to managing risk that reflects the organization's culture, capability, and strategy to create and sustain value."
+  },
+  {
+    "id": "standard_for_risk_mgmt_009",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What does Identify Risks involve?",
+    "back": "Determining and documenting the risks that might affect the intended outcomes.",
+    "original_term": "Identify Risks",
+    "original_definition": "The process of determining and documenting the risks that might affect the intended outcomes."
+  },
+  {
+    "id": "standard_for_risk_mgmt_010",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Impact in risk management?",
+    "back": "A measure of the effect of a risk on one or more objectives if it occurs.",
+    "original_term": "Impact",
+    "original_definition": "A measure of the effect of a risk on one or more objectives if it occurs."
+  },
+  {
+    "id": "standard_for_risk_mgmt_011",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is an Issue?",
+    "back": "A current threat that may have an impact on one or more objectives.",
+    "original_term": "Issue",
+    "original_definition": "A current threat that may have an impact on one or more objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_012",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Management Reserve?",
+    "back": "Time or money that management sets aside in addition to the schedule or cost baseline and releases for unforeseen work that is within the scope of the project.",
+    "original_term": "Management Reserve",
+    "original_definition": "Time or money that management sets aside in addition to the schedule or cost baseline and releases for unforeseen work that is within the scope of the project."
+  },
+  {
+    "id": "standard_for_risk_mgmt_013",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is an Opportunity?",
+    "back": "A risk that would have a positive effect on one or more objectives.",
+    "original_term": "Opportunity",
+    "original_definition": "A risk that would have a positive effect on one or more objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_014",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Organizational Project Management in risk context?",
+    "back": "A framework in which portfolio, program, and project management are integrated with organizational enablers in order to achieve strategic objectives.",
+    "original_term": "Organizational Project Management",
+    "original_definition": "A framework in which portfolio, program, and project management are integrated with organizational enablers in order to achieve strategic objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_015",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Overall Risk?",
+    "back": "The effect of uncertainty on the portfolio, program, or project as a whole.",
+    "original_term": "Overall Risk",
+    "original_definition": "The effect of uncertainty on the portfolio, program, or project as a whole."
+  },
+  {
+    "id": "standard_for_risk_mgmt_016",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Portfolio in risk management?",
+    "back": "Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.",
+    "original_term": "Portfolio",
+    "original_definition": "Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_017",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Portfolio Management in risk management?",
+    "back": "The centralized management of one or more portfolios to achieve strategic objectives.",
+    "original_term": "Portfolio Management",
+    "original_definition": "The centralized management of one or more portfolios to achieve strategic objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_018",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Probability in risk analysis?",
+    "back": "A measure of how likely an individual risk is to occur.",
+    "original_term": "Probability",
+    "original_definition": "A measure of how likely an individual risk is to occur."
+  },
+  {
+    "id": "standard_for_risk_mgmt_019",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Program in risk management?",
+    "back": "Related projects, subsidiary programs, and program activities managed in a coordinated manner to obtain benefits not available from managing them individually.",
+    "original_term": "Program",
+    "original_definition": "Related projects, subsidiary programs, and program activities managed in a coordinated manner to obtain benefits not available from managing them individually."
+  },
+  {
+    "id": "standard_for_risk_mgmt_020",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Program Management in risk management?",
+    "back": "The application of knowledge, skills, and principles to a program to achieve the program objectives and to obtain benefits and control not available by managing program components individually.",
+    "original_term": "Program Management",
+    "original_definition": "The application of knowledge, skills, and principles to a program to achieve the program objectives and to obtain benefits and control not available by managing program components individually."
+  },
+  {
+    "id": "standard_for_risk_mgmt_021",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Project in risk management?",
+    "back": "A temporary endeavor undertaken to create a unique product, service, or result.",
+    "original_term": "Project",
+    "original_definition": "A temporary endeavor undertaken to create a unique product, service, or result."
+  },
+  {
+    "id": "standard_for_risk_mgmt_022",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Project Management in risk management?",
+    "back": "The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements.",
+    "original_term": "Project Management",
+    "original_definition": "The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements."
+  },
+  {
+    "id": "standard_for_risk_mgmt_023",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Qualitative Risk Analysis?",
+    "back": "The consideration of characteristics such as probability, impact, manageability, timing of impacts, relationships with other risks, and common causes or effects.",
+    "original_term": "Qualitative Risk Analysis",
+    "original_definition": "The consideration of a range of characteristics such as probability of occurrence, degree of impact on the objectives, manageability, timing of possible impacts, relationships with other risks, and common causes or effects."
+  },
+  {
+    "id": "standard_for_risk_mgmt_024",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Quantitative Risk Analysis?",
+    "back": "The combined effect of identified risks on the desired outcome.",
+    "original_term": "Quantitative Risk Analysis",
+    "original_definition": "The combined effect of identified risks on the desired outcome."
+  },
+  {
+    "id": "standard_for_risk_mgmt_025",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Residual Risk?",
+    "back": "The risk that remains after risk responses have been implemented.",
+    "original_term": "Residual Risk",
+    "original_definition": "The risk that remains after risk responses have been implemented."
+  },
+  {
+    "id": "standard_for_risk_mgmt_026",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Response Strategy?",
+    "back": "A high-level approach to address an individual risk or overall risk, broken down into a set of risk actions.",
+    "original_term": "Response Strategy",
+    "original_definition": "A high-level approach to address an individual risk or overall risk, broken down into a set of risk actions."
+  },
+  {
+    "id": "standard_for_risk_mgmt_027",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Risk?",
+    "back": "An uncertain event or condition that, if it occurs, has a positive or negative effect on one or more objectives.",
+    "original_term": "Risk",
+    "original_definition": "An uncertain event or condition that, if it occurs, has a positive or negative effect on one or more objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_028",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Acceptance?",
+    "back": "A risk response that involves acknowledging the risk and taking no action unless it occurs.",
+    "original_term": "Risk Acceptance",
+    "original_definition": "A risk response that involves acknowledging the risk and taking no action unless it occurs."
+  },
+  {
+    "id": "standard_for_risk_mgmt_029",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Risk Action?",
+    "back": "A detailed task that implements, in whole or in part, a response strategy in order to address an individual risk or overall risk.",
+    "original_term": "Risk Action",
+    "original_definition": "A detailed task that implements, in whole or in part, a response strategy in order to address an individual risk or overall risk."
+  },
+  {
+    "id": "standard_for_risk_mgmt_030",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "Who is a Risk Action Owner?",
+    "back": "The person or people responsible for carrying out the approved risk actions when responding to a given risk.",
+    "original_term": "Risk Action Owner",
+    "original_definition": "The person(s) responsible for carrying out the approved risk actions when responding to a given risk."
+  },
+  {
+    "id": "standard_for_risk_mgmt_031",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Analysis?",
+    "back": "The activities related to defining the characteristics of a risk and the degree to which it can impact objectives.",
+    "original_term": "Risk Analysis",
+    "original_definition": "The activities related to defining the characteristics of a risk and the degree to which it can impact objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_032",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Appetite?",
+    "back": "The degree of uncertainty an organization or individual is willing to accept in anticipation of a reward.",
+    "original_term": "Risk Appetite",
+    "original_definition": "The degree of uncertainty an organization or individual is willing to accept in anticipation of a reward."
+  },
+  {
+    "id": "standard_for_risk_mgmt_033",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Assessment?",
+    "back": "The process of identifying, analyzing, and determining the probability of occurrence of a risk.",
+    "original_term": "Risk Assessment",
+    "original_definition": "The process of identifying, analyzing, and determining the probability of occurrence of a risk."
+  },
+  {
+    "id": "standard_for_risk_mgmt_034",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Risk Attitude?",
+    "back": "A disposition toward uncertainty, adopted explicitly or implicitly by individuals and groups, driven by perception, and evidenced by observable behavior.",
+    "original_term": "Risk Attitude",
+    "original_definition": "A disposition toward uncertainty, adopted explicitly or implicitly by individuals and groups, driven by perception, and evidenced by observable behavior."
+  },
+  {
+    "id": "standard_for_risk_mgmt_035",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Avoidance?",
+    "back": "A risk response that involves eliminating the threat or protecting the project, program, or portfolio from its impact.",
+    "original_term": "Risk Avoidance",
+    "original_definition": "A risk response that involves eliminating the threat or protecting the project, program, or portfolio from its impact."
+  },
+  {
+    "id": "standard_for_risk_mgmt_036",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Enhancement?",
+    "back": "A risk response that involves increasing the probability of occurrence or impact of an opportunity.",
+    "original_term": "Risk Enhancement",
+    "original_definition": "A risk response that involves increasing the probability of occurrence or impact of an opportunity."
+  },
+  {
+    "id": "standard_for_risk_mgmt_037",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Escalation?",
+    "back": "A risk response that involves transferring the ownership of the risk to a relevant party in the organization because the risk is outside of scope or the team does not have sufficient authority to address it.",
+    "original_term": "Risk Escalation",
+    "original_definition": "A risk response that involves transferring the ownership of the risk to a relevant party in the organization because the risk is outside of scope or the team does not have sufficient authority to address it."
+  },
+  {
+    "id": "standard_for_risk_mgmt_038",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Exploiting?",
+    "back": "A risk response that involves ensuring that an opportunity occurs.",
+    "original_term": "Risk Exploiting",
+    "original_definition": "A risk response that involves ensuring that an opportunity occurs."
+  },
+  {
+    "id": "standard_for_risk_mgmt_039",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Exposure?",
+    "back": "An aggregate measure of the potential impact of all risks at any given point in time in a project, program, or portfolio.",
+    "original_term": "Risk Exposure",
+    "original_definition": "An aggregate measure of the potential impact of all risks at any given point in time in a project, program, or portfolio."
+  },
+  {
+    "id": "standard_for_risk_mgmt_040",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Identification?",
+    "back": "The process of locating and profiling the characteristics of risks related to work objectives.",
+    "original_term": "Risk Identification",
+    "original_definition": "The process of locating and profiling the characteristics of risks related to work objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_041",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Management?",
+    "back": "The process that shapes decision making across the organization and within each domain and involves identifying, analyzing, responding to, and monitoring risks.",
+    "original_term": "Risk Management",
+    "original_definition": "The process that shapes decision making across the organization and within each of the domains and involves identifying, analyzing, responding to, and monitoring risks."
+  },
+  {
+    "id": "standard_for_risk_mgmt_042",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Risk Management Framework?",
+    "back": "A structure that organizes the process and activities of managing risks in an iterative fashion.",
+    "original_term": "Risk Management Framework",
+    "original_definition": "A structure that organizes the process and activities of managing risks in an iterative fashion."
+  },
+  {
+    "id": "standard_for_risk_mgmt_043",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is the Risk Management Life Cycle?",
+    "back": "A structured approach for undertaking a comprehensive view of risk throughout the enterprise, portfolio, program, and project domains.",
+    "original_term": "Risk Management Life Cycle",
+    "original_definition": "A structured approach for undertaking a comprehensive view of risk throughout the enterprise, portfolio, program, and project domains."
+  },
+  {
+    "id": "standard_for_risk_mgmt_044",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Risk Management Plan?",
+    "back": "A component of the project, program, or portfolio management plan that describes how risk management activities will be structured and performed.",
+    "original_term": "Risk Management Plan",
+    "original_definition": "A component of the project, program, or portfolio management plan that describes how risk management activities will be structured and performed."
+  },
+  {
+    "id": "standard_for_risk_mgmt_045",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Mitigation?",
+    "back": "A risk response that involves decreasing the probability or impact of a threat.",
+    "original_term": "Risk Mitigation",
+    "original_definition": "A risk response that involves decreasing the probability or impact of a threat."
+  },
+  {
+    "id": "standard_for_risk_mgmt_046",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "Who is a Risk Owner?",
+    "back": "The person responsible for monitoring the risk and for selecting and implementing an appropriate risk response strategy.",
+    "original_term": "Risk Owner",
+    "original_definition": "The person responsible for monitoring the risk and for selecting and implementing an appropriate risk response strategy."
+  },
+  {
+    "id": "standard_for_risk_mgmt_047",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Risk Register?",
+    "back": "A repository in which outputs of risk management processes are recorded.",
+    "original_term": "Risk Register",
+    "original_definition": "A repository in which outputs of risk management processes are recorded."
+  },
+  {
+    "id": "standard_for_risk_mgmt_048",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Risk Response?",
+    "back": "An action, planned or implemented, to address particular threats and opportunities.",
+    "original_term": "Risk Response",
+    "original_definition": "An action, planned or implemented, to address particular threats and opportunities."
+  },
+  {
+    "id": "standard_for_risk_mgmt_049",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Sharing?",
+    "back": "A risk response that involves allocating ownership of an opportunity to a third party who is best able to capture the opportunity or absorb the impact of the threat.",
+    "original_term": "Risk Sharing",
+    "original_definition": "A risk response that involves allocating ownership of an opportunity to a third party who is best able to capture the opportunity or absorb the impact of the threat."
+  },
+  {
+    "id": "standard_for_risk_mgmt_050",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Risk Threshold?",
+    "back": "The measure of acceptable variation around an objective that reflects the risk appetite of the organization and stakeholders.",
+    "original_term": "Risk Threshold",
+    "original_definition": "The measure of acceptable variation around an objective that reflects the risk appetite of the organization and stakeholders."
+  },
+  {
+    "id": "standard_for_risk_mgmt_051",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is Risk Transference?",
+    "back": "A risk response that involves shifting the impact of a threat to a third party, together with ownership of the response.",
+    "original_term": "Risk Transference",
+    "original_definition": "A risk response that involves shifting the impact of a threat to a third party, together with ownership of the response."
+  },
+  {
+    "id": "standard_for_risk_mgmt_052",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Secondary Risk?",
+    "back": "A risk that arises as a direct result of implementing a risk response.",
+    "original_term": "Secondary Risk",
+    "original_definition": "A risk that arises as a direct result of implementing a risk response."
+  },
+  {
+    "id": "standard_for_risk_mgmt_053",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "Who is a Stakeholder in risk management?",
+    "back": "An individual, group, or organization that may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project, program, or portfolio.",
+    "original_term": "Stakeholder",
+    "original_definition": "An individual, group, or organization that may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project, program, or portfolio."
+  },
+  {
+    "id": "standard_for_risk_mgmt_054",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Threat in risk management?",
+    "back": "A risk that would have a negative effect on one or more objectives.",
+    "original_term": "Threat",
+    "original_definition": "A risk that would have a negative effect on one or more objectives."
+  },
+  {
+    "id": "standard_for_risk_mgmt_055",
+    "type": "definition",
+    "category": "STANDARD_FOR_RISK_MANAGEMENT_TERM",
+    "front": "What is a Trigger Condition?",
+    "back": "An event or situation that indicates that a risk is about to occur.",
+    "original_term": "Trigger Condition",
+    "original_definition": "An event or situation that indicates that a risk is about to occur."
   }
 ]
