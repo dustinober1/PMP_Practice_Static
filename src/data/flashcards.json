@@ -2011,5 +2011,325 @@
     "front": "What is Data Bias?",
     "back": "Unfair or skewed outcomes in AI models resulting from biased training data.",
     "original_term": "Data Bias"
+  },
+  {
+    "id": "leading_managing_ai_001",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is PMI-CPMAI\u2122 (Certified Professional in Managing AI)?",
+    "back": "A methodology and framework that bridges the gap between traditional project management and the unique needs of AI projects. It combines adaptive/agile approaches with data-centric methods, governance, and ethical oversight.",
+    "original_term": "PMI-CPMAI\u2122 (Certified Professional in Managing AI)"
+  },
+  {
+    "id": "leading_managing_ai_002",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What are the Six Phases of PMI-CPMAI\u2122?",
+    "back": "A structured roadmap for AI projects consisting of Business Understanding, Data Understanding, Data Preparation, Model Development, Model Evaluation, and Model Operationalization.",
+    "original_term": "The Six Phases of PMI-CPMAI\u2122"
+  },
+  {
+    "id": "leading_managing_ai_003",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What does Iterative by Design mean in PMI-CPMAI\u2122?",
+    "back": "A principle of the framework where phases loop back (e.g., Model Evaluation may reveal issues requiring more Data Preparation), reflecting the uncertainty and discovery nature of AI.",
+    "original_term": "Iterative by Design"
+  },
+  {
+    "id": "leading_managing_ai_004",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Conversational and Human Interaction pattern of AI?",
+    "back": "Machines interacting naturally with humans through voice, text, or images using natural language to understand intent and context.",
+    "original_term": "Conversational and Human Interaction"
+  },
+  {
+    "id": "leading_managing_ai_005",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Recognition pattern of AI?",
+    "back": "Using machine learning to identify, classify, or segment objects and elements within unstructured data (images, video, audio, text).",
+    "original_term": "Recognition"
+  },
+  {
+    "id": "leading_managing_ai_006",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Predictive Analytics and Decision Support pattern of AI?",
+    "back": "Utilizing machine learning to forecast future outcomes and support decision-making by analyzing past behaviors and data.",
+    "original_term": "Predictive Analytics and Decision Support"
+  },
+  {
+    "id": "leading_managing_ai_007",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Goal-Driven Systems pattern of AI?",
+    "back": "Systems that learn via trial and error (reinforcement learning) to find the optimal solution to a problem or objective.",
+    "original_term": "Goal-Driven Systems"
+  },
+  {
+    "id": "leading_managing_ai_008",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Hyper-Personalization pattern of AI?",
+    "back": "Treating each user individually by creating unique profiles to deliver tailored content, recommendations, and guidance.",
+    "original_term": "Hyper-Personalization"
+  },
+  {
+    "id": "leading_managing_ai_009",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Autonomous Systems pattern of AI?",
+    "back": "Systems (physical or virtual) that perform tasks or interact with their environment independently with little to no human input.",
+    "original_term": "Autonomous Systems"
+  },
+  {
+    "id": "leading_managing_ai_010",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Patterns and Anomalies pattern of AI?",
+    "back": "Using machine learning to detect when data does not fit the norm (outliers) or to spot patterns in large data sets.",
+    "original_term": "Patterns and Anomalies"
+  },
+  {
+    "id": "leading_managing_ai_011",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Automation?",
+    "back": "Systems that perform repeatable tasks with fixed rules in stable environments; the goal is repetition rather than intelligence.",
+    "original_term": "Automation"
+  },
+  {
+    "id": "leading_managing_ai_012",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is AI-Enhanced Automation?",
+    "back": "Automation that incorporates intelligent capabilities to handle exceptions, adapt to changing conditions, and learn from experience.",
+    "original_term": "AI-Enhanced Automation"
+  },
+  {
+    "id": "leading_managing_ai_013",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What are the Three Ps of Intelligence?",
+    "back": "The characteristics that differentiate intelligent systems from traditional automation: Perception (sensing and understanding unstructured information), Prediction (forecasting outcomes and inferring patterns), and Planning (devising strategies and optimizing approaches dynamically).",
+    "original_term": "Three Ps of Intelligence"
+  },
+  {
+    "id": "leading_managing_ai_014",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Perception in the Three Ps of Intelligence?",
+    "back": "Sensing and understanding unstructured information.",
+    "original_term": "Perception"
+  },
+  {
+    "id": "leading_managing_ai_015",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Prediction in the Three Ps of Intelligence?",
+    "back": "Forecasting outcomes and inferring patterns.",
+    "original_term": "Prediction"
+  },
+  {
+    "id": "leading_managing_ai_016",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Planning in the Three Ps of Intelligence?",
+    "back": "Devising strategies and optimizing approaches dynamically.",
+    "original_term": "Planning"
+  },
+  {
+    "id": "leading_managing_ai_017",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is an AI Agent?",
+    "back": "An intelligent system that can perceive its environment, make decisions, and take action to achieve specific objectives with some autonomy, often combining multiple AI capabilities.",
+    "original_term": "AI Agent"
+  },
+  {
+    "id": "leading_managing_ai_018",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Agentic AI?",
+    "back": "An advanced strategy where AI agents continuously evaluate their own performance, identify optimization opportunities, and redesign their processes autonomously.",
+    "original_term": "Agentic AI"
+  },
+  {
+    "id": "leading_managing_ai_019",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Ethical AI?",
+    "back": "Aligning AI with human values to avoid harm, ensure fairness, and respect privacy.",
+    "original_term": "Ethical AI"
+  },
+  {
+    "id": "leading_managing_ai_020",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Responsible AI?",
+    "back": "Ensuring accountability for AI outcomes by establishing clear ownership, decision authorities, and human oversight.",
+    "original_term": "Responsible AI"
+  },
+  {
+    "id": "leading_managing_ai_021",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Transparent AI?",
+    "back": "Making the AI's logic, data sources, and decision-making understandable to stakeholders.",
+    "original_term": "Transparent AI"
+  },
+  {
+    "id": "leading_managing_ai_022",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Governed AI?",
+    "back": "Enforcing organizational policies, standards, and regulatory compliance through robust controls and audits.",
+    "original_term": "Governed AI"
+  },
+  {
+    "id": "leading_managing_ai_023",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Explainable AI (XAI)?",
+    "back": "Designing systems that provide understandable reasons for their decisions so stakeholders can interpret the model's output.",
+    "original_term": "Explainable AI (XAI)"
+  },
+  {
+    "id": "leading_managing_ai_024",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Volume in Big Data Vs?",
+    "back": "How much data exists.",
+    "original_term": "Volume"
+  },
+  {
+    "id": "leading_managing_ai_025",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Variety in Big Data Vs?",
+    "back": "The formats of the data (structured vs. unstructured).",
+    "original_term": "Variety"
+  },
+  {
+    "id": "leading_managing_ai_026",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Velocity in Big Data Vs?",
+    "back": "How fast the data updates or moves.",
+    "original_term": "Velocity"
+  },
+  {
+    "id": "leading_managing_ai_027",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Veracity in Big Data Vs?",
+    "back": "The reliability and consistency of the data.",
+    "original_term": "Veracity"
+  },
+  {
+    "id": "leading_managing_ai_028",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Synthetic Data?",
+    "back": "Artificially generated data that reflects real-world patterns without using actual sensitive records, used to expand training sets.",
+    "original_term": "Synthetic Data"
+  },
+  {
+    "id": "leading_managing_ai_029",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Data Drift?",
+    "back": "When incoming data no longer matches the training data, causing model performance to degrade.",
+    "original_term": "Data Drift"
+  },
+  {
+    "id": "leading_managing_ai_030",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Retrieval-Augmented Generation (RAG)?",
+    "back": "Combining Large Language Models (LLMs) with real-time information retrieval from semantic search/vector databases to ground responses in trusted data.",
+    "original_term": "Retrieval-Augmented Generation (RAG)"
+  },
+  {
+    "id": "leading_managing_ai_031",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is the role of a Project Manager/AI Project Lead?",
+    "back": "Orchestrates the initiative, coordinates cross-functional teams, manages timelines, and ensures business alignment.",
+    "original_term": "Project Manager/AI Project Lead"
+  },
+  {
+    "id": "leading_managing_ai_032",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is the role of a Data Engineer?",
+    "back": "Builds and maintains data pipelines, ensures data quality/governance, and optimizes infrastructure.",
+    "original_term": "Data Engineer"
+  },
+  {
+    "id": "leading_managing_ai_033",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is the role of a Business Analyst/Domain Expert?",
+    "back": "Defines requirements, translates business needs into technical specs, and ensures the solution solves real business problems.",
+    "original_term": "Business Analyst/Domain Expert"
+  },
+  {
+    "id": "leading_managing_ai_034",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is the role of an MLOps/DevOps Engineer?",
+    "back": "Connects development to production by building CI/CD pipelines, monitoring performance, and managing versioning.",
+    "original_term": "MLOps/DevOps Engineer"
+  },
+  {
+    "id": "leading_managing_ai_035",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is the role of an Executive Sponsor?",
+    "back": "Secures funding, provides strategic direction, removes barriers, and champions AI value to leadership.",
+    "original_term": "Executive Sponsor"
+  },
+  {
+    "id": "leading_managing_ai_036",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is the role of a Data Scientist?",
+    "back": "Designs, develops, and validates custom models, choosing algorithms and performing feature engineering.",
+    "original_term": "Data Scientist"
+  },
+  {
+    "id": "leading_managing_ai_037",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is a Minimum Viable Product (MVP)?",
+    "back": "A scope boundary used to deliver meaningful value quickly (often in weeks) rather than trying to solve everything at once.",
+    "original_term": "Minimum Viable Product (MVP)"
+  },
+  {
+    "id": "leading_managing_ai_038",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What are Circuit Breakers in AI?",
+    "back": "Safety mechanisms in agentic AI that monitor actions and automatically limit or halt operations when safety thresholds are exceeded.",
+    "original_term": "Circuit Breakers"
+  },
+  {
+    "id": "leading_managing_ai_039",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is a Hallucination in GenAI?",
+    "back": "Plausible but false content generated by GenAI systems.",
+    "original_term": "Hallucination"
+  },
+  {
+    "id": "leading_managing_ai_040",
+    "type": "definition",
+    "category": "AI_PROJECT_MANAGEMENT",
+    "front": "What is Model Operationalization?",
+    "back": "The process of transitioning validated AI models into fully integrated, production-ready systems.",
+    "original_term": "Model Operationalization"
   }
 ]

@@ -75,6 +75,7 @@ The application organizes PMP content into:
   - **AI Essentials Flashcards**: 45 terms from the AI Essentials for Project Professionals document (added manually curated content)
   - **Business Analysis Flashcards**: 62 terms from the Business Analysis for Practitioners: A Practice Guide - Second Edition (added manually curated content)
   - **Leading AI Transformation Flashcards**: 49 terms from the Leading AI Transformation document (added manually curated content)
+  - **Leading and Managing AI Projects Flashcards**: 40 terms from the Leading and Managing AI Projects guide (added manually curated content)
 
 ## Development Commands
 - `npm install` - Install project dependencies
