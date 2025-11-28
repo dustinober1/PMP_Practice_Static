@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "generate:questions": "node scripts/generate-questions.mjs",
+    "validate:questions": "node scripts/validate-questions.mjs",
     "generate:flashcards:ai": "node scripts/generate-flashcards-ai.mjs",
     "generate:flashcards:merge": "node scripts/generate-flashcards-merge.mjs",
     "generate:flashcards:validate": "node scripts/validate-flashcards.mjs",

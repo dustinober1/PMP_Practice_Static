@@ -12,6 +12,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Build and dependency directories
 node_modules
 dist
 dist-ssr
@@ -28,11 +29,86 @@ dist-ssr
 *.sln
 *.sw?
 
+# Python related files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing and coverage
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
 # Data extraction temporary files
 data-extraction/
 references/
 plans/
+
+# AI/ML and model files
+*.pkl
+*.pickle
+*.model
+*.bin
+*.h5
+*.ckpt
+*.pth
+*.pt
+chroma_db/
+vector_db/
+embeddings/
+
+# State and temporary files
+*.tmp
+*.temp
+*.cache
+*.state.json
+.flashcard-generation-state.json
+
+# MCP configuration (may contain sensitive data)
+.mcp.json
+
+# Claude AI workspace files
 .claude/
 .agent/
 
+# Local development
 data/txt/
+*.local.json
+settings.local.json
+
+# Prompts directory (contains generation prompts)
+prompts/

@@ -7,9 +7,7 @@ const loaders = {
   processes: () => import('../data/processes.json'),
   knowledgeAreas: () => import('../data/knowledge_areas.json'),
   questions: () => import('../data/questions.json'),
-  flashcardsPeople: () => import('../data/flashcards/people.json'),
-  flashcardsProcess: () => import('../data/flashcards/process.json'),
-  flashcardsBusiness: () => import('../data/flashcards/business.json')
+  flashcards: () => import('../data/flashcards.json')
 }
 
 const cache = {}
@@ -27,19 +25,6 @@ export const loadStaticData = async () => {
     Object.keys(loaders).map(async (key) => [key, await loadEntry(key)])
   )
   const data = Object.fromEntries(entries)
-
-  // Merge flashcard data from three files into single array
-  const flashcards = [
-    ...(data.flashcardsPeople || []),
-    ...(data.flashcardsProcess || []),
-    ...(data.flashcardsBusiness || [])
-  ]
-
-  // Add merged flashcards to data, remove individual files
-  data.flashcards = flashcards
-  delete data.flashcardsPeople
-  delete data.flashcardsProcess
-  delete data.flashcardsBusiness
 
   return data
 }
