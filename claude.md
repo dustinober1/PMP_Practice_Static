@@ -41,6 +41,18 @@ npm run generate:flashcards:merge      # Merge generated flashcards
 npm run format:definitions            # Format extracted definitions
 ```
 
+### CSV Export Management
+```bash
+# For large flashcard datasets (200+ cards), export by enabler to avoid context window limitations
+# Each enabler gets separate CSV file with 50 cards maximum
+# Naming convention: people-{task}-enabler{number}-{description}.csv
+# Examples:
+# - people-1-enabler1-vision-foundation.csv
+# - people-1-enabler2-vision-communication.csv
+# - people-1-enabler3-vision-evolution.csv
+# - people-1-enabler4-vision-diagnostic.csv
+```
+
 ## Architecture & Key Patterns
 
 ### State Management

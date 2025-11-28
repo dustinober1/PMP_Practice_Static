@@ -112,3 +112,4 @@ settings.local.json
 
 # Prompts directory (contains generation prompts)
 prompts/
+chroma/
